@@ -1,0 +1,203 @@
+{
+  "gameId": "02cf92a0",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 8",
+  "homeTeam": "South West Slammers U18 Boys 1",
+  "awayTeam": "Cockburn Cougars U18 Boys 1",
+  "homeTeamId": "a575f98a",
+  "awayTeamId": "b8a7657b",
+  "venue": "Eaton Recreation Centre",
+  "time": "12:30:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 10,
+    "team": {
+      "id": "a575f98a",
+      "name": "South West Slammers U18 Boys 1"
+    },
+    "played": 7,
+    "won": 1,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 495,
+    "pointsAgainst": 603,
+    "percentage": 82.09,
+    "competitionPoints": 14
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "b8a7657b",
+      "name": "Cockburn Cougars U18 Boys 1"
+    },
+    "played": 6,
+    "won": 3,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 553,
+    "pointsAgainst": 555,
+    "percentage": 99.64,
+    "competitionPoints": 21
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 702,
+      "pointsAgainst": 466,
+      "percentage": 150.64,
+      "competitionPoints": 27
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 530,
+      "pointsAgainst": 491,
+      "percentage": 107.94,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 615,
+      "pointsAgainst": 614,
+      "percentage": 100.16,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 590,
+      "pointsAgainst": 608,
+      "percentage": 97.04,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 553,
+      "pointsAgainst": 555,
+      "percentage": 99.64,
+      "competitionPoints": 21
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 628,
+      "pointsAgainst": 639,
+      "percentage": 98.28,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 607,
+      "pointsAgainst": 629,
+      "percentage": 96.5,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 719,
+      "pointsAgainst": 714,
+      "percentage": 100.7,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 499,
+      "pointsAgainst": 619,
+      "percentage": 80.61,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 495,
+      "pointsAgainst": 603,
+      "percentage": 82.09,
+      "competitionPoints": 14
+    }
+  ],
+  "generatedAt": "2026-06-13T09:32:22.206067",
+  "aiBriefing": "This Round 8 U18 Boys Championship match features a significant ladder disparity that will shape the game's dynamics. Cockburn Cougars sit 5th with a 3-3 record and near-even percentage, making them a mid-table team still in contention for finals positioning. South West Slammers are anchored at 10th with just one win from six games and a poor percentage of 82.1%, indicating they've been losing by substantial margins. This mismatch creates a scenario where Cockburn will be expected to win comfortably, while the Slammers are likely playing for pride and development. The danger here is Cockburn potentially becoming complacent or frustrated if the Slammers exceed expectations, or conversely, the Slammers becoming discouraged and overly physical if the game gets away from them early.\n\nWithout specific player data or recent form details available, you'll need to establish control early and watch for typical mismatch dynamics. Be alert for signs of frustration from the Slammers if they fall behind quickly, particularly rough play in rebounding situations or frustration fouls when beaten defensively. Conversely, monitor Cockburn players for any tendency to showboat or engage in unnecessary contact if they build a comfortable lead. The home court advantage for the Slammers at Eaton Recreation Centre may give them extra motivation, so watch for overly aggressive defensive pressure or chippy play as they try to prove themselves against a superior opponent.\n\nYour primary management focus should be maintaining game flow while not allowing the contest to become physical or undisciplined regardless of the score margin. Set clear standards early on hand-checking, body contact on drives, and post play physicality. If the game becomes lopsided, watch for garbage-time intensity where losing players might lose composure or winning players might relax their discipline. Given the Slammers' poor percentage, they're accustomed to difficult situations, so manage any potential resignation or frustration professionally while ensuring Cockburn maintains proper sporting conduct throughout."
+}

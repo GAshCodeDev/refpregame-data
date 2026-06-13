@@ -1,0 +1,407 @@
+{
+  "gameId": "b713b0bc",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 8",
+  "homeTeam": "Perry Lakes Hawks U18 Boys 1",
+  "awayTeam": "Joondalup Wolves U18 Boys 1",
+  "homeTeamId": "a27c98b6",
+  "awayTeamId": "523e4f9f",
+  "venue": "Bendat Basketball Centre",
+  "time": "08:00:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 66,
+      "conceded": 109,
+      "won": false,
+      "margin": -43,
+      "gameId": "10426635"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 92,
+      "conceded": 114,
+      "won": false,
+      "margin": -22,
+      "gameId": "382befeb"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 97,
+      "conceded": 75,
+      "won": true,
+      "margin": 22,
+      "gameId": "f5aa2a1e"
+    },
+    {
+      "round": "Round 4",
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 85,
+      "conceded": 66,
+      "won": true,
+      "margin": 19,
+      "gameId": "a7f77300"
+    },
+    {
+      "round": "Round 3",
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 82,
+      "conceded": 86,
+      "won": false,
+      "margin": -4,
+      "gameId": "67f9da2f"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 111,
+      "conceded": 101,
+      "won": true,
+      "margin": 10,
+      "gameId": "d3aa3658"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 78,
+      "conceded": 74,
+      "won": true,
+      "margin": 4,
+      "gameId": "38bf7a76"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 85,
+      "conceded": 95,
+      "won": false,
+      "margin": -10,
+      "gameId": "f0f25bd9"
+    },
+    {
+      "round": "Round 4",
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 93,
+      "conceded": 86,
+      "won": true,
+      "margin": 7,
+      "gameId": "8bb8dc44"
+    },
+    {
+      "round": "Round 3",
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 82,
+      "conceded": 98,
+      "won": false,
+      "margin": -16,
+      "gameId": "ee4397a4"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Auston Wenham",
+      "number": "10",
+      "avgPoints": 14.0,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Tyson Portwine",
+      "number": "7",
+      "avgPoints": 13.4,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.6,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Hayden Miller",
+      "number": "9",
+      "avgPoints": 10.2,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Sam Gooch",
+      "number": "12",
+      "avgPoints": 10.2,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 3.8,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Mitchell Turner",
+      "number": "4",
+      "avgPoints": 9.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 5,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Owen Baker",
+      "number": "8",
+      "avgPoints": 17.8,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.4,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Joseph Lolham",
+      "number": "5",
+      "avgPoints": 15.6,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.6,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Rafael Viegas",
+      "number": "10",
+      "avgPoints": 15.4,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 0.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Aiden Jones",
+      "number": "6",
+      "avgPoints": 10.2,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Johk Atuer",
+      "number": "4",
+      "avgPoints": 10.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 4,
+      "tags": []
+    }
+  ],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "a27c98b6",
+      "name": "Perry Lakes Hawks U18 Boys 1"
+    },
+    "played": 7,
+    "won": 4,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 615,
+    "pointsAgainst": 614,
+    "percentage": 100.16,
+    "competitionPoints": 22
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "523e4f9f",
+      "name": "Joondalup Wolves U18 Boys 1"
+    },
+    "played": 7,
+    "won": 3,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 628,
+    "pointsAgainst": 639,
+    "percentage": 98.28,
+    "competitionPoints": 20
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 702,
+      "pointsAgainst": 466,
+      "percentage": 150.64,
+      "competitionPoints": 27
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 530,
+      "pointsAgainst": 491,
+      "percentage": 107.94,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 615,
+      "pointsAgainst": 614,
+      "percentage": 100.16,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 590,
+      "pointsAgainst": 608,
+      "percentage": 97.04,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 553,
+      "pointsAgainst": 555,
+      "percentage": 99.64,
+      "competitionPoints": 21
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 628,
+      "pointsAgainst": 639,
+      "percentage": 98.28,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 607,
+      "pointsAgainst": 629,
+      "percentage": 96.5,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 719,
+      "pointsAgainst": 714,
+      "percentage": 100.7,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 499,
+      "pointsAgainst": 619,
+      "percentage": 80.61,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 495,
+      "pointsAgainst": 603,
+      "percentage": 82.09,
+      "competitionPoints": 14
+    }
+  ],
+  "generatedAt": "2026-06-13T09:30:48.717766",
+  "aiBriefing": "This is a mid-table clash between two teams heading in opposite directions. Perry Lakes sits third but has dropped three of their last five and is coming off back-to-back blowout losses where they conceded 109 and 114 points, suggesting defensive breakdowns and possible frustration. Joondalup in sixth has won three of their last five and is averaging 90 points per game, including a high-scoring 111-101 win last round. The Hawks need to stop the slide at home in an early 8am tip-off, which can affect concentration and emotions, while the Wolves have momentum and will look to exploit Perry Lakes' defensive vulnerabilities. Expect the home team to come out with intensity to protect their ladder position, which could lead to overly aggressive play early.\n\nWatch Perry Lakes number 12 Sam Gooch very closely as he's averaging 3.8 fouls per game in just four appearances, indicating either poor discipline or overly physical defending. Joondalup's Owen Baker at number 8 is their leading scorer at 17.8 points but also commits 3.4 fouls per game, suggesting he plays physically on both ends. Perry Lakes number 7 Tyson Portwine at 2.6 fouls per game also bears monitoring. Rafael Viegas for Joondalup is getting to the line frequently at 4.4 free throws per game, so watch for illegal contact when he attacks the basket and be ready for players contesting his ability to draw fouls.\n\nGiven Perry Lakes' recent defensive struggles and Joondalup's scoring form, this has the potential to be a high-scoring affair that could get chippy. The Hawks may try to impose physicality early to disrupt the Wolves' rhythm, particularly against Viegas and Baker. The early start time combined with Perry Lakes' desperation to avoid a third straight loss means emotions could run high if the game stays close or if they fall behind early. Be alert for frustration fouls from the Hawks if Joondalup starts pulling away, and manage any extracurricular activity quickly to prevent escalation. Stay tight on hand-checking and body contact in transition given the likely fast pace."
+}

@@ -1,0 +1,203 @@
+{
+  "gameId": "d91b7aba",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 8",
+  "homeTeam": "Perth Redbacks U18 Boys 1",
+  "awayTeam": "Willetton Tigers U18 Boys 1",
+  "homeTeamId": "51b4a13e",
+  "awayTeamId": "27e2c102",
+  "venue": "Leisurelife Centre",
+  "time": "11:15:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 8,
+    "team": {
+      "id": "51b4a13e",
+      "name": "Perth Redbacks U18 Boys 1"
+    },
+    "played": 7,
+    "won": 3,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 719,
+    "pointsAgainst": 714,
+    "percentage": 100.7,
+    "competitionPoints": 20
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "27e2c102",
+      "name": "Willetton Tigers U18 Boys 1"
+    },
+    "played": 7,
+    "won": 4,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 590,
+    "pointsAgainst": 608,
+    "percentage": 97.04,
+    "competitionPoints": 22
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 6,
+      "won": 6,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 702,
+      "pointsAgainst": 466,
+      "percentage": 150.64,
+      "competitionPoints": 27
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 530,
+      "pointsAgainst": 491,
+      "percentage": 107.94,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 615,
+      "pointsAgainst": 614,
+      "percentage": 100.16,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 590,
+      "pointsAgainst": 608,
+      "percentage": 97.04,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 553,
+      "pointsAgainst": 555,
+      "percentage": 99.64,
+      "competitionPoints": 21
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 628,
+      "pointsAgainst": 639,
+      "percentage": 98.28,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 607,
+      "pointsAgainst": 629,
+      "percentage": 96.5,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 719,
+      "pointsAgainst": 714,
+      "percentage": 100.7,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 499,
+      "pointsAgainst": 619,
+      "percentage": 80.61,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 7,
+      "won": 1,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 495,
+      "pointsAgainst": 603,
+      "percentage": 82.09,
+      "competitionPoints": 14
+    }
+  ],
+  "generatedAt": "2026-06-13T09:31:45.650033",
+  "aiBriefing": "**PRE-GAME BRIEFING**\n\nThis is a Round 8 U18 Boys Championship match with moderate stakes. Willetton Tigers sit 4th with a 4-3 record and will be looking to consolidate their top-half position, while Perth Redbacks are 8th at 3-4 and need wins to avoid sliding further down the ladder. The ladder gap creates a dynamic where the home team may feel pressure to perform and prove themselves against a higher-ranked opponent, while Willetton will expect to win and maintain their positioning. Perth's slightly better percentage (100.7% vs 97.0%) suggests recent games have been competitive, so don't expect a blowout mentality from either side.\n\nWithout specific player data or recent form history available, focus on standard U18 championship management priorities. Expect competitive intensity from the opening tip given the ladder implications. Perth playing at home may come out aggressively to establish themselves early against the higher-ranked visitors. Watch for physical play in the post and on rebounds as both teams try to control pace. The 11:15 morning timeslot can sometimes mean slower starts, but championship-level U18 teams typically bring consistent energy regardless.\n\nKey management areas will be establishing your presence early on physical play and setting clear standards on hand-checking and post defense. Monitor both benches for frustration if the game becomes one-sided, particularly if Perth falls behind at home or if Willetton feels they're not getting calls against a lower-ranked opponent. With limited historical data available, stay alert for emerging patterns in the first quarter and adjust your focus accordingly on any players who show temperament issues or consistently aggressive play styles."
+}
