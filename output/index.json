@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T10:25:11.787501",
+  "generatedAt": "2026-06-13T11:52:48.288701",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -261,6 +261,58 @@
       "date": "2026-06-14",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_02cf92a0.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "e59b8c7d",
+      "gradeName": "U20 Boys Championship",
+      "roundName": "Round 8",
+      "homeTeam": "Rockingham Flames U20 Boys 1",
+      "awayTeam": "Mandurah Magic U20 Boys Red",
+      "venue": "Mike Barnett Sports Complex",
+      "time": "10:45:00",
+      "date": "2026-06-14",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_e59b8c7d.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "138d3abd",
+      "gradeName": "U20 Boys Championship",
+      "roundName": "Round 8",
+      "homeTeam": "East Perth Eagles U20 Boys 1",
+      "awayTeam": "Cockburn Cougars U20 Boys 1",
+      "venue": "Morley Sport and Recreation Centre",
+      "time": "11:30:00",
+      "date": "2026-06-14",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_138d3abd.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "81963762",
+      "gradeName": "U20 Boys Championship",
+      "roundName": "Round 8",
+      "homeTeam": "Perry Lakes Hawks U20 Boys 1",
+      "awayTeam": "Lakeside Lightning U20 Boys 1",
+      "venue": "Bendat Basketball Centre",
+      "time": "13:15:00",
+      "date": "2026-06-14",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_81963762.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "180f1b61",
+      "gradeName": "U20 Boys Championship",
+      "roundName": "Round 8",
+      "homeTeam": "Warwick Senators U20 Boys 1",
+      "awayTeam": "Willetton Tigers U20 Boys",
+      "venue": "Warwick Stadium",
+      "time": "15:00:00",
+      "date": "2026-06-14",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_180f1b61.json",
       "hasAIBriefing": true
     }
   ]
