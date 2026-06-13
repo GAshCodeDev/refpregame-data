@@ -168,11 +168,11 @@
     {
       "name": "Keegan Schrick",
       "number": "14",
-      "avgPoints": 21.4,
+      "avgPoints": 20.5,
       "avgThrees": 0.8,
-      "avgFreeThrows": 2.6,
+      "avgFreeThrows": 2.2,
       "avgFouls": 2.2,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 4,
       "tags": []
     },
     {
@@ -193,24 +193,12 @@
       "number": "4",
       "avgPoints": 16.0,
       "avgThrees": 2.0,
-      "avgFreeThrows": 4.0,
-      "avgFouls": 2.2,
-      "gamesAnalysed": 4,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 3,
       "tags": [
         "Outside threat",
         "Frequent free throws"
-      ]
-    },
-    {
-      "name": "Jarrod Hodge",
-      "number": "12",
-      "avgPoints": 15.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 3.0,
-      "gamesAnalysed": 1,
-      "tags": [
-        "Physical player"
       ]
     },
     {
@@ -224,6 +212,16 @@
       "tags": [
         "Outside threat"
       ]
+    },
+    {
+      "name": "Tariq Muturi",
+      "number": "21",
+      "avgPoints": 13.8,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 4,
+      "tags": []
     }
   ],
   "homeLadder": {
@@ -484,6 +482,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T09:11:37.033366",
-  "aiBriefing": "This is a significant mismatch on paper with third-placed Joondalup traveling to face bottom-dwelling Geraldton at home. The Wolves are in strong form averaging 97 points with a plus-7 differential, while the Buccaneers are struggling badly at 1-6, averaging just 77 points and conceding 97. Joondalup will be looking to protect their top-four position while Geraldton desperately needs a home win to salvage their season. This dynamic creates risk of frustration fouls from the home team if they fall behind early, and potential complacency from the visitors if they build a comfortable lead.\n\nWatch Ben Geel closely for Joondalup - he's averaging an extremely high 5.0 fouls per game across limited appearances, suggesting aggressive interior play that needs tight monitoring. His 5.5 free throw attempts indicate he's attacking the basket physically. For Geraldton, William Galvin stands out with 3.7 fouls per game, indicating he may struggle defending without fouling, particularly if matched against Joondalup's skilled scorers. Levi Owen draws 3.0 free throws per game for the home team and will likely try to create contact given their offensive struggles. Schrick, Gleeson, and Geel all get to the line frequently for the Wolves, so expect significant free throw differential if Geraldton gets desperate on defense.\n\nThe foul counts suggest this could get physical, especially in the paint where Joondalup will look to dominate. Geraldton's recent 54-108 blowout loss shows they can completely collapse under pressure, which may lead to frustration and retaliation if Joondalup runs away with it. Conversely, if Geraldton somehow stays competitive early at home, Joondalup players may respond with overly aggressive play to assert control. Manage the physicality early and watch for any chippy behavior if the score becomes lopsided either way. The expected high-scoring pace from Joondalup combined with Geraldton's defensive struggles suggests 90-plus possessions with frequent transition play requiring strong hustle positioning and clear communication on block-charge situations."
+  "generatedAt": "2026-06-13T10:01:43.683920",
+  "aiBriefing": "This is a significant mismatch between third-placed Joondalup (8-2) and second-from-bottom Geraldton (1-6), with the Wolves averaging 20 points more per game and boasting superior form. Joondalup is chasing a top-four finish and will want to protect their percentage, while Geraldton is struggling defensively and coming off heavy losses including a 54-point blowout in Round 9. Expect Joondalup to push tempo and look to score heavily, which could lead to frustration from the home side if the margin blows out. This has the potential to become one-sided quickly, which often creates chippy play and discipline issues from the losing team.\n\nWatch Ben Geel closely for Joondalup as he fouls at an alarming 5.0 per game rate despite limited sample size, suggesting very aggressive interior play. He also gets to the line frequently with 5.5 free throw attempts per game, so expect significant contact in the paint. For Geraldton, William Galvin is fouling at 3.7 per game over three appearances, indicating physical play that may escalate if his team falls behind. Levi Owen leads the Buccaneers in scoring and draws contact regularly with 3.0 free throws per game, so watch for potential mismatches when he attacks. Keegan Schrick and Taj Gleeson are Joondalup's primary scorers and both draw fouls consistently.\n\nThe key management concern is frustration from Geraldton if this becomes a blowout, particularly given their recent 54-point loss is fresh in memory. Their poor defensive record suggests they'll struggle to contain Joondalup's balanced attack, and trailing badly at home could lead to overly physical defense or emotional reactions. Monitor the game closely in the second and third quarters when momentum shifts typically occur. Be prepared to manage any retaliatory fouls or chippy exchanges if Geraldton players become frustrated. Conversely, if Joondalup builds a big lead, watch for potential showboating or unnecessary contact that could spark tensions.\n\nExpect a high-scoring game given Joondalup's offensive output and Geraldton's defensive struggles. The Wolves average 97 points and just dropped 110 last round, while the Buccaneers concede 97 per game. Set clear physical boundaries early, particularly in the paint where Geel operates, and maintain consistent contact standards throughout to prevent the game deteriorating if it becomes lopsided. Communication with both benches will be important if frustration builds."
 }
