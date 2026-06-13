@@ -1,0 +1,337 @@
+{
+  "gameId": "ae6d8006",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 12",
+  "homeTeam": "Perry Lakes Hawks Open Women",
+  "awayTeam": "Mandurah Magic Open Women",
+  "homeTeamId": "c2a9f291",
+  "awayTeamId": "df0576c9",
+  "venue": "Bendat Basketball Centre",
+  "time": "13:15:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "opponent": "South West Slammers Open Women",
+      "scored": 79,
+      "conceded": 56,
+      "won": true,
+      "margin": 23,
+      "gameId": "83709f43"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 82,
+      "conceded": 62,
+      "won": true,
+      "margin": 20,
+      "gameId": "22e6d070"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "East Perth Eagles Open Women",
+      "scored": 83,
+      "conceded": 56,
+      "won": true,
+      "margin": 27,
+      "gameId": "ba79a14d"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Hills Raiders Open Women",
+      "scored": 93,
+      "conceded": 73,
+      "won": true,
+      "margin": 20,
+      "gameId": "7663977f"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Eastern Suns Open Women",
+      "scored": 67,
+      "conceded": 62,
+      "won": true,
+      "margin": 5,
+      "gameId": "9b488f05"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 64,
+      "conceded": 56,
+      "won": true,
+      "margin": 8,
+      "gameId": "ad464883"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Warwick Senators Open Women",
+      "scored": 68,
+      "conceded": 91,
+      "won": false,
+      "margin": -23,
+      "gameId": "c3f30157"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 89,
+      "conceded": 87,
+      "won": true,
+      "margin": 2,
+      "gameId": "694f111c"
+    }
+  ],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "c2a9f291",
+      "name": "Perry Lakes Hawks Open Women"
+    },
+    "played": 10,
+    "won": 6,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 727,
+    "pointsAgainst": 701,
+    "percentage": 103.71,
+    "competitionPoints": 12
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "df0576c9",
+      "name": "Mandurah Magic Open Women"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 600,
+    "pointsAgainst": 655,
+    "percentage": 91.6,
+    "competitionPoints": 10
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 433,
+      "percentage": 159.58,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 680,
+      "pointsAgainst": 508,
+      "percentage": 133.86,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 727,
+      "pointsAgainst": 701,
+      "percentage": 103.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 644,
+      "pointsAgainst": 619,
+      "percentage": 104.04,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 674,
+      "pointsAgainst": 599,
+      "percentage": 112.52,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 759,
+      "pointsAgainst": 710,
+      "percentage": 106.9,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 600,
+      "pointsAgainst": 655,
+      "percentage": 91.6,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 673,
+      "pointsAgainst": 592,
+      "percentage": 113.68,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 610,
+      "pointsAgainst": 627,
+      "percentage": 97.29,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 733,
+      "percentage": 81.58,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 652,
+      "pointsAgainst": 664,
+      "percentage": 98.19,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 643,
+      "percentage": 93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 472,
+      "pointsAgainst": 734,
+      "percentage": 64.31,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 379,
+      "pointsAgainst": 539,
+      "percentage": 70.32,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:20:08.927573",
+  "aiBriefing": "This is a significant mid-table clash with Perry Lakes Hawks sitting 3rd and riding a five-game winning streak, while Mandurah Magic in 7th are looking to build momentum after an inconsistent recent stretch. Perry Lakes are in dominant form, averaging 81 points while holding opponents to just 62 during their streak, suggesting they control tempo and play solid defense. Mandurah has shown they can compete in tight games, with two of their last three decided by single digits, but they're also vulnerable to blowouts as seen in the 23-point loss to Warwick. This game matters for Perry Lakes to maintain their top-four position and for Mandurah to stay in touch with the middle of the pack.\n\nPerry Lakes' recent margins of 20-plus points in four of five games indicate they can pull away from opponents, which may lead to frustration from Mandurah if the game follows that pattern. Watch for physical play and potential chippy behavior if Mandurah falls behind by double digits, particularly in the second and third quarters when Perry Lakes have been building their leads. The Hawks' defensive intensity that's holding teams to 62 points per game will likely create contact in the paint and on drives, so be prepared to establish early standards on hand-checking and body positioning.\n\nMandurah has shown resilience in close games, winning two nail-biters by 8 and 2 points recently, which suggests they won't quit if this stays competitive. However, their defensive inconsistency, conceding an average of 78 points while only scoring 74, means they may try to speed up the pace or increase defensive pressure to disrupt Perry Lakes' rhythm. Monitor for reaching fouls and over-aggressive trapping if Mandurah gets desperate. The contrast between Perry Lakes' comfortable victories and Mandurah's tight games suggests different pressure tolerance levels. If this becomes a grind-it-out contest, expect Mandurah to be more comfortable than if Perry Lakes impose their will early and create separation."
+}

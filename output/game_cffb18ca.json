@@ -1,0 +1,263 @@
+{
+  "gameId": "cffb18ca",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 12",
+  "homeTeam": "South West Slammers Open Women",
+  "awayTeam": "Eastern Suns Open Women",
+  "homeTeamId": "0c03bb8b",
+  "awayTeamId": "e3c6519d",
+  "venue": "Eaton Recreation Centre",
+  "time": "14:15:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 14,
+    "team": {
+      "id": "0c03bb8b",
+      "name": "South West Slammers Open Women"
+    },
+    "played": 8,
+    "won": 1,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 379,
+    "pointsAgainst": 539,
+    "percentage": 70.32,
+    "competitionPoints": 2
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "e3c6519d",
+      "name": "Eastern Suns Open Women"
+    },
+    "played": 9,
+    "won": 6,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 644,
+    "pointsAgainst": 619,
+    "percentage": 104.04,
+    "competitionPoints": 12
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 433,
+      "percentage": 159.58,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 680,
+      "pointsAgainst": 508,
+      "percentage": 133.86,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 727,
+      "pointsAgainst": 701,
+      "percentage": 103.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 644,
+      "pointsAgainst": 619,
+      "percentage": 104.04,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 674,
+      "pointsAgainst": 599,
+      "percentage": 112.52,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 759,
+      "pointsAgainst": 710,
+      "percentage": 106.9,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 600,
+      "pointsAgainst": 655,
+      "percentage": 91.6,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 673,
+      "pointsAgainst": 592,
+      "percentage": 113.68,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 610,
+      "pointsAgainst": 627,
+      "percentage": 97.29,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 733,
+      "percentage": 81.58,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 652,
+      "pointsAgainst": 664,
+      "percentage": 98.19,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 643,
+      "percentage": 93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 472,
+      "pointsAgainst": 734,
+      "percentage": 64.31,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 379,
+      "pointsAgainst": 539,
+      "percentage": 70.32,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:20:48.453561",
+  "aiBriefing": "This is a significant mismatch on paper, with fourth-placed Eastern Suns facing bottom-placed South West Slammers in Round 12. The ladder positions tell a clear story: Eastern Suns at 6-3 with a 104.0% scoring ratio are in strong form and likely pushing for finals positioning, while the Slammers at 1-6 with 70.3% are struggling significantly. This creates a dynamic where the Suns will expect to dominate and may become frustrated if the game is closer than anticipated, while the Slammers have nothing to lose and may play with desperation to avoid another loss. The home court advantage at Eaton Recreation Centre could give the Slammers some energy early.\n\nWithout recent form data or key player information available, your focus should be on managing the competitive imbalance. Watch for the Suns potentially playing overly physical if they're not getting the easy win they expect, or conversely, losing focus and becoming sloppy with reaching fouls if they get a comfortable lead. For the Slammers, monitor for frustration fouls if they fall behind early, or alternatively, overly aggressive defensive play as they try to compensate for skill gaps with physicality. The first five minutes will be critical to set the tone and ensure neither team establishes poor habits.\n\nGiven the Slammers' poor record, expect them to potentially struggle with discipline in pressure moments, particularly in transition defense where they may commit reaching and blocking fouls trying to stop fast breaks. The Suns may look to push tempo and exploit this. Be particularly vigilant in the paint where a mismatched game often sees the weaker team resort to holding and bodying up to slow down superior opponents. Maintain consistent whistle control throughout to prevent the game from becoming unnecessarily physical, regardless of the score margin."
+}

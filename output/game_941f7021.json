@@ -1,0 +1,492 @@
+{
+  "gameId": "941f7021",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 12",
+  "homeTeam": "South West Slammers Open Men",
+  "awayTeam": "East Perth Eagles Open Men",
+  "homeTeamId": "7f7da657",
+  "awayTeamId": "f97426c2",
+  "venue": "Eaton Recreation Centre",
+  "time": "15:00:00",
+  "date": "2026-06-13",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 96,
+      "conceded": 86,
+      "won": true,
+      "margin": 10,
+      "gameId": "5e8017a7"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Hills Raiders Open Men",
+      "scored": 95,
+      "conceded": 85,
+      "won": true,
+      "margin": 10,
+      "gameId": "a96f0d69"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 71,
+      "conceded": 81,
+      "won": false,
+      "margin": -10,
+      "gameId": "d8b4dc1e"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 71,
+      "conceded": 107,
+      "won": false,
+      "margin": -36,
+      "gameId": "3b695daf"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 67,
+      "conceded": 98,
+      "won": false,
+      "margin": -31,
+      "gameId": "85dd3509"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 90,
+      "conceded": 93,
+      "won": false,
+      "margin": -3,
+      "gameId": "04e4eb43"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 124,
+      "conceded": 77,
+      "won": true,
+      "margin": 47,
+      "gameId": "1fda83b5"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 119,
+      "conceded": 102,
+      "won": true,
+      "margin": 17,
+      "gameId": "41df08fc"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Eastern Suns Open Men",
+      "scored": 92,
+      "conceded": 107,
+      "won": false,
+      "margin": -15,
+      "gameId": "bb238d45"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Geraldton Buccaneers Open Men",
+      "scored": 94,
+      "conceded": 67,
+      "won": true,
+      "margin": 27,
+      "gameId": "ba374eb7"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Gavin Deacon",
+      "number": "33",
+      "avgPoints": 19.5,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 2,
+      "tags": []
+    },
+    {
+      "name": "Rhys Barrett",
+      "number": "33",
+      "avgPoints": 19.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Harry Watters",
+      "number": "32",
+      "avgPoints": 17.2,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.6,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Art Harvey",
+      "number": "35",
+      "avgPoints": 13.4,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jordan Wayne",
+      "number": "27",
+      "avgPoints": 13.0,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "John Aryang",
+      "number": "25",
+      "avgPoints": 18.3,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Zakarayah Magdy",
+      "number": "13",
+      "avgPoints": 17.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Emmanuel Dech",
+      "number": "24",
+      "avgPoints": 17.2,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Mitch Benger",
+      "number": "2",
+      "avgPoints": 17.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.4,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Kai Kabugua",
+      "number": "9",
+      "avgPoints": 13.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Frequent free throws"
+      ]
+    }
+  ],
+  "homeLadder": {
+    "rank": 10,
+    "team": {
+      "id": "7f7da657",
+      "name": "South West Slammers Open Men"
+    },
+    "played": 9,
+    "won": 4,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 669,
+    "pointsAgainst": 668,
+    "percentage": 100.15,
+    "competitionPoints": 9
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "f97426c2",
+      "name": "East Perth Eagles Open Men"
+    },
+    "played": 10,
+    "won": 6,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 1000,
+    "pointsAgainst": 857,
+    "percentage": 116.69,
+    "competitionPoints": 12
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 881,
+      "percentage": 121.23,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 790,
+      "pointsAgainst": 635,
+      "percentage": 124.41,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 870,
+      "percentage": 112.18,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 722,
+      "pointsAgainst": 666,
+      "percentage": 108.41,
+      "competitionPoints": 13
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1000,
+      "pointsAgainst": 857,
+      "percentage": 116.69,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 857,
+      "pointsAgainst": 818,
+      "percentage": 104.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 949,
+      "pointsAgainst": 973,
+      "percentage": 97.53,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 834,
+      "pointsAgainst": 806,
+      "percentage": 103.47,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 961,
+      "pointsAgainst": 872,
+      "percentage": 110.21,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 669,
+      "pointsAgainst": 668,
+      "percentage": 100.15,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 773,
+      "percentage": 90.17,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 517,
+      "pointsAgainst": 662,
+      "percentage": 78.1,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 734,
+      "pointsAgainst": 923,
+      "percentage": 79.52,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 833,
+      "pointsAgainst": 946,
+      "percentage": 88.05,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 754,
+      "pointsAgainst": 1011,
+      "percentage": 74.58,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:11:03.546929",
+  "aiBriefing": "This is a critical matchup between two teams with contrasting form and motivations. East Perth sits comfortably in fifth and arrives as the stronger side, averaging 104 points per game with high-octane offense and coming off three wins in their last five despite a narrow three-point loss to top team Lakeside. South West is struggling in tenth place and desperately needs wins to stay relevant, having been blown out badly in Rounds 5 and 6 before finding some rhythm with back-to-back ten-point wins. The 15-point average scoring differential favors East Perth, but South West's recent resurgence suggests they'll compete hard at home, creating potential for frustration fouls and escalating physicality if the home side falls behind.\n\nWatch East Perth's Zakarayah Magdy closely as he commits 3.0 fouls per game, the highest rate among key players, combined with aggressive interior scoring that draws 3.0 free throws per game. His counterpart Mitch Benger at 2.4 fouls per game also requires monitoring. For South West, Gavin Deacon is their leading scorer but picks up 2.5 fouls per game despite minimal free throw attempts, suggesting he's playing physical defense or committing away-from-ball fouls. Jordan Wayne at 2.0 fouls per game needs watching as well. Note that both Deacon and Barrett share number 33, so verify jersey identification during pregame to avoid scoring errors.\n\nExpect a high-scoring affair given East Perth's offensive firepower and South West's defensive vulnerabilities that saw them concede 91 per game recently and over 100 in their blowout losses. East Perth gets to the free throw line frequently with multiple players averaging 3-5 attempts per game, particularly Kai Kabugua and Emmanuel Dech, indicating they attack the paint aggressively. This will test South West's discipline, and if they start reaching or playing desperate defense while trailing, foul count disparities could become a point of contention. Establish early paint protection standards and be consistent on drives to the basket to manage both coaches' expectations. If South West falls behind significantly as they did in Rounds 5 and 6, monitor for frustration and potential temperament issues from a team fighting to stay in playoff contention."
+}

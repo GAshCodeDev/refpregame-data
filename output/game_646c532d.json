@@ -1,0 +1,470 @@
+{
+  "gameId": "646c532d",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 12",
+  "homeTeam": "Goldfields Giants Open Women",
+  "awayTeam": "Warwick Senators Open Women",
+  "homeTeamId": "5fae0642",
+  "awayTeamId": "c0e9962c",
+  "venue": "Evolution Mining Stadium",
+  "time": "09:30:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 37,
+      "conceded": 111,
+      "won": false,
+      "margin": -74,
+      "gameId": "32b0240d"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Hills Raiders Open Women",
+      "scored": 55,
+      "conceded": 114,
+      "won": false,
+      "margin": -59,
+      "gameId": "209c982f"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 64,
+      "conceded": 113,
+      "won": false,
+      "margin": -49,
+      "gameId": "68575f53"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 70,
+      "conceded": 71,
+      "won": false,
+      "margin": -1,
+      "gameId": "b0873217"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 52,
+      "conceded": 89,
+      "won": false,
+      "margin": -37,
+      "gameId": "ebe57376"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 72,
+      "conceded": 62,
+      "won": true,
+      "margin": 10,
+      "gameId": "be7e6c2e"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 91,
+      "conceded": 68,
+      "won": true,
+      "margin": 23,
+      "gameId": "c3f30157"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Rockingham Flames Open Women",
+      "scored": 85,
+      "conceded": 35,
+      "won": true,
+      "margin": 50,
+      "gameId": "ae9f9db9"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 59,
+      "conceded": 67,
+      "won": false,
+      "margin": -8,
+      "gameId": "5f53a68d"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 62,
+      "conceded": 59,
+      "won": true,
+      "margin": 3,
+      "gameId": "401f4a1a"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Chloe Zorzi",
+      "number": "7",
+      "avgPoints": 25.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 6.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Kornelia Bukowczan",
+      "number": "45",
+      "avgPoints": 24.3,
+      "avgThrees": 4.3,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Leah Hutchinson",
+      "number": "8",
+      "avgPoints": 10.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 0.7,
+      "gamesAnalysed": 3,
+      "tags": []
+    },
+    {
+      "name": "Sarah Tagliaferri",
+      "number": "4",
+      "avgPoints": 9.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 0.3,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Alexanda Clinch Hoycard",
+      "number": "5",
+      "avgPoints": 8.3,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Sian Grinceri",
+      "number": "4",
+      "avgPoints": 11.2,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Ashlee Monaghan",
+      "number": "0",
+      "avgPoints": 10.8,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.4,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Indy Rogers",
+      "number": "15",
+      "avgPoints": 9.2,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Isabella Andrew",
+      "number": "25",
+      "avgPoints": 9.0,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.2,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Katie Cummins",
+      "number": "20",
+      "avgPoints": 8.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 5,
+      "tags": []
+    }
+  ],
+  "homeLadder": {
+    "rank": 13,
+    "team": {
+      "id": "5fae0642",
+      "name": "Goldfields Giants Open Women"
+    },
+    "played": 8,
+    "won": 1,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 472,
+    "pointsAgainst": 734,
+    "percentage": 64.31,
+    "competitionPoints": 2
+  },
+  "awayLadder": {
+    "rank": 2,
+    "team": {
+      "id": "c0e9962c",
+      "name": "Warwick Senators Open Women"
+    },
+    "played": 9,
+    "won": 8,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 680,
+    "pointsAgainst": 508,
+    "percentage": 133.86,
+    "competitionPoints": 16
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 433,
+      "percentage": 159.58,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 680,
+      "pointsAgainst": 508,
+      "percentage": 133.86,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 727,
+      "pointsAgainst": 701,
+      "percentage": 103.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 644,
+      "pointsAgainst": 619,
+      "percentage": 104.04,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 674,
+      "pointsAgainst": 599,
+      "percentage": 112.52,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 759,
+      "pointsAgainst": 710,
+      "percentage": 106.9,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 600,
+      "pointsAgainst": 655,
+      "percentage": 91.6,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 673,
+      "pointsAgainst": 592,
+      "percentage": 113.68,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 610,
+      "pointsAgainst": 627,
+      "percentage": 97.29,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 733,
+      "percentage": 81.58,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 652,
+      "pointsAgainst": 664,
+      "percentage": 98.19,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 643,
+      "percentage": 93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 472,
+      "pointsAgainst": 734,
+      "percentage": 64.31,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 379,
+      "pointsAgainst": 539,
+      "percentage": 70.32,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:19:20.645934",
+  "aiBriefing": "This is a significant mismatch between second-placed Warwick Senators and bottom-placed Goldfields Giants at 9:30am. The Giants are winless in their last five games, averaging just 56 points while conceding 100, including three blowout losses by 49+ points. Warwick is 8-1 overall and averaging a healthy 16-point differential. The ladder positions and recent form suggest this could become lopsided quickly, which creates management challenges around maintaining competitive intensity and preventing frustration fouls from the home team if the margin blows out early.\n\nWatch Goldfields number 7 Chloe Zorzi and number 45 Kornelia Bukowczan closely as they carry the offensive load with 25 and 24 points per game respectively. Both shoot significant free throws (6 and 4 per game), meaning they'll be attacking and drawing contact. Zorzi commits 3 fouls per game and Bukowczan 2, but more concerning is number 5 Alexanda Clinch Hoycard at 3 fouls per game despite limited scoring, suggesting physical or frustrated play. For Warwick, watch the top four scorers who all commit between 2.4 and 2.8 fouls per game, particularly Grinceri, Cummins, and Monaghan. This foul rate across multiple players indicates Warwick plays physical defense, which could escalate if Goldfields becomes frustrated.\n\nThe primary risk is game management if this becomes a blowout like Goldfields' recent 74-point loss. Watch for frustration fouls and rough play from the Giants as the margin grows, particularly from their bench players who may lack discipline. The early 9:30am tipoff means players may start slow, so establish your presence early on physical play and be prepared to tighten the whistle if cheap fouls or chippy behavior emerges. Warwick will likely press and play aggressive defense given their scoring differential, so watch for reaching fouls and over-physical perimeter defense. If the game stays close unexpectedly, Warwick may press harder and their foul rates could increase under pressure, but the more likely scenario is managing a one-sided contest professionally."
+}

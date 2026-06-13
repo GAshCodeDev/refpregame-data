@@ -1,0 +1,263 @@
+{
+  "gameId": "be1254b3",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 12",
+  "homeTeam": "Cockburn Cougars Open Women",
+  "awayTeam": "Hills Raiders Open Women",
+  "homeTeamId": "e1b09dc1",
+  "awayTeamId": "a3ba0f8c",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "13:15:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "e1b09dc1",
+      "name": "Cockburn Cougars Open Women"
+    },
+    "played": 9,
+    "won": 9,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 691,
+    "pointsAgainst": 433,
+    "percentage": 159.58,
+    "competitionPoints": 18
+  },
+  "awayLadder": {
+    "rank": 11,
+    "team": {
+      "id": "a3ba0f8c",
+      "name": "Hills Raiders Open Women"
+    },
+    "played": 9,
+    "won": 3,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 652,
+    "pointsAgainst": 664,
+    "percentage": 98.19,
+    "competitionPoints": 6
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 433,
+      "percentage": 159.58,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 680,
+      "pointsAgainst": 508,
+      "percentage": 133.86,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 727,
+      "pointsAgainst": 701,
+      "percentage": 103.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 644,
+      "pointsAgainst": 619,
+      "percentage": 104.04,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 674,
+      "pointsAgainst": 599,
+      "percentage": 112.52,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 759,
+      "pointsAgainst": 710,
+      "percentage": 106.9,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 600,
+      "pointsAgainst": 655,
+      "percentage": 91.6,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 673,
+      "pointsAgainst": 592,
+      "percentage": 113.68,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 610,
+      "pointsAgainst": 627,
+      "percentage": 97.29,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 733,
+      "percentage": 81.58,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 652,
+      "pointsAgainst": 664,
+      "percentage": 98.19,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 643,
+      "percentage": 93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 472,
+      "pointsAgainst": 734,
+      "percentage": 64.31,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 379,
+      "pointsAgainst": 539,
+      "percentage": 70.32,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:20:29.731287",
+  "aiBriefing": "This Round 12 matchup features a significant ladder disparity with undefeated league leaders Cockburn Cougars hosting bottom-four Hills Raiders at Wally Hagan Stadium. The Cougars sit first with a perfect 9-0 record and strong percentage, while the Raiders are struggling at 11th with a 3-6 record and below-par percentage. This creates a classic trap game scenario where the home team may expect an easy win while the visitors have nothing to lose and everything to prove. The competitive imbalance suggests potential for frustration from the losing side as the game progresses, particularly if Cockburn builds an early lead.\n\nWithout historical form data or specific player information available, your primary management focus should center on the competitive gap itself. Monitor for effort-level discrepancies that often emerge in mismatched contests, including potential rough play from a frustrated trailing team or complacency from a dominant leader. The early minutes will be critical to establish standards for physicality and set the tone for how contact will be called throughout the game.\n\nWatch for Hills attempting to disrupt Cockburn's rhythm through aggressive pressure defense or physical post play, which may be their only path to competitiveness. Conversely, if Cockburn builds a substantial lead, monitor for potential sportsmanship issues in either direction, including excessive celebrations or frustrated reactions to calls. Given the margin between these teams, maintaining game flow and player safety becomes paramount, especially if the contest becomes one-sided. Stay alert for any emerging player confrontations that could escalate as competitive frustration mounts."
+}

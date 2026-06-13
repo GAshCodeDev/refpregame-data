@@ -1,0 +1,278 @@
+{
+  "gameId": "e8b590e9",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 12",
+  "homeTeam": "Willetton Tigers Open Men",
+  "awayTeam": "Lakeside Lightning Open Men",
+  "homeTeamId": "71311462",
+  "awayTeamId": "40c147e2",
+  "venue": "Willetton Basketball Stadium",
+  "time": "13:00:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 2,
+    "team": {
+      "id": "71311462",
+      "name": "Willetton Tigers Open Men"
+    },
+    "played": 9,
+    "won": 8,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 790,
+    "pointsAgainst": 635,
+    "percentage": 124.41,
+    "competitionPoints": 16
+  },
+  "awayLadder": {
+    "rank": 1,
+    "team": {
+      "id": "40c147e2",
+      "name": "Lakeside Lightning Open Men"
+    },
+    "played": 11,
+    "won": 9,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 1068,
+    "pointsAgainst": 881,
+    "percentage": 121.23,
+    "competitionPoints": 18
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 881,
+      "percentage": 121.23,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 790,
+      "pointsAgainst": 635,
+      "percentage": 124.41,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 870,
+      "percentage": 112.18,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 722,
+      "pointsAgainst": 666,
+      "percentage": 108.41,
+      "competitionPoints": 13
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1000,
+      "pointsAgainst": 857,
+      "percentage": 116.69,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 857,
+      "pointsAgainst": 818,
+      "percentage": 104.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 949,
+      "pointsAgainst": 973,
+      "percentage": 97.53,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 834,
+      "pointsAgainst": 806,
+      "percentage": 103.47,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 961,
+      "pointsAgainst": 872,
+      "percentage": 110.21,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 669,
+      "pointsAgainst": 668,
+      "percentage": 100.15,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 773,
+      "percentage": 90.17,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 517,
+      "pointsAgainst": 662,
+      "percentage": 78.1,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 734,
+      "pointsAgainst": 923,
+      "percentage": 79.52,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 833,
+      "pointsAgainst": 946,
+      "percentage": 88.05,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 754,
+      "pointsAgainst": 1011,
+      "percentage": 74.58,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:12:18.193128",
+  "aiBriefing": "This is a top-of-the-table clash between first and second with significant ladder implications. Lakeside Lightning sits in first place at 9-2 while Willetton Tigers is close behind in second at 8-1. Both teams have strong winning percentages above 120%, indicating they not only win but dominate their opponents. With Willetton having played fewer games and only one loss, they have the opportunity to potentially claim top spot with a win at home. This is exactly the type of high-stakes matchup where competitive intensity can quickly escalate, and both teams will be highly motivated given what's at stake in the championship race.\n\nWithout specific player data or recent form available, you'll need to establish your presence and officiating standard early in this game. Top teams at this level typically feature skilled players who know how to work the officials and will test boundaries throughout the contest. Pay close attention during the opening minutes to identify which players are the primary scorers and playmakers, as these individuals often draw the most contact and will be focal points for potential disputes. Also observe coaching temperaments early to gauge how much game management may be required from the bench areas.\n\nThe combination of ladder positions, home court advantage for Willetton, and the quality indicated by both teams' winning percentages suggests this will be an intense, competitive game with playoff-level atmosphere. Expect both teams to pressure defensively and compete physically for every possession. Be particularly vigilant during crucial moments in the fourth quarter and any close-game situations where frustration fouls or emotional reactions are more likely. Establish consistent strike zones for hand-checking and body contact early, communicate clearly with both benches, and maintain strong positioning throughout to ensure you're seeing plays completely before making calls in what should be a high-level contest."
+}

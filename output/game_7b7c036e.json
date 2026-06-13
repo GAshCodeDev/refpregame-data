@@ -1,0 +1,278 @@
+{
+  "gameId": "7b7c036e",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 12",
+  "homeTeam": "Perth Redbacks Open Men",
+  "awayTeam": "Rockingham Flames Open Men",
+  "homeTeamId": "4513e433",
+  "awayTeamId": "62b22846",
+  "venue": "Leisurelife Centre",
+  "time": "16:30:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 14,
+    "team": {
+      "id": "4513e433",
+      "name": "Perth Redbacks Open Men"
+    },
+    "played": 10,
+    "won": 1,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 833,
+    "pointsAgainst": 946,
+    "percentage": 88.05,
+    "competitionPoints": 2
+  },
+  "awayLadder": {
+    "rank": 11,
+    "team": {
+      "id": "62b22846",
+      "name": "Rockingham Flames Open Men"
+    },
+    "played": 9,
+    "won": 3,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 697,
+    "pointsAgainst": 773,
+    "percentage": 90.17,
+    "competitionPoints": 6
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 881,
+      "percentage": 121.23,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 790,
+      "pointsAgainst": 635,
+      "percentage": 124.41,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 870,
+      "percentage": 112.18,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 722,
+      "pointsAgainst": 666,
+      "percentage": 108.41,
+      "competitionPoints": 13
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1000,
+      "pointsAgainst": 857,
+      "percentage": 116.69,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 857,
+      "pointsAgainst": 818,
+      "percentage": 104.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 949,
+      "pointsAgainst": 973,
+      "percentage": 97.53,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 834,
+      "pointsAgainst": 806,
+      "percentage": 103.47,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 961,
+      "pointsAgainst": 872,
+      "percentage": 110.21,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 669,
+      "pointsAgainst": 668,
+      "percentage": 100.15,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 773,
+      "percentage": 90.17,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 517,
+      "pointsAgainst": 662,
+      "percentage": 78.1,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 734,
+      "pointsAgainst": 923,
+      "percentage": 79.52,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 833,
+      "pointsAgainst": 946,
+      "percentage": 88.05,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 754,
+      "pointsAgainst": 1011,
+      "percentage": 74.58,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:13:35.886506",
+  "aiBriefing": "**PRE-GAME BRIEFING**\n\nThis is a Round 12 TCD Open Championship Men's match between two teams in the bottom half of the ladder. Perth Redbacks sit 14th with just one win from ten games, while Rockingham Flames are 11th with a 3-5 record. Perth is in desperate need of a win to avoid finishing last, while Rockingham will want to consolidate their mid-table position and potentially push for a finals spot depending on the competition structure. The 2.2 percentage point difference suggests these teams play similarly competitive basketball despite their ladder gap. Expect Perth to come out with urgency given their dire season position, which could manifest as overly aggressive defense or frustration if they fall behind early.\n\nWithout recent form data or specific player statistics available, your officiating approach should focus on establishing standards early and consistently. Watch for potential mismatch exploitation and frustration fouls from Perth players if Rockingham establishes control. Given Perth's poor record, monitor for signs of player frustration or resignation that could lead to unnecessary physical play or verbal complaints. Conversely, watch that Rockingham doesn't become complacent or overly physical against a weaker opponent.\n\nBe prepared for an intensity mismatch where Perth may try to compensate for skill deficiencies with aggressive defense and physical play in the paint. Set clear boundaries early on hand-checking, body contact on drives, and post play physicality. The game could become chippy if Perth falls behind significantly, so manage emotions proactively through communication. Given the 4:30pm timeslot at a community venue, expect a moderate crowd but be alert to bench reactions from Perth's coaching staff if they feel calls aren't going their way given their season frustrations."
+}

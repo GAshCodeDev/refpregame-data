@@ -1,0 +1,278 @@
+{
+  "gameId": "5c1501c6",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 12",
+  "homeTeam": "South West Slammers Open Men",
+  "awayTeam": "Eastern Suns Open Men",
+  "homeTeamId": "7f7da657",
+  "awayTeamId": "89351f76",
+  "venue": "Eaton Recreation Centre",
+  "time": "16:00:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 10,
+    "team": {
+      "id": "7f7da657",
+      "name": "South West Slammers Open Men"
+    },
+    "played": 9,
+    "won": 4,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 669,
+    "pointsAgainst": 668,
+    "percentage": 100.15,
+    "competitionPoints": 9
+  },
+  "awayLadder": {
+    "rank": 8,
+    "team": {
+      "id": "89351f76",
+      "name": "Eastern Suns Open Men"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 834,
+    "pointsAgainst": 806,
+    "percentage": 103.47,
+    "competitionPoints": 10
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 881,
+      "percentage": 121.23,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 790,
+      "pointsAgainst": 635,
+      "percentage": 124.41,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 870,
+      "percentage": 112.18,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 722,
+      "pointsAgainst": 666,
+      "percentage": 108.41,
+      "competitionPoints": 13
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1000,
+      "pointsAgainst": 857,
+      "percentage": 116.69,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 857,
+      "pointsAgainst": 818,
+      "percentage": 104.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 949,
+      "pointsAgainst": 973,
+      "percentage": 97.53,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 834,
+      "pointsAgainst": 806,
+      "percentage": 103.47,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 961,
+      "pointsAgainst": 872,
+      "percentage": 110.21,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 669,
+      "pointsAgainst": 668,
+      "percentage": 100.15,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 773,
+      "percentage": 90.17,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 517,
+      "pointsAgainst": 662,
+      "percentage": 78.1,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 734,
+      "pointsAgainst": 923,
+      "percentage": 79.52,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 833,
+      "pointsAgainst": 946,
+      "percentage": 88.05,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 754,
+      "pointsAgainst": 1011,
+      "percentage": 74.58,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:13:16.255167",
+  "aiBriefing": "**PRE-GAME BRIEFING**\n\nThis is a mid-table clash between two evenly matched teams with Eastern Suns sitting 8th (5-4) and South West Slammers 10th (4-4), separated by just one win. Both teams have identical percentage ratings near 100%, indicating close games throughout their seasons. With the league past the halfway mark at Round 12, this becomes a crucial game for both teams' finals positioning. Expect competitive intensity as neither team can afford to drop winnable games at this stage of the season. The tight ladder positions and even records suggest this will be a contested match where both teams have genuine belief they can win.\n\nWithout recent form data or key player information available, you'll need to establish your presence early and set clear standards for physicality from the opening tip. Pay close attention to the first few minutes to identify which players are the primary scorers and facilitators, as well as any emerging rivalries or physical matchups. Watch for frustration fouls, particularly if one team gets out to an early lead, as teams in this ladder position often struggle with composure when facing deficits in important games.\n\nGiven the absence of historical data, focus on game management fundamentals: monitor post play closely for holding and illegal screens, watch for secondary defenders sliding late into charges, and be alert for defensive three-second violations if teams pack the paint. The 4pm timeslot suggests this may be part of a double-header day, so ensure you're managing pace appropriately without letting fatigue affect your positioning. Establish clear communication with both benches early regarding substitution procedures and maintain consistent strike zones on shooting fouls to prevent coaches questioning calls late in close games."
+}

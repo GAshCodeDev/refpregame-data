@@ -1,0 +1,278 @@
+{
+  "gameId": "4b6a417a",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 12",
+  "homeTeam": "Goldfields Giants Open Men",
+  "awayTeam": "Warwick Senators Open Men",
+  "homeTeamId": "15229133",
+  "awayTeamId": "e1b87db3",
+  "venue": "Evolution Mining Stadium",
+  "time": "11:15:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 13,
+    "team": {
+      "id": "15229133",
+      "name": "Goldfields Giants Open Men"
+    },
+    "played": 10,
+    "won": 1,
+    "lost": 8,
+    "drawn": 0,
+    "pointsFor": 734,
+    "pointsAgainst": 923,
+    "percentage": 79.52,
+    "competitionPoints": 3
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "e1b87db3",
+      "name": "Warwick Senators Open Men"
+    },
+    "played": 9,
+    "won": 6,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 857,
+    "pointsAgainst": 818,
+    "percentage": 104.77,
+    "competitionPoints": 12
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 881,
+      "percentage": 121.23,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 790,
+      "pointsAgainst": 635,
+      "percentage": 124.41,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 870,
+      "percentage": 112.18,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 722,
+      "pointsAgainst": 666,
+      "percentage": 108.41,
+      "competitionPoints": 13
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1000,
+      "pointsAgainst": 857,
+      "percentage": 116.69,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 857,
+      "pointsAgainst": 818,
+      "percentage": 104.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 949,
+      "pointsAgainst": 973,
+      "percentage": 97.53,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 834,
+      "pointsAgainst": 806,
+      "percentage": 103.47,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 961,
+      "pointsAgainst": 872,
+      "percentage": 110.21,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 669,
+      "pointsAgainst": 668,
+      "percentage": 100.15,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 773,
+      "percentage": 90.17,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 517,
+      "pointsAgainst": 662,
+      "percentage": 78.1,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 734,
+      "pointsAgainst": 923,
+      "percentage": 79.52,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 833,
+      "pointsAgainst": 946,
+      "percentage": 88.05,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 754,
+      "pointsAgainst": 1011,
+      "percentage": 74.58,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:11:58.843184",
+  "aiBriefing": "This is a significant mismatch on paper with the sixth-placed Warwick Senators heavily favored against the second-from-bottom Goldfields Giants. The Senators are in contention for finals positioning at 6-3, while the Giants are struggling badly at 1-8 with a poor percentage. This disparity creates two primary concerns: the Giants may come out aggressively trying to prove themselves on their home court at Evolution Mining Stadium, or alternatively, the game could blow out if Warwick dominates, potentially leading to frustration fouls and chippy play in garbage time.\n\nWithout recent form data or identified key players for either team, you'll need to establish control early and watch for patterns as they develop. Pay particular attention to how the Giants respond if they fall behind quickly, as desperation from a struggling team can manifest in overly physical defense or emotional reactions. Conversely, if Warwick builds a comfortable lead, monitor for any showboating or unnecessary contact that could spark confrontation. The home crowd factor at Evolution Mining Stadium may also amplify any perceived missed calls, so clear communication and consistent enforcement will be essential.\n\nThe most likely scenario is a physical contest early as the Giants try to disrupt Warwick's rhythm, potentially followed by increased intensity from the Senators if they're unexpectedly challenged. Given the ladder positions, Warwick should have superior depth and skill, but underestimating opponents can lead to sloppy, undisciplined play. Focus on establishing your presence in the first quarter, calling the game tight enough to prevent escalation but allowing appropriate physicality. Watch for any individual matchups that become particularly heated and address them proactively before they become problems."
+}

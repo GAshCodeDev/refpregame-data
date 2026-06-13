@@ -1,0 +1,263 @@
+{
+  "gameId": "f7c15f10",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 12",
+  "homeTeam": "Willetton Tigers Open Women",
+  "awayTeam": "Lakeside Lightning Open Women",
+  "homeTeamId": "4711ee17",
+  "awayTeamId": "d1e95111",
+  "venue": "Willetton Basketball Stadium",
+  "time": "11:00:00",
+  "date": "2026-06-14",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [],
+  "awayForm": [],
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "homeLadder": {
+    "rank": 5,
+    "team": {
+      "id": "4711ee17",
+      "name": "Willetton Tigers Open Women"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 674,
+    "pointsAgainst": 599,
+    "percentage": 112.52,
+    "competitionPoints": 10
+  },
+  "awayLadder": {
+    "rank": 8,
+    "team": {
+      "id": "d1e95111",
+      "name": "Lakeside Lightning Open Women"
+    },
+    "played": 9,
+    "won": 4,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 673,
+    "pointsAgainst": 592,
+    "percentage": 113.68,
+    "competitionPoints": 8
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 433,
+      "percentage": 159.58,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 9,
+      "won": 8,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 680,
+      "pointsAgainst": 508,
+      "percentage": 133.86,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 727,
+      "pointsAgainst": 701,
+      "percentage": 103.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 644,
+      "pointsAgainst": 619,
+      "percentage": 104.04,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 674,
+      "pointsAgainst": 599,
+      "percentage": 112.52,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 759,
+      "pointsAgainst": 710,
+      "percentage": 106.9,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 600,
+      "pointsAgainst": 655,
+      "percentage": 91.6,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 673,
+      "pointsAgainst": 592,
+      "percentage": 113.68,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 610,
+      "pointsAgainst": 627,
+      "percentage": 97.29,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 733,
+      "percentage": 81.58,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 652,
+      "pointsAgainst": 664,
+      "percentage": 98.19,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 598,
+      "pointsAgainst": 643,
+      "percentage": 93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 472,
+      "pointsAgainst": 734,
+      "percentage": 64.31,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 8,
+      "won": 1,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 379,
+      "pointsAgainst": 539,
+      "percentage": 70.32,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-13T09:19:43.736062",
+  "aiBriefing": "**PRE-GAME BRIEFING**\n\nThis is a mid-table clash between two evenly matched teams separated by only one position and one win on the ladder. Willetton sits 5th with a 5-4 record while Lakeside is 8th at 4-5, though their scoring percentages are nearly identical at 112-113%, suggesting both teams are competitive and games are typically close. With the season at Round 12, both teams are likely fighting for playoff positioning, meaning this game carries playoff implications and could be played with heightened intensity and competitiveness. Expect both coaches to be pushing hard for the result.\n\nWithout recent form data or key player information available, approach this game by establishing your presence early and setting a consistent standard for physicality. Given the even nature of these teams based on ladder position and percentages, anticipate a competitive game throughout all four quarters where neither team pulls away significantly. This type of scenario often leads to increased physical play in the paint and on rebounds as teams fight for every possession. Be particularly alert in transition defense where frustration fouls can occur when teams are evenly matched.\n\nPay close attention to the final five minutes if the game remains close, as this is when emotions and physical play typically escalate in meaningful mid-table matches. Monitor post play and rebounding situations closely for holding, pushing, and over-the-back infractions. Communicate early and often with both benches to manage any potential temperature rises, and ensure consistent enforcement of hand-checking and body contact on the perimeter. With limited data available, rely on your pre-game observation during warmups to identify any players showing particular intensity or any existing tensions between the teams from previous encounters."
+}
