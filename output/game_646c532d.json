@@ -170,55 +170,57 @@
   ],
   "awayKeyPlayers": [
     {
+      "name": "Ashlee Monaghan",
+      "number": "0",
+      "avgPoints": 12.2,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
       "name": "Sian Grinceri",
       "number": "4",
-      "avgPoints": 11.2,
+      "avgPoints": 12.0,
       "avgThrees": 2.0,
-      "avgFreeThrows": 1.6,
+      "avgFreeThrows": 1.5,
       "avgFouls": 2.8,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 4,
       "tags": [
         "Outside threat"
       ]
     },
     {
-      "name": "Ashlee Monaghan",
-      "number": "0",
-      "avgPoints": 10.8,
-      "avgThrees": 0.2,
-      "avgFreeThrows": 1.8,
-      "avgFouls": 2.4,
-      "gamesAnalysed": 5,
-      "tags": []
-    },
-    {
       "name": "Indy Rogers",
       "number": "15",
-      "avgPoints": 9.2,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 2.2,
-      "avgFouls": 2.5,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Isabella Andrew",
-      "number": "25",
-      "avgPoints": 9.0,
-      "avgThrees": 1.8,
-      "avgFreeThrows": 1.2,
-      "avgFouls": 1.2,
-      "gamesAnalysed": 4,
+      "avgPoints": 11.0,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.7,
+      "gamesAnalysed": 3,
       "tags": []
     },
     {
       "name": "Katie Cummins",
       "number": "20",
-      "avgPoints": 8.8,
+      "avgPoints": 9.0,
       "avgThrees": 0.0,
-      "avgFreeThrows": 2.4,
-      "avgFouls": 2.8,
-      "gamesAnalysed": 5,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Isabella Andrew",
+      "number": "25",
+      "avgPoints": 8.7,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 3,
       "tags": []
     }
   ],
@@ -465,6 +467,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T09:19:20.645934",
-  "aiBriefing": "This is a significant mismatch between second-placed Warwick Senators and bottom-placed Goldfields Giants at 9:30am. The Giants are winless in their last five games, averaging just 56 points while conceding 100, including three blowout losses by 49+ points. Warwick is 8-1 overall and averaging a healthy 16-point differential. The ladder positions and recent form suggest this could become lopsided quickly, which creates management challenges around maintaining competitive intensity and preventing frustration fouls from the home team if the margin blows out early.\n\nWatch Goldfields number 7 Chloe Zorzi and number 45 Kornelia Bukowczan closely as they carry the offensive load with 25 and 24 points per game respectively. Both shoot significant free throws (6 and 4 per game), meaning they'll be attacking and drawing contact. Zorzi commits 3 fouls per game and Bukowczan 2, but more concerning is number 5 Alexanda Clinch Hoycard at 3 fouls per game despite limited scoring, suggesting physical or frustrated play. For Warwick, watch the top four scorers who all commit between 2.4 and 2.8 fouls per game, particularly Grinceri, Cummins, and Monaghan. This foul rate across multiple players indicates Warwick plays physical defense, which could escalate if Goldfields becomes frustrated.\n\nThe primary risk is game management if this becomes a blowout like Goldfields' recent 74-point loss. Watch for frustration fouls and rough play from the Giants as the margin grows, particularly from their bench players who may lack discipline. The early 9:30am tipoff means players may start slow, so establish your presence early on physical play and be prepared to tighten the whistle if cheap fouls or chippy behavior emerges. Warwick will likely press and play aggressive defense given their scoring differential, so watch for reaching fouls and over-physical perimeter defense. If the game stays close unexpectedly, Warwick may press harder and their foul rates could increase under pressure, but the more likely scenario is managing a one-sided contest professionally."
+  "generatedAt": "2026-06-13T10:20:15.522062",
+  "aiBriefing": "This is a significant mismatch between second-placed Warwick Senators and bottom-placed Goldfields Giants at 9:30am. The Giants are on a five-game losing streak, averaging just 56 points while conceding 100, including two blowout losses exceeding 50 points in their last three games. Warwick is in strong form at 8-1, winning four of their last five and controlling games on both ends. The early start time combined with the Giants' struggles means you need to watch for frustration building if this becomes lopsided early. Warwick will want to maintain their ladder position, while the Giants desperately need competitive minutes after recent heavy defeats.\n\nKey players requiring attention include Goldfields' Chloe Zorzi and Alexanda Clinch Hoycard, both averaging 3.0 fouls per game, suggesting aggressive or undisciplined defensive approaches. For Warwick, watch Katie Cummins who leads their squad at 3.0 fouls per game, followed closely by Sian Grinceri at 2.8 and Indy Rogers at 2.7. These three Senators players accumulate fouls quickly, likely from their defensive intensity. The Giants rely heavily on just two scorers, Zorzi and Bukowczan, who get to the free throw line frequently, so expect them to attack the basket when they handle the ball.\n\nThe primary management concern is maintaining competitive intensity and preventing frustration fouls if Warwick builds a substantial lead. The Giants have been blown out repeatedly and may resort to overly physical play out of desperation or frustration, particularly from their higher-fouling players. Conversely, if Warwick gets comfortable with a big lead, watch for complacency fouls or unnecessary contact. The low free throw attempts across both teams suggest limited paint penetration overall, but the Giants' top scorers do attack, so be ready for contact around the basket. Set your standards early on hand-checking and body contact to prevent this from escalating into chippy play, especially given the early tip-off when players may not be fully warm."
 }

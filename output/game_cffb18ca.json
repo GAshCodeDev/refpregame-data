@@ -11,10 +11,207 @@
   "date": "2026-06-14",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
-  "homeForm": [],
-  "awayForm": [],
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 0,
+      "conceded": 20,
+      "won": false,
+      "margin": -20,
+      "gameId": "e7fce691"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Hills Raiders Open Women",
+      "scored": 51,
+      "conceded": 84,
+      "won": false,
+      "margin": -33,
+      "gameId": "11749d8b"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 45,
+      "conceded": 72,
+      "won": false,
+      "margin": -27,
+      "gameId": "2f61ef2e"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 65,
+      "conceded": 57,
+      "won": true,
+      "margin": 8,
+      "gameId": "8e0ae50d"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 83,
+      "conceded": 71,
+      "won": true,
+      "margin": 12,
+      "gameId": "d62daf9b"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "East Perth Eagles Open Women",
+      "scored": 72,
+      "conceded": 68,
+      "won": true,
+      "margin": 4,
+      "gameId": "33a6a302"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 62,
+      "conceded": 67,
+      "won": false,
+      "margin": -5,
+      "gameId": "9b488f05"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 41,
+      "conceded": 96,
+      "won": false,
+      "margin": -55,
+      "gameId": "36535970"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 88,
+      "conceded": 74,
+      "won": true,
+      "margin": 14,
+      "gameId": "995328e8"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Charlotte Mills",
+      "number": "20",
+      "avgPoints": 11.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 2,
+      "tags": []
+    },
+    {
+      "name": "Mia Anderson",
+      "number": "15",
+      "avgPoints": 9.7,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Olivia Hawkins",
+      "number": "4",
+      "avgPoints": 8.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 7.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Asha Dorricott",
+      "number": "20",
+      "avgPoints": 8.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 4.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Meisha Norman",
+      "number": "7",
+      "avgPoints": 7.7,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.7,
+      "gamesAnalysed": 3,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Alyssa Bowen",
+      "number": "9",
+      "avgPoints": 20.2,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Denae Civich",
+      "number": "5",
+      "avgPoints": 13.0,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Aisha Forrest",
+      "number": "6",
+      "avgPoints": 12.2,
+      "avgThrees": 3.2,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 3.5,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Grace O'Meara Smith",
+      "number": "15",
+      "avgPoints": 9.5,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Skye Thomas",
+      "number": "7",
+      "avgPoints": 8.0,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.3,
+      "gamesAnalysed": 3,
+      "tags": []
+    }
+  ],
   "homeLadder": {
     "rank": 14,
     "team": {
@@ -258,6 +455,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T09:20:48.453561",
-  "aiBriefing": "This is a significant mismatch on paper, with fourth-placed Eastern Suns facing bottom-placed South West Slammers in Round 12. The ladder positions tell a clear story: Eastern Suns at 6-3 with a 104.0% scoring ratio are in strong form and likely pushing for finals positioning, while the Slammers at 1-6 with 70.3% are struggling significantly. This creates a dynamic where the Suns will expect to dominate and may become frustrated if the game is closer than anticipated, while the Slammers have nothing to lose and may play with desperation to avoid another loss. The home court advantage at Eaton Recreation Centre could give the Slammers some energy early.\n\nWithout recent form data or key player information available, your focus should be on managing the competitive imbalance. Watch for the Suns potentially playing overly physical if they're not getting the easy win they expect, or conversely, losing focus and becoming sloppy with reaching fouls if they get a comfortable lead. For the Slammers, monitor for frustration fouls if they fall behind early, or alternatively, overly aggressive defensive play as they try to compensate for skill gaps with physicality. The first five minutes will be critical to set the tone and ensure neither team establishes poor habits.\n\nGiven the Slammers' poor record, expect them to potentially struggle with discipline in pressure moments, particularly in transition defense where they may commit reaching and blocking fouls trying to stop fast breaks. The Suns may look to push tempo and exploit this. Be particularly vigilant in the paint where a mismatched game often sees the weaker team resort to holding and bodying up to slow down superior opponents. Maintain consistent whistle control throughout to prevent the game from becoming unnecessarily physical, regardless of the score margin."
+  "generatedAt": "2026-06-13T10:23:43.205126",
+  "aiBriefing": "This is a significant mismatch between the bottom-placed Slammers at home and the fourth-placed Eastern Suns. The Slammers are struggling badly this season with only one win and recently suffered a shocking 0-20 forfeit or blowout loss. They average just 40 points per game while conceding 58, indicating limited offensive capability and defensive struggles. Eastern Suns are in playoff contention averaging 69 points scored, and despite some inconsistency including a 55-point loss in Round 6, they've won three of their last five. The lopsided nature of this matchup creates referee concerns around frustration fouls from the home team and potential blowout management issues.\n\nKey players requiring close attention include Olivia Hawkins from the Slammers who averaged 7.0 fouls per game in limited data, suggesting overly physical or undisciplined play that needs immediate monitoring. Aisha Forrest from Eastern Suns also shows elevated foul tendencies at 3.5 per game, the highest among regular contributors. Eastern Suns' scoring leader Alyssa Bowen at 20.2 points per game will likely draw defensive attention and potential frustration fouls as the Slammers struggle to contain her. Charlotte Mills and Asha Dorricott from the Slammers both wear number 20, so confirm jersey clarity pre-game to avoid scoring and foul trouble confusion.\n\nThe primary flashpoint risk comes from competitive imbalance and home team frustration. If Eastern Suns jump out early, watch for the Slammers becoming overly physical out of desperation or discouragement, particularly in transition defense where they may resort to reaching and grabbing. The Slammers' recent 0-20 result suggests potential roster or morale issues that could manifest as lack of discipline. Conversely, if Eastern Suns build a large lead, monitor for complacency fouls or unnecessary physical play. The free throw differential will likely favor Eastern Suns given their superior offensive execution, so be prepared to manage any perception of bias from the home team and crowd.\n\nExpect this to be a higher-scoring game for Eastern Suns but low-scoring for the Slammers based on seasonal averages. This isn't likely to be intensely competitive, so focus on maintaining game control and player safety rather than playoff-intensity officiating. Keep the game flowing but don't let physicality escalate if frustration sets in. Be particularly vigilant in the second half if the margin becomes lopsided, as this is when discipline typically breaks down in mismatches."
 }

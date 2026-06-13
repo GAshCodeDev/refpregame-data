@@ -11,10 +11,222 @@
   "date": "2026-06-14",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
-  "homeForm": [],
-  "awayForm": [],
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 87,
+      "conceded": 89,
+      "won": false,
+      "margin": -2,
+      "gameId": "694f111c"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 71,
+      "conceded": 64,
+      "won": true,
+      "margin": 7,
+      "gameId": "d31ce84a"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 71,
+      "conceded": 70,
+      "won": true,
+      "margin": 1,
+      "gameId": "b0873217"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 73,
+      "conceded": 65,
+      "won": true,
+      "margin": 8,
+      "gameId": "34048010"
+    },
+    {
+      "round": "Round 4",
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 42,
+      "conceded": 59,
+      "won": false,
+      "margin": -17,
+      "gameId": "9e895f5a"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Hills Raiders Open Women",
+      "scored": 92,
+      "conceded": 73,
+      "won": true,
+      "margin": 19,
+      "gameId": "f8f90b33"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 60,
+      "conceded": 104,
+      "won": false,
+      "margin": -44,
+      "gameId": "3f0983c1"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Warwick Senators Open Women",
+      "scored": 35,
+      "conceded": 85,
+      "won": false,
+      "margin": -50,
+      "gameId": "ae9f9db9"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 52,
+      "conceded": 102,
+      "won": false,
+      "margin": -50,
+      "gameId": "e3101081"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 55,
+      "conceded": 85,
+      "won": false,
+      "margin": -30,
+      "gameId": "ab71a15d"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Cara Passmore",
+      "number": "11",
+      "avgPoints": 15.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 4.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ella Barmentloo",
+      "number": "14",
+      "avgPoints": 12.8,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.2,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Grace Evans",
+      "number": "15",
+      "avgPoints": 12.2,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Mikayla Deshon",
+      "number": "6",
+      "avgPoints": 10.6,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Talicia Hansen",
+      "number": "10",
+      "avgPoints": 10.5,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 2,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Ngaire Parish",
+      "number": "5",
+      "avgPoints": 29.0,
+      "avgThrees": 7.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 5.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Emily Steven",
+      "number": "6",
+      "avgPoints": 18.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Ava Davies",
+      "number": "9",
+      "avgPoints": 18.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ruby New",
+      "number": "11",
+      "avgPoints": 12.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 0.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Katie Biddulph",
+      "number": "13",
+      "avgPoints": 10.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
   "homeLadder": {
     "rank": 12,
     "team": {
@@ -258,6 +470,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T09:21:07.806148",
-  "aiBriefing": "Given the limited historical data available, this Round 12 matchup represents a critical late-season contest between two teams sitting in the lower half of the ladder with identical 3-6 records. Perth Redbacks hold 12th position while Rockingham Flames sit 10th, separated primarily by percentage (93.0% vs 81.6%). Both teams are fighting to avoid the bottom positions and may still harbor outside playoff aspirations depending on the competition structure. This positioning typically creates increased intensity and urgency, particularly in a local derby-style matchup between Perth and Rockingham. Expect both teams to play with desperation as they seek to separate themselves from the lower ladder positions.\n\nWithout available form data or identified key players, your officiating approach should focus on establishing clear game management from the opening tip. Pay particular attention to early physical contests, especially in rebounding situations and post play, as teams with lower ladder positions often compensate for skill deficits with increased physicality. The percentage differential suggests Perth has been more competitive in their losses, which could indicate they play a more structured game, while Rockingham's lower percentage might reflect more volatile performances that could include frustration-based play.\n\nSet your standards early regarding body checking, hand-checking on the perimeter, and three-second violations in the paint. With identical records and close ladder proximity, this game could easily become chippy if either team falls behind by multiple possessions in the fourth quarter. Monitor bench reactions and player-to-player interactions closely, as late-season pressure combined with local rivalry elements can escalate quickly. Focus on consistent strike zones for shooting fouls and be prepared to manage tempo if the game becomes overly physical, ensuring player safety remains paramount while allowing competitive play to flow."
+  "generatedAt": "2026-06-13T10:24:53.755839",
+  "aiBriefing": "This is a mid-table clash between two teams sitting 12th and 10th with identical 3-6 records, though Perth Redbacks have significantly better percentage. The Redbacks enter on decent form with three wins in their last five, while Rockingham has been inconsistent with four heavy losses before a strong Round 11 win. Neither team is in playoff contention, but both will want to avoid sliding further down the ladder. Perth has been competitive in close games recently, with three matches decided by seven points or less in their last five, suggesting they're capable of grinding out results. Rockingham's form is volatile, getting blown out by 30-plus in three straight games before their 19-point victory last round.\n\nFocus attention on Cara Passmore for Perth and Ngaire Parish for Rockingham, both averaging 4-5 fouls per game despite limited sample sizes, indicating aggressive or undisciplined play. Parish is a major scoring threat at 29 points per game who gets to the perimeter heavily, while Passmore's 4 fouls per game suggests physical interior play or defensive aggression. For Rockingham, watch Ava Davies who draws considerable free throw attempts (5 per game) and commits 3 fouls per game, indicating she's active in contact areas both offensively and defensively. Katie Biddulph also fouls at 3 per game, suggesting Rockingham may play physically to compensate for their defensive struggles.\n\nThe key concern is Rockingham's defensive fragility, having conceded 90 points per game recently with three losses of 44, 50, and 50 points. This suggests potential frustration fouls as they get beaten defensively, particularly if Perth establishes early control. Perth's balanced scoring and ability to win close games means they'll likely control tempo, but watch for Rockingham becoming overly physical if they fall behind. Conversely, if Rockingham gets hot from three-point range like they did in Round 11, momentum swings could create emotional responses from Perth. \n\nExpect moderate scoring around 70-80 points for Perth based on their consistency, with Rockingham's output highly variable. Set clear boundaries early on post defense and perimeter handchecking given the foul tendencies shown. Monitor transition defense closely as Rockingham may push pace to overcome their half-court defensive issues. The game likely stays competitive early, but be prepared to manage frustration if it becomes one-sided, particularly from Rockingham's high-foul players if their recent defensive struggles continue."
 }

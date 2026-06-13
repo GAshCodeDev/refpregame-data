@@ -85,10 +85,143 @@
       "won": true,
       "margin": 2,
       "gameId": "694f111c"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "South West Slammers Open Women",
+      "scored": 72,
+      "conceded": 45,
+      "won": true,
+      "margin": 27,
+      "gameId": "2f61ef2e"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "Hills Raiders Open Women",
+      "scored": 63,
+      "conceded": 51,
+      "won": true,
+      "margin": 12,
+      "gameId": "5b075cfc"
     }
   ],
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
+  "homeKeyPlayers": [
+    {
+      "name": "Nicola Moore",
+      "number": "9",
+      "avgPoints": 22.0,
+      "avgThrees": 3.8,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Emma Clark",
+      "number": "11",
+      "avgPoints": 16.4,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Eva Smith",
+      "number": "21",
+      "avgPoints": 12.2,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.6,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Jenna Teasdale",
+      "number": "17",
+      "avgPoints": 8.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 0.0,
+      "gamesAnalysed": 1,
+      "tags": []
+    },
+    {
+      "name": "Emie Stein",
+      "number": "6",
+      "avgPoints": 7.7,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 2.3,
+      "gamesAnalysed": 3,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Georgia Adams",
+      "number": "12",
+      "avgPoints": 23.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 8.0,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Sydney Meares",
+      "number": "27",
+      "avgPoints": 20.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 0.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Hannah Chatfield",
+      "number": "30",
+      "avgPoints": 16.3,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 4.3,
+      "avgFouls": 1.7,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Lily Donegan",
+      "number": "6",
+      "avgPoints": 10.6,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Kenzie du Bois",
+      "number": "20",
+      "avgPoints": 9.6,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 3.6,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
   "homeLadder": {
     "rank": 3,
     "team": {
@@ -332,6 +465,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T09:20:08.927573",
-  "aiBriefing": "This is a significant mid-table clash with Perry Lakes Hawks sitting 3rd and riding a five-game winning streak, while Mandurah Magic in 7th are looking to build momentum after an inconsistent recent stretch. Perry Lakes are in dominant form, averaging 81 points while holding opponents to just 62 during their streak, suggesting they control tempo and play solid defense. Mandurah has shown they can compete in tight games, with two of their last three decided by single digits, but they're also vulnerable to blowouts as seen in the 23-point loss to Warwick. This game matters for Perry Lakes to maintain their top-four position and for Mandurah to stay in touch with the middle of the pack.\n\nPerry Lakes' recent margins of 20-plus points in four of five games indicate they can pull away from opponents, which may lead to frustration from Mandurah if the game follows that pattern. Watch for physical play and potential chippy behavior if Mandurah falls behind by double digits, particularly in the second and third quarters when Perry Lakes have been building their leads. The Hawks' defensive intensity that's holding teams to 62 points per game will likely create contact in the paint and on drives, so be prepared to establish early standards on hand-checking and body positioning.\n\nMandurah has shown resilience in close games, winning two nail-biters by 8 and 2 points recently, which suggests they won't quit if this stays competitive. However, their defensive inconsistency, conceding an average of 78 points while only scoring 74, means they may try to speed up the pace or increase defensive pressure to disrupt Perry Lakes' rhythm. Monitor for reaching fouls and over-aggressive trapping if Mandurah gets desperate. The contrast between Perry Lakes' comfortable victories and Mandurah's tight games suggests different pressure tolerance levels. If this becomes a grind-it-out contest, expect Mandurah to be more comfortable than if Perry Lakes impose their will early and create separation."
+  "generatedAt": "2026-06-13T10:21:36.023638",
+  "aiBriefing": "This is a significant mid-table clash between third-placed Perry Lakes on a five-game winning streak and seventh-placed Mandurah looking to keep pace. Perry Lakes is in dominant form, averaging 81 points and winning by an average margin of 19 points during their streak, while Mandurah plays tighter contests with an average margin of just 5 points and several close finishes including an 89-87 win in Round 9. The ladder positioning and contrasting form suggests Perry Lakes will look to impose their tempo early, while Mandurah needs a result to stay in touch with the top four, creating natural tension and competitive intensity.\n\nWatch Mandurah's Kenzie du Bois closely as she leads her team in fouls at 3.6 per game, suggesting aggressive defense or positioning issues that will need monitoring. Perry Lakes' Emie Stein also fouls at 2.3 per game despite limited minutes. The key offensive matchup involves Perry Lakes' Nicola Moore who shoots heavily from three versus Mandurah's Georgia Adams who attacks the basket frequently with 8 free throw attempts per game. Adams and Hannah Chatfield both get to the line regularly, so expect post play and drives requiring close positioning calls. Sydney Meares also draws 5 free throws per game, indicating Mandurah's offensive strategy relies heavily on penetration and contact.\n\nThe scoring differential is crucial here. Perry Lakes scores 10 points more per game than Mandurah and has been demolishing teams, while Mandurah grinds out wins and just suffered a 23-point loss to Warwick. If Perry Lakes builds a lead, watch for Mandurah's frustration levels and potential escalation in physicality as they try to disrupt rhythm. Conversely, if Mandurah keeps it close as they typically do, expect deliberate fouling tactics and free throw pressure in the final minutes. The significant gap in scoring ability versus Mandurah's need to slow the game down suggests this could become physical, particularly in transition defense and on drives to the basket where Mandurah generates most of their offense."
 }
