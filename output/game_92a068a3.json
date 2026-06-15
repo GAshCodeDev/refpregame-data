@@ -1,17 +1,64 @@
 {
-  "gameId": "b20385bd",
+  "gameId": "92a068a3",
   "gradeName": "TCD Open Championship Men",
-  "roundName": "Round 12",
-  "homeTeam": "Cockburn Cougars Open Men",
-  "awayTeam": "Hills Raiders Open Men",
-  "homeTeamId": "bc3edf90",
-  "awayTeamId": "723e41ce",
-  "venue": "Wally Hagan Basketball Stadium",
-  "time": "15:00:00",
-  "date": "2026-06-14",
+  "roundName": "Round 13",
+  "homeTeam": "Rockingham Flames Open Men",
+  "awayTeam": "Cockburn Cougars Open Men",
+  "homeTeamId": "62b22846",
+  "awayTeamId": "bc3edf90",
+  "venue": "Mike Barnett Sports Complex",
+  "time": "16:30:00",
+  "date": "2026-06-21",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
   "homeForm": [
+    {
+      "round": "Round 9",
+      "opponent": "Warwick Senators Open Men",
+      "scored": 91,
+      "conceded": 92,
+      "won": false,
+      "margin": -1,
+      "gameId": "49413c48"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 0,
+      "conceded": 20,
+      "won": false,
+      "margin": -20,
+      "gameId": "bfae7ac2"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 82,
+      "conceded": 88,
+      "won": false,
+      "margin": -6,
+      "gameId": "1a27352c"
+    },
+    {
+      "round": "Round 6",
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 58,
+      "conceded": 113,
+      "won": false,
+      "margin": -55,
+      "gameId": "8f371683"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 12",
+      "opponent": "Hills Raiders Open Men",
+      "scored": 88,
+      "conceded": 82,
+      "won": true,
+      "margin": 6,
+      "gameId": "b20385bd"
+    },
     {
       "round": "Round 11",
       "opponent": "Goldfields Giants Open Men",
@@ -47,65 +94,68 @@
       "won": true,
       "margin": 8,
       "gameId": "22357d65"
-    },
-    {
-      "round": "Round 6",
-      "opponent": "Eastern Suns Open Men",
-      "scored": 89,
-      "conceded": 67,
-      "won": true,
-      "margin": 22,
-      "gameId": "335c4490"
-    }
-  ],
-  "awayForm": [
-    {
-      "round": "Round 11",
-      "opponent": "Rockingham Flames Open Men",
-      "scored": 83,
-      "conceded": 97,
-      "won": false,
-      "margin": -14,
-      "gameId": "d48763a0"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Goldfields Giants Open Men",
-      "scored": 101,
-      "conceded": 89,
-      "won": true,
-      "margin": 12,
-      "gameId": "a331336e"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "South West Slammers Open Men",
-      "scored": 85,
-      "conceded": 95,
-      "won": false,
-      "margin": -10,
-      "gameId": "a96f0d69"
-    },
-    {
-      "round": "Round 8",
-      "opponent": "Perry Lakes Hawks Open Men",
-      "scored": 68,
-      "conceded": 107,
-      "won": false,
-      "margin": -39,
-      "gameId": "8aa96e35"
-    },
-    {
-      "round": "Round 7",
-      "opponent": "Mandurah Magic Open Men",
-      "scored": 81,
-      "conceded": 111,
-      "won": false,
-      "margin": -30,
-      "gameId": "94f4924e"
     }
   ],
   "homeKeyPlayers": [
+    {
+      "name": "Peter Thuch",
+      "number": "10",
+      "avgPoints": 17.0,
+      "avgThrees": 3.7,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 0.7,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Leon Maguire",
+      "number": "7",
+      "avgPoints": 16.7,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Dean Supljeglav",
+      "number": "9",
+      "avgPoints": 13.0,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Lowell Jude Christopher",
+      "number": "14",
+      "avgPoints": 13.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 2,
+      "tags": []
+    },
+    {
+      "name": "Cameron Groom",
+      "number": "5",
+      "avgPoints": 9.7,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.7,
+      "gamesAnalysed": 3,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
     {
       "name": "Matt Clifford",
       "number": "10",
@@ -117,18 +167,6 @@
       "tags": [
         "Outside threat",
         "Physical player"
-      ]
-    },
-    {
-      "name": "Austin Crowe-St Jack",
-      "number": "6",
-      "avgPoints": 21.0,
-      "avgThrees": 4.7,
-      "avgFreeThrows": 0.3,
-      "avgFouls": 1.7,
-      "gamesAnalysed": 3,
-      "tags": [
-        "Outside threat"
       ]
     },
     {
@@ -148,11 +186,23 @@
     {
       "name": "Jack Pitt",
       "number": "11",
-      "avgPoints": 16.4,
-      "avgThrees": 2.6,
-      "avgFreeThrows": 1.8,
+      "avgPoints": 18.2,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 2.6,
       "avgFouls": 2.8,
       "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Austin Crowe-St Jack",
+      "number": "6",
+      "avgPoints": 15.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 1.7,
+      "gamesAnalysed": 3,
       "tags": [
         "Outside threat"
       ]
@@ -160,72 +210,30 @@
     {
       "name": "Noah Stewart",
       "number": "13",
-      "avgPoints": 12.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 1.0,
-      "gamesAnalysed": 1,
-      "tags": [
-        "Outside threat"
-      ]
-    }
-  ],
-  "awayKeyPlayers": [
-    {
-      "name": "Jhye Stoker",
-      "number": "3",
-      "avgPoints": 16.2,
-      "avgThrees": 0.8,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 3.8,
-      "gamesAnalysed": 4,
-      "tags": [
-        "Frequent free throws",
-        "Physical player"
-      ]
-    },
-    {
-      "name": "Jaxson Potts",
-      "number": "35",
-      "avgPoints": 15.4,
-      "avgThrees": 0.8,
-      "avgFreeThrows": 1.4,
-      "avgFouls": 1.6,
-      "gamesAnalysed": 5,
-      "tags": []
-    },
-    {
-      "name": "Jordan West",
-      "number": "23",
       "avgPoints": 12.5,
       "avgThrees": 1.0,
       "avgFreeThrows": 2.5,
-      "avgFouls": 2.2,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Zane Songerwala",
-      "number": "6",
-      "avgPoints": 11.5,
-      "avgThrees": 0.8,
-      "avgFreeThrows": 1.8,
-      "avgFouls": 1.5,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Callum Creek",
-      "number": "13",
-      "avgPoints": 8.2,
-      "avgThrees": 0.6,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 2.8,
-      "gamesAnalysed": 5,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 2,
       "tags": []
     }
   ],
   "homeLadder": {
+    "rank": 11,
+    "team": {
+      "id": "62b22846",
+      "name": "Rockingham Flames Open Men"
+    },
+    "played": 10,
+    "won": 4,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 807,
+    "pointsAgainst": 879,
+    "percentage": 91.81,
+    "competitionPoints": 8
+  },
+  "awayLadder": {
     "rank": 4,
     "team": {
       "id": "bc3edf90",
@@ -239,21 +247,6 @@
     "pointsAgainst": 748,
     "percentage": 108.29,
     "competitionPoints": 15
-  },
-  "awayLadder": {
-    "rank": 15,
-    "team": {
-      "id": "723e41ce",
-      "name": "Hills Raiders Open Men"
-    },
-    "played": 11,
-    "won": 1,
-    "lost": 10,
-    "drawn": 0,
-    "pointsFor": 836,
-    "pointsAgainst": 1099,
-    "percentage": 76.07,
-    "competitionPoints": 2
   },
   "totalTeams": 15,
   "fullLadder": [
@@ -483,6 +476,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T07:28:12.748424",
-  "aiBriefing": "This is a significant mismatch on paper with fourth-placed Cockburn hosting bottom-placed Hills Raiders. Cockburn are in strong form with four wins from five, averaging 15 points per game margin, while Hills have struggled all season at 1-10 despite showing some scoring ability. The danger here is complacency from Cockburn or frustration from Hills leading to chippy play, especially if the margin blows out early. Conversely, if Hills stay competitive, Cockburn may get frustrated given they're expected to win comfortably. Watch for the competitive intensity to either drop off or escalate inappropriately depending on how the scoring run develops.\n\nPay close attention to Jhye Stoker from Hills, who averages 3.8 fouls per game and is their primary offensive weapon getting to the line regularly. He's playing physically and will likely draw contact, so consistency on drive-to-basket calls will be crucial. For Cockburn, both Matt Clifford and Riley Eves average 3.0 fouls per game in limited sample sizes, suggesting aggressive play styles. Jack Pitt at 2.8 fouls per game over five games is also physical. These players will likely be involved in any confrontational moments, particularly if the score becomes lopsided.\n\nThe foul and free throw patterns tell an important story. Cockburn are a perimeter-oriented team with their scorers averaging 2-4 three-pointers per game but minimal free throws, while Hills generate more paint contact with Stoker, West, and Songerwala all getting to the line regularly. This style clash could create frustration if Hills pack the paint defensively and Cockburn's shooters go cold, or if Hills feel they're not getting calls on drives against a team expecting an easy win. Given Hills concede 100 points per game, this could become high-scoring, but manage the physicality early to prevent it deteriorating into a scrappy, poorly-played game if either team becomes frustrated with the scoreboard."
+  "generatedAt": "2026-06-15T08:05:37.840915",
+  "aiBriefing": "This is a significant mismatch on paper with fourth-placed Cockburn (7-3, 108.3%) facing bottom-half Rockingham (11th, 4-9, 91.8%). Cockburn arrives in strong form with four wins from their last five, averaging 85 points and winning comfortably in most games. Rockingham is struggling badly on a four-game losing streak, averaging just 58 points while conceding 78, and they have a concerning Round 8 forfeit on record. The quality gap suggests Rockingham may become frustrated as the game progresses, particularly if Cockburn builds an early lead. This has blowout potential similar to Rockingham's 55-point loss in Round 6, which could lead to increased physicality from the losing side late in the game.\n\nFor Rockingham, watch Leon Maguire closely as he commits 3.0 fouls per game, the highest rate among all key players listed, and he draws contact getting to the line frequently. For Cockburn, Jack Pitt is the most foul-prone at 2.8 per game over a larger sample size, while Matt Clifford and Riley Eves both averaged 3.0 fouls in limited data. Pitt also gets to the line regularly and will be central to Cockburn's offense. The Cougars have multiple capable scorers who can exploit Rockingham's defensive struggles, so expect them to be aggressive attacking the basket throughout.\n\nThe primary flashpoint risk is frustration from Rockingham players as the deficit grows, especially given their recent losing streak and poor offensive output. Monitor physicality on defense from the Flames as they may resort to aggressive tactics to disrupt Cockburn's rhythm. The free throw disparity could become significant with Rockburn's scorers drawing contact while building a lead. Late in the game, if the margin is substantial, watch for potential unnecessary rough play or loss of composure from Rockingham. Set a professional tone early and maintain tight control on physical play to prevent the game deteriorating if it becomes one-sided. Be alert for potential substitution or technical issues given Rockingham's forfeit history."
 }

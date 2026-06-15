@@ -1,64 +1,26 @@
 {
-  "gameId": "5c1501c6",
+  "gameId": "1d5bec3b",
   "gradeName": "TCD Open Championship Men",
-  "roundName": "Round 12",
-  "homeTeam": "South West Slammers Open Men",
-  "awayTeam": "Eastern Suns Open Men",
-  "homeTeamId": "7f7da657",
-  "awayTeamId": "89351f76",
-  "venue": "Eaton Recreation Centre",
-  "time": "16:00:00",
-  "date": "2026-06-14",
+  "roundName": "Round 13",
+  "homeTeam": "Eastern Suns Open Men",
+  "awayTeam": "Geraldton Buccaneers Open Men",
+  "homeTeamId": "89351f76",
+  "awayTeamId": "e7c4c58e",
+  "venue": "Ray Owen Sports Centre",
+  "time": "17:00:00",
+  "date": "2026-06-20",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 9",
-      "opponent": "Hills Raiders Open Men",
-      "scored": 95,
-      "conceded": 85,
+      "round": "Round 12",
+      "opponent": "South West Slammers Open Men",
+      "scored": 118,
+      "conceded": 93,
       "won": true,
-      "margin": 10,
-      "gameId": "a96f0d69"
+      "margin": 25,
+      "gameId": "5c1501c6"
     },
-    {
-      "round": "Round 7",
-      "opponent": "Mandurah Magic Open Men",
-      "scored": 71,
-      "conceded": 81,
-      "won": false,
-      "margin": -10,
-      "gameId": "d8b4dc1e"
-    },
-    {
-      "round": "Round 6",
-      "opponent": "Joondalup Wolves Open Men",
-      "scored": 71,
-      "conceded": 107,
-      "won": false,
-      "margin": -36,
-      "gameId": "3b695daf"
-    },
-    {
-      "round": "Round 5",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 67,
-      "conceded": 98,
-      "won": false,
-      "margin": -31,
-      "gameId": "85dd3509"
-    },
-    {
-      "round": "Round 4",
-      "opponent": "Geraldton Buccaneers Open Men",
-      "scored": 107,
-      "conceded": 69,
-      "won": true,
-      "margin": 38,
-      "gameId": "c889573a"
-    }
-  ],
-  "awayForm": [
     {
       "round": "Round 11",
       "opponent": "Joondalup Wolves Open Men",
@@ -94,84 +56,77 @@
       "won": true,
       "margin": 14,
       "gameId": "8f895367"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 12",
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 68,
+      "conceded": 95,
+      "won": false,
+      "margin": -27,
+      "gameId": "81fea413"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Warwick Senators Open Men",
+      "scored": 89,
+      "conceded": 101,
+      "won": false,
+      "margin": -12,
+      "gameId": "58b99df1"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 54,
+      "conceded": 108,
+      "won": false,
+      "margin": -54,
+      "gameId": "ec564098"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 67,
+      "conceded": 94,
+      "won": false,
+      "margin": -27,
+      "gameId": "ba374eb7"
     },
     {
       "round": "Round 6",
-      "opponent": "Cockburn Cougars Open Men",
-      "scored": 67,
-      "conceded": 89,
-      "won": false,
-      "margin": -22,
-      "gameId": "335c4490"
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 102,
+      "conceded": 98,
+      "won": true,
+      "margin": 4,
+      "gameId": "0ac43e72"
     }
   ],
   "homeKeyPlayers": [
     {
-      "name": "Gavin Deacon",
-      "number": "33",
-      "avgPoints": 19.5,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 2.5,
-      "gamesAnalysed": 2,
-      "tags": []
-    },
-    {
-      "name": "Harry Watters",
-      "number": "32",
-      "avgPoints": 16.4,
-      "avgThrees": 3.0,
-      "avgFreeThrows": 2.6,
-      "avgFouls": 2.4,
-      "gamesAnalysed": 5,
+      "name": "Stephen Phipps",
+      "number": "4",
+      "avgPoints": 30.0,
+      "avgThrees": 4.0,
+      "avgFreeThrows": 6.0,
+      "avgFouls": 0.0,
+      "gamesAnalysed": 1,
       "tags": [
-        "Outside threat"
+        "Outside threat",
+        "Frequent free throws"
       ]
     },
-    {
-      "name": "Rivar Evans",
-      "number": "26",
-      "avgPoints": 14.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 1.0,
-      "gamesAnalysed": 2,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Art Harvey",
-      "number": "35",
-      "avgPoints": 12.4,
-      "avgThrees": 2.8,
-      "avgFreeThrows": 0.8,
-      "avgFouls": 1.8,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Saxon Halsey",
-      "number": "33",
-      "avgPoints": 12.3,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 1.3,
-      "avgFouls": 2.7,
-      "gamesAnalysed": 3,
-      "tags": []
-    }
-  ],
-  "awayKeyPlayers": [
     {
       "name": "Hayden Price",
       "number": "15",
-      "avgPoints": 24.2,
+      "avgPoints": 22.4,
       "avgThrees": 0.2,
-      "avgFreeThrows": 4.5,
-      "avgFouls": 2.2,
-      "gamesAnalysed": 4,
+      "avgFreeThrows": 4.2,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 5,
       "tags": [
         "Frequent free throws"
       ]
@@ -202,44 +157,79 @@
       ]
     },
     {
-      "name": "Riley Pabst",
-      "number": "8",
-      "avgPoints": 13.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 0.2,
-      "avgFouls": 1.2,
-      "gamesAnalysed": 5,
-      "tags": []
-    },
-    {
       "name": "Cayden Ivankovich",
       "number": "20",
-      "avgPoints": 10.2,
-      "avgThrees": 2.8,
+      "avgPoints": 12.0,
+      "avgThrees": 3.4,
       "avgFreeThrows": 0.2,
-      "avgFouls": 1.2,
+      "avgFouls": 1.4,
       "gamesAnalysed": 5,
       "tags": [
         "Outside threat"
       ]
     }
   ],
-  "homeLadder": {
-    "rank": 10,
-    "team": {
-      "id": "7f7da657",
-      "name": "South West Slammers Open Men"
+  "awayKeyPlayers": [
+    {
+      "name": "Levi Owen",
+      "number": "7",
+      "avgPoints": 17.2,
+      "avgThrees": 2.8,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Outside threat"
+      ]
     },
-    "played": 11,
-    "won": 4,
-    "lost": 6,
-    "drawn": 0,
-    "pointsFor": 875,
-    "pointsAgainst": 903,
-    "percentage": 96.9,
-    "competitionPoints": 9
-  },
-  "awayLadder": {
+    {
+      "name": "Max De San Miguel",
+      "number": "8",
+      "avgPoints": 14.8,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 4.8,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Denbi Horstman",
+      "number": "2",
+      "avgPoints": 9.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 3.5,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "William Galvin",
+      "number": "13",
+      "avgPoints": 8.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 3.2,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Kelvin Yokwe",
+      "number": "15",
+      "avgPoints": 7.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.8,
+      "gamesAnalysed": 4,
+      "tags": []
+    }
+  ],
+  "homeLadder": {
     "rank": 8,
     "team": {
       "id": "89351f76",
@@ -253,6 +243,21 @@
     "pointsAgainst": 899,
     "percentage": 105.9,
     "competitionPoints": 12
+  },
+  "awayLadder": {
+    "rank": 12,
+    "team": {
+      "id": "e7c4c58e",
+      "name": "Geraldton Buccaneers Open Men"
+    },
+    "played": 9,
+    "won": 1,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 585,
+    "pointsAgainst": 757,
+    "percentage": 77.28,
+    "competitionPoints": 3
   },
   "totalTeams": 15,
   "fullLadder": [
@@ -482,6 +487,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T07:28:59.522897",
-  "aiBriefing": "This is a mid-table clash with Eastern Suns (8th, 6-4) looking to consolidate their position against South West Slammers (10th, 4-6) who need wins to stay relevant. The Slammers are inconsistent at home, showing extreme variance from a 107-point outburst to being blown out by 36 points. Eastern comes in with better recent form (3-2) and averages 91 points per game compared to Slammers' 82, but they've also shown vulnerability in their last outing, conceding 110 points. This could be a competitive game given the closeness in the standings, which may lead to increased intensity and contested calls in crucial moments.\n\nWatch Eastern's Hayden Price (#15) and Marley Sam (#14) closely. Price averages 4.5 free throw attempts per game, indicating he attacks the basket aggressively and draws contact. Sam is limited in game data but shows 4.0 fouls per game in his appearance, suggesting either aggressive defense or poor discipline. For the Slammers, Saxon Halsey (#33) and Gavin Deacon (#33, note duplicate number) both average 2.5-2.7 fouls per game, indicating they play physically. Harry Watters (#32) is their primary scorer who gets to the line regularly. Monitor the paint area closely as both teams have key players who work inside and draw fouls rather than relying heavily on three-point shooting.\n\nThe foul differential could become significant. Eastern has cleaner defenders overall with Jesse Pollock, Riley Pabst, and Cayden Ivankovich all under 1.5 fouls per game, while the Slammers' rotation shows multiple players in the 2.4-2.7 range. Expect the Slammers to defend more aggressively given they're conceding 88 points per game. Be particularly vigilant on drives to the basket and post-up situations. The game could tighten in the fourth quarter if competitive, so establish consistency early on contact calls. Watch for frustration from Slammers players if Eastern's scoring attack (91 ppg) gets rolling, particularly if Halsey or Deacon pick up early fouls and coaching staff becomes vocal about officiating."
+  "generatedAt": "2026-06-15T07:59:35.626150",
+  "aiBriefing": "This is a significant mismatch on paper between an Eastern Suns team sitting 8th and hunting finals positions versus a struggling Geraldton Buccaneers side in 12th with only one win from eight games. The Suns are in strong form averaging 102 points and winning four of their last five, while the Buccaneers are averaging just 76 points and hemorrhaging 99 per game. Given the 26-point scoring differential and Geraldton's recent 54-point thrashing, there's real potential for this game to get out of hand early, which could lead to frustration fouls and chippy play from the visitors if they fall behind significantly.\n\nWatch Marley Sam (#14) closely for Eastern Suns despite limited game data, he's averaging 4.0 fouls per game which is extremely high and suggests either aggressive defense or poor discipline. Hayden Price (#15) gets to the line frequently with 4.2 free throws per game, so expect him to attack the basket and draw contact that needs accurate calling. For Geraldton, Denbi Horstman (#2) and William Galvin (#13) are both averaging over 3 fouls per game, indicating they're playing physical or struggling defensively. Max De San Miguel (#8) also gets to the line nearly 5 times per game, suggesting he'll be driving hard and seeking contact.\n\nThe primary management concern is keeping Geraldton engaged and disciplined if Eastern Suns jump out to a big lead early, as their recent 54-point loss shows they can collapse badly. With the Buccaneers' defensive struggles and two key players already foul-prone, frustration could manifest in unnecessary physicality or complaints about calls, especially in the paint where both teams have players attacking for free throws. Be firm early on any retaliatory contact or verbal dissent to prevent the game from deteriorating. Eastern Suns will likely push tempo to exploit the scoring gap, so stay alert for transition fouls and be prepared for a potentially high-scoring affair that could see foul trouble impact Geraldton's already thin rotation."
 }

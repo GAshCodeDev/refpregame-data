@@ -1,64 +1,26 @@
 {
-  "gameId": "81fea413",
+  "gameId": "1e97fac9",
   "gradeName": "TCD Open Championship Men",
-  "roundName": "Round 12",
-  "homeTeam": "Geraldton Buccaneers Open Men",
-  "awayTeam": "Joondalup Wolves Open Men",
-  "homeTeamId": "e7c4c58e",
-  "awayTeamId": "3e71c2c7",
-  "venue": "Activewest Stadium",
-  "time": "16:00:00",
-  "date": "2026-06-13",
+  "roundName": "Round 13",
+  "homeTeam": "Joondalup Wolves Open Men",
+  "awayTeam": "Perth Redbacks Open Men",
+  "homeTeamId": "3e71c2c7",
+  "awayTeamId": "4513e433",
+  "venue": "Arena Joondalup",
+  "time": "19:30:00",
+  "date": "2026-06-16",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 10",
-      "opponent": "Warwick Senators Open Men",
-      "scored": 89,
-      "conceded": 101,
-      "won": false,
-      "margin": -12,
-      "gameId": "58b99df1"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 54,
-      "conceded": 108,
-      "won": false,
-      "margin": -54,
-      "gameId": "ec564098"
-    },
-    {
-      "round": "Round 7",
-      "opponent": "East Perth Eagles Open Men",
-      "scored": 67,
-      "conceded": 94,
-      "won": false,
-      "margin": -27,
-      "gameId": "ba374eb7"
-    },
-    {
-      "round": "Round 6",
-      "opponent": "Mandurah Magic Open Men",
-      "scored": 102,
-      "conceded": 98,
+      "round": "Round 12",
+      "opponent": "Geraldton Buccaneers Open Men",
+      "scored": 95,
+      "conceded": 68,
       "won": true,
-      "margin": 4,
-      "gameId": "0ac43e72"
+      "margin": 27,
+      "gameId": "81fea413"
     },
-    {
-      "round": "Round 5",
-      "opponent": "Cockburn Cougars Open Men",
-      "scored": 73,
-      "conceded": 86,
-      "won": false,
-      "margin": -13,
-      "gameId": "d505e026"
-    }
-  ],
-  "awayForm": [
     {
       "round": "Round 11",
       "opponent": "Eastern Suns Open Men",
@@ -94,84 +56,63 @@
       "won": true,
       "margin": 26,
       "gameId": "cbd4b359"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 12",
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 106,
+      "conceded": 110,
+      "won": false,
+      "margin": -4,
+      "gameId": "7b7c036e"
     },
     {
-      "round": "Round 7",
-      "opponent": "Rockingham Flames Open Men",
-      "scored": 88,
-      "conceded": 82,
-      "won": true,
-      "margin": 6,
-      "gameId": "1a27352c"
+      "round": "Round 11",
+      "opponent": "Warwick Senators Open Men",
+      "scored": 84,
+      "conceded": 95,
+      "won": false,
+      "margin": -11,
+      "gameId": "8ec95d13"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Eastern Suns Open Men",
+      "scored": 89,
+      "conceded": 94,
+      "won": false,
+      "margin": -5,
+      "gameId": "fb0a9204"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 90,
+      "conceded": 99,
+      "won": false,
+      "margin": -9,
+      "gameId": "2653e9dd"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 69,
+      "conceded": 87,
+      "won": false,
+      "margin": -18,
+      "gameId": "9487b850"
     }
   ],
   "homeKeyPlayers": [
     {
-      "name": "Levi Owen",
-      "number": "4",
-      "avgPoints": 18.4,
-      "avgThrees": 3.0,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 2.4,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat",
-        "Frequent free throws"
-      ]
-    },
-    {
-      "name": "Max De San Miguel",
-      "number": "8",
-      "avgPoints": 14.2,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 4.8,
-      "avgFouls": 1.5,
-      "gamesAnalysed": 4,
-      "tags": [
-        "Frequent free throws"
-      ]
-    },
-    {
-      "name": "William Galvin",
-      "number": "13",
-      "avgPoints": 8.3,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 1.3,
-      "avgFouls": 3.7,
-      "gamesAnalysed": 3,
-      "tags": [
-        "Physical player"
-      ]
-    },
-    {
-      "name": "Riley Fong",
-      "number": "1",
-      "avgPoints": 7.5,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 2.5,
-      "avgFouls": 1.5,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Jarrad Mongoo",
-      "number": "3",
-      "avgPoints": 7.3,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.3,
-      "avgFouls": 1.7,
-      "gamesAnalysed": 3,
-      "tags": []
-    }
-  ],
-  "awayKeyPlayers": [
-    {
       "name": "Keegan Schrick",
-      "number": "14",
-      "avgPoints": 21.4,
-      "avgThrees": 0.8,
-      "avgFreeThrows": 2.6,
-      "avgFouls": 2.2,
+      "number": "9",
+      "avgPoints": 19.4,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.8,
       "gamesAnalysed": 5,
       "tags": []
     },
@@ -189,28 +130,29 @@
       ]
     },
     {
+      "name": "Jarrod Hodge",
+      "number": "12",
+      "avgPoints": 19.0,
+      "avgThrees": 5.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 5.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
       "name": "Taj Gleeson",
       "number": "4",
-      "avgPoints": 16.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 4.0,
+      "avgPoints": 16.5,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 3.5,
       "avgFouls": 2.2,
       "gamesAnalysed": 4,
       "tags": [
         "Outside threat",
         "Frequent free throws"
-      ]
-    },
-    {
-      "name": "Jarrod Hodge",
-      "number": "12",
-      "avgPoints": 15.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 3.0,
-      "gamesAnalysed": 1,
-      "tags": [
-        "Physical player"
       ]
     },
     {
@@ -226,22 +168,66 @@
       ]
     }
   ],
-  "homeLadder": {
-    "rank": 12,
-    "team": {
-      "id": "e7c4c58e",
-      "name": "Geraldton Buccaneers Open Men"
+  "awayKeyPlayers": [
+    {
+      "name": "Joshua Brabazon",
+      "number": "13",
+      "avgPoints": 20.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
     },
-    "played": 9,
-    "won": 1,
-    "lost": 7,
-    "drawn": 0,
-    "pointsFor": 585,
-    "pointsAgainst": 757,
-    "percentage": 77.28,
-    "competitionPoints": 3
-  },
-  "awayLadder": {
+    {
+      "name": "Aiden Cannington",
+      "number": "6",
+      "avgPoints": 16.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.6,
+      "gamesAnalysed": 5,
+      "tags": []
+    },
+    {
+      "name": "Anai Kuol",
+      "number": "7",
+      "avgPoints": 16.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 4,
+      "tags": []
+    },
+    {
+      "name": "Luke Ogden",
+      "number": "8",
+      "avgPoints": 12.2,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 3.4,
+      "gamesAnalysed": 5,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Mitch Fenton",
+      "number": "5",
+      "avgPoints": 11.2,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "homeLadder": {
     "rank": 2,
     "team": {
       "id": "3e71c2c7",
@@ -255,6 +241,21 @@
     "pointsAgainst": 938,
     "percentage": 114.18,
     "competitionPoints": 18
+  },
+  "awayLadder": {
+    "rank": 14,
+    "team": {
+      "id": "4513e433",
+      "name": "Perth Redbacks Open Men"
+    },
+    "played": 11,
+    "won": 1,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 939,
+    "pointsAgainst": 1056,
+    "percentage": 88.92,
+    "competitionPoints": 2
   },
   "totalTeams": 15,
   "fullLadder": [
@@ -484,6 +485,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T07:24:09.256549",
-  "aiBriefing": "This is a significant mismatch on paper with second-placed Joondalup travelling to face bottom-four Geraldton. The Wolves are in strong form averaging 97 points and sit comfortably in finals contention, while the Buccaneers are struggling at 12th with only one win from eight games and conceding an average of 97 points in recent weeks. The home side's defensive vulnerabilities are evident from their Round 9 blowout loss where they conceded 108 points. Joondalup will be looking to protect their ladder position and percentage, which could lead to frustration from Geraldton if the margin blows out. Watch for home team temperament if they fall behind early, particularly given their poor record and the pressure of playing at home.\n\nPay close attention to Ben Geel from Joondalup who is averaging an extremely high 5.0 fouls per game despite limited data, suggesting aggressive physical play both offensively and defensively. His 5.5 free throw attempts per game indicate he draws contact regularly while attacking. For Geraldton, William Galvin fouls at 3.7 per game despite lower scoring output, indicating he may struggle with defensive positioning or physicality. Levi Owen for the home side and Keegan Schrick for the visitors are their primary offensive weapons and will likely draw defensive attention that could create contact situations. Monitor interactions between these key scorers and their defenders early to set the tone.\n\nExpect a high-scoring game given Joondalup's offensive firepower and Geraldton's defensive struggles. The visitor's recent games show they can put up 100-plus points regularly, while Geraldton has conceded heavily except when they won against Mandurah. The main flashpoint risk is if Geraldton becomes frustrated by a widening margin or perceived lack of calls when trying to defend Joondalup's penetration game, evidenced by the Wolves' high free throw numbers across their key players. Be particularly vigilant in transition where the pace could lead to reaching fouls or frustration fouls from a trailing Geraldton side. Set clear standards early on handchecking and post play to prevent escalation if the game becomes one-sided."
+  "generatedAt": "2026-06-15T07:58:58.592607",
+  "aiBriefing": "This is a significant ladder mismatch with second-placed Joondalup hosting bottom-placed Perth Redbacks. The Wolves are in strong form averaging 98 points with only one loss in their last five, while the Redbacks are winless in their last five but showing competitive spirit with four of those losses being single-digit margins. The ladder gap suggests this should be a comfortable home win, but Perth's recent tight losses indicate they're fighting hard despite their record. This creates a potential frustration scenario if Joondalup expects an easy night and Perth competes beyond expectations.\n\nYour primary concern is fouling tendencies on the home side. Ben Geel averaging 5.0 fouls per game across two appearances is extreme and requires immediate attention from tipoff. Jarrod Hodge also at 5.0 fouls per game in limited action suggests aggressive defensive play from Joondalup's rotation. For Perth, Luke Ogden at 3.4 fouls per game and Mitch Fenton at 3.0 indicate physical play throughout their lineup. Joshua Brabazon at 3.0 fouls per game is their leading scorer at 20 points, so watch for frustration if he picks up early fouls. Establish boundaries early on post defense and perimeter hand-checking given these numbers.\n\nThe scoring patterns suggest a higher-paced game with Joondalup capable of 100-plus performances and Perth averaging 88 but willing to push tempo based on their recent competitive losses. Watch for Perth taking three-point attempts to stay in the game, which may lead to transition situations requiring careful officiating on fast break contact. The physical differential in foul rates suggests Joondalup may defend aggressively at home, particularly if Perth keeps it close into the second half.\n\nKey flashpoint risk is if this game stays competitive longer than Joondalup expects. Monitor frustration from the home team if Perth's recent trend of staying close continues, particularly involving Geel and Hodge who cannot afford their typical foul rates. Conversely, watch Perth players for desperation fouls late if the margin blows out, especially from their higher-fouling rotation players. Set your defensive standards early and maintain consistency throughout to manage what could become chippy if either team's expectations aren't met."
 }

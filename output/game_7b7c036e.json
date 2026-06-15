@@ -11,23 +11,213 @@
   "date": "2026-06-14",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
-  "homeForm": [],
-  "awayForm": [],
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 90,
+      "conceded": 99,
+      "won": false,
+      "margin": -9,
+      "gameId": "2653e9dd"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 69,
+      "conceded": 87,
+      "won": false,
+      "margin": -18,
+      "gameId": "9487b850"
+    },
+    {
+      "round": "Round 4",
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 68,
+      "conceded": 74,
+      "won": false,
+      "margin": -6,
+      "gameId": "a32f5359"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Hills Raiders Open Men",
+      "scored": 97,
+      "conceded": 83,
+      "won": true,
+      "margin": 14,
+      "gameId": "d48763a0"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 80,
+      "conceded": 112,
+      "won": false,
+      "margin": -32,
+      "gameId": "a227e823"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Warwick Senators Open Men",
+      "scored": 91,
+      "conceded": 92,
+      "won": false,
+      "margin": -1,
+      "gameId": "49413c48"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 0,
+      "conceded": 20,
+      "won": false,
+      "margin": -20,
+      "gameId": "bfae7ac2"
+    },
+    {
+      "round": "Round 7",
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 82,
+      "conceded": 88,
+      "won": false,
+      "margin": -6,
+      "gameId": "1a27352c"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Aiden Cannington",
+      "number": "6",
+      "avgPoints": 20.0,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 1.3,
+      "gamesAnalysed": 3,
+      "tags": []
+    },
+    {
+      "name": "Anai Kuol",
+      "number": "7",
+      "avgPoints": 17.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 7.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Joshua Brabazon",
+      "number": "14",
+      "avgPoints": 13.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Mitch Fenton",
+      "number": "5",
+      "avgPoints": 11.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 3.3,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Luke Ogden",
+      "number": "8",
+      "avgPoints": 11.0,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Dean Supljeglav",
+      "number": "9",
+      "avgPoints": 23.0,
+      "avgThrees": 5.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.5,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Leon Maguire",
+      "number": "7",
+      "avgPoints": 20.0,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 4,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Lowell Jude Christopher",
+      "number": "14",
+      "avgPoints": 18.3,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.7,
+      "gamesAnalysed": 3,
+      "tags": []
+    },
+    {
+      "name": "Peter Thuch",
+      "number": "10",
+      "avgPoints": 16.7,
+      "avgThrees": 3.3,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 3,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Daniel Dech",
+      "number": "11",
+      "avgPoints": 10.2,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 2.8,
+      "gamesAnalysed": 4,
+      "tags": []
+    }
+  ],
   "homeLadder": {
     "rank": 14,
     "team": {
       "id": "4513e433",
       "name": "Perth Redbacks Open Men"
     },
-    "played": 10,
+    "played": 11,
     "won": 1,
-    "lost": 9,
+    "lost": 10,
     "drawn": 0,
-    "pointsFor": 833,
-    "pointsAgainst": 946,
-    "percentage": 88.05,
+    "pointsFor": 939,
+    "pointsAgainst": 1056,
+    "percentage": 88.92,
     "competitionPoints": 2
   },
   "awayLadder": {
@@ -36,14 +226,14 @@
       "id": "62b22846",
       "name": "Rockingham Flames Open Men"
     },
-    "played": 9,
-    "won": 3,
+    "played": 10,
+    "won": 4,
     "lost": 5,
     "drawn": 0,
-    "pointsFor": 697,
-    "pointsAgainst": 773,
-    "percentage": 90.17,
-    "competitionPoints": 6
+    "pointsFor": 807,
+    "pointsAgainst": 879,
+    "percentage": 91.81,
+    "competitionPoints": 8
   },
   "totalTeams": 15,
   "fullLadder": [
@@ -53,43 +243,43 @@
         "id": "40c147e2",
         "name": "Lakeside Lightning Open Men"
       },
-      "played": 11,
-      "won": 9,
+      "played": 12,
+      "won": 10,
       "lost": 2,
       "drawn": 0,
-      "pointsFor": 1068,
-      "pointsAgainst": 881,
-      "percentage": 121.23,
-      "competitionPoints": 18
+      "pointsFor": 1134,
+      "pointsAgainst": 945,
+      "percentage": 120,
+      "competitionPoints": 20
     },
     {
       "rank": 2,
       "team": {
-        "id": "71311462",
-        "name": "Willetton Tigers Open Men"
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
       },
-      "played": 9,
-      "won": 8,
-      "lost": 1,
+      "played": 11,
+      "won": 9,
+      "lost": 2,
       "drawn": 0,
-      "pointsFor": 790,
-      "pointsAgainst": 635,
-      "percentage": 124.41,
-      "competitionPoints": 16
+      "pointsFor": 1071,
+      "pointsAgainst": 938,
+      "percentage": 114.18,
+      "competitionPoints": 18
     },
     {
       "rank": 3,
       "team": {
-        "id": "3e71c2c7",
-        "name": "Joondalup Wolves Open Men"
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
       },
       "played": 10,
       "won": 8,
       "lost": 2,
       "drawn": 0,
-      "pointsFor": 976,
-      "pointsAgainst": 870,
-      "percentage": 112.18,
+      "pointsFor": 854,
+      "pointsAgainst": 701,
+      "percentage": 121.83,
       "competitionPoints": 16
     },
     {
@@ -98,14 +288,14 @@
         "id": "bc3edf90",
         "name": "Cockburn Cougars Open Men"
       },
-      "played": 10,
-      "won": 6,
+      "played": 11,
+      "won": 7,
       "lost": 3,
       "drawn": 0,
-      "pointsFor": 722,
-      "pointsAgainst": 666,
-      "percentage": 108.41,
-      "competitionPoints": 13
+      "pointsFor": 810,
+      "pointsAgainst": 748,
+      "percentage": 108.29,
+      "competitionPoints": 15
     },
     {
       "rank": 5,
@@ -113,14 +303,14 @@
         "id": "f97426c2",
         "name": "East Perth Eagles Open Men"
       },
-      "played": 10,
-      "won": 6,
+      "played": 11,
+      "won": 7,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 1000,
-      "pointsAgainst": 857,
-      "percentage": 116.69,
-      "competitionPoints": 12
+      "pointsFor": 1117,
+      "pointsAgainst": 970,
+      "percentage": 115.15,
+      "competitionPoints": 14
     },
     {
       "rank": 6,
@@ -128,28 +318,28 @@
         "id": "e1b87db3",
         "name": "Warwick Senators Open Men"
       },
-      "played": 9,
-      "won": 6,
+      "played": 10,
+      "won": 7,
       "lost": 3,
       "drawn": 0,
-      "pointsFor": 857,
-      "pointsAgainst": 818,
-      "percentage": 104.77,
-      "competitionPoints": 12
+      "pointsFor": 948,
+      "pointsAgainst": 885,
+      "percentage": 107.12,
+      "competitionPoints": 14
     },
     {
       "rank": 7,
       "team": {
-        "id": "d71c80de",
-        "name": "Mandurah Magic Open Men"
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 6,
-      "lost": 4,
+      "lost": 5,
       "drawn": 0,
-      "pointsFor": 949,
-      "pointsAgainst": 973,
-      "percentage": 97.53,
+      "pointsFor": 1080,
+      "pointsAgainst": 956,
+      "percentage": 112.97,
       "competitionPoints": 12
     },
     {
@@ -158,29 +348,29 @@
         "id": "89351f76",
         "name": "Eastern Suns Open Men"
       },
-      "played": 9,
-      "won": 5,
+      "played": 10,
+      "won": 6,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 834,
-      "pointsAgainst": 806,
-      "percentage": 103.47,
-      "competitionPoints": 10
+      "pointsFor": 952,
+      "pointsAgainst": 899,
+      "percentage": 105.9,
+      "competitionPoints": 12
     },
     {
       "rank": 9,
       "team": {
-        "id": "1dca5744",
-        "name": "Perry Lakes Hawks Open Men"
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
       },
-      "played": 10,
-      "won": 5,
+      "played": 11,
+      "won": 6,
       "lost": 5,
       "drawn": 0,
-      "pointsFor": 961,
-      "pointsAgainst": 872,
-      "percentage": 110.21,
-      "competitionPoints": 10
+      "pointsFor": 1033,
+      "pointsAgainst": 1092,
+      "percentage": 94.6,
+      "competitionPoints": 12
     },
     {
       "rank": 10,
@@ -188,13 +378,13 @@
         "id": "7f7da657",
         "name": "South West Slammers Open Men"
       },
-      "played": 9,
+      "played": 11,
       "won": 4,
-      "lost": 4,
+      "lost": 6,
       "drawn": 0,
-      "pointsFor": 669,
-      "pointsAgainst": 668,
-      "percentage": 100.15,
+      "pointsFor": 875,
+      "pointsAgainst": 903,
+      "percentage": 96.9,
       "competitionPoints": 9
     },
     {
@@ -203,14 +393,14 @@
         "id": "62b22846",
         "name": "Rockingham Flames Open Men"
       },
-      "played": 9,
-      "won": 3,
+      "played": 10,
+      "won": 4,
       "lost": 5,
       "drawn": 0,
-      "pointsFor": 697,
-      "pointsAgainst": 773,
-      "percentage": 90.17,
-      "competitionPoints": 6
+      "pointsFor": 807,
+      "pointsAgainst": 879,
+      "percentage": 91.81,
+      "competitionPoints": 8
     },
     {
       "rank": 12,
@@ -218,13 +408,13 @@
         "id": "e7c4c58e",
         "name": "Geraldton Buccaneers Open Men"
       },
-      "played": 8,
+      "played": 9,
       "won": 1,
-      "lost": 6,
+      "lost": 7,
       "drawn": 0,
-      "pointsFor": 517,
-      "pointsAgainst": 662,
-      "percentage": 78.1,
+      "pointsFor": 585,
+      "pointsAgainst": 757,
+      "percentage": 77.28,
       "competitionPoints": 3
     },
     {
@@ -233,13 +423,13 @@
         "id": "15229133",
         "name": "Goldfields Giants Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 1,
-      "lost": 8,
+      "lost": 9,
       "drawn": 0,
-      "pointsFor": 734,
-      "pointsAgainst": 923,
-      "percentage": 79.52,
+      "pointsFor": 801,
+      "pointsAgainst": 1014,
+      "percentage": 78.99,
       "competitionPoints": 3
     },
     {
@@ -248,13 +438,13 @@
         "id": "4513e433",
         "name": "Perth Redbacks Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 1,
-      "lost": 9,
+      "lost": 10,
       "drawn": 0,
-      "pointsFor": 833,
-      "pointsAgainst": 946,
-      "percentage": 88.05,
+      "pointsFor": 939,
+      "pointsAgainst": 1056,
+      "percentage": 88.92,
       "competitionPoints": 2
     },
     {
@@ -263,16 +453,16 @@
         "id": "723e41ce",
         "name": "Hills Raiders Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 1,
-      "lost": 9,
+      "lost": 10,
       "drawn": 0,
-      "pointsFor": 754,
-      "pointsAgainst": 1011,
-      "percentage": 74.58,
+      "pointsFor": 836,
+      "pointsAgainst": 1099,
+      "percentage": 76.07,
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T10:03:48.945094",
-  "aiBriefing": "**PRE-GAME BRIEFING**\n\nThis is a Round 12 match between two teams in the lower half of the ladder, with Rockingham Flames (11th, 3-5) holding a slight edge over Perth Redbacks (14th, 1-9). For Perth, this is a crucial game as they're second from bottom with only one win all season, making this close to a must-win situation at home. Rockingham will be looking to consolidate their position and push toward mid-table. The desperation factor from Perth could elevate intensity levels, particularly in the second half if the game is close. Both teams have similar scoring percentages (88% vs 90.2%), suggesting relatively even offensive output, so expect a competitive contest rather than a blowout.\n\nWithout available form data or key player information, your focus should be on establishing control early and setting clear standards for physicality. Teams at this level and ladder position often play with heightened emotion, particularly the home side fighting to avoid further losses. Watch for frustration fouls from Perth if they fall behind, and potential complacency from Rockingham if they build a lead. Pay attention to the first few possessions to identify any players showing excessive physicality or emotional play, as these will be your management priorities throughout the game.\n\nGiven Perth's poor record, there's potential for this game to become chippy if they struggle, especially at home where they may feel added pressure to perform. Monitor transition defense closely as tired or frustrated players often commit reach-in fouls or take poor angles leading to blocking fouls. Be prepared for possible bench reactions if the game gets tight in the fourth quarter. Set a consistent tone early on hand-checking and post play physicality to prevent escalation later. Standard game management should suffice, but stay alert to momentum shifts that could trigger frustration from either side."
+  "generatedAt": "2026-06-15T07:30:12.510870",
+  "aiBriefing": "This is a mid-table versus bottom-of-ladder matchup with Perth Redbacks sitting 14th with only one win all season, while Rockingham sits 11th but still in striking distance of middle positions. Perth has been competitive in recent losses with margins of 6, 9, and 18 points, averaging 76 scored but conceding 87, while Rockingham is inconsistent, coming off a strong 97-83 win after a 32-point blowout loss. Perth desperately needs wins to avoid finishing last, while Rockingham needs consistency to maintain mid-table positioning. This creates potential for Perth to play with desperation and urgency, which could lead to aggressive defensive play and frustration fouls as the game progresses if they fall behind.\n\nFocus immediate attention on Anai Kuol from Perth, who committed an alarming 7 fouls in his single recorded game, suggesting either very aggressive defense or poor discipline that needs early management. Mitch Fenton and Luke Ogden both average 3-plus fouls per game for Perth, indicating a physically aggressive team approach. For Rockingham, Leon Maguire gets to the free throw line frequently at 5 attempts per game and averages 2.8 fouls, while Daniel Dech and Lowell Jude Christopher also sit near 3 fouls per game. Watch the matchups between Perth's high-foul players and Rockingham's free throw generators, particularly Kuol and Fenton defending against Maguire.\n\nExpect a physical contest as Perth's desperation meets their foul-prone tendencies. The scoring pattern suggests a moderate-paced game with Perth capable of reaching mid-70s and Rockingham in the 70-80 range based on recent averages, though Rockingham showed they can explode for 97 points. The key flashpoint will be if Perth falls behind by double digits in the second half, as frustration from their winless streak could manifest in harder fouls and complaints. Rockingham's Round 8 forfeit result against Willetton also suggests possible roster or administrative issues worth noting. Be prepared to manage Perth's physicality early and consistently to prevent the game from deteriorating if competitive balance tilts heavily toward the visitors."
 }

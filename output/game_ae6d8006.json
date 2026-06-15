@@ -228,28 +228,28 @@
       "id": "c2a9f291",
       "name": "Perry Lakes Hawks Open Women"
     },
-    "played": 10,
-    "won": 6,
+    "played": 11,
+    "won": 7,
     "lost": 4,
     "drawn": 0,
-    "pointsFor": 727,
-    "pointsAgainst": 701,
-    "percentage": 103.71,
-    "competitionPoints": 12
+    "pointsFor": 811,
+    "pointsAgainst": 768,
+    "percentage": 105.6,
+    "competitionPoints": 14
   },
   "awayLadder": {
-    "rank": 7,
+    "rank": 8,
     "team": {
       "id": "df0576c9",
       "name": "Mandurah Magic Open Women"
     },
-    "played": 9,
+    "played": 10,
     "won": 5,
-    "lost": 4,
+    "lost": 5,
     "drawn": 0,
-    "pointsFor": 600,
-    "pointsAgainst": 655,
-    "percentage": 91.6,
+    "pointsFor": 667,
+    "pointsAgainst": 739,
+    "percentage": 90.26,
     "competitionPoints": 10
   },
   "totalTeams": 14,
@@ -260,14 +260,14 @@
         "id": "e1b09dc1",
         "name": "Cockburn Cougars Open Women"
       },
-      "played": 9,
-      "won": 9,
+      "played": 10,
+      "won": 10,
       "lost": 0,
       "drawn": 0,
-      "pointsFor": 691,
-      "pointsAgainst": 433,
-      "percentage": 159.58,
-      "competitionPoints": 18
+      "pointsFor": 780,
+      "pointsAgainst": 490,
+      "percentage": 159.18,
+      "competitionPoints": 20
     },
     {
       "rank": 2,
@@ -275,14 +275,14 @@
         "id": "c0e9962c",
         "name": "Warwick Senators Open Women"
       },
-      "played": 9,
-      "won": 8,
+      "played": 10,
+      "won": 9,
       "lost": 1,
       "drawn": 0,
-      "pointsFor": 680,
-      "pointsAgainst": 508,
-      "percentage": 133.86,
-      "competitionPoints": 16
+      "pointsFor": 774,
+      "pointsAgainst": 558,
+      "percentage": 138.71,
+      "competitionPoints": 18
     },
     {
       "rank": 3,
@@ -290,14 +290,14 @@
         "id": "c2a9f291",
         "name": "Perry Lakes Hawks Open Women"
       },
-      "played": 10,
-      "won": 6,
+      "played": 11,
+      "won": 7,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 727,
-      "pointsAgainst": 701,
-      "percentage": 103.71,
-      "competitionPoints": 12
+      "pointsFor": 811,
+      "pointsAgainst": 768,
+      "percentage": 105.6,
+      "competitionPoints": 14
     },
     {
       "rank": 4,
@@ -305,14 +305,14 @@
         "id": "e3c6519d",
         "name": "Eastern Suns Open Women"
       },
-      "played": 9,
-      "won": 6,
+      "played": 10,
+      "won": 7,
       "lost": 3,
       "drawn": 0,
-      "pointsFor": 644,
-      "pointsAgainst": 619,
-      "percentage": 104.04,
-      "competitionPoints": 12
+      "pointsFor": 727,
+      "pointsAgainst": 650,
+      "percentage": 111.85,
+      "competitionPoints": 14
     },
     {
       "rank": 5,
@@ -320,14 +320,14 @@
         "id": "4711ee17",
         "name": "Willetton Tigers Open Women"
       },
-      "played": 9,
-      "won": 5,
+      "played": 10,
+      "won": 6,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 674,
-      "pointsAgainst": 599,
-      "percentage": 112.52,
-      "competitionPoints": 10
+      "pointsFor": 736,
+      "pointsAgainst": 656,
+      "percentage": 112.2,
+      "competitionPoints": 12
     },
     {
       "rank": 6,
@@ -347,91 +347,91 @@
     {
       "rank": 7,
       "team": {
-        "id": "df0576c9",
-        "name": "Mandurah Magic Open Women"
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 5,
-      "lost": 4,
+      "lost": 5,
       "drawn": 0,
-      "pointsFor": 600,
-      "pointsAgainst": 655,
-      "percentage": 91.6,
+      "pointsFor": 697,
+      "pointsAgainst": 662,
+      "percentage": 105.29,
       "competitionPoints": 10
     },
     {
       "rank": 8,
       "team": {
-        "id": "d1e95111",
-        "name": "Lakeside Lightning Open Women"
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
       },
-      "played": 9,
-      "won": 4,
+      "played": 10,
+      "won": 5,
       "lost": 5,
       "drawn": 0,
-      "pointsFor": 673,
-      "pointsAgainst": 592,
-      "percentage": 113.68,
-      "competitionPoints": 8
+      "pointsFor": 667,
+      "pointsAgainst": 739,
+      "percentage": 90.26,
+      "competitionPoints": 10
     },
     {
       "rank": 9,
       "team": {
-        "id": "9412b6df",
-        "name": "East Perth Eagles Open Women"
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 4,
-      "lost": 5,
+      "lost": 6,
       "drawn": 0,
-      "pointsFor": 610,
-      "pointsAgainst": 627,
-      "percentage": 97.29,
+      "pointsFor": 685,
+      "pointsAgainst": 708,
+      "percentage": 96.75,
       "competitionPoints": 8
     },
     {
       "rank": 10,
       "team": {
-        "id": "f59c210e",
-        "name": "Rockingham Flames Open Women"
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
       },
-      "played": 9,
-      "won": 3,
+      "played": 10,
+      "won": 4,
       "lost": 6,
       "drawn": 0,
-      "pointsFor": 598,
-      "pointsAgainst": 733,
-      "percentage": 81.58,
-      "competitionPoints": 6
+      "pointsFor": 730,
+      "pointsAgainst": 654,
+      "percentage": 111.62,
+      "competitionPoints": 8
     },
     {
       "rank": 11,
       "team": {
-        "id": "a3ba0f8c",
-        "name": "Hills Raiders Open Women"
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 3,
-      "lost": 6,
+      "lost": 7,
       "drawn": 0,
-      "pointsFor": 652,
-      "pointsAgainst": 664,
-      "percentage": 98.19,
+      "pointsFor": 663,
+      "pointsAgainst": 820,
+      "percentage": 80.85,
       "competitionPoints": 6
     },
     {
       "rank": 12,
       "team": {
-        "id": "61d2809b",
-        "name": "Perth Redbacks Open Women"
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 3,
-      "lost": 6,
+      "lost": 7,
       "drawn": 0,
-      "pointsFor": 598,
-      "pointsAgainst": 643,
-      "percentage": 93,
+      "pointsFor": 709,
+      "pointsAgainst": 753,
+      "percentage": 94.16,
       "competitionPoints": 6
     },
     {
@@ -440,13 +440,13 @@
         "id": "5fae0642",
         "name": "Goldfields Giants Open Women"
       },
-      "played": 8,
+      "played": 9,
       "won": 1,
-      "lost": 7,
+      "lost": 8,
       "drawn": 0,
-      "pointsFor": 472,
-      "pointsAgainst": 734,
-      "percentage": 64.31,
+      "pointsFor": 522,
+      "pointsAgainst": 828,
+      "percentage": 63.04,
       "competitionPoints": 2
     },
     {
@@ -455,16 +455,16 @@
         "id": "0c03bb8b",
         "name": "South West Slammers Open Women"
       },
-      "played": 8,
+      "played": 10,
       "won": 1,
-      "lost": 6,
+      "lost": 8,
       "drawn": 0,
-      "pointsFor": 379,
-      "pointsAgainst": 539,
-      "percentage": 70.32,
+      "pointsFor": 445,
+      "pointsAgainst": 709,
+      "percentage": 62.76,
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T10:21:36.023638",
-  "aiBriefing": "This is a significant mid-table clash between third-placed Perry Lakes on a five-game winning streak and seventh-placed Mandurah looking to keep pace. Perry Lakes is in dominant form, averaging 81 points and winning by an average margin of 19 points during their streak, while Mandurah plays tighter contests with an average margin of just 5 points and several close finishes including an 89-87 win in Round 9. The ladder positioning and contrasting form suggests Perry Lakes will look to impose their tempo early, while Mandurah needs a result to stay in touch with the top four, creating natural tension and competitive intensity.\n\nWatch Mandurah's Kenzie du Bois closely as she leads her team in fouls at 3.6 per game, suggesting aggressive defense or positioning issues that will need monitoring. Perry Lakes' Emie Stein also fouls at 2.3 per game despite limited minutes. The key offensive matchup involves Perry Lakes' Nicola Moore who shoots heavily from three versus Mandurah's Georgia Adams who attacks the basket frequently with 8 free throw attempts per game. Adams and Hannah Chatfield both get to the line regularly, so expect post play and drives requiring close positioning calls. Sydney Meares also draws 5 free throws per game, indicating Mandurah's offensive strategy relies heavily on penetration and contact.\n\nThe scoring differential is crucial here. Perry Lakes scores 10 points more per game than Mandurah and has been demolishing teams, while Mandurah grinds out wins and just suffered a 23-point loss to Warwick. If Perry Lakes builds a lead, watch for Mandurah's frustration levels and potential escalation in physicality as they try to disrupt rhythm. Conversely, if Mandurah keeps it close as they typically do, expect deliberate fouling tactics and free throw pressure in the final minutes. The significant gap in scoring ability versus Mandurah's need to slow the game down suggests this could become physical, particularly in transition defense and on drives to the basket where Mandurah generates most of their offense."
+  "generatedAt": "2026-06-15T07:33:33.894929",
+  "aiBriefing": "This is a significant matchup between third-placed Perry Lakes and eighth-placed Mandurah, with Perry Lakes riding a dominant five-game winning streak averaging 81 points while holding opponents to just 62. Mandurah has also been playing well at 4-1 in their last five, but they score less (71 ppg) and concede more (66 ppg). Perry Lakes will be heavily favored at home and likely looking to maintain their momentum toward finals, while Mandurah needs this win to strengthen their top-eight position. Expect Perry Lakes to push the tempo and try to blow this open early, which could lead to frustration from Mandurah if they fall behind.\n\nKey players to monitor include Perry Lakes' Nicola Moore, who is scoring 22 ppg but remarkably only commits one foul per game despite her heavy involvement, and Emma Clark at 16.4 ppg. For Mandurah, Georgia Adams is their engine at 23 ppg with very high free throw attempts (8 per game), suggesting she attacks the basket aggressively and draws contact. Hannah Chatfield also gets to the line frequently at 4.3 attempts per game. The foul trouble concern is Mandurah's Kenzie du Bois at 3.6 fouls per game, who will need careful management to stay on the court. Perry Lakes' Emie Stein also fouls at 2.3 per game in limited sample size.\n\nWatch for physical play around the basket given Mandurah's reliance on Adams and Chatfield driving for fouls. With Adams averaging eight free throws per game, there will be scrutiny on how contact is called in the paint, especially if Perry Lakes tries to slow her down physically. If Mandurah falls behind by double digits, monitor their frustration levels and potential reaching fouls as they try to extend possessions defensively. The scoring differential suggests Perry Lakes could run away with this, but Mandurah has shown they can win close games (89-87 in Round 9), so if it stays tight in the fourth quarter, expect increased intensity and potential chippy play as both teams fight for position. Be sharp on block-charge situations with Adams attacking and establish consistency early on post defense given the contrasting styles."
 }

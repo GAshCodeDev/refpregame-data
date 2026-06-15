@@ -13,15 +13,6 @@
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 10",
-      "opponent": "Cockburn Cougars Open Women",
-      "scored": 0,
-      "conceded": 20,
-      "won": false,
-      "margin": -20,
-      "gameId": "e7fce691"
-    },
-    {
       "round": "Round 9",
       "opponent": "Hills Raiders Open Women",
       "scored": 51,
@@ -47,9 +38,27 @@
       "won": true,
       "margin": 8,
       "gameId": "8e0ae50d"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 46,
+      "conceded": 100,
+      "won": false,
+      "margin": -54,
+      "gameId": "cd884e9e"
     }
   ],
   "awayForm": [
+    {
+      "round": "Round 11",
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 66,
+      "conceded": 78,
+      "won": false,
+      "margin": -12,
+      "gameId": "c63b00ca"
+    },
     {
       "round": "Round 10",
       "opponent": "Perth Redbacks Open Women",
@@ -85,18 +94,21 @@
       "won": false,
       "margin": -55,
       "gameId": "36535970"
-    },
-    {
-      "round": "Round 5",
-      "opponent": "Willetton Tigers Open Women",
-      "scored": 88,
-      "conceded": 74,
-      "won": true,
-      "margin": 14,
-      "gameId": "995328e8"
     }
   ],
   "homeKeyPlayers": [
+    {
+      "name": "Ella Edwards",
+      "number": "1",
+      "avgPoints": 14.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 5.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
     {
       "name": "Charlotte Mills",
       "number": "20",
@@ -110,24 +122,25 @@
     {
       "name": "Mia Anderson",
       "number": "15",
-      "avgPoints": 9.7,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 4.0,
+      "avgPoints": 9.5,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 4.2,
       "avgFouls": 1.0,
-      "gamesAnalysed": 3,
+      "gamesAnalysed": 4,
       "tags": [
         "Frequent free throws"
       ]
     },
     {
-      "name": "Olivia Hawkins",
-      "number": "4",
+      "name": "Charlotte Lofgren",
+      "number": "10",
       "avgPoints": 8.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 7.0,
-      "gamesAnalysed": 1,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.8,
+      "gamesAnalysed": 4,
       "tags": [
+        "Frequent free throws",
         "Physical player"
       ]
     },
@@ -142,26 +155,16 @@
       "tags": [
         "Physical player"
       ]
-    },
-    {
-      "name": "Meisha Norman",
-      "number": "7",
-      "avgPoints": 7.7,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 0.7,
-      "avgFouls": 1.7,
-      "gamesAnalysed": 3,
-      "tags": []
     }
   ],
   "awayKeyPlayers": [
     {
       "name": "Alyssa Bowen",
       "number": "9",
-      "avgPoints": 20.2,
-      "avgThrees": 2.2,
+      "avgPoints": 20.0,
+      "avgThrees": 2.0,
       "avgFreeThrows": 3.0,
-      "avgFouls": 2.8,
+      "avgFouls": 2.2,
       "gamesAnalysed": 4,
       "tags": [
         "Outside threat",
@@ -171,20 +174,32 @@
     {
       "name": "Denae Civich",
       "number": "5",
-      "avgPoints": 13.0,
-      "avgThrees": 1.4,
-      "avgFreeThrows": 2.8,
+      "avgPoints": 13.6,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 3.8,
       "avgFouls": 2.8,
       "gamesAnalysed": 5,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Grace O'Meara Smith",
+      "number": "15",
+      "avgPoints": 12.0,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 2.3,
+      "gamesAnalysed": 3,
       "tags": []
     },
     {
       "name": "Aisha Forrest",
       "number": "6",
-      "avgPoints": 12.2,
-      "avgThrees": 3.2,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 3.5,
+      "avgPoints": 10.0,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 3.2,
       "gamesAnalysed": 4,
       "tags": [
         "Outside threat",
@@ -192,23 +207,13 @@
       ]
     },
     {
-      "name": "Grace O'Meara Smith",
-      "number": "15",
-      "avgPoints": 9.5,
+      "name": "Jemma Gartrell",
+      "number": "12",
+      "avgPoints": 9.0,
       "avgThrees": 1.2,
-      "avgFreeThrows": 0.2,
-      "avgFouls": 2.0,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 1.2,
       "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Skye Thomas",
-      "number": "7",
-      "avgPoints": 8.0,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 1.0,
-      "avgFouls": 2.3,
-      "gamesAnalysed": 3,
       "tags": []
     }
   ],
@@ -218,13 +223,13 @@
       "id": "0c03bb8b",
       "name": "South West Slammers Open Women"
     },
-    "played": 8,
+    "played": 10,
     "won": 1,
-    "lost": 6,
+    "lost": 8,
     "drawn": 0,
-    "pointsFor": 379,
-    "pointsAgainst": 539,
-    "percentage": 70.32,
+    "pointsFor": 445,
+    "pointsAgainst": 709,
+    "percentage": 62.76,
     "competitionPoints": 2
   },
   "awayLadder": {
@@ -233,14 +238,14 @@
       "id": "e3c6519d",
       "name": "Eastern Suns Open Women"
     },
-    "played": 9,
-    "won": 6,
+    "played": 10,
+    "won": 7,
     "lost": 3,
     "drawn": 0,
-    "pointsFor": 644,
-    "pointsAgainst": 619,
-    "percentage": 104.04,
-    "competitionPoints": 12
+    "pointsFor": 727,
+    "pointsAgainst": 650,
+    "percentage": 111.85,
+    "competitionPoints": 14
   },
   "totalTeams": 14,
   "fullLadder": [
@@ -250,14 +255,14 @@
         "id": "e1b09dc1",
         "name": "Cockburn Cougars Open Women"
       },
-      "played": 9,
-      "won": 9,
+      "played": 10,
+      "won": 10,
       "lost": 0,
       "drawn": 0,
-      "pointsFor": 691,
-      "pointsAgainst": 433,
-      "percentage": 159.58,
-      "competitionPoints": 18
+      "pointsFor": 780,
+      "pointsAgainst": 490,
+      "percentage": 159.18,
+      "competitionPoints": 20
     },
     {
       "rank": 2,
@@ -265,14 +270,14 @@
         "id": "c0e9962c",
         "name": "Warwick Senators Open Women"
       },
-      "played": 9,
-      "won": 8,
+      "played": 10,
+      "won": 9,
       "lost": 1,
       "drawn": 0,
-      "pointsFor": 680,
-      "pointsAgainst": 508,
-      "percentage": 133.86,
-      "competitionPoints": 16
+      "pointsFor": 774,
+      "pointsAgainst": 558,
+      "percentage": 138.71,
+      "competitionPoints": 18
     },
     {
       "rank": 3,
@@ -280,14 +285,14 @@
         "id": "c2a9f291",
         "name": "Perry Lakes Hawks Open Women"
       },
-      "played": 10,
-      "won": 6,
+      "played": 11,
+      "won": 7,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 727,
-      "pointsAgainst": 701,
-      "percentage": 103.71,
-      "competitionPoints": 12
+      "pointsFor": 811,
+      "pointsAgainst": 768,
+      "percentage": 105.6,
+      "competitionPoints": 14
     },
     {
       "rank": 4,
@@ -295,14 +300,14 @@
         "id": "e3c6519d",
         "name": "Eastern Suns Open Women"
       },
-      "played": 9,
-      "won": 6,
+      "played": 10,
+      "won": 7,
       "lost": 3,
       "drawn": 0,
-      "pointsFor": 644,
-      "pointsAgainst": 619,
-      "percentage": 104.04,
-      "competitionPoints": 12
+      "pointsFor": 727,
+      "pointsAgainst": 650,
+      "percentage": 111.85,
+      "competitionPoints": 14
     },
     {
       "rank": 5,
@@ -310,14 +315,14 @@
         "id": "4711ee17",
         "name": "Willetton Tigers Open Women"
       },
-      "played": 9,
-      "won": 5,
+      "played": 10,
+      "won": 6,
       "lost": 4,
       "drawn": 0,
-      "pointsFor": 674,
-      "pointsAgainst": 599,
-      "percentage": 112.52,
-      "competitionPoints": 10
+      "pointsFor": 736,
+      "pointsAgainst": 656,
+      "percentage": 112.2,
+      "competitionPoints": 12
     },
     {
       "rank": 6,
@@ -337,91 +342,91 @@
     {
       "rank": 7,
       "team": {
-        "id": "df0576c9",
-        "name": "Mandurah Magic Open Women"
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 5,
-      "lost": 4,
+      "lost": 5,
       "drawn": 0,
-      "pointsFor": 600,
-      "pointsAgainst": 655,
-      "percentage": 91.6,
+      "pointsFor": 697,
+      "pointsAgainst": 662,
+      "percentage": 105.29,
       "competitionPoints": 10
     },
     {
       "rank": 8,
       "team": {
-        "id": "d1e95111",
-        "name": "Lakeside Lightning Open Women"
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
       },
-      "played": 9,
-      "won": 4,
+      "played": 10,
+      "won": 5,
       "lost": 5,
       "drawn": 0,
-      "pointsFor": 673,
-      "pointsAgainst": 592,
-      "percentage": 113.68,
-      "competitionPoints": 8
+      "pointsFor": 667,
+      "pointsAgainst": 739,
+      "percentage": 90.26,
+      "competitionPoints": 10
     },
     {
       "rank": 9,
       "team": {
-        "id": "9412b6df",
-        "name": "East Perth Eagles Open Women"
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 4,
-      "lost": 5,
+      "lost": 6,
       "drawn": 0,
-      "pointsFor": 610,
-      "pointsAgainst": 627,
-      "percentage": 97.29,
+      "pointsFor": 685,
+      "pointsAgainst": 708,
+      "percentage": 96.75,
       "competitionPoints": 8
     },
     {
       "rank": 10,
       "team": {
-        "id": "f59c210e",
-        "name": "Rockingham Flames Open Women"
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
       },
-      "played": 9,
-      "won": 3,
+      "played": 10,
+      "won": 4,
       "lost": 6,
       "drawn": 0,
-      "pointsFor": 598,
-      "pointsAgainst": 733,
-      "percentage": 81.58,
-      "competitionPoints": 6
+      "pointsFor": 730,
+      "pointsAgainst": 654,
+      "percentage": 111.62,
+      "competitionPoints": 8
     },
     {
       "rank": 11,
       "team": {
-        "id": "a3ba0f8c",
-        "name": "Hills Raiders Open Women"
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 3,
-      "lost": 6,
+      "lost": 7,
       "drawn": 0,
-      "pointsFor": 652,
-      "pointsAgainst": 664,
-      "percentage": 98.19,
+      "pointsFor": 663,
+      "pointsAgainst": 820,
+      "percentage": 80.85,
       "competitionPoints": 6
     },
     {
       "rank": 12,
       "team": {
-        "id": "61d2809b",
-        "name": "Perth Redbacks Open Women"
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
       },
-      "played": 9,
+      "played": 10,
       "won": 3,
-      "lost": 6,
+      "lost": 7,
       "drawn": 0,
-      "pointsFor": 598,
-      "pointsAgainst": 643,
-      "percentage": 93,
+      "pointsFor": 709,
+      "pointsAgainst": 753,
+      "percentage": 94.16,
       "competitionPoints": 6
     },
     {
@@ -430,13 +435,13 @@
         "id": "5fae0642",
         "name": "Goldfields Giants Open Women"
       },
-      "played": 8,
+      "played": 9,
       "won": 1,
-      "lost": 7,
+      "lost": 8,
       "drawn": 0,
-      "pointsFor": 472,
-      "pointsAgainst": 734,
-      "percentage": 64.31,
+      "pointsFor": 522,
+      "pointsAgainst": 828,
+      "percentage": 63.04,
       "competitionPoints": 2
     },
     {
@@ -445,16 +450,16 @@
         "id": "0c03bb8b",
         "name": "South West Slammers Open Women"
       },
-      "played": 8,
+      "played": 10,
       "won": 1,
-      "lost": 6,
+      "lost": 8,
       "drawn": 0,
-      "pointsFor": 379,
-      "pointsAgainst": 539,
-      "percentage": 70.32,
+      "pointsFor": 445,
+      "pointsAgainst": 709,
+      "percentage": 62.76,
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-13T10:23:43.205126",
-  "aiBriefing": "This is a significant mismatch between the bottom-placed Slammers at home and the fourth-placed Eastern Suns. The Slammers are struggling badly this season with only one win and recently suffered a shocking 0-20 forfeit or blowout loss. They average just 40 points per game while conceding 58, indicating limited offensive capability and defensive struggles. Eastern Suns are in playoff contention averaging 69 points scored, and despite some inconsistency including a 55-point loss in Round 6, they've won three of their last five. The lopsided nature of this matchup creates referee concerns around frustration fouls from the home team and potential blowout management issues.\n\nKey players requiring close attention include Olivia Hawkins from the Slammers who averaged 7.0 fouls per game in limited data, suggesting overly physical or undisciplined play that needs immediate monitoring. Aisha Forrest from Eastern Suns also shows elevated foul tendencies at 3.5 per game, the highest among regular contributors. Eastern Suns' scoring leader Alyssa Bowen at 20.2 points per game will likely draw defensive attention and potential frustration fouls as the Slammers struggle to contain her. Charlotte Mills and Asha Dorricott from the Slammers both wear number 20, so confirm jersey clarity pre-game to avoid scoring and foul trouble confusion.\n\nThe primary flashpoint risk comes from competitive imbalance and home team frustration. If Eastern Suns jump out early, watch for the Slammers becoming overly physical out of desperation or discouragement, particularly in transition defense where they may resort to reaching and grabbing. The Slammers' recent 0-20 result suggests potential roster or morale issues that could manifest as lack of discipline. Conversely, if Eastern Suns build a large lead, monitor for complacency fouls or unnecessary physical play. The free throw differential will likely favor Eastern Suns given their superior offensive execution, so be prepared to manage any perception of bias from the home team and crowd.\n\nExpect this to be a higher-scoring game for Eastern Suns but low-scoring for the Slammers based on seasonal averages. This isn't likely to be intensely competitive, so focus on maintaining game control and player safety rather than playoff-intensity officiating. Keep the game flowing but don't let physicality escalate if frustration sets in. Be particularly vigilant in the second half if the margin becomes lopsided, as this is when discipline typically breaks down in mismatches."
+  "generatedAt": "2026-06-15T07:35:05.166962",
+  "aiBriefing": "This is a significant mismatch on paper with fourth-placed Eastern Suns facing bottom-placed South West Slammers, who have won just one game all season. The Slammers are conceding an average of 78 points in recent games while scoring only 52, suggesting they'll likely be under defensive pressure throughout. Eastern Suns have been inconsistent lately at 2-3 but possess significantly more firepower. The competitive imbalance means this could become frustrating for the Slammers, particularly if it turns into a blowout similar to their 54-point loss in Round 5. Watch for potential temperament issues if the home team falls behind early.\n\nFocus close attention on Ella Edwards number 1 for the Slammers, who averages an extremely high 5.0 fouls per game in limited data, suggesting either aggressive defense or poor discipline. Charlotte Lofgren number 10 also carries 3.8 fouls per game and gets to the line frequently, indicating physical play in the paint. For Eastern Suns, Aisha Forrest number 6 averages 3.2 fouls per game and relies heavily on perimeter shooting, so watch for hand-checking and contests beyond the arc. Alyssa Bowen number 9 is their primary scorer at 20 points per game and draws significant free throw attempts, so expect her to attack aggressively and draw contact.\n\nThe key management area will be maintaining game control if this becomes lopsided. The Slammers' frustration could manifest as reaching fouls or overly physical defense as they try to compensate for the skill gap. Given Eastern Suns' superior shooting and the Slammers' poor defensive record, expect the visitors to push tempo and look for transition opportunities. Be alert for potential retaliation fouls or emotional responses from Slammers players, particularly Edwards and Dorricott who show high foul rates. The free throw discrepancy in key players suggests Eastern Suns will attack the basket while Slammers may resort to perimeter desperation, so stay focused on proper positioning to call drives and post play accurately. Set clear standards early on body contact to prevent the game from getting unnecessarily rough."
 }

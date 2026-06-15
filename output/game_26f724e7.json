@@ -1,17 +1,73 @@
 {
-  "gameId": "941f7021",
+  "gameId": "26f724e7",
   "gradeName": "TCD Open Championship Men",
-  "roundName": "Round 12",
-  "homeTeam": "South West Slammers Open Men",
-  "awayTeam": "East Perth Eagles Open Men",
-  "homeTeamId": "7f7da657",
-  "awayTeamId": "f97426c2",
-  "venue": "Eaton Recreation Centre",
-  "time": "15:00:00",
-  "date": "2026-06-13",
+  "roundName": "Round 13",
+  "homeTeam": "Perth Redbacks Open Men",
+  "awayTeam": "South West Slammers Open Men",
+  "homeTeamId": "4513e433",
+  "awayTeamId": "7f7da657",
+  "venue": "Leisurelife Centre",
+  "time": "16:30:00",
+  "date": "2026-06-21",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
   "homeForm": [
+    {
+      "round": "Round 12",
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 106,
+      "conceded": 110,
+      "won": false,
+      "margin": -4,
+      "gameId": "7b7c036e"
+    },
+    {
+      "round": "Round 11",
+      "opponent": "Warwick Senators Open Men",
+      "scored": 84,
+      "conceded": 95,
+      "won": false,
+      "margin": -11,
+      "gameId": "8ec95d13"
+    },
+    {
+      "round": "Round 10",
+      "opponent": "Eastern Suns Open Men",
+      "scored": 89,
+      "conceded": 94,
+      "won": false,
+      "margin": -5,
+      "gameId": "fb0a9204"
+    },
+    {
+      "round": "Round 9",
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 90,
+      "conceded": 99,
+      "won": false,
+      "margin": -9,
+      "gameId": "2653e9dd"
+    },
+    {
+      "round": "Round 8",
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 69,
+      "conceded": 87,
+      "won": false,
+      "margin": -18,
+      "gameId": "9487b850"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 12",
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 113,
+      "conceded": 117,
+      "won": false,
+      "margin": -4,
+      "gameId": "941f7021"
+    },
     {
       "round": "Round 11",
       "opponent": "Perry Lakes Hawks Open Men",
@@ -47,144 +103,15 @@
       "won": false,
       "margin": -36,
       "gameId": "3b695daf"
-    },
-    {
-      "round": "Round 5",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 67,
-      "conceded": 98,
-      "won": false,
-      "margin": -31,
-      "gameId": "85dd3509"
-    }
-  ],
-  "awayForm": [
-    {
-      "round": "Round 11",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 90,
-      "conceded": 93,
-      "won": false,
-      "margin": -3,
-      "gameId": "04e4eb43"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Perth Redbacks Open Men",
-      "scored": 124,
-      "conceded": 77,
-      "won": true,
-      "margin": 47,
-      "gameId": "1fda83b5"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "Perry Lakes Hawks Open Men",
-      "scored": 119,
-      "conceded": 102,
-      "won": true,
-      "margin": 17,
-      "gameId": "41df08fc"
-    },
-    {
-      "round": "Round 8",
-      "opponent": "Eastern Suns Open Men",
-      "scored": 92,
-      "conceded": 107,
-      "won": false,
-      "margin": -15,
-      "gameId": "bb238d45"
-    },
-    {
-      "round": "Round 7",
-      "opponent": "Geraldton Buccaneers Open Men",
-      "scored": 94,
-      "conceded": 67,
-      "won": true,
-      "margin": 27,
-      "gameId": "ba374eb7"
     }
   ],
   "homeKeyPlayers": [
     {
-      "name": "Gavin Deacon",
-      "number": "33",
-      "avgPoints": 19.5,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 2.5,
-      "gamesAnalysed": 2,
-      "tags": []
-    },
-    {
-      "name": "Rhys Barrett",
-      "number": "33",
-      "avgPoints": 19.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 1.0,
-      "gamesAnalysed": 1,
-      "tags": [
-        "Outside threat",
-        "Frequent free throws"
-      ]
-    },
-    {
-      "name": "Harry Watters",
-      "number": "32",
-      "avgPoints": 17.2,
-      "avgThrees": 3.0,
-      "avgFreeThrows": 2.6,
-      "avgFouls": 1.6,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Art Harvey",
-      "number": "35",
-      "avgPoints": 13.4,
-      "avgThrees": 2.6,
-      "avgFreeThrows": 0.8,
-      "avgFouls": 1.8,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Jordan Wayne",
-      "number": "27",
-      "avgPoints": 13.0,
-      "avgThrees": 2.6,
-      "avgFreeThrows": 2.4,
-      "avgFouls": 2.0,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat"
-      ]
-    }
-  ],
-  "awayKeyPlayers": [
-    {
-      "name": "John Aryang",
-      "number": "25",
-      "avgPoints": 18.3,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 3.3,
-      "avgFouls": 1.0,
-      "gamesAnalysed": 3,
-      "tags": [
-        "Frequent free throws"
-      ]
-    },
-    {
-      "name": "Zakarayah Magdy",
+      "name": "Joshua Brabazon",
       "number": "13",
-      "avgPoints": 17.5,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 3.0,
+      "avgPoints": 21.0,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 3.5,
       "avgFouls": 3.0,
       "gamesAnalysed": 2,
       "tags": [
@@ -193,36 +120,105 @@
       ]
     },
     {
-      "name": "Emmanuel Dech",
-      "number": "24",
-      "avgPoints": 17.2,
-      "avgThrees": 1.2,
-      "avgFreeThrows": 4.5,
-      "avgFouls": 1.8,
-      "gamesAnalysed": 4,
+      "name": "Anai Kuol",
+      "number": "7",
+      "avgPoints": 16.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
+      "gamesAnalysed": 2,
+      "tags": []
+    },
+    {
+      "name": "Luke Ogden",
+      "number": "8",
+      "avgPoints": 16.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.5,
+      "gamesAnalysed": 2,
       "tags": [
-        "Frequent free throws"
+        "Physical player"
       ]
     },
     {
-      "name": "Mitch Benger",
-      "number": "2",
-      "avgPoints": 17.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 1.4,
-      "avgFouls": 2.4,
-      "gamesAnalysed": 5,
+      "name": "Mitch Fenton",
+      "number": "5",
+      "avgPoints": 12.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Aiden Cannington",
+      "number": "6",
+      "avgPoints": 9.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.0,
+      "gamesAnalysed": 2,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Art Harvey",
+      "number": "35",
+      "avgPoints": 12.5,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 2,
       "tags": [
         "Outside threat"
       ]
     },
     {
-      "name": "Kai Kabugua",
-      "number": "9",
-      "avgPoints": 13.0,
+      "name": "Harry Watters",
+      "number": "32",
+      "avgPoints": 12.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 0.5,
+      "gamesAnalysed": 2,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Saxon Halsey",
+      "number": "33",
+      "avgPoints": 11.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.5,
+      "gamesAnalysed": 2,
+      "tags": []
+    },
+    {
+      "name": "Blake Blechynden",
+      "number": "22",
+      "avgPoints": 10.0,
       "avgThrees": 0.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 2.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 6.0,
+      "gamesAnalysed": 1,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jordan Wayne",
+      "number": "27",
+      "avgPoints": 8.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 1.5,
       "gamesAnalysed": 2,
       "tags": [
         "Frequent free throws"
@@ -230,6 +226,21 @@
     }
   ],
   "homeLadder": {
+    "rank": 14,
+    "team": {
+      "id": "4513e433",
+      "name": "Perth Redbacks Open Men"
+    },
+    "played": 11,
+    "won": 1,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 939,
+    "pointsAgainst": 1056,
+    "percentage": 88.92,
+    "competitionPoints": 2
+  },
+  "awayLadder": {
     "rank": 10,
     "team": {
       "id": "7f7da657",
@@ -243,21 +254,6 @@
     "pointsAgainst": 903,
     "percentage": 96.9,
     "competitionPoints": 9
-  },
-  "awayLadder": {
-    "rank": 5,
-    "team": {
-      "id": "f97426c2",
-      "name": "East Perth Eagles Open Men"
-    },
-    "played": 11,
-    "won": 7,
-    "lost": 4,
-    "drawn": 0,
-    "pointsFor": 1117,
-    "pointsAgainst": 970,
-    "percentage": 115.15,
-    "competitionPoints": 14
   },
   "totalTeams": 15,
   "fullLadder": [
@@ -487,6 +483,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T07:23:33.868997",
-  "aiBriefing": "This is a significant ladder position contest between fifth-placed East Perth Eagles and tenth-placed South West Slammers. The Eagles come in as clear favorites based on form, averaging 104 points per game in their last five compared to the Slammers' 80, and they're riding better momentum despite a close loss last round. The Slammers have shown they can compete when they're on, with back-to-back 10-point wins, but they've also been blown out badly when overmatched. This sets up a potential mismatch that could get physical if the home team becomes frustrated, particularly given the Slammers' tendency to concede heavily when things go wrong.\n\nWatch Eagles number 13 Zakarayah Magdy closely as he's averaging 3.0 fouls per game, the highest foul rate among all key players listed, and he attacks the basket frequently based on his free throw attempts. For the Slammers, Gavin Deacon at 2.5 fouls per game and Jordan Wayne at 2.0 need monitoring, especially if they're tasked with defending the Eagles' interior scorers. The Eagles have multiple players getting to the line regularly, particularly Kai Kabugua and Emmanuel Dech averaging over 4 free throws per game, which suggests they attack the paint aggressively. The Slammers have note that both Deacon and Barrett wear number 33, so confirm roster accuracy during pregame to avoid confusion on foul tracking.\n\nExpect this to be a high-scoring affair given East Perth's offensive firepower and both teams' recent scoring outputs. The critical management period will likely come in the second and third quarters if the Eagles build a significant lead, as the Slammers' form shows they can either hang tough or collapse badly. Monitor the game's competitive balance carefully because a blowout developing could lead to frustration fouls from the home team or lackadaisical defense creating transition contact. The Eagles' ability to push tempo and score in bunches, evidenced by their 124 and 119 point outputs recently, means you'll need to be sharp on transition plays and ensure you're getting into position quickly to officiate fast-break situations properly."
+  "generatedAt": "2026-06-15T08:06:52.974023",
+  "aiBriefing": "This is a Round 13 TCD Open Championship Men matchup between two teams in the bottom half of the ladder, with South West Slammers (10th, 4-6) having a clear advantage over Perth Redbacks (14th, 1-10). The Redbacks are on a five-game losing streak and desperate for a win, while the Slammers have won two of their last five and will be looking to consolidate their mid-table position. Recent form shows both teams involved in competitive games with narrow margins, particularly the Redbacks who've lost three of their last five by single digits. Expect a scrappy, physical contest with the home team fighting hard to avoid their eleventh loss. Scoring patterns suggest a moderate-paced game in the low-to-mid 90s, with both teams getting to the free throw line regularly.\n\nPay close attention to Perth's Joshua Brabazon (#13) and Luke Ogden (#8), who are both high scorers averaging 3.0 and 3.5 fouls per game respectively. These are their primary offensive weapons and they're playing physically on both ends. Mitch Fenton (#5) also sits at 3.0 fouls per game despite limited data. On the Slammers side, Blake Blechynden (#22) is the major concern at 6.0 fouls per game, indicating extremely aggressive play that could escalate quickly or see him foul out early. Art Harvey (#35) and Saxon Halsey (#33) both average 2.5 fouls per game and are key contributors, so watch for frustration if they pick up early fouls.\n\nThe combination of Perth's desperation for a win at home and their key players' high foul rates creates significant flashpoint potential. With multiple Redbacks starters hovering around 3.0 fouls per game, they're playing on the edge defensively trying to compensate for their poor record. Blechynden's 6.0 fouls per game suggests he's either overly physical or poorly disciplined, and any confrontation involving him needs immediate management. The narrow margins in recent games for both teams indicate they play close contests that could get chippy in the fourth quarter, especially if Perth sees another winnable game slipping away. Establish boundaries on physicality early, particularly in the paint and on drives, and monitor bench reactions closely given the desperation factor for the home team."
 }
