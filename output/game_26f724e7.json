@@ -13,34 +13,8 @@
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 12",
-      "opponent": "Rockingham Flames Open Men",
-      "scored": 106,
-      "conceded": 110,
-      "won": false,
-      "margin": -4,
-      "gameId": "7b7c036e"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Warwick Senators Open Men",
-      "scored": 84,
-      "conceded": 95,
-      "won": false,
-      "margin": -11,
-      "gameId": "8ec95d13"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Eastern Suns Open Men",
-      "scored": 89,
-      "conceded": 94,
-      "won": false,
-      "margin": -5,
-      "gameId": "fb0a9204"
-    },
-    {
       "round": "Round 9",
+      "roundNumber": 9,
       "opponent": "Mandurah Magic Open Men",
       "scored": 90,
       "conceded": 99,
@@ -49,45 +23,50 @@
       "gameId": "2653e9dd"
     },
     {
-      "round": "Round 8",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 69,
-      "conceded": 87,
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 89,
+      "conceded": 94,
       "won": false,
-      "margin": -18,
-      "gameId": "9487b850"
+      "margin": -5,
+      "gameId": "fb0a9204"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 77,
+      "conceded": 124,
+      "won": false,
+      "margin": -47,
+      "gameId": "1fda83b5"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 84,
+      "conceded": 95,
+      "won": false,
+      "margin": -11,
+      "gameId": "8ec95d13"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 106,
+      "conceded": 110,
+      "won": false,
+      "margin": -4,
+      "gameId": "7b7c036e"
     }
   ],
   "awayForm": [
     {
-      "round": "Round 12",
-      "opponent": "East Perth Eagles Open Men",
-      "scored": 113,
-      "conceded": 117,
-      "won": false,
-      "margin": -4,
-      "gameId": "941f7021"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Perry Lakes Hawks Open Men",
-      "scored": 96,
-      "conceded": 86,
-      "won": true,
-      "margin": 10,
-      "gameId": "5e8017a7"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "Hills Raiders Open Men",
-      "scored": 95,
-      "conceded": 85,
-      "won": true,
-      "margin": 10,
-      "gameId": "a96f0d69"
-    },
-    {
       "round": "Round 7",
+      "roundNumber": 7,
       "opponent": "Mandurah Magic Open Men",
       "scored": 71,
       "conceded": 81,
@@ -96,68 +75,105 @@
       "gameId": "d8b4dc1e"
     },
     {
-      "round": "Round 6",
-      "opponent": "Joondalup Wolves Open Men",
-      "scored": 71,
-      "conceded": 107,
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 95,
+      "conceded": 85,
+      "won": true,
+      "margin": 10,
+      "gameId": "a96f0d69"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 96,
+      "conceded": 86,
+      "won": true,
+      "margin": 10,
+      "gameId": "5e8017a7"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 113,
+      "conceded": 117,
       "won": false,
-      "margin": -36,
-      "gameId": "3b695daf"
+      "margin": -4,
+      "gameId": "941f7021"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 93,
+      "conceded": 118,
+      "won": false,
+      "margin": -25,
+      "gameId": "5c1501c6"
     }
   ],
   "homeKeyPlayers": [
-    {
-      "name": "Joshua Brabazon",
-      "number": "13",
-      "playerId": "f2807115-9f15-4eed-beac-660211f9463f",
-      "profileUrl": "https://www.playhq.com/discover/profile/f2807115-9f15-4eed-beac-660211f9463f",
-      "avgPoints": 20.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 3.0,
-      "technicalFouls": 1,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 3,
-      "lowSampleSize": false,
-      "tags": [
-        "Frequent free throws",
-        "Physical player",
-        "Picked up a technical foul recently"
-      ]
-    },
     {
       "name": "Aiden Cannington",
       "number": "6",
       "playerId": "d1755564-19a2-4b43-8915-b784aaefade0",
       "profileUrl": "https://www.playhq.com/discover/profile/d1755564-19a2-4b43-8915-b784aaefade0",
-      "avgPoints": 16.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 1.8,
-      "avgFouls": 1.6,
+      "avgPoints": 13.5,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.5,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
-      "lowSampleSize": false,
-      "tags": []
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Brayden Atwell",
+      "number": "15",
+      "playerId": "fe360c73-36d4-4b92-8fcd-8295566eff48",
+      "profileUrl": "https://www.playhq.com/discover/profile/fe360c73-36d4-4b92-8fcd-8295566eff48",
+      "avgPoints": 12.5,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
     },
     {
       "name": "Anai Kuol",
       "number": "7",
       "playerId": "94cfbbaf-2f0e-4319-adf7-b73fc89b5a5c",
       "profileUrl": "https://www.playhq.com/discover/profile/94cfbbaf-2f0e-4319-adf7-b73fc89b5a5c",
-      "avgPoints": 16.0,
-      "avgThrees": 1.0,
+      "avgPoints": 11.0,
+      "avgThrees": 0.0,
       "avgFreeThrows": 1.0,
-      "avgFouls": 2.8,
-      "technicalFouls": 1,
+      "avgFouls": 4.0,
+      "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
-      "lowSampleSize": false,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
       "tags": [
-        "Picked up a technical foul recently"
+        "Physical player",
+        "Limited sample size"
       ]
     },
     {
@@ -165,17 +181,18 @@
       "number": "8",
       "playerId": "15aba3fa-acd4-435c-a9be-ed34fcef9e6f",
       "profileUrl": "https://www.playhq.com/discover/profile/15aba3fa-acd4-435c-a9be-ed34fcef9e6f",
-      "avgPoints": 12.2,
-      "avgThrees": 0.6,
-      "avgFreeThrows": 1.6,
-      "avgFouls": 3.4,
+      "avgPoints": 9.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 2.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
-      "lowSampleSize": false,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
       "tags": [
-        "Physical player"
+        "Limited sample size"
       ]
     },
     {
@@ -183,17 +200,18 @@
       "number": "5",
       "playerId": "80a852f9-2fd3-438d-a1f3-9e0783a16d59",
       "profileUrl": "https://www.playhq.com/discover/profile/80a852f9-2fd3-438d-a1f3-9e0783a16d59",
-      "avgPoints": 11.2,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 1.8,
-      "avgFouls": 3.0,
+      "avgPoints": 7.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
-      "lowSampleSize": false,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
       "tags": [
-        "Physical player"
+        "Limited sample size"
       ]
     }
   ],
@@ -203,36 +221,37 @@
       "number": "33",
       "playerId": "599382dd-20e6-41b0-b047-f056d30357a2",
       "profileUrl": "https://www.playhq.com/discover/profile/599382dd-20e6-41b0-b047-f056d30357a2",
-      "avgPoints": 30.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 1.0,
+      "avgPoints": 22.0,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.7,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Limited sample size"
-      ]
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
     },
     {
       "name": "Harry Watters",
       "number": "32",
       "playerId": "8df31970-ff2b-42fa-b837-cf4e077200a5",
       "profileUrl": "https://www.playhq.com/discover/profile/8df31970-ff2b-42fa-b837-cf4e077200a5",
-      "avgPoints": 19.8,
-      "avgThrees": 3.4,
-      "avgFreeThrows": 3.6,
-      "avgFouls": 1.2,
+      "avgPoints": 18.6,
+      "avgThrees": 3.3,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 7,
       "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 2.0/g season); scoring more lately (24.0/g in last 2 vs 18.6/g season)",
       "tags": [
         "Outside threat",
-        "Frequent free throws"
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
       ]
     },
     {
@@ -240,18 +259,18 @@
       "number": "33",
       "playerId": "a63d33de-e896-4f60-8780-bfa4c045d0ee",
       "profileUrl": "https://www.playhq.com/discover/profile/a63d33de-e896-4f60-8780-bfa4c045d0ee",
-      "avgPoints": 19.0,
+      "avgPoints": 17.5,
       "avgThrees": 2.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 1.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 1.5,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
+      "gamesAnalysed": 2,
       "lowSampleSize": true,
+      "recentTrend": null,
       "tags": [
         "Outside threat",
-        "Frequent free throws",
         "Limited sample size"
       ]
     },
@@ -260,19 +279,20 @@
       "number": "27",
       "playerId": "0133238b-df78-4197-95ff-c820939e5c59",
       "profileUrl": "https://www.playhq.com/discover/profile/0133238b-df78-4197-95ff-c820939e5c59",
-      "avgPoints": 13.6,
-      "avgThrees": 3.0,
-      "avgFreeThrows": 2.6,
-      "avgFouls": 2.2,
-      "technicalFouls": 1,
-      "unsportsmanlikeFouls": 1,
+      "avgPoints": 14.9,
+      "avgThrees": 2.9,
+      "avgFreeThrows": 3.1,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 7,
       "lowSampleSize": false,
+      "recentTrend": "scoring more lately (18.7/g in last 3 vs 14.9/g season)",
       "tags": [
         "Outside threat",
-        "Picked up a technical foul recently",
-        "Picked up an unsportsmanlike foul recently"
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
       ]
     },
     {
@@ -280,17 +300,20 @@
       "number": "33",
       "playerId": "1da62ea2-3987-4291-8a81-d3d8104af840",
       "profileUrl": "https://www.playhq.com/discover/profile/1da62ea2-3987-4291-8a81-d3d8104af840",
-      "avgPoints": 13.0,
-      "avgThrees": 0.7,
-      "avgFreeThrows": 2.3,
-      "avgFouls": 3.3,
+      "avgPoints": 13.5,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.2,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 3,
+      "gamesAnalysed": 4,
       "lowSampleSize": false,
+      "recentTrend": "fouling more lately (5.0/g in last 1 vs 3.2/g season); scoring more lately (17.0/g in last 1 vs 13.5/g season)",
       "tags": [
-        "Physical player"
+        "Physical player",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
       ]
     }
   ],
@@ -553,6 +576,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T09:56:58.676684",
-  "aiBriefing": "Perth sits 12th with 2 wins against 10th-placed South West on 4 wins, but ladder pressure is modest given neither team is in genuine finals contention. Perth has lost five straight by an average of 9 points, conceding 97 per game, while South West splits recent form at 2-3 but lost their last outing 113-117 to East Perth. No prior meetings this season means no established rivalry tension, but Perth's home fixture after a winless run could produce desperation fouls late if the margin tightens.\n\nWatch Perth's Brabazon 13 and Ogden 8 closely on foul count, both averaging 3.0 and 3.4 fouls per game respectively, and Fenton 5 at 3.0 per game. Kuol 7 also sits at 2.8 fouls per game. All four are foul-prone and likely to accumulate early if South West attacks the paint through Watters 32, who draws 3.6 free throws per game. For South West, Halsey 33 fouls at 3.3 per game and Jordan Wayne 27 at 2.2 per game, but Wayne carries recent technical and unsportsmanlike foul history making him a discipline risk under pressure.\n\nPrimary flashpoint is Wayne 27 given his technical and unsportsmanlike record, especially if South West protects a lead late and Perth presses physically out of desperation. Brabazon 13 and Kuol 7 both have recent technical fouls, so monitor frustration from Perth's key scorers if foul trouble limits their minutes. With four Perth rotation players at 3.0-plus fouls per game, expect bench complaints about physicality if South West drives aggressively. Manage Wayne early if he engages verbally and keep tight control on below-the-basket contact given Perth's foul vulnerability."
+  "generatedAt": "2026-06-20T10:42:39.238827",
+  "dataComplete": true,
+  "aiBriefing": "Perth sits 12th with two wins against tenth-placed South West in a match neither can afford to drop if they want to climb away from the bottom. The Redbacks have lost five straight and are conceding 104 per game in that stretch, while South West has dropped three of their last five including two recent blowouts. Perth's roster shows extremely limited sample sizes across their key players, most with only one or two games recorded this season, which suggests heavy recent roster turnover or availability issues that may affect cohesion and discipline. No prior meetings this season means no established animosity, but the Redbacks' desperation at the bottom end could create defensive urgency or frustration fouls.\n\nWatch Saxon Halsey 33 for South West closely. He fouls at 3.2 per game and spiked to 5.0 fouls in his most recent outing, indicating escalating physical engagement or foul trouble patterns. Anai Kuol 7 for Perth averaged 4.0 fouls in his single recorded game, a red flag for aggressive or undisciplined play that could see him in early trouble. Harry Watters 32 is scoring 24 per game recently and drawing 3.0 free throws per game, so expect Perth to crowd him physically. Aiden Cannington 6 and Brayden Atwell 15 both average 2.0 to 2.5 fouls despite limited appearances, suggesting the Redbacks' rotation players are fouling at moderate rates even in small samples.\n\nThe primary flashpoint risk is Perth's defensive desperation meeting South West's hot scorers. Watters and Jordan Wayne 27, both trending upward offensively, will likely draw physical attention from a Redbacks team that has been beaten badly in recent weeks including a 47-point loss in Round 10. Halsey's recent foul spike and Kuol's 4.0 foul average point to players already operating at the edge of control. With no history between these teams and Perth's thin data suggesting roster instability, watch for unfamiliarity leading to mistimed closeouts or frustration if South West builds a lead. No technical or unsportsmanlike foul history is provided, but manage any physical escalation early given the stakes for both teams near the bottom."
 }

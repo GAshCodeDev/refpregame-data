@@ -11,37 +11,62 @@
   "date": "2026-06-21",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
-  "homeForm": [],
-  "awayForm": [
+  "homeForm": [
     {
-      "round": "Round 10",
-      "opponent": "Warwick Senators Open Men",
-      "scored": 89,
-      "conceded": 101,
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 68,
+      "conceded": 107,
       "won": false,
-      "margin": -12,
-      "gameId": "58b99df1"
+      "margin": -39,
+      "gameId": "8aa96e35"
     },
     {
       "round": "Round 9",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 54,
-      "conceded": 108,
+      "roundNumber": 9,
+      "opponent": "South West Slammers Open Men",
+      "scored": 85,
+      "conceded": 95,
       "won": false,
-      "margin": -54,
-      "gameId": "ec564098"
+      "margin": -10,
+      "gameId": "a96f0d69"
     },
     {
-      "round": "Round 7",
-      "opponent": "East Perth Eagles Open Men",
-      "scored": 67,
-      "conceded": 94,
-      "won": false,
-      "margin": -27,
-      "gameId": "ba374eb7"
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 101,
+      "conceded": 89,
+      "won": true,
+      "margin": 12,
+      "gameId": "a331336e"
     },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 83,
+      "conceded": 97,
+      "won": false,
+      "margin": -14,
+      "gameId": "d48763a0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 82,
+      "conceded": 88,
+      "won": false,
+      "margin": -6,
+      "gameId": "b20385bd"
+    }
+  ],
+  "awayForm": [
     {
       "round": "Round 6",
+      "roundNumber": 6,
       "opponent": "Mandurah Magic Open Men",
       "scored": 102,
       "conceded": 98,
@@ -50,34 +75,164 @@
       "gameId": "0ac43e72"
     },
     {
-      "round": "Round 5",
-      "opponent": "Cockburn Cougars Open Men",
-      "scored": 73,
-      "conceded": 86,
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 67,
+      "conceded": 94,
       "won": false,
-      "margin": -13,
-      "gameId": "d505e026"
+      "margin": -27,
+      "gameId": "ba374eb7"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 54,
+      "conceded": 108,
+      "won": false,
+      "margin": -54,
+      "gameId": "ec564098"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 89,
+      "conceded": 101,
+      "won": false,
+      "margin": -12,
+      "gameId": "58b99df1"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 68,
+      "conceded": 95,
+      "won": false,
+      "margin": -27,
+      "gameId": "81fea413"
     }
   ],
-  "homeKeyPlayers": [],
+  "homeKeyPlayers": [
+    {
+      "name": "Jaxson Potts",
+      "number": "35",
+      "playerId": "851137a7-46dc-4c20-b929-12beb94427a3",
+      "profileUrl": "https://www.playhq.com/discover/profile/851137a7-46dc-4c20-b929-12beb94427a3",
+      "avgPoints": 15.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 4.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Zane Songerwala",
+      "number": "6",
+      "playerId": "64bb6e4b-7639-4257-aaf2-7698aa653487",
+      "profileUrl": "https://www.playhq.com/discover/profile/64bb6e4b-7639-4257-aaf2-7698aa653487",
+      "avgPoints": 13.7,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 4.7,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Flynn Newman",
+      "number": "11",
+      "playerId": "8ed71d58-6e89-4c4c-aceb-623853e44698",
+      "profileUrl": "https://www.playhq.com/discover/profile/8ed71d58-6e89-4c4c-aceb-623853e44698",
+      "avgPoints": 11.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Callum Creek",
+      "number": "13",
+      "playerId": "ef3d0d6c-f5b5-4f4b-91c1-6d196c103046",
+      "profileUrl": "https://www.playhq.com/discover/profile/ef3d0d6c-f5b5-4f4b-91c1-6d196c103046",
+      "avgPoints": 10.0,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 4.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Toby Warwick",
+      "number": "15",
+      "playerId": "4077ee0d-1379-4f02-a5aa-087cda8e25a5",
+      "profileUrl": "https://www.playhq.com/discover/profile/4077ee0d-1379-4f02-a5aa-087cda8e25a5",
+      "avgPoints": 10.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 7.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Physical player",
+        "Limited sample size"
+      ]
+    }
+  ],
   "awayKeyPlayers": [
     {
       "name": "Levi Owen",
       "number": "4",
       "playerId": "1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
       "profileUrl": "https://www.playhq.com/discover/profile/1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
-      "avgPoints": 18.4,
-      "avgThrees": 3.0,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 2.4,
+      "avgPoints": 17.2,
+      "avgThrees": 2.8,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 1.8,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
       "lowSampleSize": false,
+      "recentTrend": "scoring less lately (11.0/g in last 3 vs 17.2/g season)",
       "tags": [
-        "Outside threat",
-        "Frequent free throws"
+        "Outside threat"
       ]
     },
     {
@@ -85,17 +240,39 @@
       "number": "8",
       "playerId": "2ddff959-05c4-4ce9-b252-22ac36c5f544",
       "profileUrl": "https://www.playhq.com/discover/profile/2ddff959-05c4-4ce9-b252-22ac36c5f544",
-      "avgPoints": 14.2,
+      "avgPoints": 14.8,
       "avgThrees": 1.0,
       "avgFreeThrows": 4.8,
-      "avgFouls": 1.5,
+      "avgFouls": 2.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
       "lowSampleSize": false,
+      "recentTrend": null,
       "tags": [
         "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Denbi Horstman",
+      "number": "2",
+      "playerId": "aa11a91d-effc-4d8b-9890-78309a1aa5b8",
+      "profileUrl": "https://www.playhq.com/discover/profile/aa11a91d-effc-4d8b-9890-78309a1aa5b8",
+      "avgPoints": 9.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 3.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 1,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player",
+        "Picked up an unsportsmanlike foul recently",
+        "Picked up a disqualifying foul recently"
       ]
     },
     {
@@ -103,51 +280,35 @@
       "number": "13",
       "playerId": "37360b81-43cc-49f6-811b-7ff2d2c81496",
       "profileUrl": "https://www.playhq.com/discover/profile/37360b81-43cc-49f6-811b-7ff2d2c81496",
-      "avgPoints": 8.3,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 1.3,
-      "avgFouls": 3.7,
+      "avgPoints": 8.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 3.2,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 3,
+      "gamesAnalysed": 4,
       "lowSampleSize": false,
+      "recentTrend": null,
       "tags": [
         "Physical player"
       ]
     },
     {
-      "name": "Riley Fong",
-      "number": "1",
-      "playerId": "0109e04f-ad37-4899-897f-bc9322b38c9b",
-      "profileUrl": "https://www.playhq.com/discover/profile/0109e04f-ad37-4899-897f-bc9322b38c9b",
-      "avgPoints": 7.5,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 2.5,
-      "avgFouls": 1.5,
-      "technicalFouls": 1,
+      "name": "Kelvin Yokwe",
+      "number": "12",
+      "playerId": "222cc56a-3bab-44b6-9e0f-acd7275e4dd5",
+      "profileUrl": "https://www.playhq.com/discover/profile/222cc56a-3bab-44b6-9e0f-acd7275e4dd5",
+      "avgPoints": 7.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
       "lowSampleSize": false,
-      "tags": [
-        "Picked up a technical foul recently"
-      ]
-    },
-    {
-      "name": "Jarrad Mongoo",
-      "number": "3",
-      "playerId": "321af4b7-1fd8-4f54-9eaf-0add51122118",
-      "profileUrl": "https://www.playhq.com/discover/profile/321af4b7-1fd8-4f54-9eaf-0add51122118",
-      "avgPoints": 7.3,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.3,
-      "avgFouls": 1.7,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 3,
-      "lowSampleSize": false,
+      "recentTrend": null,
       "tags": []
     }
   ],
@@ -410,6 +571,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T09:49:48.906214",
-  "aiBriefing": "Hills sit last at 1-10 while Geraldton are 13th at 1-7, so both sides are desperate for a rare win. Geraldton have been hammered in recent weeks including a 54-point loss to Lakeside in Round 9, but they scraped a 4-point win over Mandurah in Round 6 showing they can compete when games stay tight. Hills have no completed games on record yet, so expect rustiness and potential discipline issues from a team still finding its rhythm. This shapes as a scrappy, mistake-filled contest between two struggling sides where frustration could boil over if either team falls behind early.\n\nWatch Levi Owen number 4 closely. He averages 2.4 fouls per game across five appearances, the highest rate among Geraldton's rotation, and he's their primary scorer at 18.4 points so early foul trouble changes their entire approach. William Galvin number 13 is worse at 3.7 fouls per game over three games, meaning he's borderline unmanageable and likely to foul out if you call his physicality tight. Riley Fong number 1 has one recent technical on his record, so monitor any dissent or emotional reactions especially if Geraldton start losing grip on the game.\n\nThe main flashpoint risk is Geraldton's foul-heavy style colliding with their poor form. Galvin fouls at an unsustainable rate and Owen isn't far behind, so if they pick up early personals they may resort to frustration fouls or verbal complaints given their season struggles. Fong's technical history suggests he's already near breaking point emotionally. With no Hills data available you're working blind on their discipline, so establish your whistle early and shut down any chirping immediately before frustration from two last-placed teams turns this into a free-throw parade or worse."
+  "generatedAt": "2026-06-20T10:32:04.475526",
+  "dataComplete": true,
+  "aiBriefing": "This is a bottom-of-the-table clash between Hills Raiders in 15th at 1-10 and Geraldton Buccaneers in 13th at 1-7. Both teams are averaging double-digit losses in their last five games, with Geraldton conceding 99 points per game and Hills 95. No previous meetings this season means no established rivalry tension, but the desperation for a second win and poor defensive form suggests a scrappy, high-tempo contest where players may press aggressively and foul hunting could be prevalent given the low discipline levels on both rosters.\n\nWatch Hills number 35 Jaxson Potts and number 15 Toby Warwick closely despite limited sample sizes\u2014Potts fouls at 4.0 per game and Warwick at an alarming 7.0 per game across just one appearance each, indicating they foul out quickly or play extremely physical minutes. Hills number 13 Callum Creek also sits at 4.3 fouls per game. For Geraldton, number 2 Denbi Horstman has both an unsportsmanlike foul and a disqualifying foul recently while averaging 3.5 fouls per game, making him your primary flashpoint risk. Number 13 William Galvin averages 3.2 fouls per game as well.\n\nHorstman is the critical watch\u2014his recent unsportsmanlike and disqualifying fouls suggest he plays on the edge physically and could escalate quickly under pressure. With multiple Hills players carrying foul rates above 4.0 per game, expect early foul trouble and potential frustration as benches thin. Both teams' poor form and defensive struggles mean physical play will likely increase as they compensate for skill gaps. Manage Horstman tightly from the opening whistle and anticipate foul-out scenarios for Warwick and Potts if they see extended minutes."
 }

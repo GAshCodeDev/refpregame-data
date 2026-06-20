@@ -13,34 +13,18 @@
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 12",
-      "opponent": "Perth Redbacks Open Men",
-      "scored": 110,
-      "conceded": 106,
-      "won": true,
-      "margin": 4,
-      "gameId": "7b7c036e"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Hills Raiders Open Men",
-      "scored": 97,
-      "conceded": 83,
-      "won": true,
-      "margin": 14,
-      "gameId": "d48763a0"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 80,
-      "conceded": 112,
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 0,
+      "conceded": 20,
       "won": false,
-      "margin": -32,
-      "gameId": "a227e823"
+      "margin": -20,
+      "gameId": "bfae7ac2"
     },
     {
       "round": "Round 9",
+      "roundNumber": 9,
       "opponent": "Warwick Senators Open Men",
       "scored": 91,
       "conceded": 92,
@@ -49,45 +33,50 @@
       "gameId": "49413c48"
     },
     {
-      "round": "Round 8",
-      "opponent": "Willetton Tigers Open Men",
-      "scored": 0,
-      "conceded": 20,
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 80,
+      "conceded": 112,
       "won": false,
-      "margin": -20,
-      "gameId": "bfae7ac2"
+      "margin": -32,
+      "gameId": "a227e823"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 97,
+      "conceded": 83,
+      "won": true,
+      "margin": 14,
+      "gameId": "d48763a0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 110,
+      "conceded": 106,
+      "won": true,
+      "margin": 4,
+      "gameId": "7b7c036e"
     }
   ],
   "awayForm": [
     {
-      "round": "Round 12",
-      "opponent": "Hills Raiders Open Men",
-      "scored": 88,
-      "conceded": 82,
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 72,
+      "conceded": 64,
       "won": true,
-      "margin": 6,
-      "gameId": "b20385bd"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Goldfields Giants Open Men",
-      "scored": 108,
-      "conceded": 63,
-      "won": true,
-      "margin": 45,
-      "gameId": "8c385bc8"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "Willetton Tigers Open Men",
-      "scored": 78,
-      "conceded": 81,
-      "won": false,
-      "margin": -3,
-      "gameId": "70c4cb8b"
+      "margin": 8,
+      "gameId": "22357d65"
     },
     {
       "round": "Round 8",
+      "roundNumber": 8,
       "opponent": "Warwick Senators Open Men",
       "scored": 78,
       "conceded": 77,
@@ -96,72 +85,75 @@
       "gameId": "ae122eea"
     },
     {
-      "round": "Round 7",
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 72,
-      "conceded": 64,
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 78,
+      "conceded": 81,
+      "won": false,
+      "margin": -3,
+      "gameId": "70c4cb8b"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 108,
+      "conceded": 63,
       "won": true,
-      "margin": 8,
-      "gameId": "22357d65"
+      "margin": 45,
+      "gameId": "8c385bc8"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 88,
+      "conceded": 82,
+      "won": true,
+      "margin": 6,
+      "gameId": "b20385bd"
     }
   ],
   "homeKeyPlayers": [
-    {
-      "name": "Dean Supljeglav",
-      "number": "9",
-      "playerId": "4c05905e-08af-40b4-a885-6af450cc9d50",
-      "profileUrl": "https://www.playhq.com/discover/profile/4c05905e-08af-40b4-a885-6af450cc9d50",
-      "avgPoints": 33.0,
-      "avgThrees": 8.0,
-      "avgFreeThrows": 6.0,
-      "avgFouls": 2.5,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 2,
-      "lowSampleSize": true,
-      "tags": [
-        "Outside threat",
-        "Frequent free throws",
-        "Limited sample size"
-      ]
-    },
     {
       "name": "Lowell Jude Christopher",
       "number": "14",
       "playerId": "23bbb1cc-43dc-441b-810b-10e33b48413e",
       "profileUrl": "https://www.playhq.com/discover/profile/23bbb1cc-43dc-441b-810b-10e33b48413e",
-      "avgPoints": 22.0,
-      "avgThrees": 1.5,
-      "avgFreeThrows": 1.5,
-      "avgFouls": 3.5,
+      "avgPoints": 17.6,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 2.8,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 2,
-      "lowSampleSize": true,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 1 vs 2.8/g season)",
       "tags": [
-        "Physical player",
-        "Limited sample size"
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
       ]
     },
     {
-      "name": "Leon Maguire",
-      "number": "7",
-      "playerId": "0c12ab0c-0ed2-499c-8e1e-f6092529ad39",
-      "profileUrl": "https://www.playhq.com/discover/profile/0c12ab0c-0ed2-499c-8e1e-f6092529ad39",
-      "avgPoints": 21.8,
-      "avgThrees": 1.8,
-      "avgFreeThrows": 4.5,
-      "avgFouls": 3.0,
+      "name": "Dean Supljeglav",
+      "number": "9",
+      "playerId": "4c05905e-08af-40b4-a885-6af450cc9d50",
+      "profileUrl": "https://www.playhq.com/discover/profile/4c05905e-08af-40b4-a885-6af450cc9d50",
+      "avgPoints": 16.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.2,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
       "lowSampleSize": false,
+      "recentTrend": null,
       "tags": [
-        "Frequent free throws",
-        "Physical player"
+        "Outside threat",
+        "Frequent free throws"
       ]
     },
     {
@@ -169,19 +161,38 @@
       "number": "10",
       "playerId": "b7411ddf-bcf6-4352-9df1-dd7b1ead8745",
       "profileUrl": "https://www.playhq.com/discover/profile/b7411ddf-bcf6-4352-9df1-dd7b1ead8745",
-      "avgPoints": 16.0,
+      "avgPoints": 14.5,
       "avgThrees": 2.5,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 3.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.3,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 2,
-      "lowSampleSize": true,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 1 vs 1.3/g season); scoring less lately (9.0/g in last 1 vs 14.5/g season)",
       "tags": [
         "Outside threat",
-        "Physical player",
-        "Limited sample size"
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Leon Maguire",
+      "number": "7",
+      "playerId": "0c12ab0c-0ed2-499c-8e1e-f6092529ad39",
+      "profileUrl": "https://www.playhq.com/discover/profile/0c12ab0c-0ed2-499c-8e1e-f6092529ad39",
+      "avgPoints": 13.6,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (2.0/g in last 1 vs 2.8/g season)",
+      "tags": [
+        "Frequent free throws"
       ]
     },
     {
@@ -189,117 +200,23 @@
       "number": "11",
       "playerId": "d51084fb-1790-45fc-8daa-4ba20333407f",
       "profileUrl": "https://www.playhq.com/discover/profile/d51084fb-1790-45fc-8daa-4ba20333407f",
-      "avgPoints": 12.5,
-      "avgThrees": 1.0,
+      "avgPoints": 12.0,
+      "avgThrees": 1.3,
       "avgFreeThrows": 1.0,
-      "avgFouls": 2.5,
+      "avgFouls": 2.3,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
+      "gamesAnalysed": 6,
       "lowSampleSize": false,
-      "tags": []
-    }
-  ],
-  "awayKeyPlayers": [
-    {
-      "name": "Jack Pitt",
-      "number": "11",
-      "playerId": "d6067212-53cd-49e9-9a86-7de57701f0ad",
-      "profileUrl": "https://www.playhq.com/discover/profile/d6067212-53cd-49e9-9a86-7de57701f0ad",
-      "avgPoints": 17.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 4.0,
-      "avgFouls": 3.0,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
+      "recentTrend": "fouling more lately (3.0/g in last 1 vs 2.3/g season); scoring more lately (17.0/g in last 1 vs 12.0/g season)",
       "tags": [
-        "Frequent free throws",
-        "Physical player",
-        "Limited sample size"
-      ]
-    },
-    {
-      "name": "Lachy Oakley",
-      "number": "14",
-      "playerId": "837b3eb6-c959-4961-92c8-9ec2d2bc5292",
-      "profileUrl": "https://www.playhq.com/discover/profile/837b3eb6-c959-4961-92c8-9ec2d2bc5292",
-      "avgPoints": 14.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 8.0,
-      "avgFouls": 2.0,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Frequent free throws",
-        "Limited sample size"
-      ]
-    },
-    {
-      "name": "Kaidon Sander",
-      "number": "15",
-      "playerId": "8adc782f-8014-42af-8bc8-366ac5645885",
-      "profileUrl": "https://www.playhq.com/discover/profile/8adc782f-8014-42af-8bc8-366ac5645885",
-      "avgPoints": 14.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 2.0,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Frequent free throws",
-        "Limited sample size"
-      ]
-    },
-    {
-      "name": "Noah Stewart",
-      "number": "13",
-      "playerId": "7b385b68-1d3f-4b4f-8511-7a666594746c",
-      "profileUrl": "https://www.playhq.com/discover/profile/7b385b68-1d3f-4b4f-8511-7a666594746c",
-      "avgPoints": 13.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 4.0,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Frequent free throws",
-        "Physical player",
-        "Limited sample size"
-      ]
-    },
-    {
-      "name": "Jonah Palelei",
-      "number": "12",
-      "playerId": "66df31d2-1166-4726-b72f-1609808bc7fd",
-      "profileUrl": "https://www.playhq.com/discover/profile/66df31d2-1166-4726-b72f-1609808bc7fd",
-      "avgPoints": 11.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 3.0,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Physical player",
-        "Limited sample size"
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
       ]
     }
   ],
+  "awayKeyPlayers": [],
   "headToHead": [],
   "homeLadder": {
     "rank": 11,
@@ -559,6 +476,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T09:55:13.205829",
-  "aiBriefing": "Cockburn sits fourth and carries strong momentum with four wins in five games averaging a 12-point margin. Rockingham languishes in 11th but has won their last two including a tight four-point victory over Perth in Round 12 after a forfeit loss in Round 8. This is a mismatch on paper but Rockingham's recent form suggests they'll compete hard at home, and the 18-point gap in percentage indicates Cockburn plays tighter defence while Rockingham leaks points. Expect Rockingham to push tempo and rely heavily on perimeter scoring to stay in the contest.\n\nWatch Rockingham's Lowell Jude Christopher number 14 closely at 3.5 fouls per game alongside Leon Maguire number 7 and Peter Thuch number 10 both at 3.0 fouls per game. All three risk early foul trouble and could become frustrated if Cockburn controls pace. For Cockburn, Noah Stewart number 13 sits at 4.0 fouls per game despite limited sample size, suggesting aggressive interior play that needs monitoring. Jack Pitt number 11 and Jonah Palelei number 12 both average 3.0 fouls per game as well.\n\nPrimary flashpoint risk is Rockingham's desperation to protect home court against a superior opponent combined with multiple key players carrying high foul rates on both sides. Christopher's 3.5 foul average makes him particularly vulnerable to escalation if calls don't go his way early. No technical or unsportsmanlike foul history provided but the home team's need to play physical defence against a team averaging 85 points could produce borderline contact situations. Manage pace of foul accumulation in the first half to avoid bench depletion affecting competitiveness."
+  "generatedAt": "2026-06-20T10:40:15.970537",
+  "dataComplete": false,
+  "aiBriefing": "This is a ladder-pressure game with Cockburn sitting 4th on 7-3 and Rockingham 11th on 4-5. Rockingham has won two straight after three losses and is averaging 76-83 in their last five, while Cockburn is hot at 4-1 over the same period averaging 85-73. The Cougars are clear favourites but Rockingham just knocked off Perth 110-106 in a high-scoring contest, so expect them to push tempo at home. No previous meetings this season means no established rivalry pattern, but the ladder gap creates desperation on one side and expectation on the other.\n\nWatch Rockingham's Lowell Jude Christopher number 14 closely. He's averaging 2.8 fouls per game but spiked to 4.0 in his last outing, putting him in early foul trouble risk. Peter Thuch number 10 also jumped from 1.3 season average to 3.0 last game while his scoring dropped to 9.0 from 14.5, suggesting frustration fouls when his offence isn't working. Daniel Dech number 11 went the other way, scoring 17.0 last game up from 12.0 average but also fouling 3.0 times versus his 2.3 season rate. Leon Maguire number 7 sits at 2.8 fouls per game but dropped to 2.0 last time out. Dean Supljeglav number 9 is steady at 2.2 per game. No Cockburn player data available but monitor their physical defence given Rockingham's recent foul spikes.\n\nPrimary flashpoint risk is Rockingham's recent foul trend with three of their five key players showing increased contact in their last game despite winning. Christopher and Thuch are particular foul trouble risks if they start physical early. Rockingham needs this game more than Cockburn does given the ladder gap, which can drive aggressive play and frustration if they fall behind. Stay tight on secondary fouls and any escalation after whistles, especially if Cockburn builds a lead and Rockingham gets desperate in the second half."
 }

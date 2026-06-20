@@ -13,45 +13,60 @@
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 5",
-      "opponent": "Perth Redbacks Open Men",
-      "scored": 72,
-      "conceded": 99,
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 68,
+      "conceded": 107,
       "won": false,
-      "margin": -27,
-      "gameId": "b7c11fe4"
+      "margin": -39,
+      "gameId": "8aa96e35"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "South West Slammers Open Men",
+      "scored": 85,
+      "conceded": 95,
+      "won": false,
+      "margin": -10,
+      "gameId": "a96f0d69"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 101,
+      "conceded": 89,
+      "won": true,
+      "margin": 12,
+      "gameId": "a331336e"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 83,
+      "conceded": 97,
+      "won": false,
+      "margin": -14,
+      "gameId": "d48763a0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 82,
+      "conceded": 88,
+      "won": false,
+      "margin": -6,
+      "gameId": "b20385bd"
     }
   ],
   "awayForm": [
     {
-      "round": "Round 12",
-      "opponent": "Willetton Tigers Open Men",
-      "scored": 66,
-      "conceded": 64,
-      "won": true,
-      "margin": 2,
-      "gameId": "e8b590e9"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Mandurah Magic Open Men",
-      "scored": 119,
-      "conceded": 79,
-      "won": true,
-      "margin": 40,
-      "gameId": "6ed555a4"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Rockingham Flames Open Men",
-      "scored": 112,
-      "conceded": 80,
-      "won": true,
-      "margin": 32,
-      "gameId": "a227e823"
-    },
-    {
       "round": "Round 9",
+      "roundNumber": 9,
       "opponent": "Geraldton Buccaneers Open Men",
       "scored": 108,
       "conceded": 54,
@@ -60,108 +75,141 @@
       "gameId": "ec564098"
     },
     {
-      "round": "Round 8",
-      "opponent": "Perth Redbacks Open Men",
-      "scored": 87,
-      "conceded": 69,
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 112,
+      "conceded": 80,
       "won": true,
-      "margin": 18,
-      "gameId": "9487b850"
+      "margin": 32,
+      "gameId": "a227e823"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 119,
+      "conceded": 79,
+      "won": true,
+      "margin": 40,
+      "gameId": "6ed555a4"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 93,
+      "conceded": 90,
+      "won": true,
+      "margin": 3,
+      "gameId": "04e4eb43"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 66,
+      "conceded": 64,
+      "won": true,
+      "margin": 2,
+      "gameId": "e8b590e9"
     }
   ],
   "homeKeyPlayers": [
     {
-      "name": "Zane Songerwala",
-      "number": "6",
-      "playerId": "64bb6e4b-7639-4257-aaf2-7698aa653487",
-      "profileUrl": "https://www.playhq.com/discover/profile/64bb6e4b-7639-4257-aaf2-7698aa653487",
-      "avgPoints": 14.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 4.0,
-      "avgFouls": 2.0,
+      "name": "Jhye Stoker",
+      "number": "3",
+      "playerId": "a94ae0d8-e576-4a15-b884-0522258aa4cd",
+      "profileUrl": "https://www.playhq.com/discover/profile/a94ae0d8-e576-4a15-b884-0522258aa4cd",
+      "avgPoints": 18.2,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 3.4,
+      "avgFouls": 3.8,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (25.5/g in last 2 vs 18.2/g season)",
       "tags": [
         "Frequent free throws",
-        "Limited sample size"
+        "Physical player",
+        "Trending \u2014 scoring more than season average"
       ]
     },
     {
-      "name": "Elijah Croot",
-      "number": "2",
-      "playerId": "e352f413-6e61-478a-8d6d-0fd81f0ffa74",
-      "profileUrl": "https://www.playhq.com/discover/profile/e352f413-6e61-478a-8d6d-0fd81f0ffa74",
-      "avgPoints": 12.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 2.0,
+      "name": "Jaxson Potts",
+      "number": "35",
+      "playerId": "851137a7-46dc-4c20-b929-12beb94427a3",
+      "profileUrl": "https://www.playhq.com/discover/profile/851137a7-46dc-4c20-b929-12beb94427a3",
+      "avgPoints": 15.1,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.9,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
-      "tags": [
-        "Outside threat",
-        "Limited sample size"
-      ]
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.9/g season)",
+      "tags": []
     },
     {
       "name": "Jordan West",
       "number": "23",
       "playerId": "1a648c28-6e52-4bec-84d4-60e3b87fbabb",
       "profileUrl": "https://www.playhq.com/discover/profile/1a648c28-6e52-4bec-84d4-60e3b87fbabb",
-      "avgPoints": 11.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 0.0,
+      "avgPoints": 12.2,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.4,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.3/g in last 3 vs 2.4/g season); scoring more lately (19.7/g in last 3 vs 12.2/g season)",
       "tags": [
-        "Frequent free throws",
-        "Limited sample size"
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
       ]
     },
     {
-      "name": "Flynn Newman",
-      "number": "11",
-      "playerId": "8ed71d58-6e89-4c4c-aceb-623853e44698",
-      "profileUrl": "https://www.playhq.com/discover/profile/8ed71d58-6e89-4c4c-aceb-623853e44698",
-      "avgPoints": 10.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 2.0,
+      "name": "Zane Songerwala",
+      "number": "6",
+      "playerId": "64bb6e4b-7639-4257-aaf2-7698aa653487",
+      "profileUrl": "https://www.playhq.com/discover/profile/64bb6e4b-7639-4257-aaf2-7698aa653487",
+      "avgPoints": 11.6,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 1.4,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.5/g in last 2 vs 1.4/g season); scoring less lately (8.5/g in last 2 vs 11.6/g season)",
       "tags": [
-        "Frequent free throws",
-        "Limited sample size"
+        "Trending \u2014 fouling more than season average"
       ]
     },
     {
-      "name": "Charlie Trigwell",
-      "number": "7",
-      "playerId": "f1d5d44c-c791-4ae0-ad3d-7dac8649f875",
-      "profileUrl": "https://www.playhq.com/discover/profile/f1d5d44c-c791-4ae0-ad3d-7dac8649f875",
-      "avgPoints": 9.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 2.0,
+      "name": "Callum Creek",
+      "number": "13",
+      "playerId": "ef3d0d6c-f5b5-4f4b-91c1-6d196c103046",
+      "profileUrl": "https://www.playhq.com/discover/profile/ef3d0d6c-f5b5-4f4b-91c1-6d196c103046",
+      "avgPoints": 7.5,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.1,
+      "avgFouls": 3.5,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 1,
-      "lowSampleSize": true,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (2.0/g in last 3 vs 3.5/g season)",
       "tags": [
-        "Limited sample size"
+        "Physical player"
       ]
     }
   ],
@@ -171,81 +219,92 @@
       "number": "2",
       "playerId": "48d39766-d99b-43e5-a16f-ace14eb6671b",
       "profileUrl": "https://www.playhq.com/discover/profile/48d39766-d99b-43e5-a16f-ace14eb6671b",
-      "avgPoints": 18.8,
-      "avgThrees": 1.4,
-      "avgFreeThrows": 2.2,
-      "avgFouls": 0.6,
+      "avgPoints": 20.3,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 3.4,
+      "avgFouls": 1.6,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 7,
       "lowSampleSize": false,
-      "tags": []
-    },
-    {
-      "name": "Isaiah Coleman",
-      "number": "30",
-      "playerId": "147c469f-6967-4f12-9e8d-da26f35fcc60",
-      "profileUrl": "https://www.playhq.com/discover/profile/147c469f-6967-4f12-9e8d-da26f35fcc60",
-      "avgPoints": 15.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 1.4,
-      "avgFouls": 1.4,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
-      "lowSampleSize": false,
-      "tags": []
-    },
-    {
-      "name": "Ben Lee",
-      "number": "29",
-      "playerId": "2ee7c3bf-1d12-4bfc-8da3-3bde7120731e",
-      "profileUrl": "https://www.playhq.com/discover/profile/2ee7c3bf-1d12-4bfc-8da3-3bde7120731e",
-      "avgPoints": 12.7,
-      "avgThrees": 1.3,
-      "avgFreeThrows": 2.7,
-      "avgFouls": 2.3,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 3,
-      "lowSampleSize": false,
-      "tags": []
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
     },
     {
       "name": "Trey Crawford",
       "number": "34",
       "playerId": "c3d6ad56-0680-4045-89c3-6e2aed3d944c",
       "profileUrl": "https://www.playhq.com/discover/profile/c3d6ad56-0680-4045-89c3-6e2aed3d944c",
-      "avgPoints": 12.0,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 1.2,
+      "avgPoints": 16.1,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.8,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
+      "gamesAnalysed": 8,
       "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Isaiah Coleman",
+      "number": "30",
+      "playerId": "147c469f-6967-4f12-9e8d-da26f35fcc60",
+      "profileUrl": "https://www.playhq.com/discover/profile/147c469f-6967-4f12-9e8d-da26f35fcc60",
+      "avgPoints": 14.4,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
       "tags": []
     },
     {
-      "name": "Isaac Grida",
-      "number": "22",
-      "playerId": "e4b40bf9-707c-43d5-a032-783730330b45",
-      "profileUrl": "https://www.playhq.com/discover/profile/e4b40bf9-707c-43d5-a032-783730330b45",
-      "avgPoints": 10.4,
-      "avgThrees": 0.6,
+      "name": "Justin Bennett",
+      "number": "26",
+      "playerId": "1efaef09-f677-4768-b043-f89e582b7d05",
+      "profileUrl": "https://www.playhq.com/discover/profile/1efaef09-f677-4768-b043-f89e582b7d05",
+      "avgPoints": 12.6,
+      "avgThrees": 1.9,
       "avgFreeThrows": 1.8,
-      "avgFouls": 2.2,
-      "technicalFouls": 1,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 5,
+      "gamesAnalysed": 8,
       "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Tim Hollick",
+      "number": "6",
+      "playerId": "d6cec466-e671-4a34-8210-e378ef96bb0c",
+      "profileUrl": "https://www.playhq.com/discover/profile/d6cec466-e671-4a34-8210-e378ef96bb0c",
+      "avgPoints": 11.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
       "tags": [
-        "Picked up a technical foul recently"
+        "Frequent free throws",
+        "Physical player",
+        "Limited sample size"
       ]
     }
   ],
@@ -508,6 +567,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T09:46:09.258423",
-  "aiBriefing": "This is a mismatch on paper with Lakeside sitting first at 10W-2L versus bottom-placed Hills at 1W-10L. Lakeside arrive on a five-game win streak averaging 98 points, including dominant margins of 40-plus and 50-plus in recent weeks, while Hills have limited recent data with only one recorded result showing a 27-point loss to Perth Redbacks. The ladder gap and Lakeside's momentum suggest potential for a blowout, but Hills playing at home at Mundaring Arena could generate enough intensity to keep this competitive early before fatigue or frustration sets in.\n\nWatch Isaac Grida number 22 for Lakeside closely\u2014he averages 2.2 fouls per game and has picked up one technical foul recently, making him your primary disciplinary concern. Ben Lee number 29 also sits at 2.3 fouls per game for the visitors. Hills data is single-game only so treat with caution, but Songerwala number 6, Croot number 2, Newman number 11, and Trigwell number 7 all recorded 2.0 fouls in their lone tracked appearance. Tyson Kelly number 2 and Isaiah Coleman number 30 lead Lakeside's scoring at 18.8 and 15.0 points respectively but both stay disciplined with under 1.5 fouls per game.\n\nThe technical foul history on Grida combined with a likely lopsided scoreline creates your main flashpoint risk. If Hills become frustrated by the margin or Lakeside's physicality in transition, watch for retaliatory fouls or verbal dissent especially in the second half. Establish control on any physical play around the rim early\u2014Coleman gets to the line regularly without shooting threes so expect contact in the paint. If this becomes a runaway, manage bench reactions and any late-game chippy play to prevent escalation when the result is settled."
+  "generatedAt": "2026-06-20T10:27:48.013514",
+  "dataComplete": true,
+  "aiBriefing": "This is a severe ladder mismatch with Hills Raiders sitting bottom of the table at 15th with one win against eleven losses while Lakeside Lightning leads the competition at first with ten wins from twelve games. Lightning arrives on a five-game winning streak averaging 100 points and dismantling opponents by large margins, while Raiders have dropped four of their last five despite tightening some recent losses. No previous meetings this season means you won't have established flow patterns between these teams. Expect Lakeside to push tempo and exploit the gap in class, but Raiders have shown fight in closer recent losses including an 82-88 defeat last round, so intensity could spike if the home team stays competitive or frustration builds in a blowout.\n\nWatch Hills number 3 Jhye Stoker closely as he fouls at 3.8 per game across five appearances and is trending hot offensively with 25.5 points per game in his last two outings, which means he'll be aggressive at both ends and at risk of early foul trouble. Number 23 Jordan West has spiked to 3.3 fouls per game over his last three matches compared to his 2.4 season average, while number 6 Zane Songerwala jumped to 2.5 fouls per game in his last two from a 1.4 season mark. Number 13 Callum Creek carries a 3.5 fouls per game season average though he's improved to 2.0 in his last three games. For Lakeside, number 30 Isaiah Coleman sits at 2.9 fouls per game and number 34 Trey Crawford at 2.8, so both will test physicality in the paint.\n\nPrimary flashpoint risk is foul frustration if Raiders try to disrupt Lightning's rhythm with physical defense and their key rotation players rack up early fouls, particularly Stoker who already operates near the limit. West and Songerwala's recent uptick in fouling suggests they're pressing harder as the team scraps for rare wins, which could escalate if Lakeside pulls away or if they sense an upset opportunity at home. Monitor physicality around Coleman and Crawford for Lakeside as both play physically inside. No technical or unsportsmanlike foul history flagged in the data, but the competitive gap and Raiders' desperation for only their second win creates blowout management risk or chippy play if the margin balloons early."
 }
