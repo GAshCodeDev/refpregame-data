@@ -208,7 +208,100 @@
       "tags": []
     }
   ],
-  "awayKeyPlayers": [],
+  "awayKeyPlayers": [
+    {
+      "name": "Ashlee Monaghan",
+      "number": "0",
+      "playerId": "6c3a5eb4-a90c-4379-a6bb-acf28c64d4b6",
+      "profileUrl": "https://www.playhq.com/discover/profile/6c3a5eb4-a90c-4379-a6bb-acf28c64d4b6",
+      "avgPoints": 11.5,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.5/g in last 2 vs 11.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Sian Grinceri",
+      "number": "4",
+      "playerId": "5940f1ea-e15e-4d61-a352-d9cc08110e47",
+      "profileUrl": "https://www.playhq.com/discover/profile/5940f1ea-e15e-4d61-a352-d9cc08110e47",
+      "avgPoints": 10.4,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (14.5/g in last 2 vs 10.4/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Katie Cummins",
+      "number": "20",
+      "playerId": "31bc128e-907d-4793-ab65-63b30bd9a17f",
+      "profileUrl": "https://www.playhq.com/discover/profile/31bc128e-907d-4793-ab65-63b30bd9a17f",
+      "avgPoints": 9.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.5/g season); scoring less lately (4.0/g in last 2 vs 9.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Isabella Andrew",
+      "number": "25",
+      "playerId": "2335b7b0-15ca-4b94-87ae-f71922ff42f0",
+      "profileUrl": "https://www.playhq.com/discover/profile/2335b7b0-15ca-4b94-87ae-f71922ff42f0",
+      "avgPoints": 8.7,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 1 vs 1.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Natalie Chisi",
+      "number": "21",
+      "playerId": "40f1bd02-c430-4d98-a465-580c97c3a0ed",
+      "profileUrl": "https://www.playhq.com/discover/profile/40f1bd02-c430-4d98-a465-580c97c3a0ed",
+      "avgPoints": 8.5,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (4.5/g in last 2 vs 8.5/g season)",
+      "tags": []
+    }
+  ],
   "headToHead": [],
   "homeLadder": {
     "rank": 7,
@@ -453,7 +546,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T10:51:59.375295",
-  "dataComplete": true,
-  "aiBriefing": "This is a significant ladder gap with Warwick sitting 2nd at 9-1 and East Perth mid-table 7th at 5-5. Warwick arrives in strong form, four straight wins averaging 80-56 including three blowouts of 40-plus margins. East Perth is inconsistent, alternating results with a recent 52-point thrashing of South West sandwiched between narrow losses. No prior meeting this season means no established rivalry tension, but Warwick will expect to dominate and East Perth may lift intensity to protect home court. Expect physical pressure defence from East Perth trying to disrupt Warwick's rhythm.\n\nWatch East Perth's Aleka Kabugua number 8 closely, averaging 1.9 fouls per game with 3.6 free throw attempts suggesting she plays aggressively in the paint. Ari van Vliet number 3 commits 2.0 fouls per game and also draws contact at 3.2 free throws per game, so she's both physical and attack-minded. Tahlia Kelly number 14 has the highest foul rate at 2.1 per game over seven appearances, though she's trending down to 1.5 in her last two games. All three are potential foul trouble risks if they try to overcompensate against a superior opponent.\n\nNo technical or unsportsmanlike foul history provided for either squad, but the mismatch creates flashpoint risk if East Perth becomes frustrated by a blowout or if Warwick showboats late. Monitor Kabugua and van Vliet for escalating physicality if they accumulate early fouls while trying to slow Warwick's scoring. Set clear boundaries on body contact and transition defence immediately to prevent chippy play from developing if the margin blows out."
+  "generatedAt": "2026-06-20T13:29:34.775206",
+  "dataComplete": false,
+  "aiBriefing": "This is a significant ladder mismatch with Warwick sitting second on 9W-1L against seventh-placed East Perth on 5W-5L. Warwick arrives in strong form at 4W-1L in their last five averaging 80-56, while East Perth is inconsistent at 2W-3L averaging 72-67, though their last outing was a 52-point demolition of South West. Expect Warwick to control tempo and exploit their skill advantage, but East Perth at home may compete harder than the ladder suggests. No previous meetings this season means no personal baggage to manage.\n\nWarwick's Sian Grinceri is your primary foul concern at 3.1 fouls per game, the highest rate on either roster. East Perth's van Vliet and Kabugua both commit 1.9 to 2.0 fouls per game and will see heavy minutes as their offensive engines at 15.1 and 19.6 points respectively, so watch accumulation early. Tahlia Kelly averages 2.1 fouls per game but has dropped to 1.5 in her last two games. On the Warwick side, Katie Cummins is trending up at 3.5 fouls per game in her last two matches versus 2.5 season average, and both Ashlee Monaghan and Natalie Chisi sit at 2.1 and 2.5 fouls per game respectively.\n\nThe primary flashpoint risk is foul trouble management rather than technical history, as no players show documented technical or unsportsmanlike foul patterns. With Warwick favoured heavily and East Perth needing a statement win at home, watch for frustration fouls if the margin blows out or physical escalation if East Perth tries to disrupt Warwick's rhythm defensively. Grinceri and Cummins could be in foul trouble by halftime given their rates, which would shift Warwick's rotation and potentially tighten the contest."
 }

@@ -65,16 +65,6 @@
   ],
   "awayForm": [
     {
-      "round": "Round 7",
-      "roundNumber": 7,
-      "opponent": "Mandurah Magic Open Women",
-      "scored": 45,
-      "conceded": 72,
-      "won": false,
-      "margin": -27,
-      "gameId": "2f61ef2e"
-    },
-    {
       "round": "Round 9",
       "roundNumber": 9,
       "opponent": "Hills Raiders Open Women",
@@ -93,6 +83,16 @@
       "won": false,
       "margin": -20,
       "gameId": "e7fce691"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 56,
+      "conceded": 79,
+      "won": false,
+      "margin": -23,
+      "gameId": "83709f43"
     },
     {
       "round": "Round 12",
@@ -248,56 +248,56 @@
       ]
     },
     {
-      "name": "Charlotte Mills",
-      "number": "20",
-      "playerId": "698218f4-7ffa-4f52-9e0f-6383e9193c2f",
-      "profileUrl": "https://www.playhq.com/discover/profile/698218f4-7ffa-4f52-9e0f-6383e9193c2f",
-      "avgPoints": 9.8,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.8,
-      "avgFouls": 2.8,
+      "name": "Meisha Norman",
+      "number": "7",
+      "playerId": "48e06feb-8b1a-4b62-9e10-fdb269242396",
+      "profileUrl": "https://www.playhq.com/discover/profile/48e06feb-8b1a-4b62-9e10-fdb269242396",
+      "avgPoints": 10.5,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 1.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
       "lowSampleSize": false,
-      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.8/g season)",
-      "tags": [
-        "Trending \u2014 fouling more than season average"
-      ]
+      "recentTrend": null,
+      "tags": []
     },
     {
-      "name": "Meisha Norman",
-      "number": "7",
-      "playerId": "48e06feb-8b1a-4b62-9e10-fdb269242396",
-      "profileUrl": "https://www.playhq.com/discover/profile/48e06feb-8b1a-4b62-9e10-fdb269242396",
-      "avgPoints": 8.8,
-      "avgThrees": 0.3,
-      "avgFreeThrows": 1.5,
-      "avgFouls": 1.3,
+      "name": "Charlotte Mills",
+      "number": "20",
+      "playerId": "698218f4-7ffa-4f52-9e0f-6383e9193c2f",
+      "profileUrl": "https://www.playhq.com/discover/profile/698218f4-7ffa-4f52-9e0f-6383e9193c2f",
+      "avgPoints": 9.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 3.0,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 6,
+      "gamesAnalysed": 4,
       "lowSampleSize": false,
       "recentTrend": null,
-      "tags": []
+      "tags": [
+        "Physical player"
+      ]
     },
     {
       "name": "Charlotte Lofgren",
       "number": "10",
       "playerId": "61976f0d-7f1b-44b0-a5ff-d6e74561859d",
       "profileUrl": "https://www.playhq.com/discover/profile/61976f0d-7f1b-44b0-a5ff-d6e74561859d",
-      "avgPoints": 7.6,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 2.4,
-      "avgFouls": 3.9,
+      "avgPoints": 7.9,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.7,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 8,
+      "gamesAnalysed": 7,
       "lowSampleSize": false,
-      "recentTrend": "scoring less lately (4.5/g in last 2 vs 7.6/g season)",
+      "recentTrend": "scoring less lately (5.0/g in last 3 vs 7.9/g season)",
       "tags": [
         "Physical player"
       ]
@@ -547,7 +547,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T11:01:52.330783",
+  "generatedAt": "2026-06-20T13:34:45.969799",
   "dataComplete": false,
-  "aiBriefing": "Perth sits 9th with a 4-7 record while South West is winless at 1-8 in last place. The Redbacks are coming off an 87-65 win after four straight losses, while the Slammers have dropped five consecutive games and been blown out by 52 points twice in their last three outings. The massive skill gap suggests a lopsided contest where frustration and garbage-time physicality become risks, particularly if Perth builds an early lead and South West's discipline breaks down.\n\nWatch Charlotte Lofgren number 10 for South West who fouls at 3.9 per game across eight appearances, the highest rate on either side with meaningful sample size. Ella Edwards number 1 fouls at 4.0 per game but has only played twice so that could stabilize or worsen. Charlotte Mills number 20 is trending upward at 3.5 fouls per game in her last two matches compared to 2.8 season average. For Perth, Ella Barmentloo number 14 sits at 2.2 fouls per game while Laniesha Paddon number 13 recorded 3.0 in her lone appearance but that single game offers no pattern.\n\nThe primary flashpoint is a blowout scenario where South West's frustration manifests physically as they fall further behind. Lofgren's foul rate combined with Mills trending worse suggests both could be in foul trouble by the third quarter if they're reaching or overplaying to compensate for the scoring gap. No technical or unsportsmanlike foul history is provided but monitor Perth's bench conduct if they're up big, and watch for South West players freelancing defensively out of desperation which typically produces unnecessary contact away from the ball."
+  "aiBriefing": "Perth sits 9th with a 4-7 record while South West is bottom at 1-8 with a woeful 62.8 percentage. The Redbacks just snapped a four-game skid with a 22-point win over Rockingham, but the Slammers arrive in freefall having lost five straight by an average margin of 36 points, including back-to-back 52-point drubbings and a forfeit loss. This is a mismatch on paper and the Slammers' recent capitulations suggest they may struggle to stay competitive if Perth builds an early lead. Watch for intensity to drop significantly if the margin blows out past halftime.\n\nOn foul management, South West has three high-foul players who need early monitoring. Charlotte Lofgren averages 3.7 fouls per game across seven appearances, Charlotte Mills sits at 3.0 over four games, and Ella Edwards has fouled out at 4.0 per game in limited sample over two games. For Perth, Ella Barmentloo carries 2.2 fouls per game and Talicia Hansen sits at 2.0, though Hansen has reduced to 1.5 in her last two matches. Meisha Norman for the Slammers is the cleanest defender at just 1.0 fouls per game. Given the Slammers' tendency to foul heavily, be alert to frustration fouls building if they fall behind early.\n\nThe primary flashpoint risk is a blowout scenario given South West's recent collapses and Perth playing at home off a confidence-building win. If the margin approaches 30-plus in the second half, watch for South West players becoming physically overaggressive out of frustration, particularly Lofgren and Mills who already foul frequently. No technical or unsportsmanlike foul history is flagged in the data, but manage any chippy play early to prevent escalation in what could become a lopsided contest. Keep the game moving and don't let emotions boil over if competitive balance disappears."
 }
