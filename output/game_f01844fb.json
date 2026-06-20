@@ -1,0 +1,566 @@
+{
+  "gameId": "f01844fb",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 13",
+  "homeTeam": "Rockingham Flames Open Women",
+  "awayTeam": "Cockburn Cougars Open Women",
+  "homeTeamId": "f59c210e",
+  "awayTeamId": "e1b09dc1",
+  "venue": "Mike Barnett Sports Complex",
+  "time": "14:30:00",
+  "date": "2026-06-21",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 52,
+      "conceded": 102,
+      "won": false,
+      "margin": -50,
+      "gameId": "e3101081"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Warwick Senators Open Women",
+      "scored": 35,
+      "conceded": 85,
+      "won": false,
+      "margin": -50,
+      "gameId": "ae9f9db9"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 60,
+      "conceded": 104,
+      "won": false,
+      "margin": -44,
+      "gameId": "3f0983c1"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Hills Raiders Open Women",
+      "scored": 92,
+      "conceded": 73,
+      "won": true,
+      "margin": 19,
+      "gameId": "f8f90b33"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 65,
+      "conceded": 87,
+      "won": false,
+      "margin": -22,
+      "gameId": "8ca002b8"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Warwick Senators Open Women",
+      "scored": 67,
+      "conceded": 59,
+      "won": true,
+      "margin": 8,
+      "gameId": "5f53a68d"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Willetton Tigers Open Women",
+      "scored": 78,
+      "conceded": 55,
+      "won": true,
+      "margin": 23,
+      "gameId": "649c68af"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "South West Slammers Open Women",
+      "scored": 20,
+      "conceded": 0,
+      "won": true,
+      "margin": 20,
+      "gameId": "e7fce691"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 111,
+      "conceded": 37,
+      "won": true,
+      "margin": 74,
+      "gameId": "32b0240d"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Hills Raiders Open Women",
+      "scored": 89,
+      "conceded": 57,
+      "won": true,
+      "margin": 32,
+      "gameId": "be1254b3"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Paris Spencer",
+      "number": "10",
+      "playerId": "a861e2f7-0803-459f-a348-ccb0b1e76d0b",
+      "profileUrl": "https://www.playhq.com/discover/profile/a861e2f7-0803-459f-a348-ccb0b1e76d0b",
+      "avgPoints": 18.5,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Ngaire Parish",
+      "number": "5",
+      "playerId": "5d91d475-9405-4d55-9d84-3cdb80c3a9b1",
+      "profileUrl": "https://www.playhq.com/discover/profile/5d91d475-9405-4d55-9d84-3cdb80c3a9b1",
+      "avgPoints": 16.8,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 3.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ava O'Neill",
+      "number": "15",
+      "playerId": "5454acd8-738c-496c-9a9a-9c4b6d85e159",
+      "profileUrl": "https://www.playhq.com/discover/profile/5454acd8-738c-496c-9a9a-9c4b6d85e159",
+      "avgPoints": 13.3,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Katie Biddulph",
+      "number": "13",
+      "playerId": "81d16b71-4ecc-4bcd-8e4d-47c7cab77ca0",
+      "profileUrl": "https://www.playhq.com/discover/profile/81d16b71-4ecc-4bcd-8e4d-47c7cab77ca0",
+      "avgPoints": 6.8,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ava Davies",
+      "number": "9",
+      "playerId": "d5f06db4-6df5-4530-9ffc-2a2d1f3f1b58",
+      "profileUrl": "https://www.playhq.com/discover/profile/d5f06db4-6df5-4530-9ffc-2a2d1f3f1b58",
+      "avgPoints": 6.3,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Lily Gammidge",
+      "number": "14",
+      "playerId": "c129101a-6b65-47c0-bc6f-f07adf2a20ea",
+      "profileUrl": "https://www.playhq.com/discover/profile/c129101a-6b65-47c0-bc6f-f07adf2a20ea",
+      "avgPoints": 25.0,
+      "avgThrees": 7.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Ayla Pizzuto",
+      "number": "6",
+      "playerId": "0d1f954a-0700-4dd8-a8a3-cc8c623c0f07",
+      "profileUrl": "https://www.playhq.com/discover/profile/0d1f954a-0700-4dd8-a8a3-cc8c623c0f07",
+      "avgPoints": 21.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Hannah Summers",
+      "number": "9",
+      "playerId": "9b2df854-5033-42e1-a051-98d0ce496479",
+      "profileUrl": "https://www.playhq.com/discover/profile/9b2df854-5033-42e1-a051-98d0ce496479",
+      "avgPoints": 21.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 4.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Alira Fotu",
+      "number": "7",
+      "playerId": "c1a64758-ad40-4394-bfac-bd90cca7a62e",
+      "profileUrl": "https://www.playhq.com/discover/profile/c1a64758-ad40-4394-bfac-bd90cca7a62e",
+      "avgPoints": 15.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Mackenzie Stewart",
+      "number": "4",
+      "playerId": "6946a9a5-8cd5-475c-8758-6d13a931c941",
+      "profileUrl": "https://www.playhq.com/discover/profile/6946a9a5-8cd5-475c-8758-6d13a931c941",
+      "avgPoints": 9.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 11,
+    "team": {
+      "id": "f59c210e",
+      "name": "Rockingham Flames Open Women"
+    },
+    "played": 11,
+    "won": 3,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 663,
+    "pointsAgainst": 840,
+    "percentage": 78.93,
+    "competitionPoints": 6
+  },
+  "awayLadder": {
+    "rank": 1,
+    "team": {
+      "id": "e1b09dc1",
+      "name": "Cockburn Cougars Open Women"
+    },
+    "played": 10,
+    "won": 10,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 780,
+    "pointsAgainst": 490,
+    "percentage": 159.18,
+    "competitionPoints": 20
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 10,
+      "won": 10,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 780,
+      "pointsAgainst": 490,
+      "percentage": 159.18,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 10,
+      "won": 9,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 774,
+      "pointsAgainst": 558,
+      "percentage": 138.71,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 747,
+      "pointsAgainst": 650,
+      "percentage": 114.92,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 768,
+      "percentage": 105.6,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 836,
+      "pointsAgainst": 782,
+      "percentage": 106.91,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 736,
+      "pointsAgainst": 656,
+      "percentage": 112.2,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 662,
+      "percentage": 105.29,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 667,
+      "pointsAgainst": 739,
+      "percentage": 90.26,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 11,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 785,
+      "percentage": 96.43,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 730,
+      "pointsAgainst": 654,
+      "percentage": 111.62,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 11,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 663,
+      "pointsAgainst": 840,
+      "percentage": 78.93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 10,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 709,
+      "pointsAgainst": 753,
+      "percentage": 94.16,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 9,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 522,
+      "pointsAgainst": 828,
+      "percentage": 63.04,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 445,
+      "pointsAgainst": 709,
+      "percentage": 62.76,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-20T10:59:24.377073",
+  "dataComplete": true,
+  "aiBriefing": "This is a severe mismatch between undefeated ladder leader Cockburn and struggling Rockingham sitting 11th of 14. Cockburn arrives in dominant form averaging 73-42 across their last five with a 31-point average margin, while Rockingham has lost four of five and been blown out by 44 or more in three recent games. The 80-point gap in percentage tells the story. Expect Cockburn to control tempo early and Rockingham to face mounting frustration if the margin blows out as form suggests. The intensity will be one-sided unless Rockingham competes beyond recent form.\n\nWatch Rockingham's Ngaire Parish closely. She averages 3.6 fouls per game across five appearances, the highest rate on either roster, and will likely defend against Cockburn's prolific scorers. Katie Biddulph at 2.6 fouls per game and Ava Davies at 2.8 both sit in foul trouble territory. For Cockburn, the sample sizes are thin but Hannah Summers logged 4.0 fouls in her single game and Ayla Pizzuto sits at 3.0, though both have played sparingly. Mackenzie Stewart also averages 3.0 fouls across two games. If Rockingham tries to physically slow Cockburn's weapons, Parish and the supporting rotation will foul out fast.\n\nPrimary flashpoint risk is frustration fouls and potential escalation if Rockingham falls behind by 30-plus as they have repeatedly in recent weeks. Parish's foul tendency combined with defensive pressure on high-scoring threats creates early disqualification risk that could spark tension. Monitor any physical play around screens or transition defence where a demoralized team might cross the line from competitive to reckless. No technical or unsportsmanlike history provided, but the competitive imbalance and Rockingham's recent blowout losses create conditions for composure to break down if the margin becomes embarrassing."
+}

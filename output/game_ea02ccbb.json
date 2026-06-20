@@ -1,0 +1,460 @@
+{
+  "gameId": "ea02ccbb",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 13",
+  "homeTeam": "Perry Lakes Hawks Open Women",
+  "awayTeam": "Willetton Tigers Open Women",
+  "homeTeamId": "c2a9f291",
+  "awayTeamId": "4711ee17",
+  "venue": "Bendat Basketball Centre",
+  "time": "13:15:00",
+  "date": "2026-06-21",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Hills Raiders Open Women",
+      "scored": 93,
+      "conceded": 73,
+      "won": true,
+      "margin": 20,
+      "gameId": "7663977f"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "East Perth Eagles Open Women",
+      "scored": 83,
+      "conceded": 56,
+      "won": true,
+      "margin": 27,
+      "gameId": "ba79a14d"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 82,
+      "conceded": 62,
+      "won": true,
+      "margin": 20,
+      "gameId": "22e6d070"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "South West Slammers Open Women",
+      "scored": 79,
+      "conceded": 56,
+      "won": true,
+      "margin": 23,
+      "gameId": "83709f43"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 84,
+      "conceded": 67,
+      "won": true,
+      "margin": 17,
+      "gameId": "ae6d8006"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Warwick Senators Open Women",
+      "scored": 59,
+      "conceded": 62,
+      "won": false,
+      "margin": -3,
+      "gameId": "401f4a1a"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Rockingham Flames Open Women",
+      "scored": 102,
+      "conceded": 52,
+      "won": true,
+      "margin": 50,
+      "gameId": "e3101081"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 55,
+      "conceded": 78,
+      "won": false,
+      "margin": -23,
+      "gameId": "649c68af"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 66,
+      "conceded": 94,
+      "won": false,
+      "margin": -28,
+      "gameId": "5c2fc9de"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 62,
+      "conceded": 57,
+      "won": true,
+      "margin": 5,
+      "gameId": "f7c15f10"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Nicola Moore",
+      "number": "9",
+      "playerId": "025e8a63-a05c-4ff5-a38d-409497c8a38e",
+      "profileUrl": "https://www.playhq.com/discover/profile/025e8a63-a05c-4ff5-a38d-409497c8a38e",
+      "avgPoints": 15.2,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (22.0/g in last 2 vs 15.2/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Emma Clark",
+      "number": "11",
+      "playerId": "62e48fb3-7760-43ae-b723-61e514d3e1d0",
+      "profileUrl": "https://www.playhq.com/discover/profile/62e48fb3-7760-43ae-b723-61e514d3e1d0",
+      "avgPoints": 13.9,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Eva Smith",
+      "number": "21",
+      "playerId": "e2cfd850-9fee-4721-b6e3-046dc8224312",
+      "profileUrl": "https://www.playhq.com/discover/profile/e2cfd850-9fee-4721-b6e3-046dc8224312",
+      "avgPoints": 12.6,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (8.3/g in last 3 vs 12.6/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jordi Perry",
+      "number": "19",
+      "playerId": "a91cb71a-c6f9-4ff4-b830-ebf0dc3b0145",
+      "profileUrl": "https://www.playhq.com/discover/profile/a91cb71a-c6f9-4ff4-b830-ebf0dc3b0145",
+      "avgPoints": 8.0,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.0/g season)",
+      "tags": []
+    },
+    {
+      "name": "Jordyn Darcey",
+      "number": "12",
+      "playerId": "86d938bb-b0a0-483e-9e88-25906e71d24a",
+      "profileUrl": "https://www.playhq.com/discover/profile/86d938bb-b0a0-483e-9e88-25906e71d24a",
+      "avgPoints": 7.8,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "c2a9f291",
+      "name": "Perry Lakes Hawks Open Women"
+    },
+    "played": 11,
+    "won": 7,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 811,
+    "pointsAgainst": 768,
+    "percentage": 105.6,
+    "competitionPoints": 14
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "4711ee17",
+      "name": "Willetton Tigers Open Women"
+    },
+    "played": 10,
+    "won": 6,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 736,
+    "pointsAgainst": 656,
+    "percentage": 112.2,
+    "competitionPoints": 12
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 10,
+      "won": 10,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 780,
+      "pointsAgainst": 490,
+      "percentage": 159.18,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 10,
+      "won": 9,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 774,
+      "pointsAgainst": 558,
+      "percentage": 138.71,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 747,
+      "pointsAgainst": 650,
+      "percentage": 114.92,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 768,
+      "percentage": 105.6,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 836,
+      "pointsAgainst": 782,
+      "percentage": 106.91,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 736,
+      "pointsAgainst": 656,
+      "percentage": 112.2,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 662,
+      "percentage": 105.29,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 667,
+      "pointsAgainst": 739,
+      "percentage": 90.26,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 11,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 785,
+      "percentage": 96.43,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 730,
+      "pointsAgainst": 654,
+      "percentage": 111.62,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 11,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 663,
+      "pointsAgainst": 840,
+      "percentage": 78.93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 10,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 709,
+      "pointsAgainst": 753,
+      "percentage": 94.16,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 9,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 522,
+      "pointsAgainst": 828,
+      "percentage": 63.04,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 445,
+      "pointsAgainst": 709,
+      "percentage": 62.76,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-20T10:57:01.865865",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits fourth and Willetton sixth, both mid-table but Perry Lakes carries real momentum with five straight wins averaging plus-21 margins and scoring 84 per game. Willetton has dropped three of five and sits dead even at 69-69 over that span, including heavy losses to Cockburn and Joondalup by 23 and 28 points. No previous matchup this season means no established grudges, but the form gap suggests Perry Lakes will control tempo and Willetton may need to increase physicality to stay competitive, which raises foul risk if they chase the game.\n\nWatch Eva Smith number 21 closely, she fouls at 2.3 per game, highest among Perry Lakes key players, and her recent scoring drop to 8.3 points over the last three games might push her into more defensive aggression to contribute. Nicola Moore number 9 is trending hot at 22 points per game in her last two outings and will likely draw heavy defensive attention, creating potential for reach-ins or over-the-back fouls if Willetton tries to slow her without help rotation. Jordi Perry number 19 has reduced her fouling from 2.0 to 1.3 over the last three games, so monitor whether that discipline holds under pressure.\n\nThe main flashpoint risk is Willetton's form crisis meeting Perry Lakes' rolling offense. If the margin blows out early, frustration fouls become likely, particularly in transition where Perry Lakes has been dominant. No technical or unsportsmanlike foul history is documented for either side, but watch for late-game chipiness if Willetton feels the game slipping and resorts to harder contests on drives or post entries. Keep a tight whistle on off-ball contact in the first quarter to set the standard and prevent escalation."
+}

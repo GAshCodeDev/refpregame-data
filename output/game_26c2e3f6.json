@@ -1,0 +1,459 @@
+{
+  "gameId": "26c2e3f6",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 13",
+  "homeTeam": "East Perth Eagles Open Women",
+  "awayTeam": "Warwick Senators Open Women",
+  "homeTeamId": "9412b6df",
+  "awayTeamId": "c0e9962c",
+  "venue": "Morley Sport and Recreation Centre",
+  "time": "10:00:00",
+  "date": "2026-06-21",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Eastern Suns Open Women",
+      "scored": 68,
+      "conceded": 72,
+      "won": false,
+      "margin": -4,
+      "gameId": "33a6a302"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 56,
+      "conceded": 83,
+      "won": false,
+      "margin": -27,
+      "gameId": "ba79a14d"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 80,
+      "conceded": 63,
+      "won": true,
+      "margin": 17,
+      "gameId": "5992861d"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 71,
+      "conceded": 82,
+      "won": false,
+      "margin": -11,
+      "gameId": "827fdde9"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "South West Slammers Open Women",
+      "scored": 87,
+      "conceded": 35,
+      "won": true,
+      "margin": 52,
+      "gameId": "f1f97a61"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 59,
+      "conceded": 67,
+      "won": false,
+      "margin": -8,
+      "gameId": "5f53a68d"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Rockingham Flames Open Women",
+      "scored": 85,
+      "conceded": 35,
+      "won": true,
+      "margin": 50,
+      "gameId": "ae9f9db9"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 91,
+      "conceded": 68,
+      "won": true,
+      "margin": 23,
+      "gameId": "c3f30157"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 72,
+      "conceded": 62,
+      "won": true,
+      "margin": 10,
+      "gameId": "be7e6c2e"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 94,
+      "conceded": 50,
+      "won": true,
+      "margin": 44,
+      "gameId": "646c532d"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Aleka Kabugua",
+      "number": "8",
+      "playerId": "2acfa377-6445-4bb3-a095-2d2f0e7515a3",
+      "profileUrl": "https://www.playhq.com/discover/profile/2acfa377-6445-4bb3-a095-2d2f0e7515a3",
+      "avgPoints": 19.6,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 3.6,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Ari van Vliet",
+      "number": "3",
+      "playerId": "bcaaf2f6-4db5-4954-9a67-fcfc7272e017",
+      "profileUrl": "https://www.playhq.com/discover/profile/bcaaf2f6-4db5-4954-9a67-fcfc7272e017",
+      "avgPoints": 15.1,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Millie Gerreyn",
+      "number": "11",
+      "playerId": "a0460a7c-596a-4db8-8230-9d13c35e95bf",
+      "profileUrl": "https://www.playhq.com/discover/profile/a0460a7c-596a-4db8-8230-9d13c35e95bf",
+      "avgPoints": 9.8,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Zaya Black",
+      "number": "55",
+      "playerId": "a6831760-6d52-42d0-a8c2-1433fe44b297",
+      "profileUrl": "https://www.playhq.com/discover/profile/a6831760-6d52-42d0-a8c2-1433fe44b297",
+      "avgPoints": 9.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Tahlia Kelly",
+      "number": "14",
+      "playerId": "bfc7fc28-be66-4e4d-b8db-26d45740ef73",
+      "profileUrl": "https://www.playhq.com/discover/profile/bfc7fc28-be66-4e4d-b8db-26d45740ef73",
+      "avgPoints": 7.6,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.1/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 7,
+    "team": {
+      "id": "9412b6df",
+      "name": "East Perth Eagles Open Women"
+    },
+    "played": 10,
+    "won": 5,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 697,
+    "pointsAgainst": 662,
+    "percentage": 105.29,
+    "competitionPoints": 10
+  },
+  "awayLadder": {
+    "rank": 2,
+    "team": {
+      "id": "c0e9962c",
+      "name": "Warwick Senators Open Women"
+    },
+    "played": 10,
+    "won": 9,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 774,
+    "pointsAgainst": 558,
+    "percentage": 138.71,
+    "competitionPoints": 18
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 10,
+      "won": 10,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 780,
+      "pointsAgainst": 490,
+      "percentage": 159.18,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 10,
+      "won": 9,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 774,
+      "pointsAgainst": 558,
+      "percentage": 138.71,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 747,
+      "pointsAgainst": 650,
+      "percentage": 114.92,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 768,
+      "percentage": 105.6,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 836,
+      "pointsAgainst": 782,
+      "percentage": 106.91,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 736,
+      "pointsAgainst": 656,
+      "percentage": 112.2,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 697,
+      "pointsAgainst": 662,
+      "percentage": 105.29,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 667,
+      "pointsAgainst": 739,
+      "percentage": 90.26,
+      "competitionPoints": 10
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 11,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 785,
+      "percentage": 96.43,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 730,
+      "pointsAgainst": 654,
+      "percentage": 111.62,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 11,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 663,
+      "pointsAgainst": 840,
+      "percentage": 78.93,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 10,
+      "won": 3,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 709,
+      "pointsAgainst": 753,
+      "percentage": 94.16,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 9,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 522,
+      "pointsAgainst": 828,
+      "percentage": 63.04,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 445,
+      "pointsAgainst": 709,
+      "percentage": 62.76,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-06-20T10:51:59.375295",
+  "dataComplete": true,
+  "aiBriefing": "This is a significant ladder gap with Warwick sitting 2nd at 9-1 and East Perth mid-table 7th at 5-5. Warwick arrives in strong form, four straight wins averaging 80-56 including three blowouts of 40-plus margins. East Perth is inconsistent, alternating results with a recent 52-point thrashing of South West sandwiched between narrow losses. No prior meeting this season means no established rivalry tension, but Warwick will expect to dominate and East Perth may lift intensity to protect home court. Expect physical pressure defence from East Perth trying to disrupt Warwick's rhythm.\n\nWatch East Perth's Aleka Kabugua number 8 closely, averaging 1.9 fouls per game with 3.6 free throw attempts suggesting she plays aggressively in the paint. Ari van Vliet number 3 commits 2.0 fouls per game and also draws contact at 3.2 free throws per game, so she's both physical and attack-minded. Tahlia Kelly number 14 has the highest foul rate at 2.1 per game over seven appearances, though she's trending down to 1.5 in her last two games. All three are potential foul trouble risks if they try to overcompensate against a superior opponent.\n\nNo technical or unsportsmanlike foul history provided for either squad, but the mismatch creates flashpoint risk if East Perth becomes frustrated by a blowout or if Warwick showboats late. Monitor Kabugua and van Vliet for escalating physicality if they accumulate early fouls while trying to slow Warwick's scoring. Set clear boundaries on body contact and transition defence immediately to prevent chippy play from developing if the margin blows out."
+}
