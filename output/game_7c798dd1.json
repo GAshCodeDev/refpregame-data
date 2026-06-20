@@ -13,49 +13,13 @@
   "tenant": "basketball-wa",
   "homeForm": [
     {
-      "round": "Round 10",
-      "opponent": "Joondalup Wolves Open Men",
-      "scored": 103,
-      "conceded": 106,
-      "won": false,
-      "margin": -3,
-      "gameId": "c8598753"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "East Perth Eagles Open Men",
-      "scored": 102,
-      "conceded": 119,
-      "won": false,
-      "margin": -17,
-      "gameId": "41df08fc"
-    },
-    {
-      "round": "Round 8",
-      "opponent": "Hills Raiders Open Men",
-      "scored": 107,
-      "conceded": 68,
+      "round": "Round 5",
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 132,
+      "conceded": 75,
       "won": true,
-      "margin": 39,
-      "gameId": "8aa96e35"
-    },
-    {
-      "round": "Round 7",
-      "opponent": "Eastern Suns Open Men",
-      "scored": 87,
-      "conceded": 101,
-      "won": false,
-      "margin": -14,
-      "gameId": "8f895367"
-    },
-    {
-      "round": "Round 6",
-      "opponent": "Perth Redbacks Open Men",
-      "scored": 107,
-      "conceded": 91,
-      "won": true,
-      "margin": 16,
-      "gameId": "0eecef3b"
+      "margin": 57,
+      "gameId": "2586e1ac"
     }
   ],
   "awayForm": [
@@ -109,62 +73,97 @@
     {
       "name": "Tobias Martin",
       "number": "11",
-      "avgPoints": 23.0,
-      "avgThrees": 5.0,
-      "avgFreeThrows": 2.8,
-      "avgFouls": 3.2,
-      "gamesAnalysed": 5,
+      "playerId": "b99f6346-7bd1-4297-bf94-3bf1456faa91",
+      "profileUrl": "https://www.playhq.com/discover/profile/b99f6346-7bd1-4297-bf94-3bf1456faa91",
+      "avgPoints": 34.0,
+      "avgThrees": 9.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
       "tags": [
         "Outside threat",
-        "Physical player"
-      ]
-    },
-    {
-      "name": "Leigh Rickwood-Pitt",
-      "number": "8",
-      "avgPoints": 19.0,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 0.0,
-      "gamesAnalysed": 1,
-      "tags": [
-        "Frequent free throws"
+        "Frequent free throws",
+        "Limited sample size"
       ]
     },
     {
       "name": "Marley Fradd",
       "number": "17",
-      "avgPoints": 15.8,
-      "avgThrees": 0.2,
-      "avgFreeThrows": 1.2,
-      "avgFouls": 3.2,
-      "gamesAnalysed": 5,
+      "playerId": "282fac02-753a-461d-b064-55dd799cb048",
+      "profileUrl": "https://www.playhq.com/discover/profile/282fac02-753a-461d-b064-55dd799cb048",
+      "avgPoints": 26.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 0.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
       "tags": [
-        "Physical player"
+        "Limited sample size"
       ]
     },
     {
-      "name": "Aluth John",
-      "number": "91",
-      "avgPoints": 11.0,
-      "avgThrees": 2.2,
-      "avgFreeThrows": 0.4,
-      "avgFouls": 1.2,
-      "gamesAnalysed": 5,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Connor Morris",
-      "number": "19",
-      "avgPoints": 10.7,
-      "avgThrees": 2.3,
+      "name": "Harry Evans",
+      "number": "4",
+      "playerId": "e284dcae-ecc6-44f2-8d1b-8d151c6bd926",
+      "profileUrl": "https://www.playhq.com/discover/profile/e284dcae-ecc6-44f2-8d1b-8d151c6bd926",
+      "avgPoints": 16.0,
+      "avgThrees": 3.0,
       "avgFreeThrows": 1.0,
       "avgFouls": 2.0,
-      "gamesAnalysed": 3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
       "tags": [
-        "Outside threat"
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Mabok Makoi",
+      "number": "6",
+      "playerId": "ae8b055f-220b-43d5-9c8b-fa5f5fb41f2f",
+      "profileUrl": "https://www.playhq.com/discover/profile/ae8b055f-220b-43d5-9c8b-fa5f5fb41f2f",
+      "avgPoints": 13.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Toby Gallagher",
+      "number": "15",
+      "playerId": "d0d7f7bf-9dae-48ed-89d6-47441c68b398",
+      "profileUrl": "https://www.playhq.com/discover/profile/d0d7f7bf-9dae-48ed-89d6-47441c68b398",
+      "avgPoints": 12.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 5.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
       ]
     }
   ],
@@ -172,25 +171,37 @@
     {
       "name": "Timothy Ibukunoluwa",
       "number": "12",
-      "avgPoints": 28.0,
+      "playerId": "31995ac3-b7df-4d75-a1e0-3b1e80a0d49d",
+      "profileUrl": "https://www.playhq.com/discover/profile/31995ac3-b7df-4d75-a1e0-3b1e80a0d49d",
+      "avgPoints": 23.3,
       "avgThrees": 1.0,
-      "avgFreeThrows": 9.0,
-      "avgFouls": 4.0,
-      "gamesAnalysed": 1,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": [
-        "Frequent free throws",
-        "Physical player"
+        "Frequent free throws"
       ]
     },
     {
       "name": "Aaron Gashaw",
       "number": "9",
-      "avgPoints": 18.5,
-      "avgThrees": 1.5,
-      "avgFreeThrows": 5.0,
-      "avgFouls": 4.5,
-      "gamesAnalysed": 2,
+      "playerId": "dd7a235d-e016-47c1-808e-b3e85d5c4607",
+      "profileUrl": "https://www.playhq.com/discover/profile/dd7a235d-e016-47c1-808e-b3e85d5c4607",
+      "avgPoints": 21.8,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 5.8,
+      "avgFouls": 3.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": [
+        "Outside threat",
         "Frequent free throws",
         "Physical player"
       ]
@@ -198,40 +209,59 @@
     {
       "name": "Channing Olowoyo",
       "number": "4",
-      "avgPoints": 12.5,
-      "avgThrees": 1.5,
-      "avgFreeThrows": 3.0,
-      "avgFouls": 2.0,
-      "gamesAnalysed": 2,
+      "playerId": "288ec17e-4484-4e2a-9848-ce97271648fa",
+      "profileUrl": "https://www.playhq.com/discover/profile/288ec17e-4484-4e2a-9848-ce97271648fa",
+      "avgPoints": 11.3,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 2.7,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": [
-        "Frequent free throws"
+        "Picked up a technical foul recently"
       ]
     },
     {
-      "name": "Lachlan Burnett",
-      "number": "7",
-      "avgPoints": 8.0,
-      "avgThrees": 2.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 2.5,
-      "gamesAnalysed": 2,
-      "tags": [
-        "Outside threat"
-      ]
-    },
-    {
-      "name": "Joshua Harris",
-      "number": "15",
-      "avgPoints": 8.0,
+      "name": "Alexander Edwards",
+      "number": "14",
+      "playerId": "78fe674a-14c6-4692-8f2d-a49f3f5c3513",
+      "profileUrl": "https://www.playhq.com/discover/profile/78fe674a-14c6-4692-8f2d-a49f3f5c3513",
+      "avgPoints": 11.0,
       "avgThrees": 0.0,
-      "avgFreeThrows": 0.0,
-      "avgFouls": 0.0,
-      "gamesAnalysed": 1,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": []
+    },
+    {
+      "name": "Noah Valentine",
+      "number": "5",
+      "playerId": "bd357bbd-9233-4426-8dde-323af35894a1",
+      "profileUrl": "https://www.playhq.com/discover/profile/bd357bbd-9233-4426-8dde-323af35894a1",
+      "avgPoints": 11.0,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "tags": [
+        "Limited sample size"
+      ]
     }
   ],
+  "headToHead": [],
   "homeLadder": {
-    "rank": 7,
+    "rank": 8,
     "team": {
       "id": "1dca5744",
       "name": "Perry Lakes Hawks Open Men"
@@ -283,13 +313,13 @@
         "id": "3e71c2c7",
         "name": "Joondalup Wolves Open Men"
       },
-      "played": 11,
+      "played": 12,
       "won": 9,
-      "lost": 2,
+      "lost": 3,
       "drawn": 0,
-      "pointsFor": 1071,
-      "pointsAgainst": 938,
-      "percentage": 114.18,
+      "pointsFor": 1166,
+      "pointsAgainst": 1034,
+      "percentage": 112.77,
       "competitionPoints": 18
     },
     {
@@ -325,6 +355,21 @@
     {
       "rank": 5,
       "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 972,
+      "pointsAgainst": 899,
+      "percentage": 108.12,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 6,
+      "team": {
         "id": "f97426c2",
         "name": "East Perth Eagles Open Men"
       },
@@ -338,7 +383,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": "e1b87db3",
         "name": "Warwick Senators Open Men"
@@ -353,7 +398,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": "1dca5744",
         "name": "Perry Lakes Hawks Open Men"
@@ -365,21 +410,6 @@
       "pointsFor": 1080,
       "pointsAgainst": 956,
       "percentage": 112.97,
-      "competitionPoints": 12
-    },
-    {
-      "rank": 8,
-      "team": {
-        "id": "89351f76",
-        "name": "Eastern Suns Open Men"
-      },
-      "played": 10,
-      "won": 6,
-      "lost": 4,
-      "drawn": 0,
-      "pointsFor": 952,
-      "pointsAgainst": 899,
-      "percentage": 105.9,
       "competitionPoints": 12
     },
     {
@@ -418,17 +448,32 @@
         "id": "62b22846",
         "name": "Rockingham Flames Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 4,
       "lost": 5,
       "drawn": 0,
       "pointsFor": 807,
-      "pointsAgainst": 879,
-      "percentage": 91.81,
+      "pointsAgainst": 899,
+      "percentage": 89.77,
       "competitionPoints": 8
     },
     {
       "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1035,
+      "pointsAgainst": 1151,
+      "percentage": 89.92,
+      "competitionPoints": 4
+    },
+    {
+      "rank": 13,
       "team": {
         "id": "e7c4c58e",
         "name": "Geraldton Buccaneers Open Men"
@@ -443,7 +488,7 @@
       "competitionPoints": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": {
         "id": "15229133",
         "name": "Goldfields Giants Open Men"
@@ -456,21 +501,6 @@
       "pointsAgainst": 1014,
       "percentage": 78.99,
       "competitionPoints": 3
-    },
-    {
-      "rank": 14,
-      "team": {
-        "id": "4513e433",
-        "name": "Perth Redbacks Open Men"
-      },
-      "played": 11,
-      "won": 1,
-      "lost": 10,
-      "drawn": 0,
-      "pointsFor": 939,
-      "pointsAgainst": 1056,
-      "percentage": 88.92,
-      "competitionPoints": 2
     },
     {
       "rank": 15,
@@ -488,6 +518,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T08:04:40.262916",
-  "aiBriefing": "This is a significant matchup between third-placed Willetton (8-2) and seventh-placed Perry Lakes (6-5), with the Tigers looking to bounce back from a narrow two-point loss and protect their top-four position while the Hawks need a win to stay in contention. The scoring patterns are dramatically different: Perry Lakes runs a high-tempo offense averaging 101 points per game in recent form, while Willetton plays much slower at 71 points per game. This style clash could create frustration and tempo disputes throughout the game, particularly if Willetton tries to slow down Perry Lakes' transition game. Expect Perry Lakes to push pace aggressively while Willetton will look to grind possessions and get to the free-throw line.\n\nWatch Tobias Martin (#11) and Marley Fradd (#17) closely for Perry Lakes as both average 3.2 fouls per game, suggesting aggressive defensive play or possible foul trouble patterns. For Willetton, Timothy Ibukunoluwa (#12) and Aaron Gashaw (#9) are major concerns, both averaging 4.0-plus fouls per game with Ibukunoluwa attempting 9 free throws per game in limited data. These two will be heavily involved in physical play and drawing contact on drives. Gashaw's 4.5 fouls per game suggests either aggressive defense or difficulty controlling physicality, so monitor his play closely for escalation.\n\nThe contrasting styles and pace will be the primary management challenge. Perry Lakes will push tempo and shoot volume threes (Martin alone averages 5 three-point attempts), while Willetton's key players actively hunt free throws, particularly Ibukunoluwa and Gashaw combining for 14 attempts per game. This creates potential flashpoints around transition defense, where Willetton may need to foul to stop breaks, and half-court drives where contact decisions will be critical. Given Willetton's recent close games (three wins by five points or less, plus a two-point loss) versus Perry Lakes' volatile results, Willetton is accustomed to pressure situations while Perry Lakes may show frustration if shots aren't falling. Stay tight on charge/block calls in transition and be consistent on hand-checking when Willetton slows the pace, as this is where complaints will emerge from both sides."
+  "generatedAt": "2026-06-20T09:53:17.390951",
+  "aiBriefing": "This is a clash between third-placed Willetton (8-2) and eighth-placed Perry Lakes (6-5), with the Tigers arriving off a narrow two-point loss to Lakeside and the Hawks coming off a dominant 57-point thrashing of Goldfields. Despite the ladder gap, Perry Lakes' limited data comes from just that one blowout game, making their form difficult to read. Willetton has played tighter contests recently with three wins by five points or fewer in their last five, suggesting they're accustomed to grinding out close results. No previous meeting this season means no established rivalry dynamic, but the Tigers will be motivated to bounce back while the Hawks look to prove their big win wasn't a one-off.\n\nFor Perry Lakes, watch Toby Gallagher (15) closely\u2014he's averaging 5.0 fouls per game despite the small sample, indicating aggressive play that could see him in trouble early. Harry Evans (4) and Mabok Makoi (6) both sit at 2.0 fouls per game. For Willetton, Aaron Gashaw (9) is the primary concern at 3.8 fouls per game while also drawing 5.8 free throws, meaning he's both physical and likely to get to the line often. Timothy Ibukunoluwa (12) at 2.7 fouls per game and 5.0 free throw attempts will also be heavily involved in contact. Channing Olowoyo (4) carries a recent technical foul and averages 2.7 fouls per game, making him a discipline risk.\n\nThe main flashpoint is Gallagher's foul rate\u2014if he plays his usual aggressive style, he'll be in jeopardy of fouling out, potentially sparking frustration from the home side. Olowoyo's technical history means any chippy exchanges need immediate management before they escalate. Gashaw's dual role as a foul-drawer and foul-committer will generate frequent whistle situations that require consistency, especially if the game stays tight as Willetton's form suggests it might. The ladder stakes matter more to the Tigers, so expect them to push physically if they fall behind."
 }

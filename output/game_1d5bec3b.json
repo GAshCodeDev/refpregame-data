@@ -109,24 +109,37 @@
     {
       "name": "Stephen Phipps",
       "number": "4",
+      "playerId": "7ab2523a-af5e-4ea7-ba6b-099886d88838",
+      "profileUrl": "https://www.playhq.com/discover/profile/7ab2523a-af5e-4ea7-ba6b-099886d88838",
       "avgPoints": 30.0,
       "avgThrees": 4.0,
       "avgFreeThrows": 6.0,
       "avgFouls": 0.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 1,
+      "lowSampleSize": true,
       "tags": [
         "Outside threat",
-        "Frequent free throws"
+        "Frequent free throws",
+        "Limited sample size"
       ]
     },
     {
       "name": "Hayden Price",
       "number": "15",
+      "playerId": "51c2d605-06a4-4304-a712-2ccc2cd652df",
+      "profileUrl": "https://www.playhq.com/discover/profile/51c2d605-06a4-4304-a712-2ccc2cd652df",
       "avgPoints": 22.4,
       "avgThrees": 0.2,
       "avgFreeThrows": 4.2,
       "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
+      "lowSampleSize": false,
       "tags": [
         "Frequent free throws"
       ]
@@ -134,11 +147,17 @@
     {
       "name": "Jesse Pollock",
       "number": "5",
+      "playerId": "3c4f0f53-8cc6-4365-8c2a-cd4b9d9c8a44",
+      "profileUrl": "https://www.playhq.com/discover/profile/3c4f0f53-8cc6-4365-8c2a-cd4b9d9c8a44",
       "avgPoints": 21.3,
       "avgThrees": 2.7,
       "avgFreeThrows": 2.0,
       "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": [
         "Outside threat"
       ]
@@ -146,24 +165,37 @@
     {
       "name": "Marley Sam",
       "number": "14",
+      "playerId": "0694a55a-5ae6-453b-a274-1d5f29bed28c",
+      "profileUrl": "https://www.playhq.com/discover/profile/0694a55a-5ae6-453b-a274-1d5f29bed28c",
       "avgPoints": 20.0,
       "avgThrees": 0.0,
       "avgFreeThrows": 4.0,
       "avgFouls": 4.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 1,
+      "lowSampleSize": true,
       "tags": [
         "Frequent free throws",
-        "Physical player"
+        "Physical player",
+        "Limited sample size"
       ]
     },
     {
       "name": "Cayden Ivankovich",
       "number": "20",
+      "playerId": "d01c4877-6462-4d0d-ac1b-e53aca1c5cfc",
+      "profileUrl": "https://www.playhq.com/discover/profile/d01c4877-6462-4d0d-ac1b-e53aca1c5cfc",
       "avgPoints": 12.0,
       "avgThrees": 3.4,
       "avgFreeThrows": 0.2,
       "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
+      "lowSampleSize": false,
       "tags": [
         "Outside threat"
       ]
@@ -173,11 +205,17 @@
     {
       "name": "Levi Owen",
       "number": "7",
+      "playerId": "1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
+      "profileUrl": "https://www.playhq.com/discover/profile/1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
       "avgPoints": 17.2,
       "avgThrees": 2.8,
       "avgFreeThrows": 2.8,
       "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
+      "lowSampleSize": false,
       "tags": [
         "Outside threat"
       ]
@@ -185,11 +223,17 @@
     {
       "name": "Max De San Miguel",
       "number": "8",
+      "playerId": "2ddff959-05c4-4ce9-b252-22ac36c5f544",
+      "profileUrl": "https://www.playhq.com/discover/profile/2ddff959-05c4-4ce9-b252-22ac36c5f544",
       "avgPoints": 14.8,
       "avgThrees": 1.0,
       "avgFreeThrows": 4.8,
       "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": [
         "Frequent free throws"
       ]
@@ -197,23 +241,37 @@
     {
       "name": "Denbi Horstman",
       "number": "2",
+      "playerId": "aa11a91d-effc-4d8b-9890-78309a1aa5b8",
+      "profileUrl": "https://www.playhq.com/discover/profile/aa11a91d-effc-4d8b-9890-78309a1aa5b8",
       "avgPoints": 9.0,
       "avgThrees": 0.2,
       "avgFreeThrows": 0.8,
       "avgFouls": 3.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 1,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": [
-        "Physical player"
+        "Physical player",
+        "Picked up an unsportsmanlike foul recently",
+        "Picked up a disqualifying foul recently"
       ]
     },
     {
       "name": "William Galvin",
       "number": "13",
+      "playerId": "37360b81-43cc-49f6-811b-7ff2d2c81496",
+      "profileUrl": "https://www.playhq.com/discover/profile/37360b81-43cc-49f6-811b-7ff2d2c81496",
       "avgPoints": 8.5,
       "avgThrees": 0.5,
       "avgFreeThrows": 1.0,
       "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": [
         "Physical player"
       ]
@@ -221,31 +279,38 @@
     {
       "name": "Kelvin Yokwe",
       "number": "15",
+      "playerId": "222cc56a-3bab-44b6-9e0f-acd7275e4dd5",
+      "profileUrl": "https://www.playhq.com/discover/profile/222cc56a-3bab-44b6-9e0f-acd7275e4dd5",
       "avgPoints": 7.8,
       "avgThrees": 0.0,
       "avgFreeThrows": 1.2,
       "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": []
     }
   ],
+  "headToHead": [],
   "homeLadder": {
-    "rank": 8,
+    "rank": 5,
     "team": {
       "id": "89351f76",
       "name": "Eastern Suns Open Men"
     },
-    "played": 10,
-    "won": 6,
+    "played": 11,
+    "won": 7,
     "lost": 4,
     "drawn": 0,
-    "pointsFor": 952,
+    "pointsFor": 972,
     "pointsAgainst": 899,
-    "percentage": 105.9,
-    "competitionPoints": 12
+    "percentage": 108.12,
+    "competitionPoints": 14
   },
   "awayLadder": {
-    "rank": 12,
+    "rank": 13,
     "team": {
       "id": "e7c4c58e",
       "name": "Geraldton Buccaneers Open Men"
@@ -282,13 +347,13 @@
         "id": "3e71c2c7",
         "name": "Joondalup Wolves Open Men"
       },
-      "played": 11,
+      "played": 12,
       "won": 9,
-      "lost": 2,
+      "lost": 3,
       "drawn": 0,
-      "pointsFor": 1071,
-      "pointsAgainst": 938,
-      "percentage": 114.18,
+      "pointsFor": 1166,
+      "pointsAgainst": 1034,
+      "percentage": 112.77,
       "competitionPoints": 18
     },
     {
@@ -324,6 +389,21 @@
     {
       "rank": 5,
       "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 972,
+      "pointsAgainst": 899,
+      "percentage": 108.12,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 6,
+      "team": {
         "id": "f97426c2",
         "name": "East Perth Eagles Open Men"
       },
@@ -337,7 +417,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": "e1b87db3",
         "name": "Warwick Senators Open Men"
@@ -352,7 +432,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": "1dca5744",
         "name": "Perry Lakes Hawks Open Men"
@@ -364,21 +444,6 @@
       "pointsFor": 1080,
       "pointsAgainst": 956,
       "percentage": 112.97,
-      "competitionPoints": 12
-    },
-    {
-      "rank": 8,
-      "team": {
-        "id": "89351f76",
-        "name": "Eastern Suns Open Men"
-      },
-      "played": 10,
-      "won": 6,
-      "lost": 4,
-      "drawn": 0,
-      "pointsFor": 952,
-      "pointsAgainst": 899,
-      "percentage": 105.9,
       "competitionPoints": 12
     },
     {
@@ -417,17 +482,32 @@
         "id": "62b22846",
         "name": "Rockingham Flames Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 4,
       "lost": 5,
       "drawn": 0,
       "pointsFor": 807,
-      "pointsAgainst": 879,
-      "percentage": 91.81,
+      "pointsAgainst": 899,
+      "percentage": 89.77,
       "competitionPoints": 8
     },
     {
       "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1035,
+      "pointsAgainst": 1151,
+      "percentage": 89.92,
+      "competitionPoints": 4
+    },
+    {
+      "rank": 13,
       "team": {
         "id": "e7c4c58e",
         "name": "Geraldton Buccaneers Open Men"
@@ -442,7 +522,7 @@
       "competitionPoints": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": {
         "id": "15229133",
         "name": "Goldfields Giants Open Men"
@@ -455,21 +535,6 @@
       "pointsAgainst": 1014,
       "percentage": 78.99,
       "competitionPoints": 3
-    },
-    {
-      "rank": 14,
-      "team": {
-        "id": "4513e433",
-        "name": "Perth Redbacks Open Men"
-      },
-      "played": 11,
-      "won": 1,
-      "lost": 10,
-      "drawn": 0,
-      "pointsFor": 939,
-      "pointsAgainst": 1056,
-      "percentage": 88.92,
-      "competitionPoints": 2
     },
     {
       "rank": 15,
@@ -487,6 +552,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T07:59:35.626150",
-  "aiBriefing": "This is a significant mismatch on paper between an Eastern Suns team sitting 8th and hunting finals positions versus a struggling Geraldton Buccaneers side in 12th with only one win from eight games. The Suns are in strong form averaging 102 points and winning four of their last five, while the Buccaneers are averaging just 76 points and hemorrhaging 99 per game. Given the 26-point scoring differential and Geraldton's recent 54-point thrashing, there's real potential for this game to get out of hand early, which could lead to frustration fouls and chippy play from the visitors if they fall behind significantly.\n\nWatch Marley Sam (#14) closely for Eastern Suns despite limited game data, he's averaging 4.0 fouls per game which is extremely high and suggests either aggressive defense or poor discipline. Hayden Price (#15) gets to the line frequently with 4.2 free throws per game, so expect him to attack the basket and draw contact that needs accurate calling. For Geraldton, Denbi Horstman (#2) and William Galvin (#13) are both averaging over 3 fouls per game, indicating they're playing physical or struggling defensively. Max De San Miguel (#8) also gets to the line nearly 5 times per game, suggesting he'll be driving hard and seeking contact.\n\nThe primary management concern is keeping Geraldton engaged and disciplined if Eastern Suns jump out to a big lead early, as their recent 54-point loss shows they can collapse badly. With the Buccaneers' defensive struggles and two key players already foul-prone, frustration could manifest in unnecessary physicality or complaints about calls, especially in the paint where both teams have players attacking for free throws. Be firm early on any retaliatory contact or verbal dissent to prevent the game from deteriorating. Eastern Suns will likely push tempo to exploit the scoring gap, so stay alert for transition fouls and be prepared for a potentially high-scoring affair that could see foul trouble impact Geraldton's already thin rotation."
+  "generatedAt": "2026-06-20T09:44:46.009546",
+  "aiBriefing": "Eastern Suns sit 5th with 7 wins and 4 losses while Geraldton are 13th at 1 win and 7 losses. The Suns are in strong form at 4 wins from their last 5 games averaging 102 points, while the Buccaneers have managed just 1 win in their last 5 averaging only 76 points and conceding 99. This is a mismatch on paper with the home side likely to push tempo and attack the paint hard given their scoring advantage. Geraldton will need to keep it physical to stay competitive which creates foul trouble risk given their squad depth concerns.\n\nFor Eastern Suns watch Hayden Price number 15 who averages 4.2 free throws per game at 1.8 fouls committed, and Marley Sam number 14 who fouled out at 4.0 fouls per game in limited sample size but attacks for 4.0 free throws. Both will draw contact. For Geraldton the critical watch is Denbi Horstman number 2 who sits at 3.5 fouls per game and has 1 recent unsportsmanlike foul and 1 recent disqualifying foul, meaning he's already shown pattern behaviour. William Galvin number 13 is also high risk at 3.2 fouls per game. Max De San Miguel number 8 at 4.8 free throws per game will draw contact early.\n\nPrimary flashpoint risk is Horstman given his unsportsmanlike and disqualifying foul history combined with the likelihood Geraldton needs to foul to contain the Suns attack. Watch any physical escalation from him closely and manage early before it becomes a second unsportsmanlike situation. Galvin and Horstman both foul at high rates and if either picks up two early fouls Geraldton's already thin rotation gets exposed which may lead to frustration fouls. The score differential could blow out which increases garbage time chippy play risk in the fourth quarter."
 }

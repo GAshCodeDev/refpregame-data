@@ -11,63 +11,8 @@
   "date": "2026-06-21",
   "organisation": "Western Australian Basketball League (WABL)",
   "tenant": "basketball-wa",
-  "homeForm": [
-    {
-      "round": "Round 12",
-      "opponent": "Cockburn Cougars Open Men",
-      "scored": 82,
-      "conceded": 88,
-      "won": false,
-      "margin": -6,
-      "gameId": "b20385bd"
-    },
-    {
-      "round": "Round 11",
-      "opponent": "Rockingham Flames Open Men",
-      "scored": 83,
-      "conceded": 97,
-      "won": false,
-      "margin": -14,
-      "gameId": "d48763a0"
-    },
-    {
-      "round": "Round 10",
-      "opponent": "Goldfields Giants Open Men",
-      "scored": 101,
-      "conceded": 89,
-      "won": true,
-      "margin": 12,
-      "gameId": "a331336e"
-    },
-    {
-      "round": "Round 9",
-      "opponent": "South West Slammers Open Men",
-      "scored": 85,
-      "conceded": 95,
-      "won": false,
-      "margin": -10,
-      "gameId": "a96f0d69"
-    },
-    {
-      "round": "Round 8",
-      "opponent": "Perry Lakes Hawks Open Men",
-      "scored": 68,
-      "conceded": 107,
-      "won": false,
-      "margin": -39,
-      "gameId": "8aa96e35"
-    }
-  ],
+  "homeForm": [],
   "awayForm": [
-    {
-      "round": "Round 12",
-      "opponent": "Joondalup Wolves Open Men",
-      "scored": 68,
-      "conceded": 95,
-      "won": false,
-      "margin": -27,
-      "gameId": "81fea413"
-    },
     {
       "round": "Round 10",
       "opponent": "Warwick Senators Open Men",
@@ -103,125 +48,110 @@
       "won": true,
       "margin": 4,
       "gameId": "0ac43e72"
+    },
+    {
+      "round": "Round 5",
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 73,
+      "conceded": 86,
+      "won": false,
+      "margin": -13,
+      "gameId": "d505e026"
     }
   ],
-  "homeKeyPlayers": [
-    {
-      "name": "Jhye Stoker",
-      "number": "3",
-      "avgPoints": 19.5,
-      "avgThrees": 1.5,
-      "avgFreeThrows": 4.0,
-      "avgFouls": 3.5,
-      "gamesAnalysed": 4,
-      "tags": [
-        "Frequent free throws",
-        "Physical player"
-      ]
-    },
-    {
-      "name": "Jordan West",
-      "number": "23",
-      "avgPoints": 15.0,
-      "avgThrees": 1.8,
-      "avgFreeThrows": 2.2,
-      "avgFouls": 2.8,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Jaxson Potts",
-      "number": "35",
-      "avgPoints": 13.6,
-      "avgThrees": 0.4,
-      "avgFreeThrows": 1.6,
-      "avgFouls": 1.4,
-      "gamesAnalysed": 5,
-      "tags": []
-    },
-    {
-      "name": "Zane Songerwala",
-      "number": "6",
-      "avgPoints": 10.2,
-      "avgThrees": 0.8,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 2.0,
-      "gamesAnalysed": 4,
-      "tags": []
-    },
-    {
-      "name": "Ethan Croot",
-      "number": "8",
-      "avgPoints": 8.8,
-      "avgThrees": 0.2,
-      "avgFreeThrows": 1.0,
-      "avgFouls": 4.0,
-      "gamesAnalysed": 4,
-      "tags": [
-        "Physical player"
-      ]
-    }
-  ],
+  "homeKeyPlayers": [],
   "awayKeyPlayers": [
     {
       "name": "Levi Owen",
-      "number": "7",
-      "avgPoints": 17.2,
-      "avgThrees": 2.8,
-      "avgFreeThrows": 2.8,
-      "avgFouls": 1.8,
+      "number": "4",
+      "playerId": "1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
+      "profileUrl": "https://www.playhq.com/discover/profile/1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
+      "avgPoints": 18.4,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
+      "lowSampleSize": false,
       "tags": [
-        "Outside threat"
+        "Outside threat",
+        "Frequent free throws"
       ]
     },
     {
       "name": "Max De San Miguel",
       "number": "8",
-      "avgPoints": 14.8,
+      "playerId": "2ddff959-05c4-4ce9-b252-22ac36c5f544",
+      "profileUrl": "https://www.playhq.com/discover/profile/2ddff959-05c4-4ce9-b252-22ac36c5f544",
+      "avgPoints": 14.2,
       "avgThrees": 1.0,
       "avgFreeThrows": 4.8,
-      "avgFouls": 2.0,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
       "tags": [
         "Frequent free throws"
       ]
     },
     {
-      "name": "Denbi Horstman",
-      "number": "2",
-      "avgPoints": 9.0,
-      "avgThrees": 0.2,
-      "avgFreeThrows": 0.8,
-      "avgFouls": 3.5,
-      "gamesAnalysed": 4,
-      "tags": [
-        "Physical player"
-      ]
-    },
-    {
       "name": "William Galvin",
       "number": "13",
-      "avgPoints": 8.5,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 1.0,
-      "avgFouls": 3.2,
-      "gamesAnalysed": 4,
+      "playerId": "37360b81-43cc-49f6-811b-7ff2d2c81496",
+      "profileUrl": "https://www.playhq.com/discover/profile/37360b81-43cc-49f6-811b-7ff2d2c81496",
+      "avgPoints": 8.3,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 3.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": [
         "Physical player"
       ]
     },
     {
-      "name": "Kelvin Yokwe",
-      "number": "15",
-      "avgPoints": 7.8,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 1.2,
-      "avgFouls": 1.8,
+      "name": "Riley Fong",
+      "number": "1",
+      "playerId": "0109e04f-ad37-4899-897f-bc9322b38c9b",
+      "profileUrl": "https://www.playhq.com/discover/profile/0109e04f-ad37-4899-897f-bc9322b38c9b",
+      "avgPoints": 7.5,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 1.5,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
       "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "tags": [
+        "Picked up a technical foul recently"
+      ]
+    },
+    {
+      "name": "Jarrad Mongoo",
+      "number": "3",
+      "playerId": "321af4b7-1fd8-4f54-9eaf-0add51122118",
+      "profileUrl": "https://www.playhq.com/discover/profile/321af4b7-1fd8-4f54-9eaf-0add51122118",
+      "avgPoints": 7.3,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
       "tags": []
     }
   ],
+  "headToHead": [],
   "homeLadder": {
     "rank": 15,
     "team": {
@@ -238,7 +168,7 @@
     "competitionPoints": 2
   },
   "awayLadder": {
-    "rank": 12,
+    "rank": 13,
     "team": {
       "id": "e7c4c58e",
       "name": "Geraldton Buccaneers Open Men"
@@ -275,13 +205,13 @@
         "id": "3e71c2c7",
         "name": "Joondalup Wolves Open Men"
       },
-      "played": 11,
+      "played": 12,
       "won": 9,
-      "lost": 2,
+      "lost": 3,
       "drawn": 0,
-      "pointsFor": 1071,
-      "pointsAgainst": 938,
-      "percentage": 114.18,
+      "pointsFor": 1166,
+      "pointsAgainst": 1034,
+      "percentage": 112.77,
       "competitionPoints": 18
     },
     {
@@ -317,6 +247,21 @@
     {
       "rank": 5,
       "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 11,
+      "won": 7,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 972,
+      "pointsAgainst": 899,
+      "percentage": 108.12,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 6,
+      "team": {
         "id": "f97426c2",
         "name": "East Perth Eagles Open Men"
       },
@@ -330,7 +275,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": "e1b87db3",
         "name": "Warwick Senators Open Men"
@@ -345,7 +290,7 @@
       "competitionPoints": 14
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": "1dca5744",
         "name": "Perry Lakes Hawks Open Men"
@@ -357,21 +302,6 @@
       "pointsFor": 1080,
       "pointsAgainst": 956,
       "percentage": 112.97,
-      "competitionPoints": 12
-    },
-    {
-      "rank": 8,
-      "team": {
-        "id": "89351f76",
-        "name": "Eastern Suns Open Men"
-      },
-      "played": 10,
-      "won": 6,
-      "lost": 4,
-      "drawn": 0,
-      "pointsFor": 952,
-      "pointsAgainst": 899,
-      "percentage": 105.9,
       "competitionPoints": 12
     },
     {
@@ -410,17 +340,32 @@
         "id": "62b22846",
         "name": "Rockingham Flames Open Men"
       },
-      "played": 10,
+      "played": 11,
       "won": 4,
       "lost": 5,
       "drawn": 0,
       "pointsFor": 807,
-      "pointsAgainst": 879,
-      "percentage": 91.81,
+      "pointsAgainst": 899,
+      "percentage": 89.77,
       "competitionPoints": 8
     },
     {
       "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1035,
+      "pointsAgainst": 1151,
+      "percentage": 89.92,
+      "competitionPoints": 4
+    },
+    {
+      "rank": 13,
       "team": {
         "id": "e7c4c58e",
         "name": "Geraldton Buccaneers Open Men"
@@ -435,7 +380,7 @@
       "competitionPoints": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": {
         "id": "15229133",
         "name": "Goldfields Giants Open Men"
@@ -448,21 +393,6 @@
       "pointsAgainst": 1014,
       "percentage": 78.99,
       "competitionPoints": 3
-    },
-    {
-      "rank": 14,
-      "team": {
-        "id": "4513e433",
-        "name": "Perth Redbacks Open Men"
-      },
-      "played": 11,
-      "won": 1,
-      "lost": 10,
-      "drawn": 0,
-      "pointsFor": 939,
-      "pointsAgainst": 1056,
-      "percentage": 88.92,
-      "competitionPoints": 2
     },
     {
       "rank": 15,
@@ -480,6 +410,6 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-15T08:02:14.653437",
-  "aiBriefing": "This is a matchup between two struggling teams near the bottom of the ladder, with Hills Raiders in last place and Geraldton sitting 12th. Both teams have identical 1-4 records over their last five games, and both are conceding significantly more than they score. Hills has the slightly better offensive output at 84 points per game compared to Geraldton's 76, but neither team is defending well. With both clubs desperate for a win to climb off the bottom, expect elevated intensity and potential frustration fouls, especially if the game stays close or one team starts to pull away.\n\nWatch Hills Raiders number 3 Jhye Stoker and number 8 Ethan Croot very closely as both are averaging 4.0 fouls per game, indicating aggressive defensive play or poor discipline. Stoker is their leading scorer at 19.5 points per game and gets to the line frequently, so he'll be heavily involved and likely drawing contact. For Geraldton, number 2 Denbi Horstman at 3.5 fouls per game and number 13 William Galvin at 3.2 fouls per game are the primary foul concerns. Geraldton's Max De San Miguel leads their team in free throw attempts at 4.8 per game, suggesting he attacks the basket and will be seeking contact throughout the game.\n\nThe foul tendency data suggests this will be a physically contested game with marginal teams compensating for skill gaps through aggressive defense. With Hills averaging 84 points and Geraldton 76, expect a moderate-scoring affair rather than a shootout. The key management challenge will be establishing early consistency on physical play standards, particularly in the paint where both teams have players prone to fouling. Monitor frustration levels closely if either team builds a lead, as these are two teams accustomed to losing who may lose composure under pressure. The 10am tipoff may mean a slow start, so be patient but firm in setting the tone for allowable contact early."
+  "generatedAt": "2026-06-20T09:49:48.906214",
+  "aiBriefing": "Hills sit last at 1-10 while Geraldton are 13th at 1-7, so both sides are desperate for a rare win. Geraldton have been hammered in recent weeks including a 54-point loss to Lakeside in Round 9, but they scraped a 4-point win over Mandurah in Round 6 showing they can compete when games stay tight. Hills have no completed games on record yet, so expect rustiness and potential discipline issues from a team still finding its rhythm. This shapes as a scrappy, mistake-filled contest between two struggling sides where frustration could boil over if either team falls behind early.\n\nWatch Levi Owen number 4 closely. He averages 2.4 fouls per game across five appearances, the highest rate among Geraldton's rotation, and he's their primary scorer at 18.4 points so early foul trouble changes their entire approach. William Galvin number 13 is worse at 3.7 fouls per game over three games, meaning he's borderline unmanageable and likely to foul out if you call his physicality tight. Riley Fong number 1 has one recent technical on his record, so monitor any dissent or emotional reactions especially if Geraldton start losing grip on the game.\n\nThe main flashpoint risk is Geraldton's foul-heavy style colliding with their poor form. Galvin fouls at an unsustainable rate and Owen isn't far behind, so if they pick up early personals they may resort to frustration fouls or verbal complaints given their season struggles. Fong's technical history suggests he's already near breaking point emotionally. With no Hills data available you're working blind on their discipline, so establish your whistle early and shut down any chirping immediately before frustration from two last-placed teams turns this into a free-throw parade or worse."
 }
