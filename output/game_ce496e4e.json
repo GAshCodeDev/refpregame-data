@@ -121,16 +121,16 @@
       "number": "10",
       "playerId": "c0f4ad6d-ef45-4891-b0a6-143cb2ce5688",
       "profileUrl": "https://www.playhq.com/discover/profile/c0f4ad6d-ef45-4891-b0a6-143cb2ce5688",
-      "avgPoints": 13.8,
-      "avgThrees": 1.5,
-      "avgFreeThrows": 2.0,
-      "avgFouls": 2.0,
+      "avgPoints": 13.2,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.2,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 6,
+      "gamesAnalysed": 5,
       "lowSampleSize": false,
-      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.0/g season)",
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.2/g season)",
       "tags": []
     },
     {
@@ -138,17 +138,19 @@
       "number": "14",
       "playerId": "dd67ccb4-826a-44b1-b9ce-4c2eff8c2b9c",
       "profileUrl": "https://www.playhq.com/discover/profile/dd67ccb4-826a-44b1-b9ce-4c2eff8c2b9c",
-      "avgPoints": 12.0,
-      "avgThrees": 0.5,
-      "avgFreeThrows": 2.5,
+      "avgPoints": 11.4,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 3.0,
       "avgFouls": 2.2,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 6,
+      "gamesAnalysed": 5,
       "lowSampleSize": false,
       "recentTrend": null,
-      "tags": []
+      "tags": [
+        "Frequent free throws"
+      ]
     },
     {
       "name": "Mikayla Deshon",
@@ -156,32 +158,15 @@
       "playerId": "b906769e-e9a0-4abb-b9ad-0c826016e943",
       "profileUrl": "https://www.playhq.com/discover/profile/b906769e-e9a0-4abb-b9ad-0c826016e943",
       "avgPoints": 10.9,
-      "avgThrees": 1.6,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 1.5,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.7,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 10,
+      "gamesAnalysed": 9,
       "lowSampleSize": false,
       "recentTrend": null,
-      "tags": []
-    },
-    {
-      "name": "Grace Evans",
-      "number": "15",
-      "playerId": "81ab8afc-b95d-4b96-ba69-4fbb439cc023",
-      "profileUrl": "https://www.playhq.com/discover/profile/81ab8afc-b95d-4b96-ba69-4fbb439cc023",
-      "avgPoints": 10.1,
-      "avgThrees": 0.0,
-      "avgFreeThrows": 2.5,
-      "avgFouls": 1.6,
-      "technicalFouls": 0,
-      "unsportsmanlikeFouls": 0,
-      "disqualifyingFouls": 0,
-      "gamesAnalysed": 10,
-      "lowSampleSize": false,
-      "recentTrend": "scoring less lately (7.3/g in last 3 vs 10.1/g season)",
       "tags": []
     },
     {
@@ -203,6 +188,23 @@
         "Physical player",
         "Limited sample size"
       ]
+    },
+    {
+      "name": "Mya Dimanlig",
+      "number": "8",
+      "playerId": "14e4faa7-744d-4bf8-a89f-a150c2714f4b",
+      "profileUrl": "https://www.playhq.com/discover/profile/14e4faa7-744d-4bf8-a89f-a150c2714f4b",
+      "avgPoints": 9.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
     }
   ],
   "awayKeyPlayers": [
@@ -248,56 +250,54 @@
       ]
     },
     {
-      "name": "Meisha Norman",
-      "number": "7",
-      "playerId": "48e06feb-8b1a-4b62-9e10-fdb269242396",
-      "profileUrl": "https://www.playhq.com/discover/profile/48e06feb-8b1a-4b62-9e10-fdb269242396",
-      "avgPoints": 10.5,
-      "avgThrees": 0.2,
-      "avgFreeThrows": 2.2,
-      "avgFouls": 1.0,
+      "name": "Charlotte Mills",
+      "number": "20",
+      "playerId": "698218f4-7ffa-4f52-9e0f-6383e9193c2f",
+      "profileUrl": "https://www.playhq.com/discover/profile/698218f4-7ffa-4f52-9e0f-6383e9193c2f",
+      "avgPoints": 9.4,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.8,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
+      "gamesAnalysed": 5,
       "lowSampleSize": false,
       "recentTrend": null,
       "tags": []
     },
     {
-      "name": "Charlotte Mills",
-      "number": "20",
-      "playerId": "698218f4-7ffa-4f52-9e0f-6383e9193c2f",
-      "profileUrl": "https://www.playhq.com/discover/profile/698218f4-7ffa-4f52-9e0f-6383e9193c2f",
-      "avgPoints": 9.0,
-      "avgThrees": 1.0,
-      "avgFreeThrows": 0.5,
-      "avgFouls": 3.0,
+      "name": "Meisha Norman",
+      "number": "7",
+      "playerId": "48e06feb-8b1a-4b62-9e10-fdb269242396",
+      "profileUrl": "https://www.playhq.com/discover/profile/48e06feb-8b1a-4b62-9e10-fdb269242396",
+      "avgPoints": 8.8,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 1.3,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 4,
+      "gamesAnalysed": 6,
       "lowSampleSize": false,
       "recentTrend": null,
-      "tags": [
-        "Physical player"
-      ]
+      "tags": []
     },
     {
       "name": "Charlotte Lofgren",
       "number": "10",
       "playerId": "61976f0d-7f1b-44b0-a5ff-d6e74561859d",
       "profileUrl": "https://www.playhq.com/discover/profile/61976f0d-7f1b-44b0-a5ff-d6e74561859d",
-      "avgPoints": 7.9,
+      "avgPoints": 7.4,
       "avgThrees": 0.4,
-      "avgFreeThrows": 2.0,
+      "avgFreeThrows": 2.1,
       "avgFouls": 3.7,
       "technicalFouls": 0,
       "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
-      "gamesAnalysed": 7,
+      "gamesAnalysed": 9,
       "lowSampleSize": false,
-      "recentTrend": "scoring less lately (5.0/g in last 3 vs 7.9/g season)",
+      "recentTrend": "scoring less lately (5.0/g in last 3 vs 7.4/g season)",
       "tags": [
         "Physical player"
       ]
@@ -547,7 +547,7 @@
       "competitionPoints": 2
     }
   ],
-  "generatedAt": "2026-06-20T13:34:45.969799",
+  "generatedAt": "2026-06-20T13:45:37.545790",
   "dataComplete": false,
-  "aiBriefing": "Perth sits 9th with a 4-7 record while South West is bottom at 1-8 with a woeful 62.8 percentage. The Redbacks just snapped a four-game skid with a 22-point win over Rockingham, but the Slammers arrive in freefall having lost five straight by an average margin of 36 points, including back-to-back 52-point drubbings and a forfeit loss. This is a mismatch on paper and the Slammers' recent capitulations suggest they may struggle to stay competitive if Perth builds an early lead. Watch for intensity to drop significantly if the margin blows out past halftime.\n\nOn foul management, South West has three high-foul players who need early monitoring. Charlotte Lofgren averages 3.7 fouls per game across seven appearances, Charlotte Mills sits at 3.0 over four games, and Ella Edwards has fouled out at 4.0 per game in limited sample over two games. For Perth, Ella Barmentloo carries 2.2 fouls per game and Talicia Hansen sits at 2.0, though Hansen has reduced to 1.5 in her last two matches. Meisha Norman for the Slammers is the cleanest defender at just 1.0 fouls per game. Given the Slammers' tendency to foul heavily, be alert to frustration fouls building if they fall behind early.\n\nThe primary flashpoint risk is a blowout scenario given South West's recent collapses and Perth playing at home off a confidence-building win. If the margin approaches 30-plus in the second half, watch for South West players becoming physically overaggressive out of frustration, particularly Lofgren and Mills who already foul frequently. No technical or unsportsmanlike foul history is flagged in the data, but manage any chippy play early to prevent escalation in what could become a lopsided contest. Keep the game moving and don't let emotions boil over if competitive balance disappears."
+  "aiBriefing": "Perth sits 9th with a 4-7 record while South West is winless at the bottom on 1-8. The Redbacks just snapped a four-game skid with a 22-point win over Rockingham, while the Slammers have lost five straight by an average of 36 points per game including two recent 52-point blowouts. South West's recent scoring outputs of 0, 35, 31, 35, and 56 points suggest this could be lopsided. Expect Perth to push tempo and extend any early lead, which may create frustration management issues if the margin blows out.\n\nWatch Charlotte Lofgren number 10 for South West closely as she fouls at 3.7 per game across nine appearances, the highest rate among regulars. Ella Edwards number 1 is averaging 4.0 fouls per game though it's only a two-game sample. For Perth, Laniesha Paddon number 13 averaged 3.0 fouls in her single appearance so monitor her closely if she plays. Talicia Hansen number 10, Ella Barmentloo number 14, and Mya Dimanlig number 8 all sit at 2.2 fouls per game for Perth. Charlotte Mills number 20 commits 2.8 per game for the Slammers. Multiple players on both sides are foul-prone so early foul trouble could deplete rotations quickly.\n\nPrimary flashpoint risk is frustration from a potential blowout given South West's scoring struggles and recent heavy losses. If Perth builds a large lead early, watch for late or careless challenges from trailing players losing composure. The foul rates suggest physical play from both sides but no technical or unsportsmanlike foul history is noted in the data. Manage any chippy moments tightly in garbage time to prevent escalation when the game is already decided."
 }
