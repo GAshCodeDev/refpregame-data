@@ -1,0 +1,506 @@
+{
+  "gameId": "9738fc9e",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 10",
+  "homeTeam": "Cockburn Cougars U18 Boys 1",
+  "awayTeam": "Joondalup Wolves U18 Boys 1",
+  "homeTeamId": "b8a7657b",
+  "awayTeamId": "523e4f9f",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "11:30:00",
+  "date": "2026-06-28",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 4",
+      "roundNumber": 4,
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 112,
+      "conceded": 86,
+      "won": true,
+      "margin": 26,
+      "gameId": "aa1961c6"
+    },
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 60,
+      "conceded": 80,
+      "won": false,
+      "margin": -20,
+      "gameId": "c23245fd"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 85,
+      "conceded": 81,
+      "won": true,
+      "margin": 4,
+      "gameId": "0b252adc"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 73,
+      "conceded": 81,
+      "won": false,
+      "margin": -8,
+      "gameId": "02cf92a0"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Perry Lakes Hawks U18 Boys 1",
+      "scored": 86,
+      "conceded": 115,
+      "won": false,
+      "margin": -29,
+      "gameId": "bb0d33ec"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 85,
+      "conceded": 95,
+      "won": false,
+      "margin": -10,
+      "gameId": "f0f25bd9"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 78,
+      "conceded": 74,
+      "won": true,
+      "margin": 4,
+      "gameId": "38bf7a76"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 111,
+      "conceded": 101,
+      "won": true,
+      "margin": 10,
+      "gameId": "d3aa3658"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Perry Lakes Hawks U18 Boys 1",
+      "scored": 85,
+      "conceded": 83,
+      "won": true,
+      "margin": 2,
+      "gameId": "b713b0bc"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 85,
+      "conceded": 126,
+      "won": false,
+      "margin": -41,
+      "gameId": "60a73882"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Murray Yarran",
+      "number": "15",
+      "playerId": "fd8acd1a-09a7-4eff-ab7f-6544962c1a1d",
+      "profileUrl": "https://www.playhq.com/public/profile/fd8acd1a-09a7-4eff-ab7f-6544962c1a1d/statistics?tenant=basketball-wa",
+      "avgPoints": 21.8,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 1.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Conor Bradley",
+      "number": "7",
+      "playerId": "fe2aa5c3-29d4-48e3-9345-1c91098bd041",
+      "profileUrl": "https://www.playhq.com/public/profile/fe2aa5c3-29d4-48e3-9345-1c91098bd041/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Jack Coombe",
+      "number": "10",
+      "playerId": "00bf134f-65e2-45b5-9f3e-a9e2661cf817",
+      "profileUrl": "https://www.playhq.com/public/profile/00bf134f-65e2-45b5-9f3e-a9e2661cf817/statistics?tenant=basketball-wa",
+      "avgPoints": 15.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Chace Nuku",
+      "number": "6",
+      "playerId": "dcb3cd58-360e-4671-bc37-627af33a4e35",
+      "profileUrl": "https://www.playhq.com/public/profile/dcb3cd58-360e-4671-bc37-627af33a4e35/statistics?tenant=basketball-wa",
+      "avgPoints": 13.9,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Logan Lyndon",
+      "number": "5",
+      "playerId": "23835f9f-3279-4471-b88b-23e7b48a8f05",
+      "profileUrl": "https://www.playhq.com/public/profile/23835f9f-3279-4471-b88b-23e7b48a8f05/statistics?tenant=basketball-wa",
+      "avgPoints": 9.3,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 1.7/g season); scoring less lately (5.5/g in last 2 vs 9.3/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Owen Baker",
+      "number": "8",
+      "playerId": "4624b4b4-28c4-44a4-bfbe-8879e374de3f",
+      "profileUrl": "https://www.playhq.com/public/profile/4624b4b4-28c4-44a4-bfbe-8879e374de3f/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Rafael Viegas",
+      "number": "10",
+      "playerId": "ed6e1baa-b786-4c18-9f78-47c3c8343404",
+      "profileUrl": "https://www.playhq.com/public/profile/ed6e1baa-b786-4c18-9f78-47c3c8343404/statistics?tenant=basketball-wa",
+      "avgPoints": 16.0,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 5.3,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.0/g in last 3 vs 0.8/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Joseph Lolham",
+      "number": "5",
+      "playerId": "f9f84f23-815b-4d0d-a1f4-2183512602a2",
+      "profileUrl": "https://www.playhq.com/public/profile/f9f84f23-815b-4d0d-a1f4-2183512602a2/statistics?tenant=basketball-wa",
+      "avgPoints": 13.1,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 1.9,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 1.9/g season)",
+      "tags": [
+        "Picked up a technical foul recently",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Johk Atuer",
+      "number": "4",
+      "playerId": "cb61769c-9bfb-437b-ba2c-8e18f9eef1f9",
+      "profileUrl": "https://www.playhq.com/public/profile/cb61769c-9bfb-437b-ba2c-8e18f9eef1f9/statistics?tenant=basketball-wa",
+      "avgPoints": 10.9,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Aiden Jones",
+      "number": "6",
+      "playerId": "553da955-ccdc-450c-b32d-c09f423c2f45",
+      "profileUrl": "https://www.playhq.com/public/profile/553da955-ccdc-450c-b32d-c09f423c2f45/statistics?tenant=basketball-wa",
+      "avgPoints": 10.4,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 1.9/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 1",
+      "homeTeam": "Cockburn Cougars U18 Boys 1",
+      "awayTeam": "Joondalup Wolves U18 Boys 1",
+      "homeScore": 97,
+      "awayScore": 94,
+      "homeWon": true,
+      "margin": 3
+    }
+  ],
+  "homeLadder": {
+    "rank": 7,
+    "team": {
+      "id": "b8a7657b",
+      "name": "Cockburn Cougars U18 Boys 1"
+    },
+    "played": 8,
+    "won": 3,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 712,
+    "pointsAgainst": 751,
+    "percentage": 94.81,
+    "competitionPoints": 25
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "523e4f9f",
+      "name": "Joondalup Wolves U18 Boys 1"
+    },
+    "played": 9,
+    "won": 4,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 798,
+    "pointsAgainst": 848,
+    "percentage": 94.1,
+    "competitionPoints": 26
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 919,
+      "pointsAgainst": 622,
+      "percentage": 147.75,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 684,
+      "pointsAgainst": 666,
+      "percentage": 102.7,
+      "competitionPoints": 29
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 928,
+      "pointsAgainst": 905,
+      "percentage": 102.54,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 813,
+      "pointsAgainst": 785,
+      "percentage": 103.57,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 776,
+      "pointsAgainst": 806,
+      "percentage": 96.28,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 798,
+      "pointsAgainst": 848,
+      "percentage": 94.1,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 712,
+      "pointsAgainst": 751,
+      "percentage": 94.81,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 795,
+      "percentage": 95.22,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 661,
+      "pointsAgainst": 747,
+      "percentage": 88.49,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 658,
+      "pointsAgainst": 781,
+      "percentage": 84.25,
+      "competitionPoints": 22
+    }
+  ],
+  "generatedAt": "2026-06-24T08:31:13.840423",
+  "dataComplete": true,
+  "aiBriefing": "Cockburn sits 7th and Joondalup 6th, both on losing streaks after heavy defeats last round. Joondalup edged narrowly in Round 1 when Cockburn won 97-94, so expect them to come out physical looking to reverse that result. Both teams are mid-table but close enough that this is a genuine opportunity to climb, which will heighten the competitive edge. Recent form shows both sides conceding freely in blowouts but grinding in tight games, so intensity will depend on whether the contest stays close.\n\nWatch Cockburn's Jack Coombe number 10 and Conor Bradley number 7, who both foul heavily at 3.1 and 2.9 per game respectively. On Joondalup, three key players are trending into foul trouble: Joseph Lolham number 5 has jumped to 2.7 fouls per game in his last three, Johk Atuer number 4 is at 3.0 per game in his last three up from 2.0 season average, and Aiden Jones number 6 is also at 3.0 in his last two games. Owen Baker number 8 sits at 2.6 fouls per game season-long and gets to the line frequently. Murray Yarran number 15 for Cockburn is their primary scorer at 21.8 points per game and draws 4.4 free throws per game, so expect contact when he attacks.\n\nJoseph Lolham number 5 has picked up a recent technical foul and is already fouling at an elevated rate, making him a flashpoint risk if frustration builds. With Joondalup carrying four players who foul frequently and three of them trending worse lately, foul trouble could become lopsided early and create tension. The previous tight three-point margin between these teams suggests this could stay competitive and physical throughout, so stay ahead of any escalation particularly around Lolham and manage the paint carefully where both Coombe and Baker operate aggressively."
+}

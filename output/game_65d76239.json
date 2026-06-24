@@ -1,0 +1,505 @@
+{
+  "gameId": "65d76239",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 10",
+  "homeTeam": "Perth Redbacks U18 Boys 1",
+  "awayTeam": "Rockingham Flames U18 Boys 1",
+  "homeTeamId": "51b4a13e",
+  "awayTeamId": "a02fff1c",
+  "venue": "Leisurelife Centre",
+  "time": "13:00:00",
+  "date": "2026-06-28",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 102,
+      "conceded": 129,
+      "won": false,
+      "margin": -27,
+      "gameId": "a7bd32ae"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "Perry Lakes Hawks U18 Boys 1",
+      "scored": 114,
+      "conceded": 92,
+      "won": true,
+      "margin": 22,
+      "gameId": "382befeb"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Joondalup Wolves U18 Boys 1",
+      "scored": 101,
+      "conceded": 111,
+      "won": false,
+      "margin": -10,
+      "gameId": "d3aa3658"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 125,
+      "conceded": 108,
+      "won": true,
+      "margin": 17,
+      "gameId": "d91b7aba"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Lakeside Lightning U18 Boys 1",
+      "scored": 84,
+      "conceded": 83,
+      "won": true,
+      "margin": 1,
+      "gameId": "3da0332e"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "Lakeside Lightning U18 Boys 1",
+      "scored": 65,
+      "conceded": 75,
+      "won": false,
+      "margin": -10,
+      "gameId": "a3375fa9"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 65,
+      "conceded": 82,
+      "won": false,
+      "margin": -17,
+      "gameId": "2f45a709"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Cockburn Cougars U18 Boys 1",
+      "scored": 81,
+      "conceded": 85,
+      "won": false,
+      "margin": -4,
+      "gameId": "0b252adc"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 88,
+      "conceded": 77,
+      "won": true,
+      "margin": 11,
+      "gameId": "a872c077"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 71,
+      "conceded": 85,
+      "won": false,
+      "margin": -14,
+      "gameId": "26dbffd3"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Riley Barmentloo",
+      "number": "14",
+      "playerId": "078cab8c-3cc4-4a59-a5cf-39aff06729ae",
+      "profileUrl": "https://www.playhq.com/public/profile/078cab8c-3cc4-4a59-a5cf-39aff06729ae/statistics?tenant=basketball-wa",
+      "avgPoints": 28.8,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 5.1,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.7/g in last 3 vs 2.1/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Koby Kalebic",
+      "number": "9",
+      "playerId": "c11aaef7-dd11-4761-aea7-d635911cf128",
+      "profileUrl": "https://www.playhq.com/public/profile/c11aaef7-dd11-4761-aea7-d635911cf128/statistics?tenant=basketball-wa",
+      "avgPoints": 18.1,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "William Lippman",
+      "number": "11",
+      "playerId": "5991e6a7-72c2-464c-ada2-cd30f4811401",
+      "profileUrl": "https://www.playhq.com/public/profile/5991e6a7-72c2-464c-ada2-cd30f4811401/statistics?tenant=basketball-wa",
+      "avgPoints": 13.4,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.7/g in last 3 vs 2.5/g season)",
+      "tags": [
+        "Picked up an unsportsmanlike foul recently",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "James Galvin",
+      "number": "6",
+      "playerId": "4f09df93-d95b-4e4c-ac65-2bb7da6628c1",
+      "profileUrl": "https://www.playhq.com/public/profile/4f09df93-d95b-4e4c-ac65-2bb7da6628c1/statistics?tenant=basketball-wa",
+      "avgPoints": 13.1,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Hunter Mettam",
+      "number": "4",
+      "playerId": "47debbab-c002-441b-ac80-772199c6e2bd",
+      "profileUrl": "https://www.playhq.com/public/profile/47debbab-c002-441b-ac80-772199c6e2bd/statistics?tenant=basketball-wa",
+      "avgPoints": 10.9,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 1.8/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Adam New",
+      "number": "11",
+      "playerId": "8fe88349-90ba-4a69-b15f-8281214175ca",
+      "profileUrl": "https://www.playhq.com/public/profile/8fe88349-90ba-4a69-b15f-8281214175ca/statistics?tenant=basketball-wa",
+      "avgPoints": 15.7,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Jaelan Toby",
+      "number": "10",
+      "playerId": "6ee2c1b3-7437-492b-b05d-44a96e9b022b",
+      "profileUrl": "https://www.playhq.com/public/profile/6ee2c1b3-7437-492b-b05d-44a96e9b022b/statistics?tenant=basketball-wa",
+      "avgPoints": 14.7,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (20.0/g in last 3 vs 14.7/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jacob Ahern",
+      "number": "13",
+      "playerId": "13f09981-8b17-46d0-9269-3d31e4d52b55",
+      "profileUrl": "https://www.playhq.com/public/profile/13f09981-8b17-46d0-9269-3d31e4d52b55/statistics?tenant=basketball-wa",
+      "avgPoints": 11.1,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Cohen Cain",
+      "number": "7",
+      "playerId": "3ffae29f-fa3c-4d2f-a3e2-5791c51bf318",
+      "profileUrl": "https://www.playhq.com/public/profile/3ffae29f-fa3c-4d2f-a3e2-5791c51bf318/statistics?tenant=basketball-wa",
+      "avgPoints": 8.2,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 2.1/g season)",
+      "tags": []
+    },
+    {
+      "name": "Harley Tudor",
+      "number": "12",
+      "playerId": "27d863c0-401e-4411-9819-73a153d0820b",
+      "profileUrl": "https://www.playhq.com/public/profile/27d863c0-401e-4411-9819-73a153d0820b/statistics?tenant=basketball-wa",
+      "avgPoints": 8.2,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 3 vs 1.8/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 1",
+      "homeTeam": "Perth Redbacks U18 Boys 1",
+      "awayTeam": "Rockingham Flames U18 Boys 1",
+      "homeScore": 91,
+      "awayScore": 69,
+      "homeWon": true,
+      "margin": 22
+    }
+  ],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "51b4a13e",
+      "name": "Perth Redbacks U18 Boys 1"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 928,
+    "pointsAgainst": 905,
+    "percentage": 102.54,
+    "competitionPoints": 28
+  },
+  "awayLadder": {
+    "rank": 10,
+    "team": {
+      "id": "a02fff1c",
+      "name": "Rockingham Flames U18 Boys 1"
+    },
+    "played": 9,
+    "won": 2,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 658,
+    "pointsAgainst": 781,
+    "percentage": 84.25,
+    "competitionPoints": 22
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 919,
+      "pointsAgainst": 622,
+      "percentage": 147.75,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 684,
+      "pointsAgainst": 666,
+      "percentage": 102.7,
+      "competitionPoints": 29
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 928,
+      "pointsAgainst": 905,
+      "percentage": 102.54,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 813,
+      "pointsAgainst": 785,
+      "percentage": 103.57,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 776,
+      "pointsAgainst": 806,
+      "percentage": 96.28,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 798,
+      "pointsAgainst": 848,
+      "percentage": 94.1,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 712,
+      "pointsAgainst": 751,
+      "percentage": 94.81,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 795,
+      "percentage": 95.22,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 661,
+      "pointsAgainst": 747,
+      "percentage": 88.49,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 658,
+      "pointsAgainst": 781,
+      "percentage": 84.25,
+      "competitionPoints": 22
+    }
+  ],
+  "generatedAt": "2026-06-24T08:33:55.729455",
+  "dataComplete": true,
+  "aiBriefing": "Perth Redbacks sit 3rd with 5 wins and 4 losses while Rockingham are bottom of the ladder at 2 wins and 7 losses. The Redbacks won the first meeting by 22 points in Round 1 and enter on a three-game winning streak including a tight 84-83 result last round. Rockingham have lost four of their last five and are averaging just 74 points in that span compared to Perth's 105. Expect the home side to push tempo and look to extend their gap from the pack, while Rockingham need to avoid blowout and show improvement against a superior opponent.\n\nWatch Perth's Riley Barmentloo closely. He averages 28.8 points and 5.1 free throws per game but his fouling has spiked to 3.7 per game over his last three matches compared to 2.1 for the season. William Lippman has the same upward foul trend at 3.7 in his last three versus 2.5 season average and carries one recent unsportsmanlike foul on his record. Hunter Mettam is also fouling more at 2.7 in his last three against 1.8 season average. For Rockingham, Jaelan Toby is their hottest offensive player at 20.0 points per game in his last three and draws 3.2 free throws per game, so expect him to attack and test Perth's discipline.\n\nThe primary flashpoint risk is Perth's three key contributors all trending into foul trouble territory. Barmentloo and Lippman going from around 2 fouls per game to nearly 4 suggests increased physical play or frustration, and Lippman already has an unsportsmanlike on record. If Rockingham stays competitive or Toby gets hot, watch for Perth's intensity to cross into overly aggressive defense. Manage contact around Toby's drives early to set the tone and keep Lippman and Barmentloo accountable before foul counts become a game management issue."
+}

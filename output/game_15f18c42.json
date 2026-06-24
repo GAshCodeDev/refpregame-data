@@ -1,0 +1,502 @@
+{
+  "gameId": "15f18c42",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 10",
+  "homeTeam": "Perry Lakes Hawks U18 Boys 1",
+  "awayTeam": "Lakeside Lightning U18 Boys 1",
+  "homeTeamId": "a27c98b6",
+  "awayTeamId": "55c40ecb",
+  "venue": "Bendat Basketball Centre",
+  "time": "08:00:00",
+  "date": "2026-06-28",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 97,
+      "conceded": 75,
+      "won": true,
+      "margin": 22,
+      "gameId": "f5aa2a1e"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 92,
+      "conceded": 114,
+      "won": false,
+      "margin": -22,
+      "gameId": "382befeb"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 66,
+      "conceded": 109,
+      "won": false,
+      "margin": -43,
+      "gameId": "10426635"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Joondalup Wolves U18 Boys 1",
+      "scored": 83,
+      "conceded": 85,
+      "won": false,
+      "margin": -2,
+      "gameId": "b713b0bc"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Cockburn Cougars U18 Boys 1",
+      "scored": 115,
+      "conceded": 86,
+      "won": true,
+      "margin": 29,
+      "gameId": "bb0d33ec"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 75,
+      "conceded": 65,
+      "won": true,
+      "margin": 10,
+      "gameId": "a3375fa9"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 20,
+      "conceded": 0,
+      "won": true,
+      "margin": 20,
+      "gameId": "614dcda5"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 77,
+      "conceded": 73,
+      "won": true,
+      "margin": 4,
+      "gameId": "1eb3f403"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 71,
+      "conceded": 91,
+      "won": false,
+      "margin": -20,
+      "gameId": "61be1890"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 83,
+      "conceded": 84,
+      "won": false,
+      "margin": -1,
+      "gameId": "3da0332e"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Auston Wenham",
+      "number": "10",
+      "playerId": "16e73790-ee19-4deb-b792-0aeaa68cae4c",
+      "profileUrl": "https://www.playhq.com/public/profile/16e73790-ee19-4deb-b792-0aeaa68cae4c/statistics?tenant=basketball-wa",
+      "avgPoints": 16.7,
+      "avgThrees": 3.1,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Sam Gooch",
+      "number": "12",
+      "playerId": "205f49bd-de4b-4685-841d-32ac702fb42d",
+      "profileUrl": "https://www.playhq.com/public/profile/205f49bd-de4b-4685-841d-32ac702fb42d/statistics?tenant=basketball-wa",
+      "avgPoints": 14.8,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Hayden Miller",
+      "number": "9",
+      "playerId": "6d898d38-a97f-4c9f-83ff-29ccdda74ca1",
+      "profileUrl": "https://www.playhq.com/public/profile/6d898d38-a97f-4c9f-83ff-29ccdda74ca1/statistics?tenant=basketball-wa",
+      "avgPoints": 14.2,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Tyson Portwine",
+      "number": "7",
+      "playerId": "3baa335c-2b60-4122-a8ae-72e694a38dc7",
+      "profileUrl": "https://www.playhq.com/public/profile/3baa335c-2b60-4122-a8ae-72e694a38dc7/statistics?tenant=basketball-wa",
+      "avgPoints": 12.6,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Mitchell Turner",
+      "number": "4",
+      "playerId": "7c3c6d41-237d-4d60-b6b3-e54b38e97a3c",
+      "profileUrl": "https://www.playhq.com/public/profile/7c3c6d41-237d-4d60-b6b3-e54b38e97a3c/statistics?tenant=basketball-wa",
+      "avgPoints": 9.4,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.3/g season); scoring less lately (5.3/g in last 3 vs 9.4/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Lincoln Coleman",
+      "number": "10",
+      "playerId": "7e88692a-b034-46f0-8e3c-d09e145d626a",
+      "profileUrl": "https://www.playhq.com/public/profile/7e88692a-b034-46f0-8e3c-d09e145d626a/statistics?tenant=basketball-wa",
+      "avgPoints": 20.6,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 3.7,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.4/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Julien Richardson",
+      "number": "13",
+      "playerId": "9df6950c-1544-4d01-82d2-8d346c1a7cbd",
+      "profileUrl": "https://www.playhq.com/public/profile/9df6950c-1544-4d01-82d2-8d346c1a7cbd/statistics?tenant=basketball-wa",
+      "avgPoints": 15.9,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 1.9/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Benjamin Hofmann",
+      "number": "22",
+      "playerId": "5445aeea-2aad-4b68-b71d-c5f4dab96964",
+      "profileUrl": "https://www.playhq.com/public/profile/5445aeea-2aad-4b68-b71d-c5f4dab96964/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ciaran Evans",
+      "number": "3",
+      "playerId": "fb5b6c58-3f5e-4909-86d7-8d51e8ad4639",
+      "profileUrl": "https://www.playhq.com/public/profile/fb5b6c58-3f5e-4909-86d7-8d51e8ad4639/statistics?tenant=basketball-wa",
+      "avgPoints": 10.1,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ethan Powell",
+      "number": "24",
+      "playerId": "68b869ea-5f3d-4b29-a5f4-c0e8bc4c817d",
+      "profileUrl": "https://www.playhq.com/public/profile/68b869ea-5f3d-4b29-a5f4-c0e8bc4c817d/statistics?tenant=basketball-wa",
+      "avgPoints": 8.6,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 2.1/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 1",
+      "homeTeam": "Perry Lakes Hawks U18 Boys 1",
+      "awayTeam": "Lakeside Lightning U18 Boys 1",
+      "homeScore": 89,
+      "awayScore": 81,
+      "homeWon": true,
+      "margin": 8
+    }
+  ],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "a27c98b6",
+      "name": "Perry Lakes Hawks U18 Boys 1"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 813,
+    "pointsAgainst": 785,
+    "percentage": 103.57,
+    "competitionPoints": 28
+  },
+  "awayLadder": {
+    "rank": 2,
+    "team": {
+      "id": "55c40ecb",
+      "name": "Lakeside Lightning U18 Boys 1"
+    },
+    "played": 9,
+    "won": 6,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 684,
+    "pointsAgainst": 666,
+    "percentage": 102.7,
+    "competitionPoints": 29
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 8,
+      "won": 8,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 919,
+      "pointsAgainst": 622,
+      "percentage": 147.75,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 684,
+      "pointsAgainst": 666,
+      "percentage": 102.7,
+      "competitionPoints": 29
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 928,
+      "pointsAgainst": 905,
+      "percentage": 102.54,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 813,
+      "pointsAgainst": 785,
+      "percentage": 103.57,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 776,
+      "pointsAgainst": 806,
+      "percentage": 96.28,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 798,
+      "pointsAgainst": 848,
+      "percentage": 94.1,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 8,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 712,
+      "pointsAgainst": 751,
+      "percentage": 94.81,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 757,
+      "pointsAgainst": 795,
+      "percentage": 95.22,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 661,
+      "pointsAgainst": 747,
+      "percentage": 88.49,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 658,
+      "pointsAgainst": 781,
+      "percentage": 84.25,
+      "competitionPoints": 22
+    }
+  ],
+  "generatedAt": "2026-06-24T08:24:30.001822",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits fourth and Lakeside second, both mid-table but separated by only one win. The Hawks won their first meeting 89-81 in Round 1, and both teams are coming off narrow losses in Round 9, Perry Lakes by 1 point and Lakeside by 1 point as well. Perry Lakes has been inconsistent and high-scoring lately, averaging 91-94 across their last five, while Lakeside plays tighter, lower-scoring games at 65-63. Early tipoff at 08:00 may affect rhythm but expect both sides to play with urgency given the tight ladder positions and previous result.\n\nWatch Sam Gooch (#12) closely for Perry Lakes, averaging 3.6 fouls per game, the highest of any key player here. Mitchell Turner (#4) is trending up to 3.0 fouls per game in his last three matches despite a 2.3 season average, indicating he's becoming more physical or mistimed defensively. For Lakeside, Ethan Powell (#24) has jumped to 3.0 fouls per game over his last two games from a 2.1 season rate, suggesting increased aggression or frustration. Lincoln Coleman (#10) and Julien Richardson (#13) have both cleaned up their foul rates recently, 1.0 and 0.3 respectively in their last three, so they'll likely stay on the floor longer and draw contact given their high free throw attempts.\n\nPrimary foul trouble risk is Gooch fouling out early if Perry Lakes defends Coleman aggressively, and Turner or Powell picking up quick fouls in transition or post defense. No technical or unsportsmanlike foul history is noted, but the combination of a rematch, tight ladder race, and Perry Lakes' recent volatility in results, ranging from a 43-point loss to a 29-point win, suggests emotional swings. Monitor any chippy play after whistles and manage tempo early to prevent escalation, especially if the game stays close like their Round 1 encounter."
+}
