@@ -1,0 +1,501 @@
+{
+  "gameId": "9ae48c87",
+  "gradeName": "U18 Girls Championship",
+  "roundName": "Round 10",
+  "homeTeam": "East Perth Eagles U18 Girls 1",
+  "awayTeam": "Willetton Tigers U18 Girls 1",
+  "homeTeamId": "5fa89c65",
+  "awayTeamId": "bac173fc",
+  "venue": "Morley Sport and Recreation Centre",
+  "time": "09:45:00",
+  "date": "2026-06-28",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "homeForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 70,
+      "conceded": 94,
+      "won": false,
+      "margin": -24,
+      "gameId": "b31aa8fe"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 85,
+      "conceded": 72,
+      "won": true,
+      "margin": 13,
+      "gameId": "455c6d7f"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Perry Lakes Hawks U18 Girls 1",
+      "scored": 63,
+      "conceded": 69,
+      "won": false,
+      "margin": -6,
+      "gameId": "2f502cb2"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Lakeside Lightning U18 Girls 1",
+      "scored": 46,
+      "conceded": 71,
+      "won": false,
+      "margin": -25,
+      "gameId": "d3628872"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Joondalup Wolves U18 Girls 1",
+      "scored": 55,
+      "conceded": 77,
+      "won": false,
+      "margin": -22,
+      "gameId": "7b266d7c"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 5",
+      "roundNumber": 5,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 58,
+      "conceded": 67,
+      "won": false,
+      "margin": -9,
+      "gameId": "1e6659f7"
+    },
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "opponent": "Binar Maali U18 Girls",
+      "scored": 85,
+      "conceded": 64,
+      "won": true,
+      "margin": 21,
+      "gameId": "8f607708"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "opponent": "Cockburn Cougars U18 Girls 1",
+      "scored": 61,
+      "conceded": 91,
+      "won": false,
+      "margin": -30,
+      "gameId": "d15e2824"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 78,
+      "conceded": 72,
+      "won": true,
+      "margin": 6,
+      "gameId": "ab2dfe37"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Warwick Senators U18 Girls 1",
+      "scored": 75,
+      "conceded": 47,
+      "won": true,
+      "margin": 28,
+      "gameId": "c98c0c18"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Asher Davies",
+      "number": "72",
+      "playerId": "e26f35b6-7f6b-43ee-9787-5e958537e237",
+      "profileUrl": "https://www.playhq.com/public/profile/e26f35b6-7f6b-43ee-9787-5e958537e237/statistics?tenant=basketball-wa",
+      "avgPoints": 12.6,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 1.3/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Nyakan Pal",
+      "number": "2",
+      "playerId": "b21eff70-3db9-40aa-be0b-6d2c5f4a09cc",
+      "profileUrl": "https://www.playhq.com/public/profile/b21eff70-3db9-40aa-be0b-6d2c5f4a09cc/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ellie Boxall",
+      "number": "49",
+      "playerId": "a7f7ffdb-a05b-4156-bdec-783dc8a1a077",
+      "profileUrl": "https://www.playhq.com/public/profile/a7f7ffdb-a05b-4156-bdec-783dc8a1a077/statistics?tenant=basketball-wa",
+      "avgPoints": 8.4,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Isabella Darcey",
+      "number": "12",
+      "playerId": "a4ab5785-1b7e-4628-819a-e328d89f7209",
+      "profileUrl": "https://www.playhq.com/public/profile/a4ab5785-1b7e-4628-819a-e328d89f7209/statistics?tenant=basketball-wa",
+      "avgPoints": 8.1,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.1/g season)",
+      "tags": []
+    },
+    {
+      "name": "Samara Wyndham",
+      "number": "33",
+      "playerId": "ef6e0aa2-ee16-46b5-b7c2-05699a10515c",
+      "profileUrl": "https://www.playhq.com/public/profile/ef6e0aa2-ee16-46b5-b7c2-05699a10515c/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 1.2/g season); scoring less lately (3.3/g in last 3 vs 8.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Tamsin Hill",
+      "number": "12",
+      "playerId": "bb694eec-9dc1-4196-a0d3-7b74470175a0",
+      "profileUrl": "https://www.playhq.com/public/profile/bb694eec-9dc1-4196-a0d3-7b74470175a0/statistics?tenant=basketball-wa",
+      "avgPoints": 20.4,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 4.1,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Jalyn Newton-Taito",
+      "number": "13",
+      "playerId": "d72d2ba4-5cef-47e3-a5be-4b5456e6ec8e",
+      "profileUrl": "https://www.playhq.com/public/profile/d72d2ba4-5cef-47e3-a5be-4b5456e6ec8e/statistics?tenant=basketball-wa",
+      "avgPoints": 10.5,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Addison Newey",
+      "number": "7",
+      "playerId": "a3697133-a5dd-4d8f-84e9-3b16c03fafe1",
+      "profileUrl": "https://www.playhq.com/public/profile/a3697133-a5dd-4d8f-84e9-3b16c03fafe1/statistics?tenant=basketball-wa",
+      "avgPoints": 10.1,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 1.9/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Victoria Nathan",
+      "number": "10",
+      "playerId": "04671c84-99ee-4f36-ab6c-8ecfeaeec9e2",
+      "profileUrl": "https://www.playhq.com/public/profile/04671c84-99ee-4f36-ab6c-8ecfeaeec9e2/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (5.3/g in last 3 vs 8.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Addison Lynch",
+      "number": "5",
+      "playerId": "203cd207-6841-4e7f-b608-52134194614c",
+      "profileUrl": "https://www.playhq.com/public/profile/203cd207-6841-4e7f-b608-52134194614c/statistics?tenant=basketball-wa",
+      "avgPoints": 7.2,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.2/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 1",
+      "homeTeam": "East Perth Eagles U18 Girls 1",
+      "awayTeam": "Willetton Tigers U18 Girls 1",
+      "homeScore": 72,
+      "awayScore": 67,
+      "homeWon": true,
+      "margin": 5
+    }
+  ],
+  "homeLadder": {
+    "rank": 9,
+    "team": {
+      "id": "5fa89c65",
+      "name": "East Perth Eagles U18 Girls 1"
+    },
+    "played": 9,
+    "won": 2,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 537,
+    "pointsAgainst": 737,
+    "percentage": 72.86,
+    "competitionPoints": 22
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "bac173fc",
+      "name": "Willetton Tigers U18 Girls 1"
+    },
+    "played": 9,
+    "won": 5,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 633,
+    "pointsAgainst": 602,
+    "percentage": 105.15,
+    "competitionPoints": 28
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "fe3f7a58",
+        "name": "Cockburn Cougars U18 Girls 1"
+      },
+      "played": 9,
+      "won": 9,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 805,
+      "pointsAgainst": 498,
+      "percentage": 161.65,
+      "competitionPoints": 36
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1f04acc",
+        "name": "Warwick Senators U18 Girls 1"
+      },
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 709,
+      "pointsAgainst": 575,
+      "percentage": 123.3,
+      "competitionPoints": 30
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "ca139f20",
+        "name": "Lakeside Lightning U18 Girls 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 659,
+      "pointsAgainst": 648,
+      "percentage": 101.7,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "bac173fc",
+        "name": "Willetton Tigers U18 Girls 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 633,
+      "pointsAgainst": 602,
+      "percentage": 105.15,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "8ff6a891",
+        "name": "Perth Redbacks U18 Girls 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 638,
+      "pointsAgainst": 606,
+      "percentage": 105.28,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "cd669c50",
+        "name": "Joondalup Wolves U18 Girls 1"
+      },
+      "played": 9,
+      "won": 5,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 581,
+      "pointsAgainst": 600,
+      "percentage": 96.83,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "872009d2",
+        "name": "Perry Lakes Hawks U18 Girls 1"
+      },
+      "played": 9,
+      "won": 4,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 656,
+      "pointsAgainst": 718,
+      "percentage": 91.36,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "f26f3e56",
+        "name": "Binar Maali U18 Girls"
+      },
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 599,
+      "pointsAgainst": 726,
+      "percentage": 82.51,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "5fa89c65",
+        "name": "East Perth Eagles U18 Girls 1"
+      },
+      "played": 9,
+      "won": 2,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 537,
+      "pointsAgainst": 737,
+      "percentage": 72.86,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f0eab476",
+        "name": "South West Slammers U18 Girls"
+      },
+      "played": 9,
+      "won": 1,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 581,
+      "pointsAgainst": 688,
+      "percentage": 84.45,
+      "competitionPoints": 20
+    }
+  ],
+  "generatedAt": "2026-06-26T18:11:20.814551",
+  "dataComplete": true,
+  "aiBriefing": "East Perth sits 9th with 2 wins against Willetton in 4th with 5 wins, but the home side won their Round 1 meeting by 5 points. East Perth has lost four straight and is averaging 64 points in that stretch, conceding 77. Willetton has recovered form with three straight wins including a 28-point demolition last round. The Tigers will want to settle the score from that early-season loss, so expect Willetton to push tempo and East Perth to battle hard at home to protect what may be their only scalp against a top-four side this season.\n\nWatch Nyakan Pal number 2 for East Perth who fouls at 3.9 per game across 8 games, the highest rate on either team. Ellie Boxall number 49 also carries 3.0 fouls per game over 7 games. Both are foul-out risks if they play heavy minutes. Asher Davies number 72 is trending up at 1.7 fouls in her last 3 compared to 1.3 for the season. For Willetton, Tamsin Hill number 12 is their scoring engine at 20.4 points and 4.1 free throws per game, drawing significant contact, while also sitting at 2.8 fouls herself. Victoria Nathan number 10 averages 2.9 fouls per game. Samara Wyndham number 33 for East Perth is trending up to 1.7 fouls in her last 3 games.\n\nPrimary flashpoint is Pal and Boxall fouling out early if East Perth tries to match Willetton's physicality inside, which could tilt the game heavily. Hill will attack the basket frequently given her 4.1 free throw attempts per game, so be tight on illegal defensive contact but equally vigilant on offensive fouls or embellishment. No technical or unsportsmanlike foul history flagged in the data, but the combination of East Perth defending home court against a better team that lost to them earlier creates emotional stakes. Manage escalation early if frustration fouls start appearing from either Pal or the Willetton bigs."
+}

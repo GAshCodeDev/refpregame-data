@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:34:10.262427",
+  "generatedAt": "2026-06-26T18:15:57.607407",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -755,6 +755,71 @@
       "date": "2026-06-28",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_65d76239.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "af976f0a",
+      "gradeName": "U18 Girls Championship",
+      "roundName": "Round 10",
+      "homeTeam": "Warwick Senators U18 Girls 1",
+      "awayTeam": "Cockburn Cougars U18 Girls 1",
+      "venue": "Warwick Stadium",
+      "time": "09:45:00",
+      "date": "2026-06-28",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_af976f0a.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "6d289bfc",
+      "gradeName": "U18 Girls Championship",
+      "roundName": "Round 10",
+      "homeTeam": "Perry Lakes Hawks U18 Girls 1",
+      "awayTeam": "Lakeside Lightning U18 Girls 1",
+      "venue": "Bendat Basketball Centre",
+      "time": "09:45:00",
+      "date": "2026-06-28",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_6d289bfc.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "9ae48c87",
+      "gradeName": "U18 Girls Championship",
+      "roundName": "Round 10",
+      "homeTeam": "East Perth Eagles U18 Girls 1",
+      "awayTeam": "Willetton Tigers U18 Girls 1",
+      "venue": "Morley Sport and Recreation Centre",
+      "time": "09:45:00",
+      "date": "2026-06-28",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_9ae48c87.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "aaf2b75d",
+      "gradeName": "U18 Girls Championship",
+      "roundName": "Round 10",
+      "homeTeam": "South West Slammers U18 Girls",
+      "awayTeam": "Joondalup Wolves U18 Girls 1",
+      "venue": "Eaton Recreation Centre",
+      "time": "10:15:00",
+      "date": "2026-06-28",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_aaf2b75d.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "ccd406c7",
+      "gradeName": "U18 Girls Championship",
+      "roundName": "Round 10",
+      "homeTeam": "Perth Redbacks U18 Girls 1",
+      "awayTeam": "Binar Maali U18 Girls",
+      "venue": "Leisurelife Centre",
+      "time": "11:15:00",
+      "date": "2026-06-28",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_ccd406c7.json",
       "hasAIBriefing": true
     }
   ]
