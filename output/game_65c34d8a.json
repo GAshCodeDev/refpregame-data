@@ -1,0 +1,572 @@
+{
+  "gameId": "65c34d8a",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 15",
+  "homeTeam": "Eastern Suns Open Men",
+  "awayTeam": "Goldfields Giants Open Men",
+  "homeTeamId": "89351f76",
+  "awayTeamId": "15229133",
+  "venue": "Ray Owen Sports Centre",
+  "time": "09:00:00",
+  "date": "2026-07-05",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/65c34d8a",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 94,
+      "conceded": 89,
+      "won": true,
+      "margin": 5,
+      "gameId": "fb0a9204"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 88,
+      "conceded": 110,
+      "won": false,
+      "margin": -22,
+      "gameId": "05093a96"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "South West Slammers Open Men",
+      "scored": 118,
+      "conceded": 93,
+      "won": true,
+      "margin": 25,
+      "gameId": "5c1501c6"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Geraldton Buccaneers Open Men",
+      "scored": 103,
+      "conceded": 77,
+      "won": true,
+      "margin": 26,
+      "gameId": "1d5bec3b"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 96,
+      "conceded": 113,
+      "won": false,
+      "margin": -17,
+      "gameId": "96bd50fc"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 89,
+      "conceded": 101,
+      "won": false,
+      "margin": -12,
+      "gameId": "a331336e"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 63,
+      "conceded": 108,
+      "won": false,
+      "margin": -45,
+      "gameId": "8c385bc8"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 67,
+      "conceded": 91,
+      "won": false,
+      "margin": -24,
+      "gameId": "4b6a417a"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 75,
+      "conceded": 91,
+      "won": false,
+      "margin": -16,
+      "gameId": "7966b374"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 76,
+      "conceded": 103,
+      "won": false,
+      "margin": -27,
+      "gameId": "8ab37b71"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Hayden Price",
+      "number": "15",
+      "playerId": "51c2d605-06a4-4304-a712-2ccc2cd652df",
+      "profileUrl": "https://www.playhq.com/public/profile/51c2d605-06a4-4304-a712-2ccc2cd652df/statistics?tenant=basketball-wa",
+      "avgPoints": 22.4,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 4.3,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 2.0/g season); scoring less lately (15.0/g in last 2 vs 22.4/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Jesse Pollock",
+      "number": "5",
+      "playerId": "3c4f0f53-8cc6-4365-8c2a-cd4b9d9c8a44",
+      "profileUrl": "https://www.playhq.com/public/profile/3c4f0f53-8cc6-4365-8c2a-cd4b9d9c8a44/statistics?tenant=basketball-wa",
+      "avgPoints": 18.5,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 2 vs 1.0/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Stephen Phipps",
+      "number": "4",
+      "playerId": "7ab2523a-af5e-4ea7-ba6b-099886d88838",
+      "profileUrl": "https://www.playhq.com/public/profile/7ab2523a-af5e-4ea7-ba6b-099886d88838/statistics?tenant=basketball-wa",
+      "avgPoints": 18.0,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 1.2/g season); scoring more lately (26.0/g in last 3 vs 18.0/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Marley Sam",
+      "number": "4",
+      "playerId": "0694a55a-5ae6-453b-a274-1d5f29bed28c",
+      "profileUrl": "https://www.playhq.com/public/profile/0694a55a-5ae6-453b-a274-1d5f29bed28c/statistics?tenant=basketball-wa",
+      "avgPoints": 16.7,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Riley Pabst",
+      "number": "8",
+      "playerId": "92fa4c81-037c-43aa-87a6-e1f1f974c9d4",
+      "profileUrl": "https://www.playhq.com/public/profile/92fa4c81-037c-43aa-87a6-e1f1f974c9d4/statistics?tenant=basketball-wa",
+      "avgPoints": 13.3,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 1 vs 1.5/g season); scoring less lately (8.0/g in last 1 vs 13.3/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Samuel Morrow",
+      "number": "9",
+      "playerId": "3acc928e-85e4-4c6f-8a53-d2d77c6f7989",
+      "profileUrl": "https://www.playhq.com/public/profile/3acc928e-85e4-4c6f-8a53-d2d77c6f7989/statistics?tenant=basketball-wa",
+      "avgPoints": 21.0,
+      "avgThrees": 4.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Nicholas Shaw",
+      "number": "7",
+      "playerId": "fe180f6d-2186-49bd-a5b8-167d6a363814",
+      "profileUrl": "https://www.playhq.com/public/profile/fe180f6d-2186-49bd-a5b8-167d6a363814/statistics?tenant=basketball-wa",
+      "avgPoints": 17.3,
+      "avgThrees": 3.1,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 2.3/g season); scoring less lately (10.0/g in last 2 vs 17.3/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Jaydan Doel",
+      "number": "11",
+      "playerId": "51b0012f-b1d0-448c-871a-b0ce08b8c3d7",
+      "profileUrl": "https://www.playhq.com/public/profile/51b0012f-b1d0-448c-871a-b0ce08b8c3d7/statistics?tenant=basketball-wa",
+      "avgPoints": 13.5,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Lachlan Clements",
+      "number": "10",
+      "playerId": "437c807b-89db-491d-b5a7-d23e4d18d708",
+      "profileUrl": "https://www.playhq.com/public/profile/437c807b-89db-491d-b5a7-d23e4d18d708/statistics?tenant=basketball-wa",
+      "avgPoints": 11.7,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 2 vs 1.0/g season); scoring less lately (6.0/g in last 2 vs 11.7/g season)",
+      "tags": []
+    },
+    {
+      "name": "Rex French",
+      "number": "4",
+      "playerId": "7ed8d1c3-fb1c-4433-96f6-362164dc1f07",
+      "profileUrl": "https://www.playhq.com/public/profile/7ed8d1c3-fb1c-4433-96f6-362164dc1f07/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 3.1,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 6,
+    "team": {
+      "id": "89351f76",
+      "name": "Eastern Suns Open Men"
+    },
+    "played": 13,
+    "won": 8,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 1171,
+    "pointsAgainst": 1089,
+    "percentage": 107.53,
+    "competitionPoints": 16
+  },
+  "awayLadder": {
+    "rank": 15,
+    "team": {
+      "id": "15229133",
+      "name": "Goldfields Giants Open Men"
+    },
+    "played": 13,
+    "won": 1,
+    "lost": 11,
+    "drawn": 0,
+    "pointsFor": 952,
+    "pointsAgainst": 1208,
+    "percentage": 78.81,
+    "competitionPoints": 3
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 14,
+      "won": 12,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 1109,
+      "percentage": 123.53,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1275,
+      "pointsAgainst": 1170,
+      "percentage": 108.97,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 891,
+      "percentage": 110.89,
+      "competitionPoints": 19
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 955,
+      "pointsAgainst": 804,
+      "percentage": 118.78,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1271,
+      "pointsAgainst": 1175,
+      "percentage": 108.17,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1089,
+      "percentage": 107.53,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1148,
+      "percentage": 114.2,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1152,
+      "percentage": 112.5,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1182,
+      "pointsAgainst": 1254,
+      "percentage": 94.26,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1025,
+      "percentage": 92.88,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 1088,
+      "percentage": 89.71,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 14,
+      "won": 4,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1321,
+      "percentage": 94.4,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 14,
+      "won": 3,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1073,
+      "pointsAgainst": 1361,
+      "percentage": 78.84,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 841,
+      "pointsAgainst": 1065,
+      "percentage": 78.97,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1208,
+      "percentage": 78.81,
+      "competitionPoints": 3
+    }
+  ],
+  "generatedAt": "2026-06-30T21:20:25.032099",
+  "dataComplete": true,
+  "aiBriefing": "Eastern Suns sit sixth at 8-5 but come off a 17-point loss, while Goldfields are winless in five and anchor the ladder at 1-11. The mismatch suggests a routine home win, but Eastern's recent inconsistency\u2014alternating wins and losses\u2014and Goldfields' desperation to avoid further humiliation could produce frustration or lopsided physicality if the margin blows out early. Goldfields average just 74 points in their last five, so expect Eastern to push tempo and exploit the skill gap.\n\nWatch Marley Sam number 4 for Eastern\u2014he fouls at 2.7 per game in limited appearances, highest among their rotation. Nicholas Shaw number 7 for Goldfields is trending the wrong way, fouling at 3.0 per game over his last two outings versus a 2.3 season average while his scoring has dropped to 10.0 from 17.3. Rex French number 4 commits 2.6 fouls per game and lives at the line on offence with 3.1 free throw attempts, so expect contact around the rim. Stephen Phipps number 4 for Eastern is hot lately at 26.0 points per game over three games and gets to the line frequently at 4.0 attempts, so he'll draw defensive attention and potential reach-in fouls.\n\nPrimary flashpoint risk is a blowout generating chippy play from a frustrated Goldfields side already on an 11-game losing streak overall. Shaw's rising foul rate and declining production suggest he's pressing or playing frustrated defence. No technical or unsportsmanlike foul history is documented, but monitor frustration fouls and any retaliation if Eastern runs up the score. Keep the game moving cleanly early to prevent it from deteriorating into a physical mismatch."
+}

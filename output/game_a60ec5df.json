@@ -1,0 +1,579 @@
+{
+  "gameId": "a60ec5df",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 15",
+  "homeTeam": "Joondalup Wolves Open Men",
+  "awayTeam": "Mandurah Magic Open Men",
+  "homeTeamId": "3e71c2c7",
+  "awayTeamId": "d71c80de",
+  "venue": "Arena Joondalup",
+  "time": "12:00:00",
+  "date": "2026-07-05",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/a60ec5df",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 106,
+      "conceded": 103,
+      "won": true,
+      "margin": 3,
+      "gameId": "c8598753"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 110,
+      "conceded": 88,
+      "won": true,
+      "margin": 22,
+      "gameId": "05093a96"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Geraldton Buccaneers Open Men",
+      "scored": 95,
+      "conceded": 68,
+      "won": true,
+      "margin": 27,
+      "gameId": "81fea413"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 95,
+      "conceded": 96,
+      "won": false,
+      "margin": -1,
+      "gameId": "1e97fac9"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 105,
+      "conceded": 141,
+      "won": false,
+      "margin": -36,
+      "gameId": "54704bc2"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 99,
+      "conceded": 90,
+      "won": true,
+      "margin": 9,
+      "gameId": "2653e9dd"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 79,
+      "conceded": 119,
+      "won": false,
+      "margin": -40,
+      "gameId": "6ed555a4"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 84,
+      "conceded": 119,
+      "won": false,
+      "margin": -35,
+      "gameId": "0a053622"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 91,
+      "conceded": 75,
+      "won": true,
+      "margin": 16,
+      "gameId": "7966b374"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 58,
+      "conceded": 87,
+      "won": false,
+      "margin": -29,
+      "gameId": "75b1c338"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Keegan Schrick",
+      "number": "14",
+      "playerId": "1a94b606-6e44-4bca-9f16-9857fe7d130e",
+      "profileUrl": "https://www.playhq.com/public/profile/1a94b606-6e44-4bca-9f16-9857fe7d130e/statistics?tenant=basketball-wa",
+      "avgPoints": 21.0,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Jarrod Hodge",
+      "number": "12",
+      "playerId": "b7e3666c-268e-4e41-8fb8-2a306577b02a",
+      "profileUrl": "https://www.playhq.com/public/profile/b7e3666c-268e-4e41-8fb8-2a306577b02a/statistics?tenant=basketball-wa",
+      "avgPoints": 20.4,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 2.8/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ben Geel",
+      "number": "10",
+      "playerId": "6031096e-19ce-476e-93f2-9264dacbcdc3",
+      "profileUrl": "https://www.playhq.com/public/profile/6031096e-19ce-476e-93f2-9264dacbcdc3/statistics?tenant=basketball-wa",
+      "avgPoints": 16.3,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 4.7,
+      "avgFouls": 4.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Taj Gleeson",
+      "number": "4",
+      "playerId": "6c5f3d4e-597d-4ec1-8eda-4e02d46dfc14",
+      "profileUrl": "https://www.playhq.com/public/profile/6c5f3d4e-597d-4ec1-8eda-4e02d46dfc14/statistics?tenant=basketball-wa",
+      "avgPoints": 14.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 3.7,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.6/g season); scoring more lately (20.0/g in last 2 vs 14.5/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Liam Kersey",
+      "number": "4",
+      "playerId": "4a74208d-fe43-4145-9b9b-642e7617ef41",
+      "profileUrl": "https://www.playhq.com/public/profile/4a74208d-fe43-4145-9b9b-642e7617ef41/statistics?tenant=basketball-wa",
+      "avgPoints": 14.0,
+      "avgThrees": 4.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Joseph Macdonald",
+      "number": "7",
+      "playerId": "fddfe804-3dfc-4b95-ac5f-d316307a05f6",
+      "profileUrl": "https://www.playhq.com/public/profile/fddfe804-3dfc-4b95-ac5f-d316307a05f6/statistics?tenant=basketball-wa",
+      "avgPoints": 21.8,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 3.8,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jaxon Comito",
+      "number": "3",
+      "playerId": "8a04b646-dab1-4bb5-b5ee-9085684106e3",
+      "profileUrl": "https://www.playhq.com/public/profile/8a04b646-dab1-4bb5-b5ee-9085684106e3/statistics?tenant=basketball-wa",
+      "avgPoints": 17.4,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 2.5/g season); scoring less lately (10.0/g in last 3 vs 17.4/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Jayden Crudeli",
+      "number": "11",
+      "playerId": "ea4f2704-feab-434c-a192-2befa961c7e1",
+      "profileUrl": "https://www.playhq.com/public/profile/ea4f2704-feab-434c-a192-2befa961c7e1/statistics?tenant=basketball-wa",
+      "avgPoints": 17.2,
+      "avgThrees": 3.6,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Elijah Kearns",
+      "number": "8",
+      "playerId": "b4e11efe-8f07-4b58-8fa8-b8c395e0f6c1",
+      "profileUrl": "https://www.playhq.com/public/profile/b4e11efe-8f07-4b58-8fa8-b8c395e0f6c1/statistics?tenant=basketball-wa",
+      "avgPoints": 12.3,
+      "avgThrees": 3.2,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.2/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Brock Caporn",
+      "number": "6",
+      "playerId": "1867c8ae-542b-4790-b8e3-c5f3108905ce",
+      "profileUrl": "https://www.playhq.com/public/profile/1867c8ae-542b-4790-b8e3-c5f3108905ce/statistics?tenant=basketball-wa",
+      "avgPoints": 11.1,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.4/g season); scoring less lately (7.0/g in last 3 vs 11.1/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 5,
+    "team": {
+      "id": "3e71c2c7",
+      "name": "Joondalup Wolves Open Men"
+    },
+    "played": 13,
+    "won": 9,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 1271,
+    "pointsAgainst": 1175,
+    "percentage": 108.17,
+    "competitionPoints": 18
+  },
+  "awayLadder": {
+    "rank": 9,
+    "team": {
+      "id": "d71c80de",
+      "name": "Mandurah Magic Open Men"
+    },
+    "played": 13,
+    "won": 7,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 1182,
+    "pointsAgainst": 1254,
+    "percentage": 94.26,
+    "competitionPoints": 14
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 14,
+      "won": 12,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 1109,
+      "percentage": 123.53,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1275,
+      "pointsAgainst": 1170,
+      "percentage": 108.97,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 891,
+      "percentage": 110.89,
+      "competitionPoints": 19
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 955,
+      "pointsAgainst": 804,
+      "percentage": 118.78,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1271,
+      "pointsAgainst": 1175,
+      "percentage": 108.17,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1089,
+      "percentage": 107.53,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1148,
+      "percentage": 114.2,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1152,
+      "percentage": 112.5,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1182,
+      "pointsAgainst": 1254,
+      "percentage": 94.26,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1025,
+      "percentage": 92.88,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 1088,
+      "percentage": 89.71,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 14,
+      "won": 4,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1321,
+      "percentage": 94.4,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 14,
+      "won": 3,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1073,
+      "pointsAgainst": 1361,
+      "percentage": 78.84,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 841,
+      "pointsAgainst": 1065,
+      "percentage": 78.97,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1208,
+      "percentage": 78.81,
+      "competitionPoints": 3
+    }
+  ],
+  "generatedAt": "2026-06-30T21:26:22.824976",
+  "dataComplete": true,
+  "aiBriefing": "Joondalup sits 5th and Mandurah 9th with no previous meetings this season. The Wolves have lost their last two badly including a 36-point blowout to Lakeside, while Mandurah arrive on a three-game losing streak averaging just 82 points per game in their last five. Both teams need the win but Mandurah's offensive struggles (58 points in Round 14) suggest they may force tempo early to avoid a grind. Expect Joondalup to push pace at home to protect their top-five position.\n\nWatch Ben Geel number 10 for Joondalup who fouls at 4.3 per game across three games and will likely be aggressive inside. Jarrod Hodge number 12 has spiked to 4.0 fouls per game in his last two outings versus 2.8 season average, indicating he's pressing on defence during the recent slide. Taj Gleeson number 4 is also trending up at 3.5 fouls per game over his last two while scoring more (20.0 ppg recently). For Mandurah, Joseph Macdonald number 7 leads their foul rate at 3.2 per game and draws 3.8 free throws, so he'll test Joondalup's interior discipline.\n\nPrimary flashpoint risk is Joondalup's frontcourt fouling under pressure from their losing streak, particularly Geel if he plays significant minutes and Hodge who is clearly playing tighter defence lately. Mandurah's offensive struggles may lead to frustration if Joondalup extends a lead early at home. No technical or unsportsmanlike foul history provided but monitor emotional responses from Mandurah given their recent heavy defeats and Joondalup's potential urgency to rebound from back-to-back losses."
+}

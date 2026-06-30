@@ -1,0 +1,573 @@
+{
+  "gameId": "392ac277",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 15",
+  "homeTeam": "Warwick Senators Open Men",
+  "awayTeam": "South West Slammers Open Men",
+  "homeTeamId": "e1b87db3",
+  "awayTeamId": "7f7da657",
+  "venue": "Warwick Stadium",
+  "time": "15:00:00",
+  "date": "2026-07-04",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/392ac277",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Geraldton Buccaneers Open Men",
+      "scored": 101,
+      "conceded": 89,
+      "won": true,
+      "margin": 12,
+      "gameId": "58b99df1"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 95,
+      "conceded": 84,
+      "won": true,
+      "margin": 11,
+      "gameId": "8ec95d13"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 91,
+      "conceded": 67,
+      "won": true,
+      "margin": 24,
+      "gameId": "4b6a417a"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 102,
+      "conceded": 91,
+      "won": true,
+      "margin": 11,
+      "gameId": "a164d02b"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 113,
+      "conceded": 96,
+      "won": true,
+      "margin": 17,
+      "gameId": "96bd50fc"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 96,
+      "conceded": 86,
+      "won": true,
+      "margin": 10,
+      "gameId": "5e8017a7"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "East Perth Eagles Open Men",
+      "scored": 113,
+      "conceded": 117,
+      "won": false,
+      "margin": -4,
+      "gameId": "941f7021"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 93,
+      "conceded": 118,
+      "won": false,
+      "margin": -25,
+      "gameId": "5c1501c6"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 77,
+      "conceded": 102,
+      "won": false,
+      "margin": -25,
+      "gameId": "26f724e7"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 0,
+      "conceded": 20,
+      "won": false,
+      "margin": -20,
+      "gameId": "75e4c9b1"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Jordan Sandon",
+      "number": "1",
+      "playerId": "b8c08d74-dc1a-4478-be90-a29aaba2139a",
+      "profileUrl": "https://www.playhq.com/public/profile/b8c08d74-dc1a-4478-be90-a29aaba2139a/statistics?tenant=basketball-wa",
+      "avgPoints": 19.9,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Trey Sandon",
+      "number": "20",
+      "playerId": "f1103e59-3a43-4dd9-879a-cb9454eb83c9",
+      "profileUrl": "https://www.playhq.com/public/profile/f1103e59-3a43-4dd9-879a-cb9454eb83c9/statistics?tenant=basketball-wa",
+      "avgPoints": 18.2,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Koby Weir",
+      "number": "5",
+      "playerId": "5874cdba-5605-404f-be93-8e5c24ab1e78",
+      "profileUrl": "https://www.playhq.com/public/profile/5874cdba-5605-404f-be93-8e5c24ab1e78/statistics?tenant=basketball-wa",
+      "avgPoints": 16.5,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (12.3/g in last 3 vs 16.5/g season)",
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Kye Chamberlain",
+      "number": "25",
+      "playerId": "88120df7-1e6d-403c-8582-8b9e806fbe89",
+      "profileUrl": "https://www.playhq.com/public/profile/88120df7-1e6d-403c-8582-8b9e806fbe89/statistics?tenant=basketball-wa",
+      "avgPoints": 14.8,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Kuron Swaka Lo Buluk",
+      "number": "11",
+      "playerId": "02509a3a-e00c-42c7-859f-8508249df060",
+      "profileUrl": "https://www.playhq.com/public/profile/02509a3a-e00c-42c7-859f-8508249df060/statistics?tenant=basketball-wa",
+      "avgPoints": 11.3,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Gavin Deacon",
+      "number": "33",
+      "playerId": "599382dd-20e6-41b0-b047-f056d30357a2",
+      "profileUrl": "https://www.playhq.com/public/profile/599382dd-20e6-41b0-b047-f056d30357a2/statistics?tenant=basketball-wa",
+      "avgPoints": 19.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 1.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Harry Watters",
+      "number": "32",
+      "playerId": "8df31970-ff2b-42fa-b837-cf4e077200a5",
+      "profileUrl": "https://www.playhq.com/public/profile/8df31970-ff2b-42fa-b837-cf4e077200a5/statistics?tenant=basketball-wa",
+      "avgPoints": 17.8,
+      "avgThrees": 3.2,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jordan Wayne",
+      "number": "27",
+      "playerId": "0133238b-df78-4197-95ff-c820939e5c59",
+      "profileUrl": "https://www.playhq.com/public/profile/0133238b-df78-4197-95ff-c820939e5c59/statistics?tenant=basketball-wa",
+      "avgPoints": 17.5,
+      "avgThrees": 2.7,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 2.0/g season); scoring more lately (22.5/g in last 2 vs 17.5/g season)",
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Rhys Barrett",
+      "number": "33",
+      "playerId": "a63d33de-e896-4f60-8780-bfa4c045d0ee",
+      "profileUrl": "https://www.playhq.com/public/profile/a63d33de-e896-4f60-8780-bfa4c045d0ee/statistics?tenant=basketball-wa",
+      "avgPoints": 15.7,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Art Harvey",
+      "number": "35",
+      "playerId": "4b901fc7-ffac-496d-a457-4ef9577a8821",
+      "profileUrl": "https://www.playhq.com/public/profile/4b901fc7-ffac-496d-a457-4ef9577a8821/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 2,
+    "team": {
+      "id": "e1b87db3",
+      "name": "Warwick Senators Open Men"
+    },
+    "played": 13,
+    "won": 10,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 1275,
+    "pointsAgainst": 1170,
+    "percentage": 108.97,
+    "competitionPoints": 20
+  },
+  "awayLadder": {
+    "rank": 10,
+    "team": {
+      "id": "7f7da657",
+      "name": "South West Slammers Open Men"
+    },
+    "played": 13,
+    "won": 4,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 952,
+    "pointsAgainst": 1025,
+    "percentage": 92.88,
+    "competitionPoints": 9
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 14,
+      "won": 12,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 1109,
+      "percentage": 123.53,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1275,
+      "pointsAgainst": 1170,
+      "percentage": 108.97,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 891,
+      "percentage": 110.89,
+      "competitionPoints": 19
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 955,
+      "pointsAgainst": 804,
+      "percentage": 118.78,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1271,
+      "pointsAgainst": 1175,
+      "percentage": 108.17,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1089,
+      "percentage": 107.53,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1148,
+      "percentage": 114.2,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1152,
+      "percentage": 112.5,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1182,
+      "pointsAgainst": 1254,
+      "percentage": 94.26,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1025,
+      "percentage": 92.88,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 1088,
+      "percentage": 89.71,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 14,
+      "won": 4,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1321,
+      "percentage": 94.4,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 14,
+      "won": 3,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1073,
+      "pointsAgainst": 1361,
+      "percentage": 78.84,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 841,
+      "pointsAgainst": 1065,
+      "percentage": 78.97,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1208,
+      "percentage": 78.81,
+      "competitionPoints": 3
+    }
+  ],
+  "generatedAt": "2026-06-30T21:14:16.186819",
+  "dataComplete": true,
+  "aiBriefing": "Warwick sits 2nd and has rolled five straight wins averaging a 15-point margin, while South West is 10th coming off four consecutive losses including a forfeit last round. The ladder gap and Warwick's home advantage suggest a mismatch, but South West's recent blowout losses by 25 points twice in three games could drive desperation early or lead to frustration if they fall behind quickly. No head-to-head history this season means no carryover tension, but the form disparity sets up potential for either a scrappy upset attempt or lopsided physicality if the visitors check out mentally.\n\nWatch Jordan Sandon number 1 and Koby Weir number 5 for Warwick, both sitting at 2.2 fouls per game, the highest among their key rotation. Sandon draws 4.4 free throws per game so expect him attacking the rim consistently. For South West, Harry Watters number 32 at 1.9 fouls per game and Jordan Wayne number 27 at 2.0 fouls per game are their foul leaders, though Wayne has cleaned up his last two games to just 1.0 per contest while also heating up offensively at 22.5 points per game. Art Harvey number 35 also carries 1.9 fouls per game. Their collective foul rates aren't extreme but the compressed rotation due to their struggles means foul trouble could force undermanned lineups.\n\nPrimary flashpoint risk is frustration fouls or escalation if South West falls into another blowout pattern given their recent 25-point defeats and last round's forfeit suggesting roster or morale issues. Warwick's dominance and home court could breed complacency leading to retaliation if South West plays overly physical trying to disrupt rhythm. No technical or unsportsmanlike foul history provided, but monitor the margins closely in the second and third quarters where lopsided games typically turn chippy. If South West's deficit grows past 20, watch for disengagement fouls or frustration from their bench."
+}

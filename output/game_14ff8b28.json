@@ -1,0 +1,584 @@
+{
+  "gameId": "14ff8b28",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 15",
+  "homeTeam": "East Perth Eagles Open Men",
+  "awayTeam": "Cockburn Cougars Open Men",
+  "homeTeamId": "f97426c2",
+  "awayTeamId": "bc3edf90",
+  "venue": "Morley Sport and Recreation Centre",
+  "time": "10:00:00",
+  "date": "2026-07-05",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/14ff8b28",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 124,
+      "conceded": 77,
+      "won": true,
+      "margin": 47,
+      "gameId": "1fda83b5"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 90,
+      "conceded": 93,
+      "won": false,
+      "margin": -3,
+      "gameId": "04e4eb43"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "South West Slammers Open Men",
+      "scored": 117,
+      "conceded": 113,
+      "won": true,
+      "margin": 4,
+      "gameId": "941f7021"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 91,
+      "conceded": 102,
+      "won": false,
+      "margin": -11,
+      "gameId": "a164d02b"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 103,
+      "conceded": 76,
+      "won": true,
+      "margin": 27,
+      "gameId": "8ab37b71"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Willetton Tigers Open Men",
+      "scored": 78,
+      "conceded": 81,
+      "won": false,
+      "margin": -3,
+      "gameId": "70c4cb8b"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Goldfields Giants Open Men",
+      "scored": 108,
+      "conceded": 63,
+      "won": true,
+      "margin": 45,
+      "gameId": "8c385bc8"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 88,
+      "conceded": 82,
+      "won": true,
+      "margin": 6,
+      "gameId": "b20385bd"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Rockingham Flames Open Men",
+      "scored": 91,
+      "conceded": 85,
+      "won": true,
+      "margin": 6,
+      "gameId": "92a068a3"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Mandurah Magic Open Men",
+      "scored": 87,
+      "conceded": 58,
+      "won": true,
+      "margin": 29,
+      "gameId": "75b1c338"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "John Aryang",
+      "number": "3",
+      "playerId": "64d1d900-fddb-443a-b7e6-1b07a6c282ba",
+      "profileUrl": "https://www.playhq.com/public/profile/64d1d900-fddb-443a-b7e6-1b07a6c282ba/statistics?tenant=basketball-wa",
+      "avgPoints": 20.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 3.8,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (5.0/g in last 1 vs 2.0/g season); scoring more lately (25.0/g in last 1 vs 20.0/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Emmanuel Dech",
+      "number": "24",
+      "playerId": "d133fb84-b497-4c94-814a-42b189bee8ac",
+      "profileUrl": "https://www.playhq.com/public/profile/d133fb84-b497-4c94-814a-42b189bee8ac/statistics?tenant=basketball-wa",
+      "avgPoints": 18.8,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 4.2,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Mitch Benger",
+      "number": "2",
+      "playerId": "1c5ed686-a8a5-4fc7-82b8-225fee107d4e",
+      "profileUrl": "https://www.playhq.com/public/profile/1c5ed686-a8a5-4fc7-82b8-225fee107d4e/statistics?tenant=basketball-wa",
+      "avgPoints": 14.5,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 2.8/g season)",
+      "tags": [
+        "Picked up an unsportsmanlike foul recently",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Kai Kabugua",
+      "number": "9",
+      "playerId": "bb78c6a9-5311-4dfb-badd-cf25ddcdb4ba",
+      "profileUrl": "https://www.playhq.com/public/profile/bb78c6a9-5311-4dfb-badd-cf25ddcdb4ba/statistics?tenant=basketball-wa",
+      "avgPoints": 13.1,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.4/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Roman Hube",
+      "number": "3",
+      "playerId": "42477ccf-634c-45df-bb20-3d67e6c5e3d2",
+      "profileUrl": "https://www.playhq.com/public/profile/42477ccf-634c-45df-bb20-3d67e6c5e3d2/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 1,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Picked up a disqualifying foul recently"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Matt Clifford",
+      "number": "10",
+      "playerId": "7ad5ade1-1b22-4a1f-861e-eab760bba3cb",
+      "profileUrl": "https://www.playhq.com/public/profile/7ad5ade1-1b22-4a1f-861e-eab760bba3cb/statistics?tenant=basketball-wa",
+      "avgPoints": 24.0,
+      "avgThrees": 4.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Riley Eves",
+      "number": "13",
+      "playerId": "11124b79-0901-4dd0-bfb2-2c91d7799625",
+      "profileUrl": "https://www.playhq.com/public/profile/11124b79-0901-4dd0-bfb2-2c91d7799625/statistics?tenant=basketball-wa",
+      "avgPoints": 20.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 4.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Austin Crowe-St Jack",
+      "number": "6",
+      "playerId": "adbd23cf-9377-421a-ac97-3a02559aabf3",
+      "profileUrl": "https://www.playhq.com/public/profile/adbd23cf-9377-421a-ac97-3a02559aabf3/statistics?tenant=basketball-wa",
+      "avgPoints": 15.4,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jack Pitt",
+      "number": "11",
+      "playerId": "d6067212-53cd-49e9-9a86-7de57701f0ad",
+      "profileUrl": "https://www.playhq.com/public/profile/d6067212-53cd-49e9-9a86-7de57701f0ad/statistics?tenant=basketball-wa",
+      "avgPoints": 15.1,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Noah Stewart",
+      "number": "13",
+      "playerId": "7b385b68-1d3f-4b4f-8511-7a666594746c",
+      "profileUrl": "https://www.playhq.com/public/profile/7b385b68-1d3f-4b4f-8511-7a666594746c/statistics?tenant=basketball-wa",
+      "avgPoints": 12.5,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 7,
+    "team": {
+      "id": "f97426c2",
+      "name": "East Perth Eagles Open Men"
+    },
+    "played": 13,
+    "won": 8,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 1311,
+    "pointsAgainst": 1148,
+    "percentage": 114.2,
+    "competitionPoints": 16
+  },
+  "awayLadder": {
+    "rank": 3,
+    "team": {
+      "id": "bc3edf90",
+      "name": "Cockburn Cougars Open Men"
+    },
+    "played": 13,
+    "won": 9,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 988,
+    "pointsAgainst": 891,
+    "percentage": 110.89,
+    "competitionPoints": 19
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 14,
+      "won": 12,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 1109,
+      "percentage": 123.53,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1275,
+      "pointsAgainst": 1170,
+      "percentage": 108.97,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 891,
+      "percentage": 110.89,
+      "competitionPoints": 19
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 955,
+      "pointsAgainst": 804,
+      "percentage": 118.78,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1271,
+      "pointsAgainst": 1175,
+      "percentage": 108.17,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1089,
+      "percentage": 107.53,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1148,
+      "percentage": 114.2,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1152,
+      "percentage": 112.5,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1182,
+      "pointsAgainst": 1254,
+      "percentage": 94.26,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1025,
+      "percentage": 92.88,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 1088,
+      "percentage": 89.71,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 14,
+      "won": 4,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1321,
+      "percentage": 94.4,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 14,
+      "won": 3,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1073,
+      "pointsAgainst": 1361,
+      "percentage": 78.84,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 841,
+      "pointsAgainst": 1065,
+      "percentage": 78.97,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1208,
+      "percentage": 78.81,
+      "competitionPoints": 3
+    }
+  ],
+  "generatedAt": "2026-06-30T21:23:50.357336",
+  "dataComplete": true,
+  "aiBriefing": "This is a third-versus-seventh clash with real ladder implications for both sides. Cockburn sits third at 9-3 and brings strong defensive form, allowing just 74 points per game over their last five. East Perth at 7th has been more volatile, scoring 105 per game recently but leaking 92, and they're coming off mixed results including narrow losses to quality opposition. No previous meeting this season means no established rivalry tensions, but the stakes are high enough to expect competitive physicality throughout.\n\nWatch East Perth's John Aryang (#3) closely\u2014he jumped from 2.0 fouls per game season average to 5.0 in his last outing, suggesting he's pressing harder on defence or struggling with discipline. Mitch Benger (#2) is fouling at 4.0 per game over his last two games versus 2.8 season average and carries one recent unsportsmanlike foul. Kai Kabugua (#9) shows similar escalation at 3.5 fouls in his last two versus 2.4 overall. Roman Hube (#3) has a recent disqualifying foul on his record. For Cockburn, Jack Pitt (#11) sits at 2.9 fouls per game, highest among their regulars with meaningful sample size.\n\nPrimary flashpoint risk is East Perth's recent foul trouble trend across multiple key players, suggesting they may be playing more desperately or physically than earlier in the season. Benger's unsportsmanlike foul and Hube's disqualifying foul indicate prior discipline issues that could resurface under pressure. Establish your whistle tone early around physical play in the paint and on drives\u2014East Perth's foul patterns suggest they're vulnerable to accumulation if the game stays tight. Monitor Aryang, Benger, Kabugua and Hube specifically for early foul count given their recent trends."
+}

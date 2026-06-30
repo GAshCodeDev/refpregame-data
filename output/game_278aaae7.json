@@ -1,0 +1,578 @@
+{
+  "gameId": "278aaae7",
+  "gradeName": "TCD Open Championship Men",
+  "roundName": "Round 15",
+  "homeTeam": "Geraldton Buccaneers Open Men",
+  "awayTeam": "Rockingham Flames Open Men",
+  "homeTeamId": "e7c4c58e",
+  "awayTeamId": "62b22846",
+  "venue": "Activewest Stadium",
+  "time": "17:00:00",
+  "date": "2026-07-04",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/278aaae7",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 89,
+      "conceded": 101,
+      "won": false,
+      "margin": -12,
+      "gameId": "58b99df1"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 68,
+      "conceded": 95,
+      "won": false,
+      "margin": -27,
+      "gameId": "81fea413"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 77,
+      "conceded": 103,
+      "won": false,
+      "margin": -26,
+      "gameId": "1d5bec3b"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 86,
+      "conceded": 95,
+      "won": false,
+      "margin": -9,
+      "gameId": "5565a538"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 93,
+      "conceded": 110,
+      "won": false,
+      "margin": -17,
+      "gameId": "4469c2df"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Lakeside Lightning Open Men",
+      "scored": 80,
+      "conceded": 112,
+      "won": false,
+      "margin": -32,
+      "gameId": "a227e823"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Hills Raiders Open Men",
+      "scored": 97,
+      "conceded": 83,
+      "won": true,
+      "margin": 14,
+      "gameId": "d48763a0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Perth Redbacks Open Men",
+      "scored": 110,
+      "conceded": 106,
+      "won": true,
+      "margin": 4,
+      "gameId": "7b7c036e"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Cockburn Cougars Open Men",
+      "scored": 85,
+      "conceded": 91,
+      "won": false,
+      "margin": -6,
+      "gameId": "92a068a3"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 84,
+      "conceded": 98,
+      "won": false,
+      "margin": -14,
+      "gameId": "3f278bde"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Levi Owen",
+      "number": "4",
+      "playerId": "1d6fa224-ab47-4f7a-8f92-ae74ca0de351",
+      "profileUrl": "https://www.playhq.com/public/profile/1d6fa224-ab47-4f7a-8f92-ae74ca0de351/statistics?tenant=basketball-wa",
+      "avgPoints": 16.9,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Max De San Miguel",
+      "number": "8",
+      "playerId": "2ddff959-05c4-4ce9-b252-22ac36c5f544",
+      "profileUrl": "https://www.playhq.com/public/profile/2ddff959-05c4-4ce9-b252-22ac36c5f544/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 1.6,
+      "technicalFouls": 2,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Picked up a technical foul recently"
+      ]
+    },
+    {
+      "name": "William Galvin",
+      "number": "13",
+      "playerId": "37360b81-43cc-49f6-811b-7ff2d2c81496",
+      "profileUrl": "https://www.playhq.com/public/profile/37360b81-43cc-49f6-811b-7ff2d2c81496/statistics?tenant=basketball-wa",
+      "avgPoints": 11.6,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.7/g in last 3 vs 11.6/g season)",
+      "tags": [
+        "Physical player",
+        "Picked up an unsportsmanlike foul recently",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jarrad Mongoo",
+      "number": "3",
+      "playerId": "321af4b7-1fd8-4f54-9eaf-0add51122118",
+      "profileUrl": "https://www.playhq.com/public/profile/321af4b7-1fd8-4f54-9eaf-0add51122118/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season); scoring more lately (13.0/g in last 3 vs 9.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Denbi Horstman",
+      "number": "2",
+      "playerId": "aa11a91d-effc-4d8b-9890-78309a1aa5b8",
+      "profileUrl": "https://www.playhq.com/public/profile/aa11a91d-effc-4d8b-9890-78309a1aa5b8/statistics?tenant=basketball-wa",
+      "avgPoints": 8.6,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 3.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (2.3/g in last 3 vs 3.4/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Dean Supljeglav",
+      "number": "9",
+      "playerId": "4c05905e-08af-40b4-a885-6af450cc9d50",
+      "profileUrl": "https://www.playhq.com/public/profile/4c05905e-08af-40b4-a885-6af450cc9d50/statistics?tenant=basketball-wa",
+      "avgPoints": 17.8,
+      "avgThrees": 3.8,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.7/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Lowell Jude Christopher",
+      "number": "14",
+      "playerId": "23bbb1cc-43dc-441b-810b-10e33b48413e",
+      "profileUrl": "https://www.playhq.com/public/profile/23bbb1cc-43dc-441b-810b-10e33b48413e/statistics?tenant=basketball-wa",
+      "avgPoints": 17.2,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (11.0/g in last 1 vs 17.2/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Leon Maguire",
+      "number": "7",
+      "playerId": "0c12ab0c-0ed2-499c-8e1e-f6092529ad39",
+      "profileUrl": "https://www.playhq.com/public/profile/0c12ab0c-0ed2-499c-8e1e-f6092529ad39/statistics?tenant=basketball-wa",
+      "avgPoints": 16.3,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 3.1,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player",
+        "Picked up an unsportsmanlike foul recently"
+      ]
+    },
+    {
+      "name": "Peter Thuch",
+      "number": "10",
+      "playerId": "b7411ddf-bcf6-4352-9df1-dd7b1ead8745",
+      "profileUrl": "https://www.playhq.com/public/profile/b7411ddf-bcf6-4352-9df1-dd7b1ead8745/statistics?tenant=basketball-wa",
+      "avgPoints": 14.1,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.8,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 1.8/g season)",
+      "tags": [
+        "Picked up a technical foul recently"
+      ]
+    },
+    {
+      "name": "Daniel Dech",
+      "number": "11",
+      "playerId": "d51084fb-1790-45fc-8daa-4ba20333407f",
+      "profileUrl": "https://www.playhq.com/public/profile/d51084fb-1790-45fc-8daa-4ba20333407f/statistics?tenant=basketball-wa",
+      "avgPoints": 11.6,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 14,
+    "team": {
+      "id": "e7c4c58e",
+      "name": "Geraldton Buccaneers Open Men"
+    },
+    "played": 12,
+    "won": 1,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 841,
+    "pointsAgainst": 1065,
+    "percentage": 78.97,
+    "competitionPoints": 3
+  },
+  "awayLadder": {
+    "rank": 11,
+    "team": {
+      "id": "62b22846",
+      "name": "Rockingham Flames Open Men"
+    },
+    "played": 13,
+    "won": 4,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 976,
+    "pointsAgainst": 1088,
+    "percentage": 89.71,
+    "competitionPoints": 8
+  },
+  "totalTeams": 15,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "40c147e2",
+        "name": "Lakeside Lightning Open Men"
+      },
+      "played": 14,
+      "won": 12,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 1109,
+      "percentage": 123.53,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "e1b87db3",
+        "name": "Warwick Senators Open Men"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1275,
+      "pointsAgainst": 1170,
+      "percentage": 108.97,
+      "competitionPoints": 20
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "bc3edf90",
+        "name": "Cockburn Cougars Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 891,
+      "percentage": 110.89,
+      "competitionPoints": 19
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "71311462",
+        "name": "Willetton Tigers Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 955,
+      "pointsAgainst": 804,
+      "percentage": 118.78,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "3e71c2c7",
+        "name": "Joondalup Wolves Open Men"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1271,
+      "pointsAgainst": 1175,
+      "percentage": 108.17,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "89351f76",
+        "name": "Eastern Suns Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1089,
+      "percentage": 107.53,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "f97426c2",
+        "name": "East Perth Eagles Open Men"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1148,
+      "percentage": 114.2,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1dca5744",
+        "name": "Perry Lakes Hawks Open Men"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1152,
+      "percentage": 112.5,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "d71c80de",
+        "name": "Mandurah Magic Open Men"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1182,
+      "pointsAgainst": 1254,
+      "percentage": 94.26,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "7f7da657",
+        "name": "South West Slammers Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1025,
+      "percentage": 92.88,
+      "competitionPoints": 9
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "62b22846",
+        "name": "Rockingham Flames Open Men"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 976,
+      "pointsAgainst": 1088,
+      "percentage": 89.71,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4513e433",
+        "name": "Perth Redbacks Open Men"
+      },
+      "played": 14,
+      "won": 4,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1321,
+      "percentage": 94.4,
+      "competitionPoints": 8
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "723e41ce",
+        "name": "Hills Raiders Open Men"
+      },
+      "played": 14,
+      "won": 3,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1073,
+      "pointsAgainst": 1361,
+      "percentage": 78.84,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "e7c4c58e",
+        "name": "Geraldton Buccaneers Open Men"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 841,
+      "pointsAgainst": 1065,
+      "percentage": 78.97,
+      "competitionPoints": 3
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": "15229133",
+        "name": "Goldfields Giants Open Men"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 952,
+      "pointsAgainst": 1208,
+      "percentage": 78.81,
+      "competitionPoints": 3
+    }
+  ],
+  "generatedAt": "2026-06-30T21:17:11.188047",
+  "dataComplete": true,
+  "aiBriefing": "Geraldton sit 14th with one win from eleven games and have lost their last five straight, conceding an average of 101 points per game in that stretch. Rockingham are 11th at 4-7 but have dropped three of their last five. This is a low-stakes encounter between two sides out of finals contention, but Geraldton's extended slide at home could create frustration and desperation, while Rockingham will look to assert physical dominance against a weakened opponent. Expect Rockingham to push tempo and test Geraldton's interior defence.\n\nWatch Geraldton's William Galvin number 13, who fouls at 3.1 per game and carries one recent unsportsmanlike, and Denbi Horstman number 2 at 3.4 fouls per game despite trending down to 2.3 in his last three. Max De San Miguel number 8 has two recent technicals so monitor his reactions closely. For Rockingham, Lowell Jude Christopher number 14 and Leon Maguire number 7 both foul at 3.1 and 3.2 per game respectively, with Maguire carrying one recent unsportsmanlike. Peter Thuch number 10 has one recent technical but has reduced his fouling to 1.0 in his last two games.\n\nThe primary flashpoint risk is Geraldton's frustration boiling over given their ten-game losing streak and home desperation against a more physical Rockingham side. De San Miguel's two recent technicals and Galvin's unsportsmanlike make them volatility risks if the margin blows out early. Maguire's unsportsmanlike history and Christopher's high foul rate suggest Rockingham may play aggressively in the paint. Stay tight on post-whistle reactions and any physical escalation if Geraldton's deficit grows, particularly involving Galvin and De San Miguel who need managing before emotions override discipline."
+}
