@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T21:56:03.956058",
+  "generatedAt": "2026-07-01T22:27:07.184918",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -27,6 +27,32 @@
       "date": "2026-07-04",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_278aaae7.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "d976761d",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "Warwick Senators Open Women",
+      "awayTeam": "South West Slammers Open Women",
+      "venue": "Warwick Stadium",
+      "time": "13:00:00",
+      "date": "2026-07-04",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_d976761d.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "b3cf6327",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "Lakeside Lightning Open Women",
+      "awayTeam": "Goldfields Giants Open Women",
+      "venue": "Lakeside Recreation Centre",
+      "time": "16:00:00",
+      "date": "2026-07-04",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_b3cf6327.json",
       "hasAIBriefing": true
     },
     {
@@ -79,6 +105,58 @@
       "date": "2026-07-05",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_7fb188ce.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "68dba841",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "Joondalup Wolves Open Women",
+      "awayTeam": "Mandurah Magic Open Women",
+      "venue": "Arena Joondalup",
+      "time": "10:00:00",
+      "date": "2026-07-05",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_68dba841.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "b9d83c1d",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "East Perth Eagles Open Women",
+      "awayTeam": "Cockburn Cougars Open Women",
+      "venue": "Morley Sport and Recreation Centre",
+      "time": "12:00:00",
+      "date": "2026-07-05",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_b9d83c1d.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "8967a0f5",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "Eastern Suns Open Women",
+      "awayTeam": "Goldfields Giants Open Women",
+      "venue": "Ray Owen Sports Centre",
+      "time": "13:15:00",
+      "date": "2026-07-05",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_8967a0f5.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "852e0cf3",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Round 15",
+      "homeTeam": "Hills Raiders Open Women",
+      "awayTeam": "Willetton Tigers Open Women",
+      "venue": "Mundaring Arena",
+      "time": "14:15:00",
+      "date": "2026-07-05",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_852e0cf3.json",
       "hasAIBriefing": true
     }
   ]

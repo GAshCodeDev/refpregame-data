@@ -1,0 +1,549 @@
+{
+  "gameId": "852e0cf3",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Round 15",
+  "homeTeam": "Hills Raiders Open Women",
+  "awayTeam": "Willetton Tigers Open Women",
+  "homeTeamId": "a3ba0f8c",
+  "awayTeamId": "4711ee17",
+  "venue": "Mundaring Arena",
+  "time": "14:15:00",
+  "date": "2026-07-05",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-women/game-centre/852e0cf3",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 114,
+      "conceded": 55,
+      "won": true,
+      "margin": 59,
+      "gameId": "209c982f"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Rockingham Flames Open Women",
+      "scored": 73,
+      "conceded": 92,
+      "won": false,
+      "margin": -19,
+      "gameId": "f8f90b33"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 57,
+      "conceded": 89,
+      "won": false,
+      "margin": -32,
+      "gameId": "be1254b3"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 65,
+      "conceded": 81,
+      "won": false,
+      "margin": -16,
+      "gameId": "7abee6e1"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 45,
+      "conceded": 84,
+      "won": false,
+      "margin": -39,
+      "gameId": "8d2dfdc9"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Cockburn Cougars Open Women",
+      "scored": 55,
+      "conceded": 78,
+      "won": false,
+      "margin": -23,
+      "gameId": "649c68af"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 66,
+      "conceded": 94,
+      "won": false,
+      "margin": -28,
+      "gameId": "5c2fc9de"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 62,
+      "conceded": 57,
+      "won": true,
+      "margin": 5,
+      "gameId": "f7c15f10"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 59,
+      "conceded": 86,
+      "won": false,
+      "margin": -27,
+      "gameId": "ea02ccbb"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "South West Slammers Open Women",
+      "scored": 74,
+      "conceded": 53,
+      "won": true,
+      "margin": 21,
+      "gameId": "7769d45d"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Grace Adams",
+      "number": "22",
+      "playerId": "16e82011-37f7-4430-ad4d-0a7bb2f2bf47",
+      "profileUrl": "https://www.playhq.com/public/profile/16e82011-37f7-4430-ad4d-0a7bb2f2bf47/statistics?tenant=basketball-wa",
+      "avgPoints": 18.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.7/g season); scoring less lately (10.7/g in last 3 vs 18.0/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Emily Thomas-Loehn",
+      "number": "11",
+      "playerId": "f94ec63b-353c-41c2-9167-82b5e39b320a",
+      "profileUrl": "https://www.playhq.com/public/profile/f94ec63b-353c-41c2-9167-82b5e39b320a/statistics?tenant=basketball-wa",
+      "avgPoints": 10.1,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Mackenzie Thomas",
+      "number": "3",
+      "playerId": "5b6a5fe7-545f-4286-88a6-519b738d78a6",
+      "profileUrl": "https://www.playhq.com/public/profile/5b6a5fe7-545f-4286-88a6-519b738d78a6/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 1.7/g season); scoring less lately (4.5/g in last 2 vs 8.0/g season)",
+      "tags": []
+    },
+    {
+      "name": "Tamara Reeves",
+      "number": "18",
+      "playerId": "e1c43f6d-6362-4fec-a319-f8cc7d050174",
+      "profileUrl": "https://www.playhq.com/public/profile/e1c43f6d-6362-4fec-a319-f8cc7d050174/statistics?tenant=basketball-wa",
+      "avgPoints": 7.4,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (5.0/g in last 3 vs 7.4/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Elliana Forman",
+      "number": "2",
+      "playerId": "17cea9fa-7b7b-4388-8ea4-7dab3f62c388",
+      "profileUrl": "https://www.playhq.com/public/profile/17cea9fa-7b7b-4388-8ea4-7dab3f62c388/statistics?tenant=basketball-wa",
+      "avgPoints": 7.2,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Courtney Stothard",
+      "number": "9",
+      "playerId": "07c101dc-3f96-49f2-94bf-4c82daaa5083",
+      "profileUrl": "https://www.playhq.com/public/profile/07c101dc-3f96-49f2-94bf-4c82daaa5083/statistics?tenant=basketball-wa",
+      "avgPoints": 15.2,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ashlin Ramsay",
+      "number": "10",
+      "playerId": "790fb683-9fa5-4746-a8a7-fb72db1e8d71",
+      "profileUrl": "https://www.playhq.com/public/profile/790fb683-9fa5-4746-a8a7-fb72db1e8d71/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ella Murdoch",
+      "number": "11",
+      "playerId": "164aea26-8304-4d18-bed2-2d22f0c6dd65",
+      "profileUrl": "https://www.playhq.com/public/profile/164aea26-8304-4d18-bed2-2d22f0c6dd65/statistics?tenant=basketball-wa",
+      "avgPoints": 10.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Abigail Durdin",
+      "number": "6",
+      "playerId": "02c97237-b835-4c3a-8593-91d41d6072d4",
+      "profileUrl": "https://www.playhq.com/public/profile/02c97237-b835-4c3a-8593-91d41d6072d4/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jasmin Clark",
+      "number": "12",
+      "playerId": "b6bf766b-a905-4be6-a7f7-bafc12b46e03",
+      "profileUrl": "https://www.playhq.com/public/profile/b6bf766b-a905-4be6-a7f7-bafc12b46e03/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.4/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 12,
+    "team": {
+      "id": "a3ba0f8c",
+      "name": "Hills Raiders Open Women"
+    },
+    "played": 12,
+    "won": 3,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 819,
+    "pointsAgainst": 918,
+    "percentage": 89.22,
+    "competitionPoints": 6
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "4711ee17",
+      "name": "Willetton Tigers Open Women"
+    },
+    "played": 12,
+    "won": 7,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 869,
+    "pointsAgainst": 795,
+    "percentage": 109.31,
+    "competitionPoints": 14
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 12,
+      "won": 12,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 965,
+      "pointsAgainst": 614,
+      "percentage": 157.17,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 12,
+      "won": 11,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 930,
+      "pointsAgainst": 687,
+      "percentage": 135.37,
+      "competitionPoints": 22
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 979,
+      "pointsAgainst": 873,
+      "percentage": 112.14,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 12,
+      "won": 8,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 809,
+      "pointsAgainst": 731,
+      "percentage": 110.67,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 12,
+      "won": 7,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 869,
+      "pointsAgainst": 795,
+      "percentage": 109.31,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 901,
+      "pointsAgainst": 799,
+      "percentage": 112.77,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 878,
+      "pointsAgainst": 779,
+      "percentage": 112.71,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 916,
+      "pointsAgainst": 872,
+      "percentage": 105.05,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 887,
+      "percentage": 104.4,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 835,
+      "pointsAgainst": 866,
+      "percentage": 96.42,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 762,
+      "pointsAgainst": 1025,
+      "percentage": 74.34,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 12,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 819,
+      "pointsAgainst": 918,
+      "percentage": 89.22,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 11,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 609,
+      "pointsAgainst": 1039,
+      "percentage": 58.61,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 12,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 555,
+      "pointsAgainst": 868,
+      "percentage": 63.94,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-07-01T22:26:52.232582",
+  "dataComplete": true,
+  "aiBriefing": "Hills Raiders sit 12th with a 3-9 record while Willetton are 5th at 7-5, creating a clear ladder gap. Raiders have lost four straight including a 45-84 hammering last round, averaging just 71 points across their last five with only one win against bottom-placed Goldfields. Willetton split their last five at 2-3 but bookended recent losses with wins over Lakeside and South West. No previous meeting this season means no established rivalry, but the form and ladder disparity suggests Willetton will control tempo while Raiders may press defensively out of desperation.\n\nWatch Tamara Reeves (#18) closely for Hills\u2014she already averages 3.3 fouls per game, highest on either roster, and will likely draw defensive assignments against Willetton's guards. Grace Adams (#22) is trending upward in fouls at 2.3 per game over her last three compared to her 1.7 season average, while her scoring has dropped from 18.0 to 10.7 in that span, suggesting frustration or adjustment issues. For Willetton, Abigail Durdin (#6) commits 3.0 fouls per game, second-highest in this matchup. Emily Thomas-Loehn (#11) and Elliana Forman (#2) both sit at 1.9 and 2.2 fouls per game respectively for Hills, making their frontcourt foul-prone collectively.\n\nFlashpoint risk centers on Hills' fouling pattern\u2014Reeves at 3.3, Forman at 2.2, Thomas-Loehn at 1.9, and Adams trending upward creates real foul trouble exposure if Raiders play physically to compensate for the talent gap. Adams' recent drop in production paired with increased fouling suggests frustration that could escalate under pressure. Durdin's 3.0 fouls per game for Willetton means she's vulnerable if Hills attack the paint consistently. No technical or unsportsmanlike foul history provided, but monitor Adams and Reeves specifically for escalation if the margin blows out early given Raiders' recent heavy losses."
+}
