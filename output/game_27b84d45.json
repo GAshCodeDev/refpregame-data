@@ -1,0 +1,558 @@
+{
+  "gameId": "27b84d45",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Finals Round 1",
+  "homeTeam": "Warwick Senators Open Women",
+  "awayTeam": "Joondalup Wolves Open Women",
+  "homeTeamId": "c0e9962c",
+  "awayTeamId": "6510442d",
+  "venue": "Warwick Stadium",
+  "time": "14:30:00",
+  "date": "2026-07-12",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-women/game-centre/27b84d45",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 72,
+      "conceded": 62,
+      "won": true,
+      "margin": 10,
+      "gameId": "be7e6c2e"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 94,
+      "conceded": 50,
+      "won": true,
+      "margin": 44,
+      "gameId": "646c532d"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "East Perth Eagles Open Women",
+      "scored": 75,
+      "conceded": 67,
+      "won": true,
+      "margin": 8,
+      "gameId": "26c2e3f6"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Eastern Suns Open Women",
+      "scored": 81,
+      "conceded": 62,
+      "won": true,
+      "margin": 19,
+      "gameId": "0252e3f4"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "opponent": "South West Slammers Open Women",
+      "scored": 92,
+      "conceded": 34,
+      "won": true,
+      "margin": 58,
+      "gameId": "d976761d"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 62,
+      "conceded": 82,
+      "won": false,
+      "margin": -20,
+      "gameId": "22e6d070"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Eastern Suns Open Women",
+      "scored": 78,
+      "conceded": 66,
+      "won": true,
+      "margin": 12,
+      "gameId": "c63b00ca"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Perth Redbacks Open Women",
+      "scored": 77,
+      "conceded": 72,
+      "won": true,
+      "margin": 5,
+      "gameId": "43dc15cb"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 80,
+      "conceded": 90,
+      "won": false,
+      "margin": -10,
+      "gameId": "53150385"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 82,
+      "conceded": 76,
+      "won": true,
+      "margin": 6,
+      "gameId": "68dba841"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Ashlee Monaghan",
+      "number": "0",
+      "playerId": "6f5df419-ded0-42c8-a920-6594d5b80f2f",
+      "profileUrl": "https://www.playhq.com/public/profile/6f5df419-ded0-42c8-a920-6594d5b80f2f/statistics?tenant=basketball-wa",
+      "avgPoints": 13.6,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (18.0/g in last 3 vs 13.6/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Sian Grinceri",
+      "number": "4",
+      "playerId": "bc366cfa-6672-435a-b485-bcd31a17d961",
+      "profileUrl": "https://www.playhq.com/public/profile/bc366cfa-6672-435a-b485-bcd31a17d961/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Keira Robinson",
+      "number": "8",
+      "playerId": "a2bc4255-5d6a-49db-a99d-6436a6f1c7df",
+      "profileUrl": "https://www.playhq.com/public/profile/a2bc4255-5d6a-49db-a99d-6436a6f1c7df/statistics?tenant=basketball-wa",
+      "avgPoints": 10.5,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.8/g season); scoring more lately (15.5/g in last 2 vs 10.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Natalie Chisi",
+      "number": "21",
+      "playerId": "2343588c-15cf-4d76-a51d-e41a860ea46f",
+      "profileUrl": "https://www.playhq.com/public/profile/2343588c-15cf-4d76-a51d-e41a860ea46f/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 2.1/g season)",
+      "tags": []
+    },
+    {
+      "name": "Isabella Andrew",
+      "number": "25",
+      "playerId": "783a9c1f-6f31-452c-93f4-5576e08b6515",
+      "profileUrl": "https://www.playhq.com/public/profile/783a9c1f-6f31-452c-93f4-5576e08b6515/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Mya Haley",
+      "number": "13",
+      "playerId": "d406d62f-9685-47da-b42d-6fe92c34fb56",
+      "profileUrl": "https://www.playhq.com/public/profile/d406d62f-9685-47da-b42d-6fe92c34fb56/statistics?tenant=basketball-wa",
+      "avgPoints": 16.6,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (27.7/g in last 3 vs 16.6/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Physical player",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ty Bolland",
+      "number": "6",
+      "playerId": "29b2180f-87c5-4e53-bef8-6e6eba3c969b",
+      "profileUrl": "https://www.playhq.com/public/profile/29b2180f-87c5-4e53-bef8-6e6eba3c969b/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 3.5,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 1.8/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Chloe Goldsmith",
+      "number": "9",
+      "playerId": "7633731e-1bbe-4c84-8014-d01506946404",
+      "profileUrl": "https://www.playhq.com/public/profile/7633731e-1bbe-4c84-8014-d01506946404/statistics?tenant=basketball-wa",
+      "avgPoints": 11.7,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 3.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (5.0/g in last 1 vs 3.6/g season); scoring less lately (7.0/g in last 1 vs 11.7/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ananya Tushir",
+      "number": "8",
+      "playerId": "aa9cb2fe-4323-45a4-8fdf-9f0278d29dcf",
+      "profileUrl": "https://www.playhq.com/public/profile/aa9cb2fe-4323-45a4-8fdf-9f0278d29dcf/statistics?tenant=basketball-wa",
+      "avgPoints": 9.4,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 0.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.5/g in last 2 vs 0.7/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Jyordanna Davey",
+      "number": "7",
+      "playerId": "0fdabe45-9824-42fd-bd40-ac7b9fe69aa3",
+      "profileUrl": "https://www.playhq.com/public/profile/0fdabe45-9824-42fd-bd40-ac7b9fe69aa3/statistics?tenant=basketball-wa",
+      "avgPoints": 7.9,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 0.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 0.7/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 2,
+    "team": {
+      "id": "c0e9962c",
+      "name": "Warwick Senators Open Women"
+    },
+    "played": 13,
+    "won": 12,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 1022,
+    "pointsAgainst": 721,
+    "percentage": 141.75,
+    "competitionPoints": 24
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "6510442d",
+      "name": "Joondalup Wolves Open Women"
+    },
+    "played": 13,
+    "won": 7,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 998,
+    "pointsAgainst": 948,
+    "percentage": 105.27,
+    "competitionPoints": 14
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1057,
+      "pointsAgainst": 668,
+      "percentage": 158.23,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 13,
+      "won": 12,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1022,
+      "pointsAgainst": 721,
+      "percentage": 141.75,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 979,
+      "pointsAgainst": 873,
+      "percentage": 112.14,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 910,
+      "pointsAgainst": 788,
+      "percentage": 115.48,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 945,
+      "pointsAgainst": 854,
+      "percentage": 110.66,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1031,
+      "pointsAgainst": 846,
+      "percentage": 121.87,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 998,
+      "pointsAgainst": 948,
+      "percentage": 105.27,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 932,
+      "pointsAgainst": 871,
+      "percentage": 107,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 911,
+      "pointsAgainst": 948,
+      "percentage": 96.1,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 887,
+      "percentage": 104.4,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 762,
+      "pointsAgainst": 1025,
+      "percentage": 74.34,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 878,
+      "pointsAgainst": 994,
+      "percentage": 88.33,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 713,
+      "pointsAgainst": 1270,
+      "percentage": 56.14,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 589,
+      "pointsAgainst": 960,
+      "percentage": 61.35,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-07-08T11:42:46.615326",
+  "dataComplete": true,
+  "aiBriefing": "This is a finals knockout game between second-placed Warwick on a five-game winning streak averaging 28-point margins and seventh-placed Joondalup coming off inconsistent form with three wins and two losses in their last five. Warwick enters as heavy favorites having scored 80-plus in four of their last five while Joondalup has been in tight contests with four of five decided by 12 points or less. No head-to-head history this season means you'll be setting the tone from scratch. Expect Warwick to push tempo and Joondalup to slow it down given their recent grinding style.\n\nWatch Joondalup's Chloe Goldsmith number 9 closely as she's already at 3.6 fouls per game season-long and just committed 5.0 in her last outing, putting her at serious risk of early foul trouble in a must-win game. On Warwick, Sian Grinceri number 4 sits at 3.2 fouls per game consistently all season. Mya Haley number 13 for Joondalup draws 4.4 free throws per game and is red-hot with 27.7 points per game over her last three games, so contact on her drives will be a constant judgment call. Ananya Tushir number 8 has doubled her foul rate to 1.5 per game recently despite a 0.7 season average, suggesting she's playing more aggressive defense under pressure.\n\nThe primary flashpoint risk is Goldsmith's foul accumulation combining with Haley's attacking style creating frustration fouls from Joondalup if Warwick builds an early lead. Warwick's three key players all carry 2.1 to 3.2 fouls per game, so if Joondalup stays close they'll attack the paint to force foul trouble. The stakes are elimination for Joondalup against a vastly superior opponent, which historically creates chippy play and potential retaliation if the margin blows out. No technical or unsportsmanlike foul history provided, but monitor emotional control if Warwick's recent 44 and 58 point blowouts repeat here."
+}

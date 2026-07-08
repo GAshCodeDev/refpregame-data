@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:27:07.184918",
+  "generatedAt": "2026-07-08T11:46:13.565442",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -157,6 +157,110 @@
       "date": "2026-07-05",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_852e0cf3.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "6db7c1ec",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Warwick Senators Open Men",
+      "awayTeam": "East Perth Eagles Open Men",
+      "venue": "Warwick Stadium",
+      "time": "10:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_6db7c1ec.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "72b83a44",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Joondalup Wolves Open Men",
+      "awayTeam": "Cockburn Cougars Open Men",
+      "venue": "Arena Joondalup",
+      "time": "13:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_72b83a44.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "13c7d8df",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Lakeside Lightning Open Men",
+      "awayTeam": "Perry Lakes Hawks Open Men",
+      "venue": "Lakeside Recreation Centre",
+      "time": "15:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_13c7d8df.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "a3886602",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Willetton Tigers Open Men",
+      "awayTeam": "Eastern Suns Open Men",
+      "venue": "Bendat Basketball Centre",
+      "time": "15:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_a3886602.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "f426b397",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Cockburn Cougars Open Women",
+      "awayTeam": "East Perth Eagles Open Women",
+      "venue": "Wally Hagan Basketball Stadium",
+      "time": "11:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_f426b397.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "d25f7c85",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Eastern Suns Open Women",
+      "awayTeam": "Willetton Tigers Open Women",
+      "venue": "Ray Owen Sports Centre",
+      "time": "13:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_d25f7c85.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "27b84d45",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Warwick Senators Open Women",
+      "awayTeam": "Joondalup Wolves Open Women",
+      "venue": "Warwick Stadium",
+      "time": "14:30:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_27b84d45.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "b5d8d8e6",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Finals Round 1",
+      "homeTeam": "Perry Lakes Hawks Open Women",
+      "awayTeam": "Lakeside Lightning Open Women",
+      "venue": "Bendat Basketball Centre",
+      "time": "15:00:00",
+      "date": "2026-07-12",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_b5d8d8e6.json",
       "hasAIBriefing": true
     }
   ]
