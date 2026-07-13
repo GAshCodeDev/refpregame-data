@@ -16,16 +16,7 @@
     {
       "round": "Round 11",
       "roundNumber": 11,
-      "opponent": "Mandurah Magic Open Men",
-      "scored": 119,
-      "conceded": 79,
-      "won": true,
-      "margin": 40,
-      "gameId": "6ed555a4"
-    },
-    {
-      "round": "Round 11",
-      "roundNumber": 11,
+      "roundIndex": 10,
       "opponent": "East Perth Eagles Open Men",
       "scored": 93,
       "conceded": 90,
@@ -36,6 +27,7 @@
     {
       "round": "Round 12",
       "roundNumber": 12,
+      "roundIndex": 11,
       "opponent": "Willetton Tigers Open Men",
       "scored": 66,
       "conceded": 64,
@@ -46,6 +38,7 @@
     {
       "round": "Round 13",
       "roundNumber": 13,
+      "roundIndex": 12,
       "opponent": "Hills Raiders Open Men",
       "scored": 95,
       "conceded": 59,
@@ -56,28 +49,31 @@
     {
       "round": "Round 14",
       "roundNumber": 14,
+      "roundIndex": 13,
       "opponent": "Joondalup Wolves Open Men",
       "scored": 141,
       "conceded": 105,
       "won": true,
       "margin": 36,
       "gameId": "54704bc2"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 15,
+      "opponent": "Perry Lakes Hawks Open Men",
+      "scored": 91,
+      "conceded": 86,
+      "won": true,
+      "margin": 5,
+      "gameId": "13c7d8df"
     }
   ],
   "awayForm": [
     {
-      "round": "Round 11",
-      "roundNumber": 11,
-      "opponent": "Goldfields Giants Open Men",
-      "scored": 108,
-      "conceded": 63,
-      "won": true,
-      "margin": 45,
-      "gameId": "8c385bc8"
-    },
-    {
       "round": "Round 12",
       "roundNumber": 12,
+      "roundIndex": 11,
       "opponent": "Hills Raiders Open Men",
       "scored": 88,
       "conceded": 82,
@@ -88,6 +84,7 @@
     {
       "round": "Round 13",
       "roundNumber": 13,
+      "roundIndex": 12,
       "opponent": "Rockingham Flames Open Men",
       "scored": 91,
       "conceded": 85,
@@ -98,6 +95,7 @@
     {
       "round": "Round 14",
       "roundNumber": 14,
+      "roundIndex": 13,
       "opponent": "Mandurah Magic Open Men",
       "scored": 87,
       "conceded": 58,
@@ -108,12 +106,24 @@
     {
       "round": "Round 15",
       "roundNumber": 15,
+      "roundIndex": 14,
       "opponent": "East Perth Eagles Open Men",
       "scored": 78,
       "conceded": 92,
       "won": false,
       "margin": -14,
       "gameId": "14ff8b28"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 15,
+      "opponent": "Joondalup Wolves Open Men",
+      "scored": 78,
+      "conceded": 55,
+      "won": true,
+      "margin": 23,
+      "gameId": "72b83a44"
     }
   ],
   "homeKeyPlayers": [
@@ -171,7 +181,7 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 13,
       "lowSampleSize": false,
-      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.5/g season); scoring less lately (10.7/g in last 3 vs 14.6/g season)",
+      "recentTrend": null,
       "tags": [
         "Frequent free throws"
       ]
@@ -190,7 +200,7 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 15,
       "lowSampleSize": false,
-      "recentTrend": "fouling less lately (0.3/g in last 3 vs 0.9/g season); scoring more lately (18.3/g in last 3 vs 14.2/g season)",
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 0.9/g season); scoring more lately (20.7/g in last 3 vs 14.2/g season)",
       "tags": [
         "Outside threat",
         "Trending \u2014 scoring more than season average"
@@ -210,8 +220,10 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 15,
       "lowSampleSize": false,
-      "recentTrend": null,
-      "tags": []
+      "recentTrend": "fouling more lately (4.0/g in last 3 vs 2.9/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
     }
   ],
   "awayKeyPlayers": [
@@ -272,10 +284,9 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 11,
       "lowSampleSize": false,
-      "recentTrend": "scoring more lately (21.0/g in last 3 vs 16.4/g season)",
+      "recentTrend": null,
       "tags": [
-        "Outside threat",
-        "Trending \u2014 scoring more than season average"
+        "Outside threat"
       ]
     },
     {
@@ -311,7 +322,7 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 13,
       "lowSampleSize": false,
-      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.6/g season)",
+      "recentTrend": null,
       "tags": []
     }
   ],
@@ -584,7 +595,7 @@
       "competitionPoints": 3
     }
   ],
-  "generatedAt": "2026-07-14T07:03:36.166274",
+  "generatedAt": "2026-07-14T07:26:18.842671",
   "dataComplete": true,
-  "aiBriefing": "This is a semi-final between first-placed Lakeside (12-2) and fifth-placed Cockburn (9-4). Lakeside arrives with five straight wins averaging 103 points, including a 141-105 blowout last round, but Cockburn won their only meeting this season 72-64 in Round 7. Cockburn comes off a 78-92 loss to East Perth but was otherwise strong. Expect high intensity given the knockout stakes and Lakeside's revenge motivation. Lakeside's recent form suggests they'll push tempo hard \u2013 they've scored 90-plus in four of their last five.\n\nWatch Isaiah Coleman (#30) closely \u2013 he commits 2.9 fouls per game for Lakeside, their highest rate among regulars. Jack Pitt (#11) sits at 2.8 fouls per game for Cockburn and Jonah Palelei (#12) at 2.6, though Palelei has improved to 1.7 in his last three. Trey Crawford (#34) averages 2.5 fouls but has dropped to 1.7 recently. Matt Clifford (#10) and Riley Eves (#13) for Cockburn both show 3.0 fouls per game, but both have only one game logged this season so treat cautiously. Justin Bennett (#26) is trending hot offensively at 18.3 points in his last three games versus 14.2 for the season, while Austin Crowe-St Jack (#6) is surging at 21.0 points in his last three against a 16.4 season average.\n\nThe playoff pressure and Lakeside's likely uptempo style could create foul trouble quickly, particularly for Coleman, Pitt, and Palelei who all carry season rates near or above 2.5. No technical or unsportsmanlike foul history flagged in the data, but the revenge element and semi-final stakes warrant vigilance on dead-ball confrontations and bench reactions if the game gets physical or lopsided either direction."
+  "aiBriefing": "This is a semi-final between Lakeside Lightning (1st, 12-2) and Cockburn Cougars (5th, 9-4). Lakeside arrives on a five-game winning streak averaging 97 points, but Cockburn won their only regular season meeting 72-64 in Round 7 and just held Joondalup to 55 points in the first final. Lakeside's recent form shows scoring variance from 66 to 141 points with three tight finishes in their last five, while Cockburn has been more controlled at 84 points per game. Expect high intensity given the stakes and Lakeside's home advantage after dropping the season matchup.\n\nIsaiah Coleman (#30, Lakeside) is your primary foul concern at 2.9 fouls per game season-long but spiking to 4.0 per game in his last three outings. Trey Crawford (#34, Lakeside) sits at 2.5 fouls per game and combines with Coleman to anchor Lakeside's interior. Jack Pitt (#11, Cockburn) averages 2.8 fouls and Jonah Palelei (#12) carries 2.6 per game, so Cockburn's frontcourt also plays physically. Tyson Kelly (#2, Lakeside) and Justin Bennett (#26) both trend cleaner lately but drive to the line frequently at 3.2 and 1.4 free throws per game respectively. Matt Clifford (#10) and Riley Eves (#13) for Cockburn show elevated numbers but only have one game of data\u2014monitor closely if they play significant minutes.\n\nNo specific technical or unsportsmanlike foul history flagged in the data, but the playoff context and Cockburn's proven ability to frustrate Lakeside's offense create flashpoint risk. Watch for frustration if Lakeside struggles to score as they did in the 64-point Round 7 loss or in their 66-64 squeaker against Willetton. Coleman's recent foul spike demands attention\u2014if he picks up early fouls, Lakeside's interior defense changes and tensions may rise. Manage post play and transition contact tightly given both teams' physical profiles in the key."
 }

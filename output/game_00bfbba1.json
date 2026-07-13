@@ -14,18 +14,9 @@
   "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-men/game-centre/00bfbba1",
   "homeForm": [
     {
-      "round": "Round 12",
-      "roundNumber": 12,
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 64,
-      "conceded": 66,
-      "won": false,
-      "margin": -2,
-      "gameId": "e8b590e9"
-    },
-    {
       "round": "Round 13",
       "roundNumber": 13,
+      "roundIndex": 12,
       "opponent": "Perry Lakes Hawks Open Men",
       "scored": 0,
       "conceded": 20,
@@ -36,6 +27,7 @@
     {
       "round": "Round 14",
       "roundNumber": 14,
+      "roundIndex": 13,
       "opponent": "South West Slammers Open Men",
       "scored": 20,
       "conceded": 0,
@@ -46,6 +38,7 @@
     {
       "round": "Round 15",
       "roundNumber": 15,
+      "roundIndex": 14,
       "opponent": "Hills Raiders Open Men",
       "scored": 81,
       "conceded": 83,
@@ -56,28 +49,31 @@
     {
       "round": "Round 15",
       "roundNumber": 15,
+      "roundIndex": 14,
       "opponent": "Geraldton Buccaneers Open Men",
       "scored": 97,
       "conceded": 92,
       "won": true,
       "margin": 5,
       "gameId": "7fb188ce"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 15,
+      "opponent": "Eastern Suns Open Men",
+      "scored": 98,
+      "conceded": 95,
+      "won": true,
+      "margin": 3,
+      "gameId": "a3886602"
     }
   ],
   "awayForm": [
     {
-      "round": "Round 11",
-      "roundNumber": 11,
-      "opponent": "Lakeside Lightning Open Men",
-      "scored": 90,
-      "conceded": 93,
-      "won": false,
-      "margin": -3,
-      "gameId": "04e4eb43"
-    },
-    {
       "round": "Round 12",
       "roundNumber": 12,
+      "roundIndex": 11,
       "opponent": "South West Slammers Open Men",
       "scored": 117,
       "conceded": 113,
@@ -88,6 +84,7 @@
     {
       "round": "Round 13",
       "roundNumber": 13,
+      "roundIndex": 12,
       "opponent": "Warwick Senators Open Men",
       "scored": 91,
       "conceded": 102,
@@ -98,6 +95,7 @@
     {
       "round": "Round 14",
       "roundNumber": 14,
+      "roundIndex": 13,
       "opponent": "Goldfields Giants Open Men",
       "scored": 103,
       "conceded": 76,
@@ -108,12 +106,24 @@
     {
       "round": "Round 15",
       "roundNumber": 15,
+      "roundIndex": 14,
       "opponent": "Cockburn Cougars Open Men",
       "scored": 92,
       "conceded": 78,
       "won": true,
       "margin": 14,
       "gameId": "14ff8b28"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 15,
+      "opponent": "Warwick Senators Open Men",
+      "scored": 107,
+      "conceded": 84,
+      "won": true,
+      "margin": 23,
+      "gameId": "6db7c1ec"
     }
   ],
   "homeKeyPlayers": [
@@ -189,7 +199,7 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 10,
       "lowSampleSize": false,
-      "recentTrend": "scoring more lately (25.5/g in last 2 vs 16.9/g season)",
+      "recentTrend": "scoring more lately (25.0/g in last 3 vs 16.9/g season)",
       "tags": [
         "Outside threat",
         "Frequent free throws",
@@ -229,14 +239,14 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 14,
       "lowSampleSize": false,
-      "recentTrend": "scoring less lately (13.3/g in last 3 vs 18.2/g season)",
+      "recentTrend": null,
       "tags": [
         "Frequent free throws"
       ]
     },
     {
       "name": "John Aryang",
-      "number": "25",
+      "number": "3",
       "playerId": "ca50a1ea-55e3-4006-96df-a8793a8aef02",
       "profileUrl": "https://www.playhq.com/public/profile/ca50a1ea-55e3-4006-96df-a8793a8aef02/statistics?tenant=basketball-wa",
       "avgPoints": 17.2,
@@ -248,7 +258,7 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 5,
       "lowSampleSize": false,
-      "recentTrend": null,
+      "recentTrend": "fouling less lately (1.0/g in last 1 vs 1.8/g season); scoring less lately (6.0/g in last 1 vs 17.2/g season)",
       "tags": [
         "Frequent free throws"
       ]
@@ -267,10 +277,10 @@
       "disqualifyingFouls": 0,
       "gamesAnalysed": 11,
       "lowSampleSize": false,
-      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.3/g season)",
+      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.3/g season); scoring more lately (20.3/g in last 3 vs 15.1/g season)",
       "tags": [
         "Frequent free throws",
-        "Trending \u2014 fouling more than season average"
+        "Trending \u2014 scoring more than season average"
       ]
     },
     {
@@ -283,15 +293,12 @@
       "avgFreeThrows": 2.2,
       "avgFouls": 2.8,
       "technicalFouls": 0,
-      "unsportsmanlikeFouls": 1,
+      "unsportsmanlikeFouls": 0,
       "disqualifyingFouls": 0,
       "gamesAnalysed": 12,
       "lowSampleSize": false,
-      "recentTrend": "scoring more lately (19.0/g in last 1 vs 14.5/g season)",
-      "tags": [
-        "Picked up an unsportsmanlike foul recently",
-        "Trending \u2014 scoring more than season average"
-      ]
+      "recentTrend": null,
+      "tags": []
     },
     {
       "name": "Roman Hube",
@@ -570,7 +577,7 @@
       "competitionPoints": 3
     }
   ],
-  "generatedAt": "2026-07-14T07:07:34.191962",
+  "generatedAt": "2026-07-14T07:29:51.251746",
   "dataComplete": true,
-  "aiBriefing": "This is a semi-final between third-placed Willetton (10-3) and seventh-placed East Perth (9-5), so elimination pressure is high. Willetton's recent form is patchy at 2-3 with two forfeits recorded and narrow losses, while East Perth arrives with momentum at 3-2 and averaging 99 points per game in that stretch. No head-to-head history this season means you'll be establishing the physical tone from the opening whistle. Expect East Perth to push tempo given their recent scoring output, while Willetton will rely heavily on their top scorers to compensate for inconsistent recent performances.\n\nWatch Aaron Gashaw (13) closely\u2014he's Willetton's leading scorer at 21.9 per game with 5.8 free throws attempted per game and picks up 2.8 fouls per game, so he's both getting to the line frequently and collecting fouls himself. Timothy Ibukunoluwa (12) adds 20.9 points with similar foul rate at 2.5 per game. Channing Olowoyo (4) is surging, averaging 25.5 points over his last two games compared to his 16.9 season average. For East Perth, Mitch Benger (2) sits at 2.8 fouls per game and has one recent unsportsmanlike foul on his record\u2014he's also hot, scoring 19.0 in his last outing. Kai Kabugua (9) is trending up on fouls at 3.0 per game in his last three compared to 2.3 for the season, putting him at risk of foul trouble.\n\nPrimary flashpoint is Benger's recent unsportsmanlike foul combined with his high foul rate\u2014watch for escalation if he gets into early trouble or feels pressure on defense. Both teams have multiple key players carrying 2.5-plus fouls per game, so foul management will be critical in a knockout game where rotation depth matters. The elimination stakes and Willetton's home court in a must-win scenario create conditions for heightened emotion\u2014be alert for frustration fouls and bench reactions if the game gets tight late."
+  "aiBriefing": "This is a semi-final between third-placed Willetton (10-3, 117.4%) hosting seventh-placed East Perth (9-5, 114.4%). East Perth arrives in strong form with four wins from five including a 23-point finals thrashing of Warwick, averaging 102 points per game in that stretch. Willetton has been inconsistent, going 3-2 with three consecutive narrow results including a finals Round 1 three-point escape against Eastern Suns. With no prior meetings this season and a finals berth on the line, expect high intensity and pressure throughout.\n\nAaron Gashaw (#13, Willetton) leads at 21.9 points per game with a high free throw rate of 5.8 attempts per game, while teammate Timothy Ibukunoluwa (#12) adds 20.9 points at 2.9 free throws per game. Watch Channing Olowoyo (#4, Willetton) who is trending hot at 25.0 points per game over his last three games and gets to the line 3.0 times per contest. For East Perth, Emmanuel Dech (#24) drives their attack at 18.2 points and 3.9 free throw attempts per game, with Kai Kabugua (#9) surging to 20.3 points per game in his last three while reducing his fouling to 1.7 per game in that span. Mitch Benger (#2, East Perth) carries the highest foul rate on the visitors at 2.8 per game.\n\nFoul management will be critical with multiple players in trouble range. Gashaw fouls at 2.8 per game, Andrew Black (#6, Willetton) at 3.0 though on limited sample, and Benger at 2.8 for East Perth. Willetton's top scorers Gashaw and Ibukunoluwa combine for 8.7 free throw attempts per game, so legitimate versus marginal contact will need sharp distinction in transition and drives. No technical or unsportsmanlike foul history is flagged in the data, but semi-final stakes and East Perth's recent dominance meeting Willetton's home advantage creates natural flashpoint risk if the game tightens late. Stay alert to escalation around physical paint play and screen setting given the foul rates across both rosters."
 }
