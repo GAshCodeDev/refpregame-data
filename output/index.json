@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:07:48.365190",
+  "generatedAt": "2026-07-14T07:16:36.826877",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -287,6 +287,32 @@
       "date": "2026-07-19",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_00bfbba1.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "cc6a645c",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Semi Finals",
+      "homeTeam": "Warwick Senators Open Women",
+      "awayTeam": "Lakeside Lightning Open Women",
+      "venue": "Warwick Stadium",
+      "time": "10:00:00",
+      "date": "2026-07-19",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_cc6a645c.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "3a5b6e7f",
+      "gradeName": "TCD Open Championship Women",
+      "roundName": "Semi Finals",
+      "homeTeam": "Cockburn Cougars Open Women",
+      "awayTeam": "Willetton Tigers Open Women",
+      "venue": "Wally Hagan Basketball Stadium",
+      "time": "13:00:00",
+      "date": "2026-07-19",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_3a5b6e7f.json",
       "hasAIBriefing": true
     }
   ]

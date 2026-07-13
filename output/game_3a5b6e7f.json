@@ -1,0 +1,564 @@
+{
+  "gameId": "3a5b6e7f",
+  "gradeName": "TCD Open Championship Women",
+  "roundName": "Semi Finals",
+  "homeTeam": "Cockburn Cougars Open Women",
+  "awayTeam": "Willetton Tigers Open Women",
+  "homeTeamId": "e1b09dc1",
+  "awayTeamId": "4711ee17",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "13:00:00",
+  "date": "2026-07-19",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/tcd-open-championship-women/game-centre/3a5b6e7f",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "opponent": "Goldfields Giants Open Women",
+      "scored": 111,
+      "conceded": 37,
+      "won": true,
+      "margin": 74,
+      "gameId": "32b0240d"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Hills Raiders Open Women",
+      "scored": 89,
+      "conceded": 57,
+      "won": true,
+      "margin": 32,
+      "gameId": "be1254b3"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Rockingham Flames Open Women",
+      "scored": 103,
+      "conceded": 53,
+      "won": true,
+      "margin": 50,
+      "gameId": "f01844fb"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "Mandurah Magic Open Women",
+      "scored": 82,
+      "conceded": 71,
+      "won": true,
+      "margin": 11,
+      "gameId": "bb765f8c"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "opponent": "East Perth Eagles Open Women",
+      "scored": 92,
+      "conceded": 54,
+      "won": true,
+      "margin": 38,
+      "gameId": "b9d83c1d"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "opponent": "Joondalup Wolves Open Women",
+      "scored": 66,
+      "conceded": 94,
+      "won": false,
+      "margin": -28,
+      "gameId": "5c2fc9de"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "opponent": "Lakeside Lightning Open Women",
+      "scored": 62,
+      "conceded": 57,
+      "won": true,
+      "margin": 5,
+      "gameId": "f7c15f10"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "opponent": "Perry Lakes Hawks Open Women",
+      "scored": 59,
+      "conceded": 86,
+      "won": false,
+      "margin": -27,
+      "gameId": "ea02ccbb"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "opponent": "South West Slammers Open Women",
+      "scored": 74,
+      "conceded": 53,
+      "won": true,
+      "margin": 21,
+      "gameId": "7769d45d"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "opponent": "Hills Raiders Open Women",
+      "scored": 76,
+      "conceded": 59,
+      "won": true,
+      "margin": 17,
+      "gameId": "852e0cf3"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Jaya Scafidi",
+      "number": "9",
+      "playerId": "a2389f71-f42b-4a3a-a347-3658c20fce21",
+      "profileUrl": "https://www.playhq.com/public/profile/a2389f71-f42b-4a3a-a347-3658c20fce21/statistics?tenant=basketball-wa",
+      "avgPoints": 33.0,
+      "avgThrees": 6.0,
+      "avgFreeThrows": 5.0,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Ayla Pizzuto",
+      "number": "6",
+      "playerId": "6f0bb943-ef5b-470f-9601-84051e668a74",
+      "profileUrl": "https://www.playhq.com/public/profile/6f0bb943-ef5b-470f-9601-84051e668a74/statistics?tenant=basketball-wa",
+      "avgPoints": 17.0,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Alira Fotu",
+      "number": "7",
+      "playerId": "2da7c1a3-5672-43de-a741-7a1faed59919",
+      "profileUrl": "https://www.playhq.com/public/profile/2da7c1a3-5672-43de-a741-7a1faed59919/statistics?tenant=basketball-wa",
+      "avgPoints": 15.7,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 0.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 0.7/g season)",
+      "tags": []
+    },
+    {
+      "name": "Hannah Summers",
+      "number": "9",
+      "playerId": "f3aad723-b7c9-4ef3-9ce8-95d6bf8d61da",
+      "profileUrl": "https://www.playhq.com/public/profile/f3aad723-b7c9-4ef3-9ce8-95d6bf8d61da/statistics?tenant=basketball-wa",
+      "avgPoints": 15.3,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 2.2/g season); scoring more lately (19.3/g in last 3 vs 15.3/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Lily Gammidge",
+      "number": "14",
+      "playerId": "c29cb9c2-590d-4e88-90d1-d73f34608ee5",
+      "profileUrl": "https://www.playhq.com/public/profile/c29cb9c2-590d-4e88-90d1-d73f34608ee5/statistics?tenant=basketball-wa",
+      "avgPoints": 13.7,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 0.9/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Courtney Stothard",
+      "number": "9",
+      "playerId": "07c101dc-3f96-49f2-94bf-4c82daaa5083",
+      "profileUrl": "https://www.playhq.com/public/profile/07c101dc-3f96-49f2-94bf-4c82daaa5083/statistics?tenant=basketball-wa",
+      "avgPoints": 15.6,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (10.5/g in last 2 vs 15.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Ashlin Ramsay",
+      "number": "10",
+      "playerId": "790fb683-9fa5-4746-a8a7-fb72db1e8d71",
+      "profileUrl": "https://www.playhq.com/public/profile/790fb683-9fa5-4746-a8a7-fb72db1e8d71/statistics?tenant=basketball-wa",
+      "avgPoints": 12.9,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Ella Murdoch",
+      "number": "11",
+      "playerId": "164aea26-8304-4d18-bed2-2d22f0c6dd65",
+      "profileUrl": "https://www.playhq.com/public/profile/164aea26-8304-4d18-bed2-2d22f0c6dd65/statistics?tenant=basketball-wa",
+      "avgPoints": 10.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Abigail Durdin",
+      "number": "6",
+      "playerId": "02c97237-b835-4c3a-8593-91d41d6072d4",
+      "profileUrl": "https://www.playhq.com/public/profile/02c97237-b835-4c3a-8593-91d41d6072d4/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jasmin Clark",
+      "number": "12",
+      "playerId": "b6bf766b-a905-4be6-a7f7-bafc12b46e03",
+      "profileUrl": "https://www.playhq.com/public/profile/b6bf766b-a905-4be6-a7f7-bafc12b46e03/statistics?tenant=basketball-wa",
+      "avgPoints": 9.4,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 9",
+      "homeTeam": "Cockburn Cougars Open Women",
+      "awayTeam": "Willetton Tigers Open Women",
+      "homeScore": 78,
+      "awayScore": 55,
+      "homeWon": true,
+      "margin": 23
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "e1b09dc1",
+      "name": "Cockburn Cougars Open Women"
+    },
+    "played": 13,
+    "won": 13,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 1057,
+    "pointsAgainst": 668,
+    "percentage": 158.23,
+    "competitionPoints": 26
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "4711ee17",
+      "name": "Willetton Tigers Open Women"
+    },
+    "played": 13,
+    "won": 8,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 945,
+    "pointsAgainst": 854,
+    "percentage": 110.66,
+    "competitionPoints": 16
+  },
+  "totalTeams": 14,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "e1b09dc1",
+        "name": "Cockburn Cougars Open Women"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1057,
+      "pointsAgainst": 668,
+      "percentage": 158.23,
+      "competitionPoints": 26
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "c0e9962c",
+        "name": "Warwick Senators Open Women"
+      },
+      "played": 13,
+      "won": 12,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1022,
+      "pointsAgainst": 721,
+      "percentage": 141.75,
+      "competitionPoints": 24
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "c2a9f291",
+        "name": "Perry Lakes Hawks Open Women"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 979,
+      "pointsAgainst": 873,
+      "percentage": 112.14,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "e3c6519d",
+        "name": "Eastern Suns Open Women"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 910,
+      "pointsAgainst": 788,
+      "percentage": 115.48,
+      "competitionPoints": 18
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4711ee17",
+        "name": "Willetton Tigers Open Women"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 945,
+      "pointsAgainst": 854,
+      "percentage": 110.66,
+      "competitionPoints": 16
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "d1e95111",
+        "name": "Lakeside Lightning Open Women"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1031,
+      "pointsAgainst": 846,
+      "percentage": 121.87,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "6510442d",
+        "name": "Joondalup Wolves Open Women"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 998,
+      "pointsAgainst": 948,
+      "percentage": 105.27,
+      "competitionPoints": 14
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "9412b6df",
+        "name": "East Perth Eagles Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 932,
+      "pointsAgainst": 871,
+      "percentage": 107,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "df0576c9",
+        "name": "Mandurah Magic Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 911,
+      "pointsAgainst": 948,
+      "percentage": 96.1,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "61d2809b",
+        "name": "Perth Redbacks Open Women"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 887,
+      "percentage": 104.4,
+      "competitionPoints": 12
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "f59c210e",
+        "name": "Rockingham Flames Open Women"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 762,
+      "pointsAgainst": 1025,
+      "percentage": 74.34,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "a3ba0f8c",
+        "name": "Hills Raiders Open Women"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 878,
+      "pointsAgainst": 994,
+      "percentage": 88.33,
+      "competitionPoints": 6
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "5fae0642",
+        "name": "Goldfields Giants Open Women"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 713,
+      "pointsAgainst": 1270,
+      "percentage": 56.14,
+      "competitionPoints": 2
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": "0c03bb8b",
+        "name": "South West Slammers Open Women"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 589,
+      "pointsAgainst": 960,
+      "percentage": 61.35,
+      "competitionPoints": 2
+    }
+  ],
+  "generatedAt": "2026-07-14T07:16:23.195314",
+  "dataComplete": true,
+  "aiBriefing": "This is a semi-final between the undefeated competition leaders Cockburn (13-0, 158.2%) and fifth-placed Willetton (8-5, 110.7%). Cockburn have been dominant all season, averaging 95-54 in their last five games and winning the regular season meeting 78-55. Willetton arrive inconsistent with a 3-2 recent record and a modest 67-70 average. Expect Cockburn to control tempo and pace while Willetton will need to slow the game and limit transition opportunities. The margin of quality suggests Cockburn will dictate style, but semi-final pressure can tighten any game.\n\nOn player management, watch Willetton's Abigail Durdin (#6) closely with 3.0 fouls per game, the highest rate among key players on either side. Ella Murdoch (#11) averages 2.0 fouls per game and attacks the basket heavily at 3.3 free throws per game despite no three-point attempts. For Cockburn, Ayla Pizzuto (#6) sits at 2.5 fouls per game and Hannah Summers (#9) at 2.2, though Summers has reduced that to 1.0 per game in her last three. Cockburn's Jaya Scafidi (#9) has a single-game sample of 33 points including 6 threes and 5 free throws but treat that with caution given limited data. Willetton's Jasmin Clark (#12) commits 2.1 fouls per game across 13 appearances.\n\nNo technical or unsportsmanlike foul history is flagged in the data. The primary flashpoint risk is frustration from Willetton if Cockburn establish an early lead similar to their previous 23-point win. Monitor Durdin's foul accumulation early as her 3.0 per game rate could force Willetton into difficult rotations. The quality gap and semi-final stakes create potential for chippy play if the margin blows out, so stay alert to retaliation and unnecessary contact in transition when the game's outcome becomes clear."
+}
