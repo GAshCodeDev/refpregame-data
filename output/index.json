@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:46:13.565442",
+  "generatedAt": "2026-07-14T07:07:48.365190",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -261,6 +261,32 @@
       "date": "2026-07-12",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_b5d8d8e6.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "d08e3a71",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Semi Finals",
+      "homeTeam": "Lakeside Lightning Open Men",
+      "awayTeam": "Cockburn Cougars Open Men",
+      "venue": "Lakeside Recreation Centre",
+      "time": "15:00:00",
+      "date": "2026-07-19",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_d08e3a71.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "00bfbba1",
+      "gradeName": "TCD Open Championship Men",
+      "roundName": "Semi Finals",
+      "homeTeam": "Willetton Tigers Open Men",
+      "awayTeam": "East Perth Eagles Open Men",
+      "venue": "Willetton Basketball Stadium",
+      "time": "16:00:00",
+      "date": "2026-07-19",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_00bfbba1.json",
       "hasAIBriefing": true
     }
   ]
