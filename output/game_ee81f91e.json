@@ -1,0 +1,556 @@
+{
+  "gameId": "ee81f91e",
+  "gradeName": "U21 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Warwick Senators U21 Girls",
+  "awayTeam": "Binar Maali U21 Girls",
+  "homeTeamId": "477542e5",
+  "awayTeamId": "6f1067f2",
+  "venue": "Warwick Stadium",
+  "time": "13:15:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u21-girls-championship/game-centre/ee81f91e",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Perry Lakes Hawks U21 Girls 1",
+      "scored": 54,
+      "conceded": 58,
+      "won": false,
+      "margin": -4,
+      "gameId": "6a60268c"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Joondalup Wolves U21 Girls",
+      "scored": 79,
+      "conceded": 27,
+      "won": true,
+      "margin": 52,
+      "gameId": "c0395426"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Mandurah Magic U21 Girls",
+      "scored": 90,
+      "conceded": 37,
+      "won": true,
+      "margin": 53,
+      "gameId": "7ba9ff67"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Lakeside Lightning U21 Girls",
+      "scored": 75,
+      "conceded": 55,
+      "won": true,
+      "margin": 20,
+      "gameId": "f23abced"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "East Perth Eagles U21 Girls",
+      "scored": 113,
+      "conceded": 36,
+      "won": true,
+      "margin": 77,
+      "gameId": "eb52eb44"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 6",
+      "roundNumber": 6,
+      "roundIndex": 5,
+      "opponent": "Joondalup Wolves U21 Girls",
+      "scored": 58,
+      "conceded": 57,
+      "won": true,
+      "margin": 1,
+      "gameId": "c7638227"
+    },
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Mandurah Magic U21 Girls",
+      "scored": 56,
+      "conceded": 54,
+      "won": true,
+      "margin": 2,
+      "gameId": "5e26f7ae"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Lakeside Lightning U21 Girls",
+      "scored": 63,
+      "conceded": 83,
+      "won": false,
+      "margin": -20,
+      "gameId": "c78c41fb"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "East Perth Eagles U21 Girls",
+      "scored": 72,
+      "conceded": 56,
+      "won": true,
+      "margin": 16,
+      "gameId": "72e40d49"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perry Lakes Hawks U21 Girls 2",
+      "scored": 60,
+      "conceded": 51,
+      "won": true,
+      "margin": 9,
+      "gameId": "2277878f"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Nikolina Ivaneza",
+      "number": "10",
+      "playerId": "8a44bab7-f96d-4583-b92e-2401874f061d",
+      "profileUrl": "https://www.playhq.com/public/profile/8a44bab7-f96d-4583-b92e-2401874f061d/statistics?tenant=basketball-wa",
+      "avgPoints": 12.0,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 0.5/g season)",
+      "tags": []
+    },
+    {
+      "name": "Dariana Dweh",
+      "number": "9",
+      "playerId": "b2fd5233-d6e5-4096-ae1c-2b29fe594aa6",
+      "profileUrl": "https://www.playhq.com/public/profile/b2fd5233-d6e5-4096-ae1c-2b29fe594aa6/statistics?tenant=basketball-wa",
+      "avgPoints": 11.4,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.7/g season); scoring more lately (17.3/g in last 3 vs 11.4/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Cindi Williams",
+      "number": "14",
+      "playerId": "750a84a9-3e9f-4c0d-9f6b-3b2e4f05ab88",
+      "profileUrl": "https://www.playhq.com/public/profile/750a84a9-3e9f-4c0d-9f6b-3b2e4f05ab88/statistics?tenant=basketball-wa",
+      "avgPoints": 10.9,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Esther Throns",
+      "number": "5",
+      "playerId": "91252fd4-d04e-42f3-baaa-13ea895bfb78",
+      "profileUrl": "https://www.playhq.com/public/profile/91252fd4-d04e-42f3-baaa-13ea895bfb78/statistics?tenant=basketball-wa",
+      "avgPoints": 10.7,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 2.0/g season); scoring more lately (14.0/g in last 3 vs 10.7/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Gabriella Divjakoski",
+      "number": "8",
+      "playerId": "ff14e63e-93f0-4927-8edb-dcfdb8394c29",
+      "profileUrl": "https://www.playhq.com/public/profile/ff14e63e-93f0-4927-8edb-dcfdb8394c29/statistics?tenant=basketball-wa",
+      "avgPoints": 8.7,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.7/g season); scoring more lately (12.0/g in last 3 vs 8.7/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Sienna Cooper",
+      "number": "13",
+      "playerId": "46e7685c-b11b-4aa1-bda9-f735720fe0ca",
+      "profileUrl": "https://www.playhq.com/public/profile/46e7685c-b11b-4aa1-bda9-f735720fe0ca/statistics?tenant=basketball-wa",
+      "avgPoints": 16.7,
+      "avgThrees": 3.7,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 3.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ja'Melia Hill",
+      "number": "9",
+      "playerId": "069e57c7-2a84-4c00-b7f6-784e8f67b60a",
+      "profileUrl": "https://www.playhq.com/public/profile/069e57c7-2a84-4c00-b7f6-784e8f67b60a/statistics?tenant=basketball-wa",
+      "avgPoints": 12.6,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 4.6,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player",
+        "Picked up a technical foul recently"
+      ]
+    },
+    {
+      "name": "Grace Dimer",
+      "number": "5",
+      "playerId": "7843efb8-ce63-4ce2-8583-14b685e34c74",
+      "profileUrl": "https://www.playhq.com/public/profile/7843efb8-ce63-4ce2-8583-14b685e34c74/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.0/g in last 2 vs 0.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Natalia Woods",
+      "number": "4",
+      "playerId": "71de4648-6d88-4c44-a5e9-bc43933d5dae",
+      "profileUrl": "https://www.playhq.com/public/profile/71de4648-6d88-4c44-a5e9-bc43933d5dae/statistics?tenant=basketball-wa",
+      "avgPoints": 9.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Challestina Yarran",
+      "number": "16",
+      "playerId": "138e164c-06ca-482d-abf6-2aae3f679ca7",
+      "profileUrl": "https://www.playhq.com/public/profile/138e164c-06ca-482d-abf6-2aae3f679ca7/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (2.0/g in last 3 vs 2.8/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 2,
+    "team": {
+      "id": "477542e5",
+      "name": "Warwick Senators U21 Girls"
+    },
+    "played": 10,
+    "won": 8,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 771,
+    "pointsAgainst": 523,
+    "percentage": 147.42,
+    "competitionPoints": 40
+  },
+  "awayLadder": {
+    "rank": 10,
+    "team": {
+      "id": "6f1067f2",
+      "name": "Binar Maali U21 Girls"
+    },
+    "played": 10,
+    "won": 4,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 580,
+    "pointsAgainst": 699,
+    "percentage": 82.98,
+    "competitionPoints": 31
+  },
+  "totalTeams": 13,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "a5bc6a35",
+        "name": "Cockburn Cougars U21 Girls"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 835,
+      "pointsAgainst": 652,
+      "percentage": 128.07,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "477542e5",
+        "name": "Warwick Senators U21 Girls"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 771,
+      "pointsAgainst": 523,
+      "percentage": 147.42,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "12b3d448",
+        "name": "Hills Raiders U21 Girls"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 830,
+      "pointsAgainst": 731,
+      "percentage": 113.54,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6999485d",
+        "name": "Perry Lakes Hawks U21 Girls 1"
+      },
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 743,
+      "pointsAgainst": 599,
+      "percentage": 124.04,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "cc0a6359",
+        "name": "Eastern Suns U21 Girls"
+      },
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 768,
+      "pointsAgainst": 675,
+      "percentage": 113.78,
+      "competitionPoints": 37
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "47cb5621",
+        "name": "Lakeside Lightning U21 Girls"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 636,
+      "pointsAgainst": 609,
+      "percentage": 104.43,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d52712c3",
+        "name": "South West Slammers U21 Girls"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 670,
+      "pointsAgainst": 661,
+      "percentage": 101.36,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1f62216",
+        "name": "East Perth Eagles U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 571,
+      "pointsAgainst": 656,
+      "percentage": 87.04,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "c011e1f8",
+        "name": "Perth Redbacks U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 703,
+      "percentage": 98.29,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "6f1067f2",
+        "name": "Binar Maali U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 580,
+      "pointsAgainst": 699,
+      "percentage": 82.98,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "3afc1362",
+        "name": "Joondalup Wolves U21 Girls"
+      },
+      "played": 10,
+      "won": 2,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 537,
+      "pointsAgainst": 689,
+      "percentage": 77.94,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4038b44e",
+        "name": "Mandurah Magic U21 Girls"
+      },
+      "played": 10,
+      "won": 2,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 520,
+      "pointsAgainst": 726,
+      "percentage": 71.63,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "ac40a139",
+        "name": "Perry Lakes Hawks U21 Girls 2"
+      },
+      "played": 10,
+      "won": 0,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 515,
+      "pointsAgainst": 744,
+      "percentage": 69.22,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:41:35.590737",
+  "dataComplete": true,
+  "aiBriefing": "Second-placed Warwick host tenth-placed Binar Maali in what shapes as a mismatch on paper. Warwick have won four straight including a 113-36 demolition of East Perth last round and are averaging 82 points across their last five games. Binar Maali have also won four of their last five but in tight contests averaging just 62 points scored and 60 conceded. No previous meetings this season means no established pattern between these sides.\n\nWarwick spread their scoring widely with five players averaging 8.7 to 12.0 points per game. Ivaneza leads at 12.0 but attempts just 0.3 threes per game and 1.7 free throws, while Dweh (11.4 ppg, 1.9 FT/g) and Gabriella Divjakoski (8.7 ppg, 1.6 FT/g) draw more contact inside. Esther Throns provides outside volume at 1.3 threes per game. Binar Maali rely heavily on perimeter shooting with Sienna Cooper launching 3.7 threes per game while scoring 16.7 points (though only three games played this season). Ja'Melia Hill complements at 12.6 points with 2.2 free throws per game, attacking inside more than Cooper. Grace Dimer adds 9.5 points with moderate three-point volume at 0.8 attempts.\n\nHill fouls at 4.6 per game and carries one recent technical, making her the primary discipline watch. Cooper also fouls at an elevated 3.7 rate in her limited sample. For Warwick, three rotation players are trending upward in recent fouls: Dweh now at 2.3 per game over her last three, Gabriella Divjakoski at 2.3, and Cindi Williams at 2.0. The scoring gulf and Warwick's recent run could create frustration fouls from Binar Maali if the margin blows out early."
+}

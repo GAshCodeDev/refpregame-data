@@ -1,0 +1,482 @@
+{
+  "gameId": "06e6daa9",
+  "gradeName": "U14 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Lakeside Lightning U14 Girls 1",
+  "awayTeam": "Willetton Tigers U14 Girls 1",
+  "homeTeamId": "d8667134",
+  "awayTeamId": "199437c7",
+  "venue": "Lakeside Recreation Centre",
+  "time": "13:45:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u14-girls-championship/game-centre/06e6daa9",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Warwick Senators U14 Girls 1",
+      "scored": 83,
+      "conceded": 40,
+      "won": true,
+      "margin": 43,
+      "gameId": "90d51e75"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Perry Lakes Hawks U14 Girls 1",
+      "scored": 72,
+      "conceded": 61,
+      "won": true,
+      "margin": 11,
+      "gameId": "4f76d68c"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Joondalup Wolves U14 Girls 1",
+      "scored": 48,
+      "conceded": 69,
+      "won": false,
+      "margin": -21,
+      "gameId": "6a0fa230"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Hills Raiders U14 Girls 1",
+      "scored": 67,
+      "conceded": 52,
+      "won": true,
+      "margin": 15,
+      "gameId": "98c95863"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Mandurah Magic U14 Girls Red",
+      "scored": 36,
+      "conceded": 48,
+      "won": false,
+      "margin": -12,
+      "gameId": "537d9b38"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Mandurah Magic U14 Girls Red",
+      "scored": 61,
+      "conceded": 32,
+      "won": true,
+      "margin": 29,
+      "gameId": "5b878941"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Warwick Senators U14 Girls 1",
+      "scored": 72,
+      "conceded": 28,
+      "won": true,
+      "margin": 44,
+      "gameId": "28e0189b"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Cockburn Cougars U14 Girls 1",
+      "scored": 50,
+      "conceded": 37,
+      "won": true,
+      "margin": 13,
+      "gameId": "ad00ee18"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perry Lakes Hawks U14 Girls 1",
+      "scored": 34,
+      "conceded": 58,
+      "won": false,
+      "margin": -24,
+      "gameId": "5bf5a2f6"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Joondalup Wolves U14 Girls 1",
+      "scored": 58,
+      "conceded": 29,
+      "won": true,
+      "margin": 29,
+      "gameId": "66f389b9"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Alyssa Moody",
+      "number": "13",
+      "playerId": "0b54746c-3556-4a67-9518-3d014cb8cb47",
+      "profileUrl": "https://www.playhq.com/public/profile/0b54746c-3556-4a67-9518-3d014cb8cb47/statistics?tenant=basketball-wa",
+      "avgPoints": 25.7,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 5.3,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (18.0/g in last 2 vs 25.7/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Oluwafikayo Owolabi",
+      "number": "14",
+      "playerId": "b8b06c53-78bc-481d-8ea4-1294f7eaa6c6",
+      "profileUrl": "https://www.playhq.com/public/profile/b8b06c53-78bc-481d-8ea4-1294f7eaa6c6/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.3/g in last 3 vs 9.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jiayi Zhou",
+      "number": "8",
+      "playerId": "af5e3f83-918a-4d11-8f54-057cd5469165",
+      "profileUrl": "https://www.playhq.com/public/profile/af5e3f83-918a-4d11-8f54-057cd5469165/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Zoe Pan",
+      "number": "15",
+      "playerId": "29fbae69-66fd-4175-9144-d3ef515dc8b9",
+      "profileUrl": "https://www.playhq.com/public/profile/29fbae69-66fd-4175-9144-d3ef515dc8b9/statistics?tenant=basketball-wa",
+      "avgPoints": 5.2,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 0.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 2 vs 0.7/g season); scoring more lately (9.0/g in last 2 vs 5.2/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Akshi Kohli",
+      "number": "45",
+      "playerId": "5e986dd3-cd78-43a5-aa34-4c2cdb2af8ed",
+      "profileUrl": "https://www.playhq.com/public/profile/5e986dd3-cd78-43a5-aa34-4c2cdb2af8ed/statistics?tenant=basketball-wa",
+      "avgPoints": 4.5,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.9/g season); scoring less lately (3.0/g in last 3 vs 4.5/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Aurelia Little",
+      "number": "14",
+      "playerId": "8ee483a1-19d8-40bd-b6d3-c6be40aeaa7e",
+      "profileUrl": "https://www.playhq.com/public/profile/8ee483a1-19d8-40bd-b6d3-c6be40aeaa7e/statistics?tenant=basketball-wa",
+      "avgPoints": 9.3,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.5/g season); scoring more lately (12.0/g in last 2 vs 9.3/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Mia Exeter",
+      "number": "8",
+      "playerId": "e1d7eb47-5474-4804-85a0-b9a91f6757dd",
+      "profileUrl": "https://www.playhq.com/public/profile/e1d7eb47-5474-4804-85a0-b9a91f6757dd/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (6.0/g in last 2 vs 8.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Holly Green",
+      "number": "6",
+      "playerId": "5393addc-40b2-447d-899a-96eb564c3a6f",
+      "profileUrl": "https://www.playhq.com/public/profile/5393addc-40b2-447d-899a-96eb564c3a6f/statistics?tenant=basketball-wa",
+      "avgPoints": 8.6,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.5/g in last 2 vs 1.0/g season); scoring less lately (4.0/g in last 2 vs 8.6/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Mia Knight",
+      "number": "9",
+      "playerId": "c5ae1d12-2c40-4678-afa5-c79351bf710e",
+      "profileUrl": "https://www.playhq.com/public/profile/c5ae1d12-2c40-4678-afa5-c79351bf710e/statistics?tenant=basketball-wa",
+      "avgPoints": 6.8,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 1.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (10.5/g in last 2 vs 6.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Coby Briant",
+      "number": "7",
+      "playerId": "f3ad9624-1f7d-4575-8a8d-9f04f50aded8",
+      "profileUrl": "https://www.playhq.com/public/profile/f3ad9624-1f7d-4575-8a8d-9f04f50aded8/statistics?tenant=basketball-wa",
+      "avgPoints": 6.7,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Lakeside Lightning U14 Girls 1",
+      "awayTeam": "Willetton Tigers U14 Girls 1",
+      "homeScore": 33,
+      "awayScore": 65,
+      "homeWon": false,
+      "margin": -32
+    }
+  ],
+  "homeLadder": {
+    "rank": 5,
+    "team": {
+      "id": "d8667134",
+      "name": "Lakeside Lightning U14 Girls 1"
+    },
+    "played": 11,
+    "won": 6,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 646,
+    "pointsAgainst": 604,
+    "percentage": 106.95,
+    "competitionPoints": 33
+  },
+  "awayLadder": {
+    "rank": 2,
+    "team": {
+      "id": "199437c7",
+      "name": "Willetton Tigers U14 Girls 1"
+    },
+    "played": 11,
+    "won": 9,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 634,
+    "pointsAgainst": 343,
+    "percentage": 184.84,
+    "competitionPoints": 40
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "53f5f4bd",
+        "name": "Perry Lakes Hawks U14 Girls 1"
+      },
+      "played": 11,
+      "won": 10,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 745,
+      "pointsAgainst": 467,
+      "percentage": 159.53,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "199437c7",
+        "name": "Willetton Tigers U14 Girls 1"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 634,
+      "pointsAgainst": 343,
+      "percentage": 184.84,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dfa85cf3",
+        "name": "Cockburn Cougars U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 523,
+      "pointsAgainst": 497,
+      "percentage": 105.23,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "d52ed134",
+        "name": "Joondalup Wolves U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 487,
+      "pointsAgainst": 487,
+      "percentage": 100,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "d8667134",
+        "name": "Lakeside Lightning U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 646,
+      "pointsAgainst": 604,
+      "percentage": 106.95,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4fb350c4",
+        "name": "Mandurah Magic U14 Girls Red"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 430,
+      "pointsAgainst": 484,
+      "percentage": 88.84,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "dabebe6b",
+        "name": "Warwick Senators U14 Girls 1"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 335,
+      "pointsAgainst": 688,
+      "percentage": 48.69,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "710a7f0f",
+        "name": "Hills Raiders U14 Girls 1"
+      },
+      "played": 11,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 476,
+      "pointsAgainst": 706,
+      "percentage": 67.42,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:59:03.443987",
+  "dataComplete": false,
+  "aiBriefing": "This is a critical ladder game with Willetton sitting second at 9-2 and Lakeside fifth at 6-5. Willetton won the Round 5 meeting comfortably 65-33 and has been dominant lately, averaging 55-37 in their last five with three blowout wins. Lakeside has been inconsistent at 3-2 in the same stretch, scoring just 36 in their most recent loss to Mandurah. Given the ladder gap and previous margin, expect Willetton to control tempo while Lakeside will need to lift intensity to stay competitive, particularly after being held to their lowest output of the season last week.\n\nLakeside relies almost entirely on Alyssa Moody at 25.7 points per game with moderate three-point volume at 1.8 per game and a high free throw rate of 5.3 attempts per game, though she's trending down at just 18.0 points in her last two games. Oluwafikayo Owolabi has emerged as the secondary option, lifting to 15.3 points per game in her last three. Willetton distributes scoring more evenly with no player above 10 points per game. Aurelia Little leads at 9.3 with almost no outside game, Holly Green adds 8.6 with the highest three-point volume at 0.9 per game, and Mia Knight is surging at 10.5 points in her last two outings. Both teams show relatively low free throw rates overall beyond Moody, suggesting limited penetration or contact-drawing.\n\nWatch Oluwafikayo Owolabi at 2.8 fouls per game and Jiayi Zhou at 2.7 fouls per game for Lakeside, both running consistently high foul rates that could create rotation issues if Moody's scoring continues to dip. For Willetton, Holly Green has spiked to 2.5 fouls per game in her last two after sitting at just 1.0 for the season, coinciding with her scoring dropping to 4.0 points in the same stretch. The mismatch will likely see Lakeside force-feeding Moody while Willetton's balanced attack spreads defensive attention, creating potential frustration fouls if Lakeside falls behind early as they did in the first meeting."
+}

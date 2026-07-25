@@ -1,0 +1,481 @@
+{
+  "gameId": "7ff84226",
+  "gradeName": "U14 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Joondalup Wolves U14 Girls 1",
+  "awayTeam": "Warwick Senators U14 Girls 1",
+  "homeTeamId": "d52ed134",
+  "awayTeamId": "dabebe6b",
+  "venue": "Arena Joondalup",
+  "time": "09:00:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u14-girls-championship/game-centre/7ff84226",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Cockburn Cougars U14 Girls 1",
+      "scored": 28,
+      "conceded": 43,
+      "won": false,
+      "margin": -15,
+      "gameId": "9f912304"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Hills Raiders U14 Girls 1",
+      "scored": 73,
+      "conceded": 53,
+      "won": true,
+      "margin": 20,
+      "gameId": "f655ef69"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Lakeside Lightning U14 Girls 1",
+      "scored": 69,
+      "conceded": 48,
+      "won": true,
+      "margin": 21,
+      "gameId": "6a0fa230"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Mandurah Magic U14 Girls Red",
+      "scored": 38,
+      "conceded": 49,
+      "won": false,
+      "margin": -11,
+      "gameId": "e0bf98a2"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Willetton Tigers U14 Girls 1",
+      "scored": 29,
+      "conceded": 58,
+      "won": false,
+      "margin": -29,
+      "gameId": "66f389b9"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Lakeside Lightning U14 Girls 1",
+      "scored": 40,
+      "conceded": 83,
+      "won": false,
+      "margin": -43,
+      "gameId": "90d51e75"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Willetton Tigers U14 Girls 1",
+      "scored": 28,
+      "conceded": 72,
+      "won": false,
+      "margin": -44,
+      "gameId": "28e0189b"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Hills Raiders U14 Girls 1",
+      "scored": 36,
+      "conceded": 54,
+      "won": false,
+      "margin": -18,
+      "gameId": "5db5d7e2"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Cockburn Cougars U14 Girls 1",
+      "scored": 43,
+      "conceded": 67,
+      "won": false,
+      "margin": -24,
+      "gameId": "d831c585"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Perry Lakes Hawks U14 Girls 1",
+      "scored": 33,
+      "conceded": 83,
+      "won": false,
+      "margin": -50,
+      "gameId": "db3e9b39"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Aya Moustafa",
+      "number": "13",
+      "playerId": "6de13185-7b2b-4b69-889c-42ce3d612df8",
+      "profileUrl": "https://www.playhq.com/public/profile/6de13185-7b2b-4b69-889c-42ce3d612df8/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Aisling Fernandez",
+      "number": "9",
+      "playerId": "c1d48012-f744-4671-8664-61dbfed7e645",
+      "profileUrl": "https://www.playhq.com/public/profile/c1d48012-f744-4671-8664-61dbfed7e645/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Azalea Keating",
+      "number": "11",
+      "playerId": "f090aab2-95ea-468a-9ecd-101f4e0004fd",
+      "profileUrl": "https://www.playhq.com/public/profile/f090aab2-95ea-468a-9ecd-101f4e0004fd/statistics?tenant=basketball-wa",
+      "avgPoints": 7.5,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Miyavi Arigore",
+      "number": "10",
+      "playerId": "1e923697-9770-4111-a263-34d18fb495f8",
+      "profileUrl": "https://www.playhq.com/public/profile/1e923697-9770-4111-a263-34d18fb495f8/statistics?tenant=basketball-wa",
+      "avgPoints": 5.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (8.5/g in last 2 vs 5.7/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Alyssa Grosvenor",
+      "number": "12",
+      "playerId": "5a504f98-4335-461e-9754-8ffc5dbd1a92",
+      "profileUrl": "https://www.playhq.com/public/profile/5a504f98-4335-461e-9754-8ffc5dbd1a92/statistics?tenant=basketball-wa",
+      "avgPoints": 5.4,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (5.0/g in last 2 vs 3.1/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Kendall Rogers",
+      "number": "9",
+      "playerId": "36261881-b356-4be0-a411-10e2c0a8c582",
+      "profileUrl": "https://www.playhq.com/public/profile/36261881-b356-4be0-a411-10e2c0a8c582/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 2 vs 1.7/g season); scoring more lately (12.0/g in last 2 vs 8.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Isabel Rowe",
+      "number": "7",
+      "playerId": "d5f3a04d-c344-46f4-af15-ccefe99e04a5",
+      "profileUrl": "https://www.playhq.com/public/profile/d5f3a04d-c344-46f4-af15-ccefe99e04a5/statistics?tenant=basketball-wa",
+      "avgPoints": 5.3,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.5/g season)",
+      "tags": []
+    },
+    {
+      "name": "Ella Hunt",
+      "number": "11",
+      "playerId": "35cbc219-f1f2-49da-8b46-88f74fc1469f",
+      "profileUrl": "https://www.playhq.com/public/profile/35cbc219-f1f2-49da-8b46-88f74fc1469f/statistics?tenant=basketball-wa",
+      "avgPoints": 5.3,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Georgie Rudd",
+      "number": "2",
+      "playerId": "c49586cf-fe1c-42ad-a595-a01d0045e081",
+      "profileUrl": "https://www.playhq.com/public/profile/c49586cf-fe1c-42ad-a595-a01d0045e081/statistics?tenant=basketball-wa",
+      "avgPoints": 4.9,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 0.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 3 vs 0.3/g season); scoring more lately (6.3/g in last 3 vs 4.9/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ellie Eaton",
+      "number": "4",
+      "playerId": "70f57e1f-d47e-42d2-ac67-08091dda7009",
+      "profileUrl": "https://www.playhq.com/public/profile/70f57e1f-d47e-42d2-ac67-08091dda7009/statistics?tenant=basketball-wa",
+      "avgPoints": 4.7,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 3 vs 0.8/g season); scoring more lately (6.3/g in last 3 vs 4.7/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Joondalup Wolves U14 Girls 1",
+      "awayTeam": "Warwick Senators U14 Girls 1",
+      "homeScore": 66,
+      "awayScore": 25,
+      "homeWon": true,
+      "margin": 41
+    }
+  ],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "d52ed134",
+      "name": "Joondalup Wolves U14 Girls 1"
+    },
+    "played": 11,
+    "won": 6,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 487,
+    "pointsAgainst": 487,
+    "percentage": 100,
+    "competitionPoints": 34
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "dabebe6b",
+      "name": "Warwick Senators U14 Girls 1"
+    },
+    "played": 10,
+    "won": 1,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 335,
+    "pointsAgainst": 688,
+    "percentage": 48.69,
+    "competitionPoints": 25
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "53f5f4bd",
+        "name": "Perry Lakes Hawks U14 Girls 1"
+      },
+      "played": 11,
+      "won": 10,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 745,
+      "pointsAgainst": 467,
+      "percentage": 159.53,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "199437c7",
+        "name": "Willetton Tigers U14 Girls 1"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 634,
+      "pointsAgainst": 343,
+      "percentage": 184.84,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dfa85cf3",
+        "name": "Cockburn Cougars U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 523,
+      "pointsAgainst": 497,
+      "percentage": 105.23,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "d52ed134",
+        "name": "Joondalup Wolves U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 487,
+      "pointsAgainst": 487,
+      "percentage": 100,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "d8667134",
+        "name": "Lakeside Lightning U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 646,
+      "pointsAgainst": 604,
+      "percentage": 106.95,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4fb350c4",
+        "name": "Mandurah Magic U14 Girls Red"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 430,
+      "pointsAgainst": 484,
+      "percentage": 88.84,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "dabebe6b",
+        "name": "Warwick Senators U14 Girls 1"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 335,
+      "pointsAgainst": 688,
+      "percentage": 48.69,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "710a7f0f",
+        "name": "Hills Raiders U14 Girls 1"
+      },
+      "played": 11,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 476,
+      "pointsAgainst": 706,
+      "percentage": 67.42,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:52:53.678870",
+  "dataComplete": true,
+  "aiBriefing": "Joondalup sits fourth at 6-5 and will look to steady after three losses in their last five including a heavy 29-point defeat to Willetton last round. Warwick is seventh at 1-9 with five straight losses averaging just 36 points per game, and they were thrashed 66-25 when these teams met in Round 5. The form and ladder gap suggests a controlled game unless Warwick can generate unusual defensive pressure, but Joondalup's recent volatility (scoring 73 and 69 in wins, then 38 and 29 in losses) means the home side may press hard early to avoid another upset.\n\nJoondalup spreads scoring across multiple contributors with Aya Moustafa leading at 11.5 points per game on moderate free throw volume (1.4 attempts per game), supported by Aisling Fernandez at 8.0 and Azalea Keating at 7.5. Both Moustafa and Fernandez average 0.6 three-pointers made per game, indicating some perimeter threat but not a volume shooting profile. Warwick relies heavily on Kendall Rogers at 8.8 points per game with 0.8 threes made, and she's trending up at 12.0 per game over her last two outings. Isabel Rowe adds 5.3 with the highest free throw rate among Warwick's regulars at 1.2 attempts per game, while Ella Hunt, Georgie Rudd, and Ellie Eaton each contribute around 5 points. Neither team shows an elevated free throw rate overall, suggesting limited penetration or post contact in their offensive approaches.\n\nWatch Alyssa Grosvenor closely\u2014she's averaging 3.1 fouls per game across seven appearances and has spiked to 5.0 per game in her last two outings, which will put her in early foul trouble if that pattern continues. No other player shows an unusual foul rate or technical history. Warwick's recent trend shows cleaner play with Rogers, Rowe, Rudd, and Eaton all fouling less in recent games, so discipline shouldn't be a flashpoint unless the mismatch frustration builds late. The scoring gap and Warwick's struggles suggest most contact will come from Joondalup's transition opportunities or Warwick's desperation defense if the margin blows out early."
+}

@@ -1,0 +1,556 @@
+{
+  "gameId": "b0c929a8",
+  "gradeName": "U21 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Perry Lakes Hawks U21 Girls 1",
+  "awayTeam": "Joondalup Wolves U21 Girls",
+  "homeTeamId": "6999485d",
+  "awayTeamId": "3afc1362",
+  "venue": "Bendat Basketball Centre",
+  "time": "13:15:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u21-girls-championship/game-centre/b0c929a8",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Warwick Senators U21 Girls",
+      "scored": 58,
+      "conceded": 54,
+      "won": true,
+      "margin": 4,
+      "gameId": "6a60268c"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "South West Slammers U21 Girls",
+      "scored": 78,
+      "conceded": 60,
+      "won": true,
+      "margin": 18,
+      "gameId": "7dace009"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 65,
+      "conceded": 74,
+      "won": false,
+      "margin": -9,
+      "gameId": "b8da2cb2"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 80,
+      "conceded": 64,
+      "won": true,
+      "margin": 16,
+      "gameId": "b5f34a28"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Hills Raiders U21 Girls",
+      "scored": 88,
+      "conceded": 75,
+      "won": true,
+      "margin": 13,
+      "gameId": "1f089895"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Cockburn Cougars U21 Girls",
+      "scored": 37,
+      "conceded": 80,
+      "won": false,
+      "margin": -43,
+      "gameId": "f5cbf612"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Warwick Senators U21 Girls",
+      "scored": 27,
+      "conceded": 79,
+      "won": false,
+      "margin": -52,
+      "gameId": "c0395426"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "South West Slammers U21 Girls",
+      "scored": 57,
+      "conceded": 82,
+      "won": false,
+      "margin": -25,
+      "gameId": "c898c345"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 55,
+      "conceded": 82,
+      "won": false,
+      "margin": -27,
+      "gameId": "789ee8aa"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 62,
+      "conceded": 82,
+      "won": false,
+      "margin": -20,
+      "gameId": "b19dd73e"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Emie Stein",
+      "number": "17",
+      "playerId": "fb96f9cc-c8d5-420c-a790-d0b963ef7d97",
+      "profileUrl": "https://www.playhq.com/public/profile/fb96f9cc-c8d5-420c-a790-d0b963ef7d97/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (27.0/g in last 2 vs 16.4/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ella Cumming",
+      "number": "8",
+      "playerId": "71ecd501-768b-43d2-b3cc-b307d615df39",
+      "profileUrl": "https://www.playhq.com/public/profile/71ecd501-768b-43d2-b3cc-b307d615df39/statistics?tenant=basketball-wa",
+      "avgPoints": 14.5,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.2/g season)",
+      "tags": []
+    },
+    {
+      "name": "Hope Whitby",
+      "number": "10",
+      "playerId": "be690acc-eeed-4722-888c-7a135fd7ec03",
+      "profileUrl": "https://www.playhq.com/public/profile/be690acc-eeed-4722-888c-7a135fd7ec03/statistics?tenant=basketball-wa",
+      "avgPoints": 10.5,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Courtney Walsh",
+      "number": "7",
+      "playerId": "b6caeaeb-262b-482c-a976-80b19cc97986",
+      "profileUrl": "https://www.playhq.com/public/profile/b6caeaeb-262b-482c-a976-80b19cc97986/statistics?tenant=basketball-wa",
+      "avgPoints": 10.3,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (16.5/g in last 2 vs 10.3/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Scarlett Griffiths",
+      "number": "6",
+      "playerId": "0254b121-b0a6-4afd-a897-76428aa483cc",
+      "profileUrl": "https://www.playhq.com/public/profile/0254b121-b0a6-4afd-a897-76428aa483cc/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Jorja Montgomerie",
+      "number": "6",
+      "playerId": "3552dded-a8a4-4856-988a-4ade1a76081d",
+      "profileUrl": "https://www.playhq.com/public/profile/3552dded-a8a4-4856-988a-4ade1a76081d/statistics?tenant=basketball-wa",
+      "avgPoints": 19.5,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 3.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Agook Chol",
+      "number": "13",
+      "playerId": "bc6da837-0a8a-4424-b7ab-3c1d1591c879",
+      "profileUrl": "https://www.playhq.com/public/profile/bc6da837-0a8a-4424-b7ab-3c1d1591c879/statistics?tenant=basketball-wa",
+      "avgPoints": 12.2,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.7/g in last 3 vs 12.2/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Zoe Liesis",
+      "number": "9",
+      "playerId": "6cd769c5-5138-45b3-85b4-434a31b81d59",
+      "profileUrl": "https://www.playhq.com/public/profile/6cd769c5-5138-45b3-85b4-434a31b81d59/statistics?tenant=basketball-wa",
+      "avgPoints": 10.9,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Grace Conradt",
+      "number": "10",
+      "playerId": "c92fb4cf-7c68-4380-8bed-d0d05e339675",
+      "profileUrl": "https://www.playhq.com/public/profile/c92fb4cf-7c68-4380-8bed-d0d05e339675/statistics?tenant=basketball-wa",
+      "avgPoints": 10.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Hannah Mortimer",
+      "number": "14",
+      "playerId": "5272ba37-5e6e-494a-8ec0-4593519d4f46",
+      "profileUrl": "https://www.playhq.com/public/profile/5272ba37-5e6e-494a-8ec0-4593519d4f46/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "6999485d",
+      "name": "Perry Lakes Hawks U21 Girls 1"
+    },
+    "played": 11,
+    "won": 8,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 743,
+    "pointsAgainst": 599,
+    "percentage": 124.04,
+    "competitionPoints": 38
+  },
+  "awayLadder": {
+    "rank": 11,
+    "team": {
+      "id": "3afc1362",
+      "name": "Joondalup Wolves U21 Girls"
+    },
+    "played": 10,
+    "won": 2,
+    "lost": 8,
+    "drawn": 0,
+    "pointsFor": 537,
+    "pointsAgainst": 689,
+    "percentage": 77.94,
+    "competitionPoints": 28
+  },
+  "totalTeams": 13,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "a5bc6a35",
+        "name": "Cockburn Cougars U21 Girls"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 835,
+      "pointsAgainst": 652,
+      "percentage": 128.07,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "477542e5",
+        "name": "Warwick Senators U21 Girls"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 771,
+      "pointsAgainst": 523,
+      "percentage": 147.42,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "12b3d448",
+        "name": "Hills Raiders U21 Girls"
+      },
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 830,
+      "pointsAgainst": 731,
+      "percentage": 113.54,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6999485d",
+        "name": "Perry Lakes Hawks U21 Girls 1"
+      },
+      "played": 11,
+      "won": 8,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 743,
+      "pointsAgainst": 599,
+      "percentage": 124.04,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "cc0a6359",
+        "name": "Eastern Suns U21 Girls"
+      },
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 768,
+      "pointsAgainst": 675,
+      "percentage": 113.78,
+      "competitionPoints": 37
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "47cb5621",
+        "name": "Lakeside Lightning U21 Girls"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 636,
+      "pointsAgainst": 609,
+      "percentage": 104.43,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d52712c3",
+        "name": "South West Slammers U21 Girls"
+      },
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 670,
+      "pointsAgainst": 661,
+      "percentage": 101.36,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1f62216",
+        "name": "East Perth Eagles U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 571,
+      "pointsAgainst": 656,
+      "percentage": 87.04,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "c011e1f8",
+        "name": "Perth Redbacks U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 691,
+      "pointsAgainst": 703,
+      "percentage": 98.29,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "6f1067f2",
+        "name": "Binar Maali U21 Girls"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 580,
+      "pointsAgainst": 699,
+      "percentage": 82.98,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "3afc1362",
+        "name": "Joondalup Wolves U21 Girls"
+      },
+      "played": 10,
+      "won": 2,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 537,
+      "pointsAgainst": 689,
+      "percentage": 77.94,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4038b44e",
+        "name": "Mandurah Magic U21 Girls"
+      },
+      "played": 10,
+      "won": 2,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 520,
+      "pointsAgainst": 726,
+      "percentage": 71.63,
+      "competitionPoints": 28
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "ac40a139",
+        "name": "Perry Lakes Hawks U21 Girls 2"
+      },
+      "played": 10,
+      "won": 0,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 515,
+      "pointsAgainst": 744,
+      "percentage": 69.22,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:44:29.562166",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits fourth at 8-3 and carries strong momentum with four wins in their last five, averaging 74-65 in that stretch. Joondalup sits 11th at 2-8 and has lost five straight by an average margin of 33 points, scoring just 48 per game in that slide. No previous meeting this season. The form and ladder gap suggests Perry Lakes will control tempo and look to extend the margin, while Joondalup will need to stay competitive early to avoid another blowout. Expect Perry Lakes to push pace given their recent high-scoring output (88 and 80 in their last two wins).\n\nPerry Lakes spreads scoring across multiple contributors. Emie Stein leads at 16.4 per game but has surged to 27.0 in her last two outings. Ella Cumming adds 14.5 with modest free throw volume (2.8 attempts per game), while Courtney Walsh has lifted to 16.5 per game recently from a 10.3 season average. Neither team shows extreme three-point volume in the key player data\u2014Perry Lakes' contributors average between 0.6 and 1.2 makes per game. For Joondalup, Jorja Montgomerie leads at 19.5 per game on just two appearances but draws 4.5 free throw attempts per game. Agook Chol (12.2 per game, trending to 15.7 lately) and Zoe Liesis (10.9) work inside with no three-point output and moderate free throw rates of 2.5 and 3.0 attempts respectively. Joondalup's offence will rely heavily on interior scoring and trips to the line.\n\nWatch Zoe Liesis closely\u2014she fouls at 3.8 per game across eight games, the highest rate on either roster. Jorja Montgomerie also shows 3.5 fouls per game in limited sample. For Perry Lakes, Ella Cumming has averaged 2.2 fouls per game over the season though she's improved to 1.5 in her last two. Courtney Walsh sits at 2.0 per game. Given Joondalup's reliance on inside scoring through Chol, Montgomerie, and Liesis, Perry Lakes' interior defenders will draw contact defending the paint. No technical or unsportsmanlike foul history flagged in the data. The lopsided recent form and ladder position create risk of frustration from Joondalup if the margin blows out early."
+}

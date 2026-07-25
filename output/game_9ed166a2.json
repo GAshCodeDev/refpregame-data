@@ -1,0 +1,476 @@
+{
+  "gameId": "9ed166a2",
+  "gradeName": "U14 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Hills Raiders U14 Girls 1",
+  "awayTeam": "Mandurah Magic U14 Girls Red",
+  "homeTeamId": "710a7f0f",
+  "awayTeamId": "4fb350c4",
+  "venue": "Mundaring Arena",
+  "time": "09:00:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u14-girls-championship/game-centre/9ed166a2",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Perry Lakes Hawks U14 Girls 1",
+      "scored": 52,
+      "conceded": 96,
+      "won": false,
+      "margin": -44,
+      "gameId": "b18d6aa9"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Joondalup Wolves U14 Girls 1",
+      "scored": 53,
+      "conceded": 73,
+      "won": false,
+      "margin": -20,
+      "gameId": "f655ef69"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Warwick Senators U14 Girls 1",
+      "scored": 54,
+      "conceded": 36,
+      "won": true,
+      "margin": 18,
+      "gameId": "5db5d7e2"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Lakeside Lightning U14 Girls 1",
+      "scored": 52,
+      "conceded": 67,
+      "won": false,
+      "margin": -15,
+      "gameId": "98c95863"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Cockburn Cougars U14 Girls 1",
+      "scored": 40,
+      "conceded": 54,
+      "won": false,
+      "margin": -14,
+      "gameId": "c29797ae"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Willetton Tigers U14 Girls 1",
+      "scored": 32,
+      "conceded": 61,
+      "won": false,
+      "margin": -29,
+      "gameId": "5b878941"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Cockburn Cougars U14 Girls 1",
+      "scored": 51,
+      "conceded": 50,
+      "won": true,
+      "margin": 1,
+      "gameId": "8de336fa"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Perry Lakes Hawks U14 Girls 1",
+      "scored": 42,
+      "conceded": 79,
+      "won": false,
+      "margin": -37,
+      "gameId": "8f62c8e7"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Joondalup Wolves U14 Girls 1",
+      "scored": 49,
+      "conceded": 38,
+      "won": true,
+      "margin": 11,
+      "gameId": "e0bf98a2"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Lakeside Lightning U14 Girls 1",
+      "scored": 48,
+      "conceded": 36,
+      "won": true,
+      "margin": 12,
+      "gameId": "537d9b38"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Djaawidt Phillips",
+      "number": "13",
+      "playerId": "2fab0d09-6141-4a83-bea1-be5efad81aba",
+      "profileUrl": "https://www.playhq.com/public/profile/2fab0d09-6141-4a83-bea1-be5efad81aba/statistics?tenant=basketball-wa",
+      "avgPoints": 10.5,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (13.3/g in last 3 vs 10.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Matilda Kellock",
+      "number": "14",
+      "playerId": "b0c2ed1a-325a-47a2-913c-e6cf1af40a19",
+      "profileUrl": "https://www.playhq.com/public/profile/b0c2ed1a-325a-47a2-913c-e6cf1af40a19/statistics?tenant=basketball-wa",
+      "avgPoints": 8.3,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 1.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Skye Jost",
+      "number": "11",
+      "playerId": "eee427ce-df9a-403e-8b7c-0b78ff133703",
+      "profileUrl": "https://www.playhq.com/public/profile/eee427ce-df9a-403e-8b7c-0b78ff133703/statistics?tenant=basketball-wa",
+      "avgPoints": 6.6,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Peyton Humble",
+      "number": "4",
+      "playerId": "61ff006c-281e-4ba2-aefc-273432b5ef02",
+      "profileUrl": "https://www.playhq.com/public/profile/61ff006c-281e-4ba2-aefc-273432b5ef02/statistics?tenant=basketball-wa",
+      "avgPoints": 6.2,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Milla Reynolds",
+      "number": "9",
+      "playerId": "c0538331-5f26-498b-a68d-8778788a2b1f",
+      "profileUrl": "https://www.playhq.com/public/profile/c0538331-5f26-498b-a68d-8778788a2b1f/statistics?tenant=basketball-wa",
+      "avgPoints": 6.1,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.9/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Evie Moran",
+      "number": "4",
+      "playerId": "8b31f490-132a-4ab0-ab98-547199f02483",
+      "profileUrl": "https://www.playhq.com/public/profile/8b31f490-132a-4ab0-ab98-547199f02483/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (16.0/g in last 2 vs 10.0/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Piper Johnson",
+      "number": "6",
+      "playerId": "fac13bc0-2f7c-497f-bbf6-b48c566bb399",
+      "profileUrl": "https://www.playhq.com/public/profile/fac13bc0-2f7c-497f-bbf6-b48c566bb399/statistics?tenant=basketball-wa",
+      "avgPoints": 7.9,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Annalise Fazzolari",
+      "number": "10",
+      "playerId": "e9136858-315a-4423-a132-7f65a61f316a",
+      "profileUrl": "https://www.playhq.com/public/profile/e9136858-315a-4423-a132-7f65a61f316a/statistics?tenant=basketball-wa",
+      "avgPoints": 6.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (10.3/g in last 3 vs 6.7/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ayva Buchholz",
+      "number": "16",
+      "playerId": "0f9f75be-1c76-45fb-a2c1-dc43c3e92dcf",
+      "profileUrl": "https://www.playhq.com/public/profile/0f9f75be-1c76-45fb-a2c1-dc43c3e92dcf/statistics?tenant=basketball-wa",
+      "avgPoints": 5.5,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Savannah Kemps",
+      "number": "19",
+      "playerId": "898b5b66-9842-4c2f-8ca9-dbcc3ebfdd26",
+      "profileUrl": "https://www.playhq.com/public/profile/898b5b66-9842-4c2f-8ca9-dbcc3ebfdd26/statistics?tenant=basketball-wa",
+      "avgPoints": 5.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (2.0/g in last 1 vs 5.0/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Hills Raiders U14 Girls 1",
+      "awayTeam": "Mandurah Magic U14 Girls Red",
+      "homeScore": 31,
+      "awayScore": 58,
+      "homeWon": false,
+      "margin": -27
+    }
+  ],
+  "homeLadder": {
+    "rank": 8,
+    "team": {
+      "id": "710a7f0f",
+      "name": "Hills Raiders U14 Girls 1"
+    },
+    "played": 11,
+    "won": 1,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 476,
+    "pointsAgainst": 706,
+    "percentage": 67.42,
+    "competitionPoints": 24
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "4fb350c4",
+      "name": "Mandurah Magic U14 Girls Red"
+    },
+    "played": 10,
+    "won": 4,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 430,
+    "pointsAgainst": 484,
+    "percentage": 88.84,
+    "competitionPoints": 31
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "53f5f4bd",
+        "name": "Perry Lakes Hawks U14 Girls 1"
+      },
+      "played": 11,
+      "won": 10,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 745,
+      "pointsAgainst": 467,
+      "percentage": 159.53,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "199437c7",
+        "name": "Willetton Tigers U14 Girls 1"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 634,
+      "pointsAgainst": 343,
+      "percentage": 184.84,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dfa85cf3",
+        "name": "Cockburn Cougars U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 523,
+      "pointsAgainst": 497,
+      "percentage": 105.23,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "d52ed134",
+        "name": "Joondalup Wolves U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 487,
+      "pointsAgainst": 487,
+      "percentage": 100,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "d8667134",
+        "name": "Lakeside Lightning U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 646,
+      "pointsAgainst": 604,
+      "percentage": 106.95,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4fb350c4",
+        "name": "Mandurah Magic U14 Girls Red"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 430,
+      "pointsAgainst": 484,
+      "percentage": 88.84,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "dabebe6b",
+        "name": "Warwick Senators U14 Girls 1"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 335,
+      "pointsAgainst": 688,
+      "percentage": 48.69,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "710a7f0f",
+        "name": "Hills Raiders U14 Girls 1"
+      },
+      "played": 11,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 476,
+      "pointsAgainst": 706,
+      "percentage": 67.42,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:50:51.826517",
+  "dataComplete": true,
+  "aiBriefing": "Hills Raiders sit bottom of the ladder at 1-10 and have lost four of their last five, averaging 50 points per game in that stretch. Mandurah Magic are sixth at 4-6 but have found form with three wins in their last five and won the Round 5 meeting comfortably 58-31. This is a low-pressure game for both sides with final ladder positions largely settled, but Mandurah will look to continue their recent momentum while Hills search for only their second win of the season. Expect a moderate-tempo game with Mandurah likely controlling pace as they did in the first encounter.\n\nHills Raiders rely heavily on Djaawidt Phillips at 10.5 points per game, though she's lifted to 13.3 in her last three games, primarily through perimeter shooting at 1.3 threes per game with minimal free throw volume at 0.3 attempts per game. Matilda Kellock adds 8.3 points with a modest 1.6 free throws per game, while the rest of the roster contributes low single-digit scoring with minimal three-point volume or free throw generation across the board. Mandurah spreads scoring more evenly, led by Evie Moran at 10.0 points per game who has surged to 16.0 in her last two outings, working almost exclusively inside the arc with 1.3 free throws per game. Piper Johnson at 7.9 points and Annalise Fazzolari at 6.7 points (up to 10.3 lately) also attack the paint with limited perimeter shooting but reasonable free throw rates of 1.3 and 1.1 attempts respectively. Neither team shoots much from three-point range or generates high free throw volume overall.\n\nWatch Peyton Humble (#4 Hills) who fouls at 2.7 per game in limited minutes, Annalise Fazzolari (#10 Mandurah) at 2.5 per game, Ayva Buchholz (#16 Mandurah) at 2.7, and Savannah Kemps (#19 Mandurah) at 2.6 per game as all carry elevated foul rates that could lead to early bench time. Djaawidt Phillips (#13 Hills) also sits at 2.5 fouls per game and is Hills' primary scorer, so foul trouble would significantly impact their offense. Milla Reynolds (#9 Hills) has improved recently to 0.7 fouls in her last three after a 1.9 season average. No technical or unsportsmanlike foul history flagged for either squad."
+}

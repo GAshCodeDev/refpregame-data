@@ -1,0 +1,480 @@
+{
+  "gameId": "068f2534",
+  "gradeName": "U14 Girls Championship",
+  "roundName": "Round 12",
+  "homeTeam": "Perry Lakes Hawks U14 Girls 1",
+  "awayTeam": "Cockburn Cougars U14 Girls 1",
+  "homeTeamId": "53f5f4bd",
+  "awayTeamId": "dfa85cf3",
+  "venue": "Bendat Basketball Centre",
+  "time": "09:45:00",
+  "date": "2026-07-26",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u14-girls-championship/game-centre/068f2534",
+  "homeForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Hills Raiders U14 Girls 1",
+      "scored": 96,
+      "conceded": 52,
+      "won": true,
+      "margin": 44,
+      "gameId": "b18d6aa9"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Lakeside Lightning U14 Girls 1",
+      "scored": 61,
+      "conceded": 72,
+      "won": false,
+      "margin": -11,
+      "gameId": "4f76d68c"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Mandurah Magic U14 Girls Red",
+      "scored": 79,
+      "conceded": 42,
+      "won": true,
+      "margin": 37,
+      "gameId": "8f62c8e7"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Willetton Tigers U14 Girls 1",
+      "scored": 58,
+      "conceded": 34,
+      "won": true,
+      "margin": 24,
+      "gameId": "5bf5a2f6"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Warwick Senators U14 Girls 1",
+      "scored": 83,
+      "conceded": 33,
+      "won": true,
+      "margin": 50,
+      "gameId": "db3e9b39"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 7",
+      "roundNumber": 7,
+      "roundIndex": 6,
+      "opponent": "Joondalup Wolves U14 Girls 1",
+      "scored": 43,
+      "conceded": 28,
+      "won": true,
+      "margin": 15,
+      "gameId": "9f912304"
+    },
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Mandurah Magic U14 Girls Red",
+      "scored": 50,
+      "conceded": 51,
+      "won": false,
+      "margin": -1,
+      "gameId": "8de336fa"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Willetton Tigers U14 Girls 1",
+      "scored": 37,
+      "conceded": 50,
+      "won": false,
+      "margin": -13,
+      "gameId": "ad00ee18"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Warwick Senators U14 Girls 1",
+      "scored": 67,
+      "conceded": 43,
+      "won": true,
+      "margin": 24,
+      "gameId": "d831c585"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Hills Raiders U14 Girls 1",
+      "scored": 54,
+      "conceded": 40,
+      "won": true,
+      "margin": 14,
+      "gameId": "c29797ae"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Anai Seaby",
+      "number": "8",
+      "playerId": "f234e4c8-edb8-4154-b607-11ac385836ef",
+      "profileUrl": "https://www.playhq.com/public/profile/f234e4c8-edb8-4154-b607-11ac385836ef/statistics?tenant=basketball-wa",
+      "avgPoints": 16.2,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 3 vs 1.2/g season)",
+      "tags": []
+    },
+    {
+      "name": "Avery Dowd",
+      "number": "6",
+      "playerId": "65ae477b-2ee0-4107-89e4-34179e9941a7",
+      "profileUrl": "https://www.playhq.com/public/profile/65ae477b-2ee0-4107-89e4-34179e9941a7/statistics?tenant=basketball-wa",
+      "avgPoints": 12.8,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (16.7/g in last 3 vs 12.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Sienna Mathiasz",
+      "number": "15",
+      "playerId": "8716a0ee-5015-40c6-a6d0-e266a9dd323c",
+      "profileUrl": "https://www.playhq.com/public/profile/8716a0ee-5015-40c6-a6d0-e266a9dd323c/statistics?tenant=basketball-wa",
+      "avgPoints": 12.3,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 2.1,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 1.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Talia Sallie",
+      "number": "12",
+      "playerId": "c366ca37-ae0c-43bb-b93a-b4de3d94640a",
+      "profileUrl": "https://www.playhq.com/public/profile/c366ca37-ae0c-43bb-b93a-b4de3d94640a/statistics?tenant=basketball-wa",
+      "avgPoints": 10.7,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 1.2/g season)",
+      "tags": []
+    },
+    {
+      "name": "Chloe McGorm",
+      "number": "14",
+      "playerId": "e6cb7bc7-1960-4d21-bd60-03565e9f92f4",
+      "profileUrl": "https://www.playhq.com/public/profile/e6cb7bc7-1960-4d21-bd60-03565e9f92f4/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 4,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Chloe Bates",
+      "number": "9",
+      "playerId": "12db5d29-bd88-4bd4-a683-66fb5c9c1ee8",
+      "profileUrl": "https://www.playhq.com/public/profile/12db5d29-bd88-4bd4-a683-66fb5c9c1ee8/statistics?tenant=basketball-wa",
+      "avgPoints": 12.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.3,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (16.7/g in last 3 vs 12.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Aleksia Krstajic",
+      "number": "13",
+      "playerId": "82f004d8-620d-4b02-8d05-e9dd46ce8145",
+      "profileUrl": "https://www.playhq.com/public/profile/82f004d8-620d-4b02-8d05-e9dd46ce8145/statistics?tenant=basketball-wa",
+      "avgPoints": 10.9,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (13.7/g in last 3 vs 10.9/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Lola Munro",
+      "number": "4",
+      "playerId": "9c542a75-9c05-40c0-978d-70e463c7dbe3",
+      "profileUrl": "https://www.playhq.com/public/profile/9c542a75-9c05-40c0-978d-70e463c7dbe3/statistics?tenant=basketball-wa",
+      "avgPoints": 6.3,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Isabella London- Campos",
+      "number": "5",
+      "playerId": "7276f4fe-ef71-40f4-9366-42846ee165f0",
+      "profileUrl": "https://www.playhq.com/public/profile/7276f4fe-ef71-40f4-9366-42846ee165f0/statistics?tenant=basketball-wa",
+      "avgPoints": 5.7,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (3.3/g in last 3 vs 5.7/g season)",
+      "tags": []
+    },
+    {
+      "name": "Kate Males",
+      "number": "7",
+      "playerId": "6de88054-957e-4595-bfd3-251be7ac6f9f",
+      "profileUrl": "https://www.playhq.com/public/profile/6de88054-957e-4595-bfd3-251be7ac6f9f/statistics?tenant=basketball-wa",
+      "avgPoints": 5.1,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 0.1,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (0.7/g in last 3 vs 0.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Perry Lakes Hawks U14 Girls 1",
+      "awayTeam": "Cockburn Cougars U14 Girls 1",
+      "homeScore": 66,
+      "awayScore": 34,
+      "homeWon": true,
+      "margin": 32
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "53f5f4bd",
+      "name": "Perry Lakes Hawks U14 Girls 1"
+    },
+    "played": 11,
+    "won": 10,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 745,
+    "pointsAgainst": 467,
+    "percentage": 159.53,
+    "competitionPoints": 42
+  },
+  "awayLadder": {
+    "rank": 3,
+    "team": {
+      "id": "dfa85cf3",
+      "name": "Cockburn Cougars U14 Girls 1"
+    },
+    "played": 11,
+    "won": 6,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 523,
+    "pointsAgainst": 497,
+    "percentage": 105.23,
+    "competitionPoints": 34
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "53f5f4bd",
+        "name": "Perry Lakes Hawks U14 Girls 1"
+      },
+      "played": 11,
+      "won": 10,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 745,
+      "pointsAgainst": 467,
+      "percentage": 159.53,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "199437c7",
+        "name": "Willetton Tigers U14 Girls 1"
+      },
+      "played": 11,
+      "won": 9,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 634,
+      "pointsAgainst": 343,
+      "percentage": 184.84,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dfa85cf3",
+        "name": "Cockburn Cougars U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 523,
+      "pointsAgainst": 497,
+      "percentage": 105.23,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "d52ed134",
+        "name": "Joondalup Wolves U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 487,
+      "pointsAgainst": 487,
+      "percentage": 100,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "d8667134",
+        "name": "Lakeside Lightning U14 Girls 1"
+      },
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 646,
+      "pointsAgainst": 604,
+      "percentage": 106.95,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "4fb350c4",
+        "name": "Mandurah Magic U14 Girls Red"
+      },
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 430,
+      "pointsAgainst": 484,
+      "percentage": 88.84,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "dabebe6b",
+        "name": "Warwick Senators U14 Girls 1"
+      },
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 335,
+      "pointsAgainst": 688,
+      "percentage": 48.69,
+      "competitionPoints": 25
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "710a7f0f",
+        "name": "Hills Raiders U14 Girls 1"
+      },
+      "played": 11,
+      "won": 1,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 476,
+      "pointsAgainst": 706,
+      "percentage": 67.42,
+      "competitionPoints": 24
+    }
+  ],
+  "generatedAt": "2026-07-25T10:56:02.605908",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits first at 10-1 with a 159.5 percent while Cockburn is third at 6-5. The Hawks won their first meeting 66-34 in Round 5 and enter on a three-game winning streak averaging 75 points, including blowouts of 50 and 37 in their last two. Cockburn has recovered to 3-2 in their last five but scored just 50 points per game in that stretch. This is a significant mismatch on paper with Perry Lakes playing high-tempo basketball and Cockburn grinding out lower-scoring contests, so expect the home side to push pace early and test whether the Cougars can stay disciplined when stretched.\n\nPerry Lakes spreads scoring across four players in double figures. Anai Seaby leads at 16.2 points per game with minimal three-point attempts and 1.9 free throws per game. Avery Dowd is hot lately at 16.7 in her last three games and gets to the line most often at 2.5 free throws per game. Sienna Mathiasz adds 12.3 with 0.4 threes per game and 2.1 free throws, while Talia Sallie contributes 10.7 with similar outside volume. Cockburn relies heavily on Chloe Bates at 12.5 points and 2.3 free throws per game and Aleksia Krstajic at 10.9 points with the team-high 0.6 threes per game, both trending up recently at 16.7 and 13.7 respectively in their last three. Lola Munro provides the most outside shooting at 1.0 three per game. Cockburn's lower scoring output and moderate free throw rates suggest they work more from the perimeter and struggle to finish inside against size.\n\nAleksia Krstajic number 13 fouls at 2.5 per game, the highest rate in the match, and will need watching especially if Perry Lakes attacks her in transition. Avery Dowd number 6 and Chloe McGorm number 14 both foul at 2.1 and 2.2 per game respectively for the Hawks, though McGorm has only played four games. Sienna Mathiasz number 15 is trending up at 1.7 fouls in her last three compared to 1.0 season average. Chloe Bates number 9 at 1.9 fouls per game will be central to Cockburn's effort to slow Dowd and Seaby inside. The pace differential and scoring gap could lead to frustration from Cockburn if Perry Lakes builds another large lead, so watch body language and competitive balance in the second half if the margin blows out like Round 5."
+}
