@@ -1,0 +1,511 @@
+{
+  "gameId": "43a269e4",
+  "gradeName": "U18 Girls Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Lakeside Lightning U18 Girls 1",
+  "awayTeam": "Binar Maali U18 Girls",
+  "homeTeamId": "ca139f20",
+  "awayTeamId": "f26f3e56",
+  "venue": "Lakeside Recreation Centre",
+  "time": "17:15:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-girls-championship/game-centre/43a269e4",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 68,
+      "conceded": 60,
+      "won": true,
+      "margin": 8,
+      "gameId": "8266f923"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perry Lakes Hawks U18 Girls 1",
+      "scored": 90,
+      "conceded": 87,
+      "won": true,
+      "margin": 3,
+      "gameId": "6d289bfc"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Joondalup Wolves U18 Girls 1",
+      "scored": 70,
+      "conceded": 68,
+      "won": true,
+      "margin": 2,
+      "gameId": "642402cc"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 86,
+      "conceded": 39,
+      "won": true,
+      "margin": 47,
+      "gameId": "f1ce5390"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Willetton Tigers U18 Girls 1",
+      "scored": 61,
+      "conceded": 68,
+      "won": false,
+      "margin": -7,
+      "gameId": "0a404512"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Cockburn Cougars U18 Girls 1",
+      "scored": 42,
+      "conceded": 96,
+      "won": false,
+      "margin": -54,
+      "gameId": "bd28273c"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 47,
+      "conceded": 74,
+      "won": false,
+      "margin": -27,
+      "gameId": "ccd406c7"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "East Perth Eagles U18 Girls 1",
+      "scored": 52,
+      "conceded": 54,
+      "won": false,
+      "margin": -2,
+      "gameId": "486e4206"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Perry Lakes Hawks U18 Girls 1",
+      "scored": 72,
+      "conceded": 71,
+      "won": true,
+      "margin": 1,
+      "gameId": "26f41ec1"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Joondalup Wolves U18 Girls 1",
+      "scored": 41,
+      "conceded": 61,
+      "won": false,
+      "margin": -20,
+      "gameId": "ed3f412d"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Esther Ferguson",
+      "number": "15",
+      "playerId": "5c2901ce-72f4-428b-afa8-aa1a38a83fd6",
+      "profileUrl": "https://www.playhq.com/public/profile/5c2901ce-72f4-428b-afa8-aa1a38a83fd6/statistics?tenant=basketball-wa",
+      "avgPoints": 12.5,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Charlotte Lee",
+      "number": "7",
+      "playerId": "148c00f2-0feb-4192-944c-dc396bde6f78",
+      "profileUrl": "https://www.playhq.com/public/profile/148c00f2-0feb-4192-944c-dc396bde6f78/statistics?tenant=basketball-wa",
+      "avgPoints": 12.1,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.5/g season); scoring more lately (15.7/g in last 3 vs 12.1/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jorga Thowless",
+      "number": "11",
+      "playerId": "4be4399a-09e3-4a12-8d7d-f46a72220c6d",
+      "profileUrl": "https://www.playhq.com/public/profile/4be4399a-09e3-4a12-8d7d-f46a72220c6d/statistics?tenant=basketball-wa",
+      "avgPoints": 10.8,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Sasha Nona",
+      "number": "13",
+      "playerId": "69faada3-6019-401b-8888-c207b0e40934",
+      "profileUrl": "https://www.playhq.com/public/profile/69faada3-6019-401b-8888-c207b0e40934/statistics?tenant=basketball-wa",
+      "avgPoints": 10.8,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.4/g season)",
+      "tags": []
+    },
+    {
+      "name": "Maddison Dunn",
+      "number": "14",
+      "playerId": "76b51718-a6a4-40bc-90d0-408dfdebd069",
+      "profileUrl": "https://www.playhq.com/public/profile/76b51718-a6a4-40bc-90d0-408dfdebd069/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Penelope Punaivaha",
+      "number": "30",
+      "playerId": "f8e32cd0-cbd8-4dec-8148-896adff68c2b",
+      "profileUrl": "https://www.playhq.com/public/profile/f8e32cd0-cbd8-4dec-8148-896adff68c2b/statistics?tenant=basketball-wa",
+      "avgPoints": 21.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 3.5,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 2.2/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Tuaongo Madaleen Upoko",
+      "number": "9",
+      "playerId": "15138e75-440f-4e84-bd9d-e03cd5156e88",
+      "profileUrl": "https://www.playhq.com/public/profile/15138e75-440f-4e84-bd9d-e03cd5156e88/statistics?tenant=basketball-wa",
+      "avgPoints": 13.2,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.5/g in last 2 vs 1.9/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ayvah Rioli",
+      "number": "10",
+      "playerId": "2e9b1747-0918-49b0-a981-eba9921698e0",
+      "profileUrl": "https://www.playhq.com/public/profile/2e9b1747-0918-49b0-a981-eba9921698e0/statistics?tenant=basketball-wa",
+      "avgPoints": 12.6,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 3.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (6.0/g in last 2 vs 12.6/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Sienna Cooper",
+      "number": "6",
+      "playerId": "46e7685c-b11b-4aa1-bda9-f735720fe0ca",
+      "profileUrl": "https://www.playhq.com/public/profile/46e7685c-b11b-4aa1-bda9-f735720fe0ca/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Shayne Jacobs",
+      "number": "17",
+      "playerId": "3f04c7d7-70c7-4df1-ac27-7e98449d01e0",
+      "profileUrl": "https://www.playhq.com/public/profile/3f04c7d7-70c7-4df1-ac27-7e98449d01e0/statistics?tenant=basketball-wa",
+      "avgPoints": 7.9,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Lakeside Lightning U18 Girls 1",
+      "awayTeam": "Binar Maali U18 Girls",
+      "homeScore": 82,
+      "awayScore": 57,
+      "homeWon": true,
+      "margin": 25
+    }
+  ],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "ca139f20",
+      "name": "Lakeside Lightning U18 Girls 1"
+    },
+    "played": 13,
+    "won": 8,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 966,
+    "pointsAgainst": 910,
+    "percentage": 106.15,
+    "competitionPoints": 42
+  },
+  "awayLadder": {
+    "rank": 8,
+    "team": {
+      "id": "f26f3e56",
+      "name": "Binar Maali U18 Girls"
+    },
+    "played": 13,
+    "won": 4,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 811,
+    "pointsAgainst": 986,
+    "percentage": 82.25,
+    "competitionPoints": 32
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "fe3f7a58",
+        "name": "Cockburn Cougars U18 Girls 1"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1151,
+      "pointsAgainst": 706,
+      "percentage": 163.03,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "bac173fc",
+        "name": "Willetton Tigers U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 889,
+      "pointsAgainst": 834,
+      "percentage": 106.59,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e1f04acc",
+        "name": "Warwick Senators U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 986,
+      "pointsAgainst": 802,
+      "percentage": 122.94,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "ca139f20",
+        "name": "Lakeside Lightning U18 Girls 1"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 966,
+      "pointsAgainst": 910,
+      "percentage": 106.15,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "8ff6a891",
+        "name": "Perth Redbacks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 875,
+      "pointsAgainst": 866,
+      "percentage": 101.04,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "cd669c50",
+        "name": "Joondalup Wolves U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 856,
+      "pointsAgainst": 821,
+      "percentage": 104.26,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "872009d2",
+        "name": "Perry Lakes Hawks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 1013,
+      "percentage": 91.41,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "f26f3e56",
+        "name": "Binar Maali U18 Girls"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 986,
+      "percentage": 82.25,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "5fa89c65",
+        "name": "East Perth Eagles U18 Girls 1"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 763,
+      "pointsAgainst": 1059,
+      "percentage": 72.05,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f0eab476",
+        "name": "South West Slammers U18 Girls"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 805,
+      "pointsAgainst": 1031,
+      "percentage": 78.08,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T11:31:41.720070",
+  "dataComplete": true,
+  "aiBriefing": "Lakeside sit fourth with an 8-5 record and 106.2 percentage while Binar Maali are eighth at 4-9 and 82.2 percentage. Lakeside have won four of their last five including a 25-point victory over Binar Maali in Round 5, though three of those four wins came by five points or less and they're coming off a seven-point loss to Willetton. Binar Maali have lost four of five and are averaging just 51 points in that stretch with four losses by 20-plus. Lakeside need this win to consolidate a top-four position while Binar Maali are fighting to stay relevant. Expect Lakeside to control tempo and push pace given the form differential, but their recent tight contests suggest they can be drawn into grind-it-out games.\n\nLakeside spread scoring across five players in double figures led by Esther Ferguson 12.5 and Charlotte Lee 12.1 who is trending hot at 15.7 in her last three. Lee and Jorga Thowless both average 1.8 threes per game providing outside volume while Ferguson and Maddison Dunn get to the line more consistently at 1.0 and 1.8 free throws per game respectively. Binar Maali lean heavily on Penelope Punaivaha at 21.0 points per game with a 3.5 free throw average indicating she attacks inside and draws contact frequently. Tuaonga Madaleen Upoko adds 13.2 and Ayvah Rioli 12.6 though Rioli has dropped to just 6.0 in her last two games. Binar Maali shoot fewer threes across the board with Sienna Cooper their only real perimeter threat at 1.4 per game. The mismatch in depth and outside shooting should favour Lakeside significantly.\n\nMaddison Dunn for Lakeside fouls at 3.0 per game which is elevated for this level and worth monitoring given her role getting to the line. Ayvah Rioli carries 3.4 fouls per game for Binar Maali which is the highest rate in the match and her recent scoring drop to 6.0 suggests she may already be playing tentative or in foul trouble. Penelope Punaivaha's 3.5 free throw average means she'll be drawing significant contact as Binar Maali's primary option and she's trending up to 3.0 fouls per game in her last two, likely from increased defensive attention. Cooper at 2.9 fouls per game also sits high. With Binar Maali's limited scoring depth, watch for frustration if Lakeside pull away early or if Punaivaha picks up cheap fouls defending Lakeside's balanced attack."
+}

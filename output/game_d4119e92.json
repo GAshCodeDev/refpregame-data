@@ -1,0 +1,535 @@
+{
+  "gameId": "d4119e92",
+  "gradeName": "U20 Boys Division 3",
+  "roundName": "Round 14",
+  "homeTeam": "Perry Lakes Hawks U20 Boys 2",
+  "awayTeam": "Binar Maali U20 Boys 2",
+  "homeTeamId": "f99f5701",
+  "awayTeamId": "98e14987",
+  "venue": "Bendat Basketball Centre",
+  "time": "15:00:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u20-boys-division-3/game-centre/d4119e92",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Warwick Senators U20 Boys 2",
+      "scored": 105,
+      "conceded": 96,
+      "won": true,
+      "margin": 9,
+      "gameId": "0ffdcfd6"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Warwick Senators U20 Boys 3",
+      "scored": 113,
+      "conceded": 81,
+      "won": true,
+      "margin": 32,
+      "gameId": "7cd904c9"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Joondalup Wolves U20 Boys 3",
+      "scored": 113,
+      "conceded": 66,
+      "won": true,
+      "margin": 47,
+      "gameId": "3c3c9186"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Mandurah Magic U20 Boys Gold",
+      "scored": 82,
+      "conceded": 62,
+      "won": true,
+      "margin": 20,
+      "gameId": "bdc93add"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Rockingham Flames U20 Boys 2",
+      "scored": 102,
+      "conceded": 88,
+      "won": true,
+      "margin": 14,
+      "gameId": "0b6ee541"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Eastern Suns U20 Boys 2",
+      "scored": 69,
+      "conceded": 93,
+      "won": false,
+      "margin": -24,
+      "gameId": "3deffd8d"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Lakeside Lightning U20 Boys 2",
+      "scored": 108,
+      "conceded": 81,
+      "won": true,
+      "margin": 27,
+      "gameId": "07a98ab0"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Hills Raiders U20 Boys 2",
+      "scored": 75,
+      "conceded": 87,
+      "won": false,
+      "margin": -12,
+      "gameId": "ca2975d0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Joondalup Wolves U20 Boys 2",
+      "scored": 60,
+      "conceded": 70,
+      "won": false,
+      "margin": -10,
+      "gameId": "fc9ddeee"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Cockburn Cougars U20 Boys 2",
+      "scored": 84,
+      "conceded": 74,
+      "won": true,
+      "margin": 10,
+      "gameId": "6c1129a0"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Jakob Wenig",
+      "number": "5",
+      "playerId": "fef8c35c-0db1-4d2e-8613-97e74374c1f2",
+      "profileUrl": "https://www.playhq.com/public/profile/fef8c35c-0db1-4d2e-8613-97e74374c1f2/statistics?tenant=basketball-wa",
+      "avgPoints": 19.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Jake Kenna",
+      "number": "17",
+      "playerId": "d89767d4-fbcb-43c0-bb1d-81d9a1b18f6c",
+      "profileUrl": "https://www.playhq.com/public/profile/d89767d4-fbcb-43c0-bb1d-81d9a1b18f6c/statistics?tenant=basketball-wa",
+      "avgPoints": 18.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 2,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Nicholas Acquaviva",
+      "number": "6",
+      "playerId": "092fade2-f496-4576-a708-09001da8a36a",
+      "profileUrl": "https://www.playhq.com/public/profile/092fade2-f496-4576-a708-09001da8a36a/statistics?tenant=basketball-wa",
+      "avgPoints": 17.2,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 3.5,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Ethan Jongsma",
+      "number": "8",
+      "playerId": "6960d6a8-8b71-4c9f-a389-037d86bf98c3",
+      "profileUrl": "https://www.playhq.com/public/profile/6960d6a8-8b71-4c9f-a389-037d86bf98c3/statistics?tenant=basketball-wa",
+      "avgPoints": 16.5,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Thomas Bishop",
+      "number": "20",
+      "playerId": "10ef110d-65a3-40ae-9081-115894bc87a3",
+      "profileUrl": "https://www.playhq.com/public/profile/10ef110d-65a3-40ae-9081-115894bc87a3/statistics?tenant=basketball-wa",
+      "avgPoints": 14.7,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Laith Al Saidi",
+      "number": "9",
+      "playerId": "5080edca-d302-4215-9b80-7b0c599c5d87",
+      "profileUrl": "https://www.playhq.com/public/profile/5080edca-d302-4215-9b80-7b0c599c5d87/statistics?tenant=basketball-wa",
+      "avgPoints": 26.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Blake Ooi",
+      "number": "13",
+      "playerId": "a1fe7fc8-d6bf-4877-9068-61b5cbdd57ab",
+      "profileUrl": "https://www.playhq.com/public/profile/a1fe7fc8-d6bf-4877-9068-61b5cbdd57ab/statistics?tenant=basketball-wa",
+      "avgPoints": 10.3,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (6.0/g in last 2 vs 10.3/g season)",
+      "tags": []
+    },
+    {
+      "name": "Kau Kau",
+      "number": "10",
+      "playerId": "73fde5a2-122d-4c1c-87c0-a03666f22952",
+      "profileUrl": "https://www.playhq.com/public/profile/73fde5a2-122d-4c1c-87c0-a03666f22952/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.7/g in last 3 vs 2.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Alireza Eghbal",
+      "number": "14",
+      "playerId": "95fb1c9f-591b-41ec-a368-48ef9ce76867",
+      "profileUrl": "https://www.playhq.com/public/profile/95fb1c9f-591b-41ec-a368-48ef9ce76867/statistics?tenant=basketball-wa",
+      "avgPoints": 9.2,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Jurahan Cross",
+      "number": "24",
+      "playerId": "1e7c33be-b828-4588-8c9e-6b6ae438e64d",
+      "profileUrl": "https://www.playhq.com/public/profile/1e7c33be-b828-4588-8c9e-6b6ae438e64d/statistics?tenant=basketball-wa",
+      "avgPoints": 8.2,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (12.0/g in last 3 vs 8.2/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "f99f5701",
+      "name": "Perry Lakes Hawks U20 Boys 2"
+    },
+    "played": 13,
+    "won": 12,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 1296,
+    "pointsAgainst": 1001,
+    "percentage": 129.47,
+    "competitionPoints": 50
+  },
+  "awayLadder": {
+    "rank": 9,
+    "team": {
+      "id": "98e14987",
+      "name": "Binar Maali U20 Boys 2"
+    },
+    "played": 12,
+    "won": 3,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 893,
+    "pointsAgainst": 1060,
+    "percentage": 84.25,
+    "competitionPoints": 33
+  },
+  "totalTeams": 12,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "f99f5701",
+        "name": "Perry Lakes Hawks U20 Boys 2"
+      },
+      "played": 13,
+      "won": 12,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1001,
+      "percentage": 129.47,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "ad2a5312",
+        "name": "Warwick Senators U20 Boys 2"
+      },
+      "played": 13,
+      "won": 11,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 911,
+      "percentage": 117.23,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dad74e40",
+        "name": "Eastern Suns U20 Boys 2"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1085,
+      "pointsAgainst": 909,
+      "percentage": 119.36,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "88138f30",
+        "name": "Rockingham Flames U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1257,
+      "pointsAgainst": 1054,
+      "percentage": 119.26,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "772491d0",
+        "name": "Hills Raiders U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1208,
+      "pointsAgainst": 1048,
+      "percentage": 115.27,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "866928fc",
+        "name": "Cockburn Cougars U20 Boys 2"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1047,
+      "pointsAgainst": 1011,
+      "percentage": 103.56,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "5e83f80a",
+        "name": "Joondalup Wolves U20 Boys 2"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 995,
+      "percentage": 99.3,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "7feafd7a",
+        "name": "Lakeside Lightning U20 Boys 2"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1011,
+      "pointsAgainst": 1176,
+      "percentage": 85.97,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "98e14987",
+        "name": "Binar Maali U20 Boys 2"
+      },
+      "played": 12,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 893,
+      "pointsAgainst": 1060,
+      "percentage": 84.25,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d7f46c46",
+        "name": "Warwick Senators U20 Boys 3"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 855,
+      "pointsAgainst": 1078,
+      "percentage": 79.31,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "19c2a355",
+        "name": "Mandurah Magic U20 Boys Gold"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 891,
+      "pointsAgainst": 1040,
+      "percentage": 85.67,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "5ddff780",
+        "name": "Joondalup Wolves U20 Boys 3"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1033,
+      "pointsAgainst": 1349,
+      "percentage": 76.58,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T12:48:15.470098",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits first at 12-1 with a 129.5 percent and has won five straight, averaging 103 points per game in that stretch. Binar Maali is ninth at 3-9 with an 84.2 percent and has split their last five games, averaging 79-81. The home side has been dominant all season and plays at a high pace with explosive scoring, while Binar Maali has been inconsistent and will likely struggle to match the tempo. This is a significant ladder mismatch but Binar Maali showed they can score in their 108-81 win over Lakeside in Round 10, so intensity could spike if they stay competitive early.\n\nPerry Lakes spreads the load across five double-digit scorers led by Jakob Wenig at 19.0 points per game, Nicholas Acquaviva at 17.2, and Ethan Jongsma at 16.5. Thomas Bishop provides outside shooting at 2.2 threes per game while Jake Kenna gets to the line frequently at 4.5 free throws per game though he has only played two games. Acquaviva also draws contact at 3.5 free throws per game and hits 1.7 threes per game, giving Perry Lakes both inside-outside balance and free throw volume. Binar Maali relies heavily on Laith Al Saidi at 26.0 points per game with 2.7 free throws per game as their primary option. Jurahan Cross has been scoring more recently at 12.0 points per game over his last three games compared to his 8.2 season average, while Blake Ooi has dropped to 6.0 over his last two. Binar Maali shoots very few threes across the roster with Al Saidi and Cross the only modest threats from outside.\n\nWatch Kau Kau number 10 for Binar Maali who is fouling at 2.8 per game overall but has spiked to 3.7 over his last three games. Alireza Eghbal number 14 also trends up at 3.5 fouls per game in his last two outings versus 2.5 for the season, and Laith Al Saidi number 9 has increased to 2.0 fouls per game recently from 1.5 overall. Blake Ooi number 13 sits at 2.3 fouls per game. For Perry Lakes, Jakob Wenig number 5 fouls at 2.7 per game and Thomas Bishop number 20 at 2.1, but neither shows a recent spike. The key dynamic is Al Saidi carrying a huge offensive load for the visitors at 26.0 points per game, so any foul trouble on him shifts the game significantly given the lack of secondary scoring depth behind him and the surging Cross."
+}

@@ -1,0 +1,515 @@
+{
+  "gameId": "6826b011",
+  "gradeName": "U18 Girls Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Perry Lakes Hawks U18 Girls 1",
+  "awayTeam": "Warwick Senators U18 Girls 1",
+  "homeTeamId": "872009d2",
+  "awayTeamId": "e1f04acc",
+  "venue": "Bendat Basketball Centre",
+  "time": "09:45:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-girls-championship/game-centre/6826b011",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 75,
+      "conceded": 72,
+      "won": true,
+      "margin": 3,
+      "gameId": "f819673d"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Lakeside Lightning U18 Girls 1",
+      "scored": 87,
+      "conceded": 90,
+      "won": false,
+      "margin": -3,
+      "gameId": "6d289bfc"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Willetton Tigers U18 Girls 1",
+      "scored": 48,
+      "conceded": 50,
+      "won": false,
+      "margin": -2,
+      "gameId": "cbedd6e8"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Binar Maali U18 Girls",
+      "scored": 71,
+      "conceded": 72,
+      "won": false,
+      "margin": -1,
+      "gameId": "26f41ec1"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Cockburn Cougars U18 Girls 1",
+      "scored": 64,
+      "conceded": 83,
+      "won": false,
+      "margin": -19,
+      "gameId": "de8765b7"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Willetton Tigers U18 Girls 1",
+      "scored": 47,
+      "conceded": 75,
+      "won": false,
+      "margin": -28,
+      "gameId": "c98c0c18"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Cockburn Cougars U18 Girls 1",
+      "scored": 53,
+      "conceded": 77,
+      "won": false,
+      "margin": -24,
+      "gameId": "af976f0a"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 78,
+      "conceded": 62,
+      "won": true,
+      "margin": 16,
+      "gameId": "fee1b273"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 61,
+      "conceded": 31,
+      "won": true,
+      "margin": 30,
+      "gameId": "97fd0507"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "East Perth Eagles U18 Girls 1",
+      "scored": 85,
+      "conceded": 57,
+      "won": true,
+      "margin": 28,
+      "gameId": "5cb5cadd"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Lily Henwood",
+      "number": "9",
+      "playerId": "155ac053-1e00-4b9d-baf4-8d89b389619f",
+      "profileUrl": "https://www.playhq.com/public/profile/155ac053-1e00-4b9d-baf4-8d89b389619f/statistics?tenant=basketball-wa",
+      "avgPoints": 20.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 4.1,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.1/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Autumn Embley",
+      "number": "12",
+      "playerId": "78ac771a-a8b6-4da6-bc4c-4adbd0819994",
+      "profileUrl": "https://www.playhq.com/public/profile/78ac771a-a8b6-4da6-bc4c-4adbd0819994/statistics?tenant=basketball-wa",
+      "avgPoints": 18.2,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 3.4,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.6/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Evelyn Hawley",
+      "number": "4",
+      "playerId": "d9c15f78-2911-406b-b39a-74371c57c4c5",
+      "profileUrl": "https://www.playhq.com/public/profile/d9c15f78-2911-406b-b39a-74371c57c4c5/statistics?tenant=basketball-wa",
+      "avgPoints": 11.7,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ava Ramsay",
+      "number": "7",
+      "playerId": "f901186a-7ac4-42f9-a946-1208e7769ed3",
+      "profileUrl": "https://www.playhq.com/public/profile/f901186a-7ac4-42f9-a946-1208e7769ed3/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (5.3/g in last 3 vs 9.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Dakota Dimer",
+      "number": "13",
+      "playerId": "d183bdae-bc17-4650-8cc6-8ba1078d4cf8",
+      "profileUrl": "https://www.playhq.com/public/profile/d183bdae-bc17-4650-8cc6-8ba1078d4cf8/statistics?tenant=basketball-wa",
+      "avgPoints": 7.9,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 1 vs 1.8/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Keira Robinson",
+      "number": "6",
+      "playerId": "a2bc4255-5d6a-49db-a99d-6436a6f1c7df",
+      "profileUrl": "https://www.playhq.com/public/profile/a2bc4255-5d6a-49db-a99d-6436a6f1c7df/statistics?tenant=basketball-wa",
+      "avgPoints": 19.9,
+      "avgThrees": 2.7,
+      "avgFreeThrows": 3.4,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Gabriella Huddlestone",
+      "number": "15",
+      "playerId": "d2b7e8dc-2c2b-48d0-8f6c-868b7cf5f8a1",
+      "profileUrl": "https://www.playhq.com/public/profile/d2b7e8dc-2c2b-48d0-8f6c-868b7cf5f8a1/statistics?tenant=basketball-wa",
+      "avgPoints": 17.4,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 1.4/g season)",
+      "tags": []
+    },
+    {
+      "name": "Liv Field",
+      "number": "9",
+      "playerId": "b0c5ff7c-ccfe-4289-b83d-613743c6bb12",
+      "profileUrl": "https://www.playhq.com/public/profile/b0c5ff7c-ccfe-4289-b83d-613743c6bb12/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 0.9/g season)",
+      "tags": []
+    },
+    {
+      "name": "Mackenzie Markovic",
+      "number": "12",
+      "playerId": "7df57aa5-e9ab-4af6-a5b1-e0fbee41a249",
+      "profileUrl": "https://www.playhq.com/public/profile/7df57aa5-e9ab-4af6-a5b1-e0fbee41a249/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (13.3/g in last 3 vs 9.1/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jasmine Giles",
+      "number": "13",
+      "playerId": "c6e9eeed-42fe-4712-ae1b-46a5a037abfd",
+      "profileUrl": "https://www.playhq.com/public/profile/c6e9eeed-42fe-4712-ae1b-46a5a037abfd/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 3.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (5.0/g in last 2 vs 3.8/g season); scoring less lately (6.0/g in last 2 vs 9.1/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Perry Lakes Hawks U18 Girls 1",
+      "awayTeam": "Warwick Senators U18 Girls 1",
+      "homeScore": 62,
+      "awayScore": 97,
+      "homeWon": false,
+      "margin": -35
+    }
+  ],
+  "homeLadder": {
+    "rank": 7,
+    "team": {
+      "id": "872009d2",
+      "name": "Perry Lakes Hawks U18 Girls 1"
+    },
+    "played": 13,
+    "won": 4,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 926,
+    "pointsAgainst": 1013,
+    "percentage": 91.41,
+    "competitionPoints": 34
+  },
+  "awayLadder": {
+    "rank": 3,
+    "team": {
+      "id": "e1f04acc",
+      "name": "Warwick Senators U18 Girls 1"
+    },
+    "played": 13,
+    "won": 9,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 986,
+    "pointsAgainst": 802,
+    "percentage": 122.94,
+    "competitionPoints": 44
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "fe3f7a58",
+        "name": "Cockburn Cougars U18 Girls 1"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1151,
+      "pointsAgainst": 706,
+      "percentage": 163.03,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "bac173fc",
+        "name": "Willetton Tigers U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 889,
+      "pointsAgainst": 834,
+      "percentage": 106.59,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e1f04acc",
+        "name": "Warwick Senators U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 986,
+      "pointsAgainst": 802,
+      "percentage": 122.94,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "ca139f20",
+        "name": "Lakeside Lightning U18 Girls 1"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 966,
+      "pointsAgainst": 910,
+      "percentage": 106.15,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "8ff6a891",
+        "name": "Perth Redbacks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 875,
+      "pointsAgainst": 866,
+      "percentage": 101.04,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "cd669c50",
+        "name": "Joondalup Wolves U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 856,
+      "pointsAgainst": 821,
+      "percentage": 104.26,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "872009d2",
+        "name": "Perry Lakes Hawks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 1013,
+      "percentage": 91.41,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "f26f3e56",
+        "name": "Binar Maali U18 Girls"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 986,
+      "percentage": 82.25,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "5fa89c65",
+        "name": "East Perth Eagles U18 Girls 1"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 763,
+      "pointsAgainst": 1059,
+      "percentage": 72.05,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f0eab476",
+        "name": "South West Slammers U18 Girls"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 805,
+      "pointsAgainst": 1031,
+      "percentage": 78.08,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T11:19:53.627063",
+  "dataComplete": true,
+  "aiBriefing": "This is a mismatch on paper: Warwick sits third with nine wins against seventh-placed Perry Lakes, and the Senators dominated the earlier meeting 97-62. Perry Lakes arrives struggling with four straight losses, three decided by two points or less, suggesting tight finishes but an inability to close. Warwick rebounded from back-to-back heavy defeats in rounds 9-10 with three consecutive convincing wins averaging a 25-point margin. The ladder gap and recent form point to Warwick controlling tempo, but Perry Lakes' recent one-possession losses indicate they'll stay competitive longer than the first matchup suggests.\n\nPerry Lakes relies heavily on interior scoring from Lily Henwood (20.8 ppg, 4.1 free throws per game) and Autumn Embley (18.2 ppg, 3.4 free throws per game), with minimal three-point volume across the roster. Evelyn Hawley adds 11.7 ppg with modest outside shooting (1.2 threes per game), while Ava Ramsay has cooled recently to just 5.3 ppg over her last three after a 9.8 season average. Warwick spreads scoring more efficiently: Keira Robinson leads at 19.9 ppg with significant three-point volume (2.7 per game) and 3.4 free throws, while Gabriella Huddlestone contributes 17.4 ppg on 1.8 threes per game. Liv Field adds perimeter depth at 1.6 threes per game, and Mackenzie Markovic is trending upward with 13.3 ppg over her last three games despite taking no threes, relying instead on 2.6 free throws per game. Warwick's balanced inside-outside attack contrasts sharply with Perry Lakes' paint-dependent approach.\n\nJasmine Giles (#13) for Warwick requires close attention: she's averaging 3.8 fouls per game across the season and has spiked to 5.0 per game in her last two outings, an unusually high rate that puts her at serious risk of disqualification. Autumn Embley (#12) for Perry Lakes is also trending up at 3.5 fouls in her last two games versus a 2.6 season average. Beyond foul management, watch for physicality around Henwood and Embley as they drive into traffic seeking contact\u2014their combined 7.5 free throws per game will test post defense. Markovic's recent scoring surge without outside shooting means she's attacking the rim more, likely drawing fouls on drives. The 35-point head-to-head margin may create frustration if Perry Lakes falls behind early."
+}

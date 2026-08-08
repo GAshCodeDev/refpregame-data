@@ -1,0 +1,515 @@
+{
+  "gameId": "2cfaa433",
+  "gradeName": "U18 Girls Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Joondalup Wolves U18 Girls 1",
+  "awayTeam": "Cockburn Cougars U18 Girls 1",
+  "homeTeamId": "cd669c50",
+  "awayTeamId": "fe3f7a58",
+  "venue": "Arena Joondalup",
+  "time": "14:15:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-girls-championship/game-centre/2cfaa433",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "East Perth Eagles U18 Girls 1",
+      "scored": 77,
+      "conceded": 55,
+      "won": true,
+      "margin": 22,
+      "gameId": "7b266d7c"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "South West Slammers U18 Girls",
+      "scored": 90,
+      "conceded": 49,
+      "won": true,
+      "margin": 41,
+      "gameId": "aaf2b75d"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Lakeside Lightning U18 Girls 1",
+      "scored": 68,
+      "conceded": 70,
+      "won": false,
+      "margin": -2,
+      "gameId": "642402cc"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Willetton Tigers U18 Girls 1",
+      "scored": 56,
+      "conceded": 61,
+      "won": false,
+      "margin": -5,
+      "gameId": "260ee7bd"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Binar Maali U18 Girls",
+      "scored": 61,
+      "conceded": 41,
+      "won": true,
+      "margin": 20,
+      "gameId": "ed3f412d"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Binar Maali U18 Girls",
+      "scored": 96,
+      "conceded": 42,
+      "won": true,
+      "margin": 54,
+      "gameId": "bd28273c"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Warwick Senators U18 Girls 1",
+      "scored": 77,
+      "conceded": 53,
+      "won": true,
+      "margin": 24,
+      "gameId": "af976f0a"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Perth Redbacks U18 Girls 1",
+      "scored": 78,
+      "conceded": 43,
+      "won": true,
+      "margin": 35,
+      "gameId": "2f298b0f"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "East Perth Eagles U18 Girls 1",
+      "scored": 108,
+      "conceded": 48,
+      "won": true,
+      "margin": 60,
+      "gameId": "4864334b"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Perry Lakes Hawks U18 Girls 1",
+      "scored": 83,
+      "conceded": 64,
+      "won": true,
+      "margin": 19,
+      "gameId": "de8765b7"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Milla Yates",
+      "number": "15",
+      "playerId": "7707da88-0d1e-4fa1-af7b-75261870c196",
+      "profileUrl": "https://www.playhq.com/public/profile/7707da88-0d1e-4fa1-af7b-75261870c196/statistics?tenant=basketball-wa",
+      "avgPoints": 11.2,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 2.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Sapphire McLeod",
+      "number": "6",
+      "playerId": "a920413b-c8ea-491c-986b-7e9b54cfd505",
+      "profileUrl": "https://www.playhq.com/public/profile/a920413b-c8ea-491c-986b-7e9b54cfd505/statistics?tenant=basketball-wa",
+      "avgPoints": 9.9,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 2 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Shae Grinceri",
+      "number": "5",
+      "playerId": "2e5a1f29-d1b0-4d46-b397-75539b671fa0",
+      "profileUrl": "https://www.playhq.com/public/profile/2e5a1f29-d1b0-4d46-b397-75539b671fa0/statistics?tenant=basketball-wa",
+      "avgPoints": 9.2,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.5/g season)",
+      "tags": []
+    },
+    {
+      "name": "Lucy Corden",
+      "number": "7",
+      "playerId": "7b29eda7-1404-4407-a2b6-976cdb5ee311",
+      "profileUrl": "https://www.playhq.com/public/profile/7b29eda7-1404-4407-a2b6-976cdb5ee311/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 3.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Cameron Brown",
+      "number": "9",
+      "playerId": "7cf7ff80-5cf1-4044-a00b-bc2c5abfcd3e",
+      "profileUrl": "https://www.playhq.com/public/profile/7cf7ff80-5cf1-4044-a00b-bc2c5abfcd3e/statistics?tenant=basketball-wa",
+      "avgPoints": 7.8,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 2.2/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Hannah Summers",
+      "number": "4",
+      "playerId": "f3aad723-b7c9-4ef3-9ce8-95d6bf8d61da",
+      "profileUrl": "https://www.playhq.com/public/profile/f3aad723-b7c9-4ef3-9ce8-95d6bf8d61da/statistics?tenant=basketball-wa",
+      "avgPoints": 18.8,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (26.7/g in last 3 vs 18.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ava Bowlin",
+      "number": "10",
+      "playerId": "f808dd6b-e48d-4f7d-a884-a373c7ab64ae",
+      "profileUrl": "https://www.playhq.com/public/profile/f808dd6b-e48d-4f7d-a884-a373c7ab64ae/statistics?tenant=basketball-wa",
+      "avgPoints": 13.8,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 1.5/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Bonnie Donnelly",
+      "number": "12",
+      "playerId": "923102c9-d98b-4e52-a0cd-88fa376c7305",
+      "profileUrl": "https://www.playhq.com/public/profile/923102c9-d98b-4e52-a0cd-88fa376c7305/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Matilda Musto",
+      "number": "30",
+      "playerId": "ec7e9592-a717-4c56-ba49-d7c619673308",
+      "profileUrl": "https://www.playhq.com/public/profile/ec7e9592-a717-4c56-ba49-d7c619673308/statistics?tenant=basketball-wa",
+      "avgPoints": 11.0,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (14.7/g in last 3 vs 11.0/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Emmi Musulin",
+      "number": "34",
+      "playerId": "af8a630e-8a0c-469c-8b16-744ce7e2cbc6",
+      "profileUrl": "https://www.playhq.com/public/profile/af8a630e-8a0c-469c-8b16-744ce7e2cbc6/statistics?tenant=basketball-wa",
+      "avgPoints": 9.9,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (6.7/g in last 3 vs 9.9/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Joondalup Wolves U18 Girls 1",
+      "awayTeam": "Cockburn Cougars U18 Girls 1",
+      "homeScore": 47,
+      "awayScore": 83,
+      "homeWon": false,
+      "margin": -36
+    }
+  ],
+  "homeLadder": {
+    "rank": 6,
+    "team": {
+      "id": "cd669c50",
+      "name": "Joondalup Wolves U18 Girls 1"
+    },
+    "played": 13,
+    "won": 7,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 856,
+    "pointsAgainst": 821,
+    "percentage": 104.26,
+    "competitionPoints": 40
+  },
+  "awayLadder": {
+    "rank": 1,
+    "team": {
+      "id": "fe3f7a58",
+      "name": "Cockburn Cougars U18 Girls 1"
+    },
+    "played": 13,
+    "won": 13,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 1151,
+    "pointsAgainst": 706,
+    "percentage": 163.03,
+    "competitionPoints": 52
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "fe3f7a58",
+        "name": "Cockburn Cougars U18 Girls 1"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1151,
+      "pointsAgainst": 706,
+      "percentage": 163.03,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "bac173fc",
+        "name": "Willetton Tigers U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 889,
+      "pointsAgainst": 834,
+      "percentage": 106.59,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "e1f04acc",
+        "name": "Warwick Senators U18 Girls 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 986,
+      "pointsAgainst": 802,
+      "percentage": 122.94,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "ca139f20",
+        "name": "Lakeside Lightning U18 Girls 1"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 966,
+      "pointsAgainst": 910,
+      "percentage": 106.15,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "8ff6a891",
+        "name": "Perth Redbacks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 875,
+      "pointsAgainst": 866,
+      "percentage": 101.04,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "cd669c50",
+        "name": "Joondalup Wolves U18 Girls 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 856,
+      "pointsAgainst": 821,
+      "percentage": 104.26,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "872009d2",
+        "name": "Perry Lakes Hawks U18 Girls 1"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 926,
+      "pointsAgainst": 1013,
+      "percentage": 91.41,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "f26f3e56",
+        "name": "Binar Maali U18 Girls"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 811,
+      "pointsAgainst": 986,
+      "percentage": 82.25,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "5fa89c65",
+        "name": "East Perth Eagles U18 Girls 1"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 763,
+      "pointsAgainst": 1059,
+      "percentage": 72.05,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "f0eab476",
+        "name": "South West Slammers U18 Girls"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 805,
+      "pointsAgainst": 1031,
+      "percentage": 78.08,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T11:28:40.165822",
+  "dataComplete": true,
+  "aiBriefing": "This is a mismatch on paper. Cockburn sits first at 13-0 with a 163.0 percentage, Joondalup sixth at 7-6. The Cougars won the Round 5 meeting 83-47 and arrive in dominant form, averaging 88-50 over their last five including a 108-48 demolition of East Perth. Joondalup has split their last five at 3-2 with narrow losses to Lakeside and Willetton, and their recent wins have come against weaker opposition. Expect Cockburn to control tempo and exploit any gap in defensive discipline, particularly if Joondalup tries to press or contest aggressively to stay competitive.\n\nCockburn scores through volume and efficiency across the floor. Hannah Summers leads at 18.8 points per game and is surging at 26.7 over her last three. Ava Bowlin and Matilda Musto provide perimeter firepower at 2.2 and 2.3 three-pointers per game respectively, with Musto also hot lately at 14.7 points per game. Bonnie Donnelly adds 13.0 per game. The Cougars get limited free throw volume overall, relying on ball movement and outside shooting. Joondalup counters with Milla Yates at 11.2, Sapphire McLeod at 9.9, and Shae Grinceri at 9.2 points per game, but they lack Cockburn's depth and firepower. Yates and Grinceri draw 1.7 free throws per game each, suggesting some ability to attack inside, but the overall profile is modest.\n\nWatch Lucy Corden closely for Joondalup. She fouls at 3.4 per game, well above the norm, and will likely face extended possessions guarding Cockburn's skilled scorers. Cameron Brown has spiked to 4.0 fouls per game in her last two outings, a sharp jump from her 2.2 season average, and could be vulnerable if tasked with containing penetration or defending in transition. Milla Yates and Sapphire McLeod are also trending up in fouls recently at 2.7 and 2.0 per game respectively. For Cockburn, Hannah Summers fouls at 2.5 per game but her offensive load is critical; Emmi Musulin also sits at 2.3 per game. The scoring gap and Cockburn's pace could tempt Joondalup into reaching or over-helping, so monitor early foul accumulation on Corden and Brown especially."
+}

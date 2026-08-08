@@ -1,0 +1,530 @@
+{
+  "gameId": "28af15ba",
+  "gradeName": "U20 Boys Division 3",
+  "roundName": "Round 14",
+  "homeTeam": "Cockburn Cougars U20 Boys 2",
+  "awayTeam": "Hills Raiders U20 Boys 2",
+  "homeTeamId": "866928fc",
+  "awayTeamId": "772491d0",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "18:30:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u20-boys-division-3/game-centre/28af15ba",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Joondalup Wolves U20 Boys 3",
+      "scored": 123,
+      "conceded": 73,
+      "won": true,
+      "margin": 50,
+      "gameId": "38e8f5f8"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Mandurah Magic U20 Boys Gold",
+      "scored": 73,
+      "conceded": 64,
+      "won": true,
+      "margin": 9,
+      "gameId": "10b56489"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Warwick Senators U20 Boys 3",
+      "scored": 88,
+      "conceded": 67,
+      "won": true,
+      "margin": 21,
+      "gameId": "f3be3389"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Rockingham Flames U20 Boys 2",
+      "scored": 77,
+      "conceded": 70,
+      "won": true,
+      "margin": 7,
+      "gameId": "d38e39f7"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Binar Maali U20 Boys 2",
+      "scored": 74,
+      "conceded": 84,
+      "won": false,
+      "margin": -10,
+      "gameId": "6c1129a0"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Rockingham Flames U20 Boys 2",
+      "scored": 113,
+      "conceded": 115,
+      "won": false,
+      "margin": -2,
+      "gameId": "49075d21"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Eastern Suns U20 Boys 2",
+      "scored": 92,
+      "conceded": 69,
+      "won": true,
+      "margin": 23,
+      "gameId": "2eedb4b0"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Binar Maali U20 Boys 2",
+      "scored": 87,
+      "conceded": 75,
+      "won": true,
+      "margin": 12,
+      "gameId": "ca2975d0"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Lakeside Lightning U20 Boys 2",
+      "scored": 102,
+      "conceded": 71,
+      "won": true,
+      "margin": 31,
+      "gameId": "37d3043e"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Joondalup Wolves U20 Boys 2",
+      "scored": 92,
+      "conceded": 73,
+      "won": true,
+      "margin": 19,
+      "gameId": "f394c393"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Ari Elias",
+      "number": "11",
+      "playerId": "67131296-4fe7-400c-8abe-fedd93077613",
+      "profileUrl": "https://www.playhq.com/public/profile/67131296-4fe7-400c-8abe-fedd93077613/statistics?tenant=basketball-wa",
+      "avgPoints": 22.1,
+      "avgThrees": 2.7,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.8/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Chayse Stoddart",
+      "number": "5",
+      "playerId": "02d8255d-b1a9-4ceb-b7b2-b4dbb4eaa2a8",
+      "profileUrl": "https://www.playhq.com/public/profile/02d8255d-b1a9-4ceb-b7b2-b4dbb4eaa2a8/statistics?tenant=basketball-wa",
+      "avgPoints": 19.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Ray Kesuma",
+      "number": "7",
+      "playerId": "d2ea2fe7-c336-4e6b-bfce-b74576c3b843",
+      "profileUrl": "https://www.playhq.com/public/profile/d2ea2fe7-c336-4e6b-bfce-b74576c3b843/statistics?tenant=basketball-wa",
+      "avgPoints": 13.5,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.1/g season)",
+      "tags": []
+    },
+    {
+      "name": "Linton Cox",
+      "number": "14",
+      "playerId": "4b625709-4a1e-413e-8cd1-337944b3ef3d",
+      "profileUrl": "https://www.playhq.com/public/profile/4b625709-4a1e-413e-8cd1-337944b3ef3d/statistics?tenant=basketball-wa",
+      "avgPoints": 11.4,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 0.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 1 vs 0.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Regan Bell",
+      "number": "13",
+      "playerId": "ae8514ae-4e53-4fad-90a0-a1f6637df7f8",
+      "profileUrl": "https://www.playhq.com/public/profile/ae8514ae-4e53-4fad-90a0-a1f6637df7f8/statistics?tenant=basketball-wa",
+      "avgPoints": 11.1,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Deegan Castle",
+      "number": "15",
+      "playerId": "6442edb2-9e7a-4b32-a848-44cb94cd173e",
+      "profileUrl": "https://www.playhq.com/public/profile/6442edb2-9e7a-4b32-a848-44cb94cd173e/statistics?tenant=basketball-wa",
+      "avgPoints": 17.0,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Coby Jenkins",
+      "number": "9",
+      "playerId": "901de19d-21a3-4507-9239-c61f4396480a",
+      "profileUrl": "https://www.playhq.com/public/profile/901de19d-21a3-4507-9239-c61f4396480a/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.3/g in last 3 vs 1.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Cooper Dudley",
+      "number": "13",
+      "playerId": "901cac1d-068e-4b64-951e-6bea6bee66d5",
+      "profileUrl": "https://www.playhq.com/public/profile/901cac1d-068e-4b64-951e-6bea6bee66d5/statistics?tenant=basketball-wa",
+      "avgPoints": 16.2,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 2.1/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Lachlan King",
+      "number": "11",
+      "playerId": "2e6f4f11-1f74-46bb-9446-4a4c410b9bcc",
+      "profileUrl": "https://www.playhq.com/public/profile/2e6f4f11-1f74-46bb-9446-4a4c410b9bcc/statistics?tenant=basketball-wa",
+      "avgPoints": 11.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Jack Hurst",
+      "number": "5",
+      "playerId": "204b1591-9dab-495a-ac63-ff47fd279b80",
+      "profileUrl": "https://www.playhq.com/public/profile/204b1591-9dab-495a-ac63-ff47fd279b80/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 2.6,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 6,
+    "team": {
+      "id": "866928fc",
+      "name": "Cockburn Cougars U20 Boys 2"
+    },
+    "played": 13,
+    "won": 7,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 1047,
+    "pointsAgainst": 1011,
+    "percentage": 103.56,
+    "competitionPoints": 40
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "772491d0",
+      "name": "Hills Raiders U20 Boys 2"
+    },
+    "played": 13,
+    "won": 9,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 1208,
+    "pointsAgainst": 1048,
+    "percentage": 115.27,
+    "competitionPoints": 44
+  },
+  "totalTeams": 12,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "f99f5701",
+        "name": "Perry Lakes Hawks U20 Boys 2"
+      },
+      "played": 13,
+      "won": 12,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1001,
+      "percentage": 129.47,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "ad2a5312",
+        "name": "Warwick Senators U20 Boys 2"
+      },
+      "played": 13,
+      "won": 11,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 911,
+      "percentage": 117.23,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dad74e40",
+        "name": "Eastern Suns U20 Boys 2"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1085,
+      "pointsAgainst": 909,
+      "percentage": 119.36,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "88138f30",
+        "name": "Rockingham Flames U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1257,
+      "pointsAgainst": 1054,
+      "percentage": 119.26,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "772491d0",
+        "name": "Hills Raiders U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1208,
+      "pointsAgainst": 1048,
+      "percentage": 115.27,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "866928fc",
+        "name": "Cockburn Cougars U20 Boys 2"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1047,
+      "pointsAgainst": 1011,
+      "percentage": 103.56,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "5e83f80a",
+        "name": "Joondalup Wolves U20 Boys 2"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 995,
+      "percentage": 99.3,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "7feafd7a",
+        "name": "Lakeside Lightning U20 Boys 2"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1011,
+      "pointsAgainst": 1176,
+      "percentage": 85.97,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "98e14987",
+        "name": "Binar Maali U20 Boys 2"
+      },
+      "played": 12,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 893,
+      "pointsAgainst": 1060,
+      "percentage": 84.25,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d7f46c46",
+        "name": "Warwick Senators U20 Boys 3"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 855,
+      "pointsAgainst": 1078,
+      "percentage": 79.31,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "19c2a355",
+        "name": "Mandurah Magic U20 Boys Gold"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 891,
+      "pointsAgainst": 1040,
+      "percentage": 85.67,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "5ddff780",
+        "name": "Joondalup Wolves U20 Boys 3"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1033,
+      "pointsAgainst": 1349,
+      "percentage": 76.58,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T12:56:44.497040",
+  "dataComplete": true,
+  "aiBriefing": "This is a mid-table clash between Hills Raiders in 5th (9-4, 115.3%) and Cockburn in 6th (7-6, 103.6%). Both teams arrive in strong form with 4-1 records over their last five, though Hills are scoring at a significantly higher rate (97 points per game versus Cockburn's 87) and carry better percentage. No previous meetings this season means no carryover tension. Expect a competitive intensity as Hills look to consolidate their finals position while Cockburn aim to close the gap.\n\nCockburn's scoring is led by Ari Elias at 22.1 points per game with heavy three-point volume (2.7 makes per game) but minimal free throw attempts (1.1 per game), alongside Ray Kesuma at 13.5 points (1.7 threes, 0.5 free throws) and Regan Bell at 11.1 points (0.4 threes, 0.9 free throws). This is a perimeter-oriented offense that doesn't draw much contact. Hills distribute more evenly across Deegan Castle (17.0 ppg), Coby Jenkins (16.4 ppg), and Cooper Dudley (16.2 ppg), with Castle and Jenkins working inside (zero and 0.2 threes respectively) and drawing consistent free throw attempts (1.5 and 1.3 per game). Jack Hurst provides outside shooting at 2.6 threes per game. Hills attack the paint more and should draw more whistles, while Cockburn will operate on the perimeter.\n\nCooper Dudley (#13) for Hills warrants attention as he's already at 2.1 fouls per game and trending sharply upward to 2.7 per game in his last three, putting him at risk of foul trouble if he continues that physical approach defending Cockburn's scorers. Regan Bell (#13) sits at 2.2 fouls per game for Cockburn, the only other player near concern levels. The primary officiating focus will be the contrast in styles: Hills driving and drawing contact through Castle, Jenkins, and Lachlan King (1.9 free throws per game), versus Cockburn settling for outside shots with Elias and Kesuma. Watch for physicality when Hills' interior players work against Cockburn's perimeter-heavy defense."
+}

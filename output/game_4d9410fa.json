@@ -1,0 +1,535 @@
+{
+  "gameId": "4d9410fa",
+  "gradeName": "U20 Boys Division 3",
+  "roundName": "Round 14",
+  "homeTeam": "Warwick Senators U20 Boys 2",
+  "awayTeam": "Rockingham Flames U20 Boys 2",
+  "homeTeamId": "ad2a5312",
+  "awayTeamId": "88138f30",
+  "venue": "Warwick Stadium",
+  "time": "13:15:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u20-boys-division-3/game-centre/4d9410fa",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Perry Lakes Hawks U20 Boys 2",
+      "scored": 96,
+      "conceded": 105,
+      "won": false,
+      "margin": -9,
+      "gameId": "0ffdcfd6"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Joondalup Wolves U20 Boys 3",
+      "scored": 121,
+      "conceded": 72,
+      "won": true,
+      "margin": 49,
+      "gameId": "5924ab6e"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Eastern Suns U20 Boys 2",
+      "scored": 52,
+      "conceded": 77,
+      "won": false,
+      "margin": -25,
+      "gameId": "b1bcd7cd"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Warwick Senators U20 Boys 3",
+      "scored": 70,
+      "conceded": 46,
+      "won": true,
+      "margin": 24,
+      "gameId": "4ec834f1"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Mandurah Magic U20 Boys Gold",
+      "scored": 69,
+      "conceded": 66,
+      "won": true,
+      "margin": 3,
+      "gameId": "9989245f"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Hills Raiders U20 Boys 2",
+      "scored": 115,
+      "conceded": 113,
+      "won": true,
+      "margin": 2,
+      "gameId": "49075d21"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Joondalup Wolves U20 Boys 2",
+      "scored": 79,
+      "conceded": 78,
+      "won": true,
+      "margin": 1,
+      "gameId": "96feea17"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Lakeside Lightning U20 Boys 2",
+      "scored": 98,
+      "conceded": 67,
+      "won": true,
+      "margin": 31,
+      "gameId": "0624b933"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Cockburn Cougars U20 Boys 2",
+      "scored": 70,
+      "conceded": 77,
+      "won": false,
+      "margin": -7,
+      "gameId": "d38e39f7"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Perry Lakes Hawks U20 Boys 2",
+      "scored": 88,
+      "conceded": 102,
+      "won": false,
+      "margin": -14,
+      "gameId": "0b6ee541"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Piok Magot",
+      "number": "1",
+      "playerId": "fc967a15-eefd-4950-9116-89ccd28b1f83",
+      "profileUrl": "https://www.playhq.com/public/profile/fc967a15-eefd-4950-9116-89ccd28b1f83/statistics?tenant=basketball-wa",
+      "avgPoints": 16.0,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 2 vs 0.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Shane Cummins",
+      "number": "2",
+      "playerId": "aa914d9d-618e-47ca-8692-caf1dd1aa3d3",
+      "profileUrl": "https://www.playhq.com/public/profile/aa914d9d-618e-47ca-8692-caf1dd1aa3d3/statistics?tenant=basketball-wa",
+      "avgPoints": 12.2,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Malual Riak",
+      "number": "11",
+      "playerId": "066a97ed-7ef3-421a-9396-0ab8fc2e7bb8",
+      "profileUrl": "https://www.playhq.com/public/profile/066a97ed-7ef3-421a-9396-0ab8fc2e7bb8/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 1.0,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (7.0/g in last 1 vs 10.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Ethan Nguyen",
+      "number": "3",
+      "playerId": "d45c2951-5cc2-4907-ae59-e35071c1212e",
+      "profileUrl": "https://www.playhq.com/public/profile/d45c2951-5cc2-4907-ae59-e35071c1212e/statistics?tenant=basketball-wa",
+      "avgPoints": 10.1,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 2 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ethan Nicholls",
+      "number": "10",
+      "playerId": "c4182343-a840-4f80-b7aa-622a39b9ca51",
+      "profileUrl": "https://www.playhq.com/public/profile/c4182343-a840-4f80-b7aa-622a39b9ca51/statistics?tenant=basketball-wa",
+      "avgPoints": 9.7,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 0.2,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 0.9/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Samuel jnr Makonese",
+      "number": "14",
+      "playerId": "d639ee93-4172-498c-a578-e2a976110122",
+      "profileUrl": "https://www.playhq.com/public/profile/d639ee93-4172-498c-a578-e2a976110122/statistics?tenant=basketball-wa",
+      "avgPoints": 21.6,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 3.0/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ashton Salis",
+      "number": "17",
+      "playerId": "7418077c-d0ad-4f0c-bfef-345e8f6eb00b",
+      "profileUrl": "https://www.playhq.com/public/profile/7418077c-d0ad-4f0c-bfef-345e8f6eb00b/statistics?tenant=basketball-wa",
+      "avgPoints": 19.2,
+      "avgThrees": 3.8,
+      "avgFreeThrows": 1.0,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Joshua Stennett",
+      "number": "5",
+      "playerId": "449f6d61-4d8c-45f0-b15c-387dd5f69872",
+      "profileUrl": "https://www.playhq.com/public/profile/449f6d61-4d8c-45f0-b15c-387dd5f69872/statistics?tenant=basketball-wa",
+      "avgPoints": 17.1,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (9.0/g in last 2 vs 17.1/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Toby Luderer",
+      "number": "12",
+      "playerId": "d0c9adc2-baf5-47db-8b23-7ea3787d4eaf",
+      "profileUrl": "https://www.playhq.com/public/profile/d0c9adc2-baf5-47db-8b23-7ea3787d4eaf/statistics?tenant=basketball-wa",
+      "avgPoints": 14.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jayden Stewart",
+      "number": "6",
+      "playerId": "0b43adfb-4ced-4c3e-9656-7dad3eb03b14",
+      "profileUrl": "https://www.playhq.com/public/profile/0b43adfb-4ced-4c3e-9656-7dad3eb03b14/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 0.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 3 vs 0.5/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 2,
+    "team": {
+      "id": "ad2a5312",
+      "name": "Warwick Senators U20 Boys 2"
+    },
+    "played": 13,
+    "won": 11,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 1068,
+    "pointsAgainst": 911,
+    "percentage": 117.23,
+    "competitionPoints": 48
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "88138f30",
+      "name": "Rockingham Flames U20 Boys 2"
+    },
+    "played": 13,
+    "won": 9,
+    "lost": 4,
+    "drawn": 0,
+    "pointsFor": 1257,
+    "pointsAgainst": 1054,
+    "percentage": 119.26,
+    "competitionPoints": 44
+  },
+  "totalTeams": 12,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "f99f5701",
+        "name": "Perry Lakes Hawks U20 Boys 2"
+      },
+      "played": 13,
+      "won": 12,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1296,
+      "pointsAgainst": 1001,
+      "percentage": 129.47,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "ad2a5312",
+        "name": "Warwick Senators U20 Boys 2"
+      },
+      "played": 13,
+      "won": 11,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1068,
+      "pointsAgainst": 911,
+      "percentage": 117.23,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "dad74e40",
+        "name": "Eastern Suns U20 Boys 2"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1085,
+      "pointsAgainst": 909,
+      "percentage": 119.36,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "88138f30",
+        "name": "Rockingham Flames U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1257,
+      "pointsAgainst": 1054,
+      "percentage": 119.26,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "772491d0",
+        "name": "Hills Raiders U20 Boys 2"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1208,
+      "pointsAgainst": 1048,
+      "percentage": 115.27,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "866928fc",
+        "name": "Cockburn Cougars U20 Boys 2"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1047,
+      "pointsAgainst": 1011,
+      "percentage": 103.56,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "5e83f80a",
+        "name": "Joondalup Wolves U20 Boys 2"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 988,
+      "pointsAgainst": 995,
+      "percentage": 99.3,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "7feafd7a",
+        "name": "Lakeside Lightning U20 Boys 2"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1011,
+      "pointsAgainst": 1176,
+      "percentage": 85.97,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "98e14987",
+        "name": "Binar Maali U20 Boys 2"
+      },
+      "played": 12,
+      "won": 3,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 893,
+      "pointsAgainst": 1060,
+      "percentage": 84.25,
+      "competitionPoints": 33
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "d7f46c46",
+        "name": "Warwick Senators U20 Boys 3"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 855,
+      "pointsAgainst": 1078,
+      "percentage": 79.31,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "19c2a355",
+        "name": "Mandurah Magic U20 Boys Gold"
+      },
+      "played": 13,
+      "won": 3,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 891,
+      "pointsAgainst": 1040,
+      "percentage": 85.67,
+      "competitionPoints": 31
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "5ddff780",
+        "name": "Joondalup Wolves U20 Boys 3"
+      },
+      "played": 13,
+      "won": 1,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1033,
+      "pointsAgainst": 1349,
+      "percentage": 76.58,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T12:45:12.275200",
+  "dataComplete": true,
+  "aiBriefing": "This is a tight contest between second-placed Warwick (11-2) and fourth-placed Rockingham (9-4), both carrying strong percentages above 117. Warwick has been inconsistent lately at 3-2 with wild scoring variance, ranging from 52 to 121 points, while Rockingham also sits at 3-2 but in closer games, averaging 90-87 with three decided by seven points or less. No previous meeting this season means no existing friction, but both teams are fighting for top-four positioning in a U20 Division 3 where form has been patchy.\n\nRockingham brings significantly more firepower with three scorers above 17 points per game. Samuel Makonese leads at 21.6 points with a high free throw rate of 3.0 makes per game, Ashton Salis contributes 19.2 points built heavily on outside shooting at 3.8 three-pointers per game, and Joshua Stennett adds 17.1 points with moderate three-point volume at 2.3 per game though he's cooled to 9.0 in his last two. Warwick spreads scoring more evenly with Piok Magot top at 16.0 points, Shane Cummins at 12.2, and three others between 9.7 and 10.6. Ethan Nicholls takes the most threes for Warwick at 1.9 per game. Neither team shows exceptionally high free throw rates overall beyond Makonese, suggesting more perimeter-oriented offense than paint dominance.\n\nTwo Rockingham players carry notable foul burdens: Samuel Makonese averages 3.0 fouls per game across the season though he's dropped to 1.3 in his last three, and Toby Luderer sits at 3.2 fouls per game with no sign of improvement. Both risk foul trouble if the game gets physical inside. For Warwick, watch recent trends rather than season averages\u2014Piok Magot has jumped to 2.0 fouls in his last two games from a 0.8 season average, Ethan Nguyen is at 2.0 in his last two versus 1.5 overall, and Ethan Nicholls has climbed to 1.7 in his last three from 0.9 season-long. If Makonese attacks the paint early, these escalating foul patterns could leave Warwick short-handed."
+}

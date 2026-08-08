@@ -1,0 +1,515 @@
+{
+  "gameId": "642c9670",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Joondalup Wolves U18 Boys 1",
+  "awayTeam": "South West Slammers U18 Boys 1",
+  "homeTeamId": "523e4f9f",
+  "awayTeamId": "a575f98a",
+  "venue": "Arena Joondalup",
+  "time": "12:30:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-boys-championship/game-centre/642c9670",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 85,
+      "conceded": 126,
+      "won": false,
+      "margin": -41,
+      "gameId": "60a73882"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Cockburn Cougars U18 Boys 1",
+      "scored": 77,
+      "conceded": 75,
+      "won": true,
+      "margin": 2,
+      "gameId": "9738fc9e"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Lakeside Lightning U18 Boys 1",
+      "scored": 85,
+      "conceded": 126,
+      "won": false,
+      "margin": -41,
+      "gameId": "443d3e60"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 77,
+      "conceded": 86,
+      "won": false,
+      "margin": -9,
+      "gameId": "5193d80c"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 100,
+      "conceded": 84,
+      "won": true,
+      "margin": 16,
+      "gameId": "1daa1e1a"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 73,
+      "conceded": 105,
+      "won": false,
+      "margin": -32,
+      "gameId": "445ca127"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Lakeside Lightning U18 Boys 1",
+      "scored": 68,
+      "conceded": 73,
+      "won": false,
+      "margin": -5,
+      "gameId": "37900401"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Perth Redbacks U18 Boys 1",
+      "scored": 91,
+      "conceded": 86,
+      "won": true,
+      "margin": 5,
+      "gameId": "c59b97f6"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "East Perth Eagles U18 Boys 1",
+      "scored": 71,
+      "conceded": 92,
+      "won": false,
+      "margin": -21,
+      "gameId": "2d99b1de"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Perry Lakes Hawks U18 Boys 1",
+      "scored": 71,
+      "conceded": 77,
+      "won": false,
+      "margin": -6,
+      "gameId": "72b8a929"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Owen Baker",
+      "number": "8",
+      "playerId": "51532cee-29b5-4575-b840-8b2f9b8a9ad0",
+      "profileUrl": "https://www.playhq.com/public/profile/51532cee-29b5-4575-b840-8b2f9b8a9ad0/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 2.6/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Rafael Viegas",
+      "number": "10",
+      "playerId": "cdcf650a-002c-498a-85e6-91c66325edba",
+      "profileUrl": "https://www.playhq.com/public/profile/cdcf650a-002c-498a-85e6-91c66325edba/statistics?tenant=basketball-wa",
+      "avgPoints": 15.9,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 4.8,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.2/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Joseph Lolham",
+      "number": "5",
+      "playerId": "a90fc855-b625-46f3-8d11-00d71f4ff3ac",
+      "profileUrl": "https://www.playhq.com/public/profile/a90fc855-b625-46f3-8d11-00d71f4ff3ac/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Aiden Jones",
+      "number": "6",
+      "playerId": "b1ec7f32-a1ca-4f5b-8512-cc7210960305",
+      "profileUrl": "https://www.playhq.com/public/profile/b1ec7f32-a1ca-4f5b-8512-cc7210960305/statistics?tenant=basketball-wa",
+      "avgPoints": 12.5,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.5/g season); scoring more lately (17.3/g in last 3 vs 12.5/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Johk Atuer",
+      "number": "4",
+      "playerId": "9a958fb4-ed4a-4048-964f-060ebf8cd353",
+      "profileUrl": "https://www.playhq.com/public/profile/9a958fb4-ed4a-4048-964f-060ebf8cd353/statistics?tenant=basketball-wa",
+      "avgPoints": 11.3,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 2 vs 1.9/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Trent Faulkner",
+      "number": "14",
+      "playerId": "5b6ca7b9-3ced-47c5-a6fa-78266db240c7",
+      "profileUrl": "https://www.playhq.com/public/profile/5b6ca7b9-3ced-47c5-a6fa-78266db240c7/statistics?tenant=basketball-wa",
+      "avgPoints": 26.7,
+      "avgThrees": 3.5,
+      "avgFreeThrows": 4.6,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Lucas Jacob",
+      "number": "12",
+      "playerId": "7ad784fb-67d3-4674-ac8a-0866d80956c5",
+      "profileUrl": "https://www.playhq.com/public/profile/7ad784fb-67d3-4674-ac8a-0866d80956c5/statistics?tenant=basketball-wa",
+      "avgPoints": 21.2,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Beau Jones",
+      "number": "15",
+      "playerId": "44271a97-6666-48fc-98c1-c12c85feb6ee",
+      "profileUrl": "https://www.playhq.com/public/profile/44271a97-6666-48fc-98c1-c12c85feb6ee/statistics?tenant=basketball-wa",
+      "avgPoints": 13.4,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 3.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 7,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (2.0/g in last 1 vs 3.4/g season); scoring less lately (10.0/g in last 1 vs 13.4/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Jake Rees",
+      "number": "7",
+      "playerId": "52421164-cd5e-4642-9298-a843feca0955",
+      "profileUrl": "https://www.playhq.com/public/profile/52421164-cd5e-4642-9298-a843feca0955/statistics?tenant=basketball-wa",
+      "avgPoints": 7.8,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 3.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Toby Potter",
+      "number": "6",
+      "playerId": "1e71915f-3414-42ca-9561-2f673dc8db05",
+      "profileUrl": "https://www.playhq.com/public/profile/1e71915f-3414-42ca-9561-2f673dc8db05/statistics?tenant=basketball-wa",
+      "avgPoints": 6.6,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.0/g in last 2 vs 1.6/g season); scoring less lately (3.0/g in last 2 vs 6.6/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "Joondalup Wolves U18 Boys 1",
+      "awayTeam": "South West Slammers U18 Boys 1",
+      "homeScore": 85,
+      "awayScore": 95,
+      "homeWon": false,
+      "margin": -10
+    }
+  ],
+  "homeLadder": {
+    "rank": 6,
+    "team": {
+      "id": "523e4f9f",
+      "name": "Joondalup Wolves U18 Boys 1"
+    },
+    "played": 13,
+    "won": 6,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 1137,
+    "pointsAgainst": 1219,
+    "percentage": 93.27,
+    "competitionPoints": 38
+  },
+  "awayLadder": {
+    "rank": 9,
+    "team": {
+      "id": "a575f98a",
+      "name": "South West Slammers U18 Boys 1"
+    },
+    "played": 13,
+    "won": 4,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 1035,
+    "pointsAgainst": 1160,
+    "percentage": 89.22,
+    "competitionPoints": 34
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 12,
+      "won": 11,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 941,
+      "percentage": 145.59,
+      "competitionPoints": 49
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1080,
+      "pointsAgainst": 1038,
+      "percentage": 104.05,
+      "competitionPoints": 43
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1307,
+      "pointsAgainst": 1258,
+      "percentage": 103.9,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1051,
+      "pointsAgainst": 1010,
+      "percentage": 104.06,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1083,
+      "pointsAgainst": 1172,
+      "percentage": 92.41,
+      "competitionPoints": 39
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1137,
+      "pointsAgainst": 1219,
+      "percentage": 93.27,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1157,
+      "pointsAgainst": 1139,
+      "percentage": 101.58,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 12,
+      "won": 4,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1044,
+      "pointsAgainst": 1107,
+      "percentage": 94.31,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1035,
+      "pointsAgainst": 1160,
+      "percentage": 89.22,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 13,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 905,
+      "pointsAgainst": 1125,
+      "percentage": 80.44,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T11:12:54.916312",
+  "dataComplete": true,
+  "aiBriefing": "This is a bottom-half clash between sixth-placed Joondalup (6-7, 93.3%) and ninth-placed South West Slammers (4-9, 89.2%). Joondalup split their last five at 2-3 but just put up 100 points in a 16-point win over Rockingham, while the Slammers limped in at 1-4, averaging just 75 points per game in that stretch. South West won the earlier meeting 95-85 back in Round 5, so there's recent history. Both teams sit near the bottom of the ladder and need wins, but Joondalup's home record and recent offensive output suggest they'll push tempo if they can.\n\nJoondalup spreads the scoring fairly evenly: Owen Baker leads at 16.4 points per game with minimal three-point shooting (0.2 per game) and 2.8 free throws per game, Rafael Viegas adds 15.9 on 1.1 threes and a team-high 4.8 free throws per game, Joseph Lolham contributes 13.0 with 1.6 free throws, and Aiden Jones has surged to 17.3 points per game over his last three on the strength of 2.2 threes per game. South West runs through two dominant scorers: Trent Faulkner at 26.7 points per game with heavy three-point volume at 3.5 attempts per game plus 4.6 free throws, and Lucas Jacob at 21.2 points on 1.2 threes and 1.9 free throws. The Slammers are far more perimeter-oriented through Faulkner and will need those looks to fall to keep pace with Joondalup's balanced attack.\n\nWatch Owen Baker (#8) and Rafael Viegas (#10) for Joondalup\u2014Baker has jumped to 4.0 fouls per game in his last two outings versus a 2.6 season average, and Viegas has nearly doubled his rate to 2.3 in his last three from 1.2 overall. For South West, Jake Rees (#7) carries a high 3.5 fouls per game in limited minutes, and Beau Jones (#15) sits at 3.4 per game though he managed just 2.0 in his most recent appearance. The primary storyline will be how Joondalup defends Faulkner (#14) and Jacob (#12), who combine for nearly 48 points per game and will draw heavy defensive attention\u2014expect contact around screens and on drives given their offensive load."
+}

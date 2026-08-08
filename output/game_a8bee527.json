@@ -1,0 +1,520 @@
+{
+  "gameId": "a8bee527",
+  "gradeName": "U18 Boys Championship",
+  "roundName": "Round 14",
+  "homeTeam": "East Perth Eagles U18 Boys 1",
+  "awayTeam": "Perth Redbacks U18 Boys 1",
+  "homeTeamId": "50ea43fd",
+  "awayTeamId": "51b4a13e",
+  "venue": "Morley Sport and Recreation Centre",
+  "time": "11:30:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-boys-championship/game-centre/a8bee527",
+  "homeForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Joondalup Wolves U18 Boys 1",
+      "scored": 126,
+      "conceded": 85,
+      "won": true,
+      "margin": 41,
+      "gameId": "60a73882"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Willetton Tigers U18 Boys 1",
+      "scored": 138,
+      "conceded": 68,
+      "won": true,
+      "margin": 70,
+      "gameId": "d7231d7e"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 129,
+      "conceded": 81,
+      "won": true,
+      "margin": 48,
+      "gameId": "6c4854fb"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 92,
+      "conceded": 71,
+      "won": true,
+      "margin": 21,
+      "gameId": "2d99b1de"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 92,
+      "conceded": 99,
+      "won": false,
+      "margin": -7,
+      "gameId": "e823ffa1"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Lakeside Lightning U18 Boys 1",
+      "scored": 84,
+      "conceded": 83,
+      "won": true,
+      "margin": 1,
+      "gameId": "3da0332e"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Rockingham Flames U18 Boys 1",
+      "scored": 95,
+      "conceded": 82,
+      "won": true,
+      "margin": 13,
+      "gameId": "65d76239"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "South West Slammers U18 Boys 1",
+      "scored": 86,
+      "conceded": 91,
+      "won": false,
+      "margin": -5,
+      "gameId": "c59b97f6"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Warwick Senators U18 Boys 1",
+      "scored": 98,
+      "conceded": 88,
+      "won": true,
+      "margin": 10,
+      "gameId": "c53b8834"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Cockburn Cougars U18 Boys 1",
+      "scored": 100,
+      "conceded": 92,
+      "won": true,
+      "margin": 8,
+      "gameId": "c1bf6b26"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "John Aryang",
+      "number": "69",
+      "playerId": "ca50a1ea-55e3-4006-96df-a8793a8aef02",
+      "profileUrl": "https://www.playhq.com/public/profile/ca50a1ea-55e3-4006-96df-a8793a8aef02/statistics?tenant=basketball-wa",
+      "avgPoints": 34.3,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 5.7,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Zakarayah Magdy",
+      "number": "70",
+      "playerId": "1b90f15a-c6dc-4791-8932-03257e0d87a1",
+      "profileUrl": "https://www.playhq.com/public/profile/1b90f15a-c6dc-4791-8932-03257e0d87a1/statistics?tenant=basketball-wa",
+      "avgPoints": 21.1,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (33.0/g in last 1 vs 21.1/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Kobe Birch",
+      "number": "23",
+      "playerId": "566b660e-691e-4d8d-ad9d-24e088355464",
+      "profileUrl": "https://www.playhq.com/public/profile/566b660e-691e-4d8d-ad9d-24e088355464/statistics?tenant=basketball-wa",
+      "avgPoints": 19.4,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Phillip Rianga",
+      "number": "79",
+      "playerId": "03d254ae-7c4d-4f07-abe1-0392f23f3b42",
+      "profileUrl": "https://www.playhq.com/public/profile/03d254ae-7c4d-4f07-abe1-0392f23f3b42/statistics?tenant=basketball-wa",
+      "avgPoints": 13.1,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.2/g season); scoring more lately (17.3/g in last 3 vs 13.1/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Milan Dimitrijevic",
+      "number": "90",
+      "playerId": "3502a6ba-ae04-42f5-8fe5-e17d0cc79393",
+      "profileUrl": "https://www.playhq.com/public/profile/3502a6ba-ae04-42f5-8fe5-e17d0cc79393/statistics?tenant=basketball-wa",
+      "avgPoints": 12.0,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.7/g in last 3 vs 12.0/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Riley Barmentloo",
+      "number": "14",
+      "playerId": "9017f09e-1500-4363-95ae-0b46439af516",
+      "profileUrl": "https://www.playhq.com/public/profile/9017f09e-1500-4363-95ae-0b46439af516/statistics?tenant=basketball-wa",
+      "avgPoints": 28.5,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 4.8,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.2/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Koby Kalebic",
+      "number": "9",
+      "playerId": "71283182-2680-4768-85ab-37ffda96ea32",
+      "profileUrl": "https://www.playhq.com/public/profile/71283182-2680-4768-85ab-37ffda96ea32/statistics?tenant=basketball-wa",
+      "avgPoints": 16.2,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 1.9/g season); scoring less lately (11.0/g in last 3 vs 16.2/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "James Galvin",
+      "number": "6",
+      "playerId": "912913ef-b969-42c3-a7c3-c02833e375d8",
+      "profileUrl": "https://www.playhq.com/public/profile/912913ef-b969-42c3-a7c3-c02833e375d8/statistics?tenant=basketball-wa",
+      "avgPoints": 14.5,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "William Lippman",
+      "number": "11",
+      "playerId": "29ffe68d-bac8-4951-a72c-b777136bbb47",
+      "profileUrl": "https://www.playhq.com/public/profile/29ffe68d-bac8-4951-a72c-b777136bbb47/statistics?tenant=basketball-wa",
+      "avgPoints": 13.8,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.8,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 1 vs 2.8/g season)",
+      "tags": [
+        "Picked up a technical foul recently",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Hunter Mettam",
+      "number": "4",
+      "playerId": "a0eaba6b-3b9c-4a23-aca0-385adc2d5348",
+      "profileUrl": "https://www.playhq.com/public/profile/a0eaba6b-3b9c-4a23-aca0-385adc2d5348/statistics?tenant=basketball-wa",
+      "avgPoints": 10.6,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 0.3,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.7/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 5",
+      "homeTeam": "East Perth Eagles U18 Boys 1",
+      "awayTeam": "Perth Redbacks U18 Boys 1",
+      "homeScore": 129,
+      "awayScore": 102,
+      "homeWon": true,
+      "margin": 27
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "50ea43fd",
+      "name": "East Perth Eagles U18 Boys 1"
+    },
+    "played": 12,
+    "won": 11,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 1370,
+    "pointsAgainst": 941,
+    "percentage": 145.59,
+    "competitionPoints": 49
+  },
+  "awayLadder": {
+    "rank": 3,
+    "team": {
+      "id": "51b4a13e",
+      "name": "Perth Redbacks U18 Boys 1"
+    },
+    "played": 13,
+    "won": 8,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 1307,
+    "pointsAgainst": 1258,
+    "percentage": 103.9,
+    "competitionPoints": 42
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "50ea43fd",
+        "name": "East Perth Eagles U18 Boys 1"
+      },
+      "played": 12,
+      "won": 11,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1370,
+      "pointsAgainst": 941,
+      "percentage": 145.59,
+      "competitionPoints": 49
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "55c40ecb",
+        "name": "Lakeside Lightning U18 Boys 1"
+      },
+      "played": 13,
+      "won": 9,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1080,
+      "pointsAgainst": 1038,
+      "percentage": 104.05,
+      "competitionPoints": 43
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "51b4a13e",
+        "name": "Perth Redbacks U18 Boys 1"
+      },
+      "played": 13,
+      "won": 8,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1307,
+      "pointsAgainst": 1258,
+      "percentage": 103.9,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "a27c98b6",
+        "name": "Perry Lakes Hawks U18 Boys 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1051,
+      "pointsAgainst": 1010,
+      "percentage": 104.06,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "27e2c102",
+        "name": "Willetton Tigers U18 Boys 1"
+      },
+      "played": 13,
+      "won": 7,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1083,
+      "pointsAgainst": 1172,
+      "percentage": 92.41,
+      "competitionPoints": 39
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "523e4f9f",
+        "name": "Joondalup Wolves U18 Boys 1"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1137,
+      "pointsAgainst": 1219,
+      "percentage": 93.27,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "13e72555",
+        "name": "Warwick Senators U18 Boys 1"
+      },
+      "played": 13,
+      "won": 6,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1157,
+      "pointsAgainst": 1139,
+      "percentage": 101.58,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "b8a7657b",
+        "name": "Cockburn Cougars U18 Boys 1"
+      },
+      "played": 12,
+      "won": 4,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1044,
+      "pointsAgainst": 1107,
+      "percentage": 94.31,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "a575f98a",
+        "name": "South West Slammers U18 Boys 1"
+      },
+      "played": 13,
+      "won": 4,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1035,
+      "pointsAgainst": 1160,
+      "percentage": 89.22,
+      "competitionPoints": 34
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "a02fff1c",
+        "name": "Rockingham Flames U18 Boys 1"
+      },
+      "played": 13,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 905,
+      "pointsAgainst": 1125,
+      "percentage": 80.44,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T11:10:02.270919",
+  "dataComplete": true,
+  "aiBriefing": "East Perth sit first at 11-1 with a dominant percentage of 145.6%, while Perth Redbacks are third at 8-5. The Eagles have been an offensive juggernaut averaging 115 points over their last five games despite a recent stumble against Warwick, while the Redbacks have been grittier at 93 points per game with four tight wins including a one-point escape against Lakeside. The first meeting saw East Perth win comfortably 129-102. This is a significant ladder clash where the Redbacks need to disrupt East Perth's rhythm while the home side will look to reassert their dominance.\n\nEast Perth's offense runs through John Aryang at 34.3 points per game with moderate free throw usage at 5.7 attempts per game, supported by Zakarayah Magdy who has exploded to 33 points in his most recent outing and Kobe Birch averaging 19.4 with 1.7 threes per game showing outside range. Phillip Rianga and Milan Dimitrijevic have both trended up lately to 17.3 and 15.7 points respectively over their last three, giving the Eagles five legitimate scoring threats with balanced inside-outside attack. Perth Redbacks counter with Riley Barmentloo's 28.5 points and 4.8 free throws per game as their primary weapon, James Galvin at 14.5 with 1.7 threes, and perimeter specialists Koby Kalebic and Hunter Mettam each converting 2.2 threes per game. The Redbacks rely more heavily on their top scorer and outside shooting compared to East Perth's depth.\n\nRiley Barmentloo will draw significant defensive attention and his 4.8 free throw attempts per game suggest he attacks the basket under pressure, while his fouls have climbed to 3.0 per game recently so watch for frustration if East Perth's size bothers him. William Lippman has a technical foul in recent games and is fouling at 4.0 per game in his last appearance with a season average of 2.8, indicating he's playing with edge under pressure. Koby Kalebic has also trended up to 2.7 fouls lately from 1.9 on the season. For East Perth, Aryang's 34.3 points on just 1.3 fouls per game shows he scores efficiently without excessive contact, while the rest of their rotation stays clean with no foul concerns worth noting."
+}
