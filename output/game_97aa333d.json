@@ -1,0 +1,554 @@
+{
+  "gameId": "97aa333d",
+  "gradeName": "U21 Girls Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Perry Lakes Hawks U21 Girls 1",
+  "awayTeam": "Mandurah Magic U21 Girls",
+  "homeTeamId": "6999485d",
+  "awayTeamId": "4038b44e",
+  "venue": "Bendat Basketball Centre",
+  "time": "13:15:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u21-girls-championship/game-centre/97aa333d",
+  "homeForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "South West Slammers U21 Girls",
+      "scored": 78,
+      "conceded": 60,
+      "won": true,
+      "margin": 18,
+      "gameId": "7dace009"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 65,
+      "conceded": 74,
+      "won": false,
+      "margin": -9,
+      "gameId": "b8da2cb2"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 80,
+      "conceded": 64,
+      "won": true,
+      "margin": 16,
+      "gameId": "b5f34a28"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Hills Raiders U21 Girls",
+      "scored": 88,
+      "conceded": 75,
+      "won": true,
+      "margin": 13,
+      "gameId": "1f089895"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Joondalup Wolves U21 Girls",
+      "scored": 61,
+      "conceded": 33,
+      "won": true,
+      "margin": 28,
+      "gameId": "b0c929a8"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Warwick Senators U21 Girls",
+      "scored": 37,
+      "conceded": 90,
+      "won": false,
+      "margin": -53,
+      "gameId": "7ba9ff67"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "South West Slammers U21 Girls",
+      "scored": 57,
+      "conceded": 72,
+      "won": false,
+      "margin": -15,
+      "gameId": "2f38223c"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 51,
+      "conceded": 82,
+      "won": false,
+      "margin": -31,
+      "gameId": "14bd10c4"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Hills Raiders U21 Girls",
+      "scored": 70,
+      "conceded": 107,
+      "won": false,
+      "margin": -37,
+      "gameId": "1f1d7242"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 58,
+      "conceded": 64,
+      "won": false,
+      "margin": -6,
+      "gameId": "61f8568c"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Emie Stein",
+      "number": "17",
+      "playerId": "fb96f9cc-c8d5-420c-a790-d0b963ef7d97",
+      "profileUrl": "https://www.playhq.com/public/profile/fb96f9cc-c8d5-420c-a790-d0b963ef7d97/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (27.0/g in last 2 vs 16.4/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ella Cumming",
+      "number": "8",
+      "playerId": "71ecd501-768b-43d2-b3cc-b307d615df39",
+      "profileUrl": "https://www.playhq.com/public/profile/71ecd501-768b-43d2-b3cc-b307d615df39/statistics?tenant=basketball-wa",
+      "avgPoints": 14.3,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 2.0/g season)",
+      "tags": []
+    },
+    {
+      "name": "Courtney Walsh",
+      "number": "7",
+      "playerId": "b6caeaeb-262b-482c-a976-80b19cc97986",
+      "profileUrl": "https://www.playhq.com/public/profile/b6caeaeb-262b-482c-a976-80b19cc97986/statistics?tenant=basketball-wa",
+      "avgPoints": 10.3,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (13.0/g in last 1 vs 10.3/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Scarlett Griffiths",
+      "number": "6",
+      "playerId": "0254b121-b0a6-4afd-a897-76428aa483cc",
+      "profileUrl": "https://www.playhq.com/public/profile/0254b121-b0a6-4afd-a897-76428aa483cc/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 0.0,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Physical player",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Emily Dunstan",
+      "number": "9",
+      "playerId": "0690f297-2b7b-4ea0-b2fb-8ab8f8a6df13",
+      "profileUrl": "https://www.playhq.com/public/profile/0690f297-2b7b-4ea0-b2fb-8ab8f8a6df13/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Matilda Dawson",
+      "number": "14",
+      "playerId": "ecf7e071-20c1-4150-a22c-b43c69274e7c",
+      "profileUrl": "https://www.playhq.com/public/profile/ecf7e071-20c1-4150-a22c-b43c69274e7c/statistics?tenant=basketball-wa",
+      "avgPoints": 14.0,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 0.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 1,
+      "lowSampleSize": true,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Limited sample size"
+      ]
+    },
+    {
+      "name": "Maddison Coyne",
+      "number": "21",
+      "playerId": "2e766e93-aeff-4f55-a804-1992ac0066c7",
+      "profileUrl": "https://www.playhq.com/public/profile/2e766e93-aeff-4f55-a804-1992ac0066c7/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 3.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Ella-Grace Wood",
+      "number": "25",
+      "playerId": "e8a174cf-58c2-4193-bda4-c67c46eac752",
+      "profileUrl": "https://www.playhq.com/public/profile/e8a174cf-58c2-4193-bda4-c67c46eac752/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.3/g in last 3 vs 1.0/g season); scoring more lately (14.0/g in last 3 vs 9.1/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Laekin MacPhilomey",
+      "number": "11",
+      "playerId": "f858e876-920f-4b1c-8891-0890815022ea",
+      "profileUrl": "https://www.playhq.com/public/profile/f858e876-920f-4b1c-8891-0890815022ea/statistics?tenant=basketball-wa",
+      "avgPoints": 7.3,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.5/g in last 2 vs 2.3/g season); scoring more lately (10.0/g in last 2 vs 7.3/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Aria Delamere",
+      "number": "10",
+      "playerId": "751ed5d4-5729-4675-8748-c056808186bb",
+      "profileUrl": "https://www.playhq.com/public/profile/751ed5d4-5729-4675-8748-c056808186bb/statistics?tenant=basketball-wa",
+      "avgPoints": 6.8,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.5/g in last 2 vs 2.3/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "6999485d",
+      "name": "Perry Lakes Hawks U21 Girls 1"
+    },
+    "played": 12,
+    "won": 9,
+    "lost": 3,
+    "drawn": 0,
+    "pointsFor": 804,
+    "pointsAgainst": 632,
+    "percentage": 127.22,
+    "competitionPoints": 46
+  },
+  "awayLadder": {
+    "rank": 12,
+    "team": {
+      "id": "4038b44e",
+      "name": "Mandurah Magic U21 Girls"
+    },
+    "played": 12,
+    "won": 2,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 648,
+    "pointsAgainst": 897,
+    "percentage": 72.24,
+    "competitionPoints": 32
+  },
+  "totalTeams": 13,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "a5bc6a35",
+        "name": "Cockburn Cougars U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 916,
+      "pointsAgainst": 694,
+      "percentage": 131.99,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "477542e5",
+        "name": "Warwick Senators U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 940,
+      "pointsAgainst": 637,
+      "percentage": 147.57,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "12b3d448",
+        "name": "Hills Raiders U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1047,
+      "pointsAgainst": 850,
+      "percentage": 123.18,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6999485d",
+        "name": "Perry Lakes Hawks U21 Girls 1"
+      },
+      "played": 12,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 804,
+      "pointsAgainst": 632,
+      "percentage": 127.22,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "cc0a6359",
+        "name": "Eastern Suns U21 Girls"
+      },
+      "played": 12,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 902,
+      "pointsAgainst": 803,
+      "percentage": 112.33,
+      "competitionPoints": 45
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "47cb5621",
+        "name": "Lakeside Lightning U21 Girls"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 774,
+      "pointsAgainst": 733,
+      "percentage": 105.59,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d52712c3",
+        "name": "South West Slammers U21 Girls"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 804,
+      "pointsAgainst": 766,
+      "percentage": 104.96,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1f62216",
+        "name": "East Perth Eagles U21 Girls"
+      },
+      "played": 12,
+      "won": 5,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 688,
+      "pointsAgainst": 769,
+      "percentage": 89.47,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "c011e1f8",
+        "name": "Perth Redbacks U21 Girls"
+      },
+      "played": 12,
+      "won": 5,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 802,
+      "pointsAgainst": 827,
+      "percentage": 96.98,
+      "competitionPoints": 37
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "6f1067f2",
+        "name": "Binar Maali U21 Girls"
+      },
+      "played": 12,
+      "won": 4,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 681,
+      "pointsAgainst": 864,
+      "percentage": 78.82,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "3afc1362",
+        "name": "Joondalup Wolves U21 Girls"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 619,
+      "pointsAgainst": 860,
+      "percentage": 71.98,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4038b44e",
+        "name": "Mandurah Magic U21 Girls"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 648,
+      "pointsAgainst": 897,
+      "percentage": 72.24,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "ac40a139",
+        "name": "Perry Lakes Hawks U21 Girls 2"
+      },
+      "played": 12,
+      "won": 0,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 614,
+      "pointsAgainst": 907,
+      "percentage": 67.7,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T13:06:24.077464",
+  "dataComplete": true,
+  "aiBriefing": "Perry Lakes sits fourth at 9-3 and enters off four wins in five, averaging 74-61 in that stretch. Mandurah is 12th at 2-10 and winless in their last five, leaking points heavily with an average of 55-83 in that run including three defeats by 30-plus. No history between these sides this season. The ladder gap and recent form suggest Perry Lakes will control tempo and look to extend the margin, while Mandurah's struggle to stay competitive may lead to frustration late if the game gets away from them.\n\nPerry Lakes spreads scoring across multiple weapons. Emie Stein leads at 16.4 points per game but has surged to 27.0 in her last two outings\u2014she gets to the line 2.4 times per game. Ella Cumming adds 14.3 with similar free throw activity at 2.5 attempts. Courtney Walsh contributes 10.3, trending up to 13.0 recently, though she rarely draws contact with just 0.9 free throws per game. Emily Dunstan chips in 9.8 with perimeter presence at 1.6 threes per game. Mandurah relies more on outside shooting when they can get it going. Matilda Dawson showed 14.0 points and 3.0 three-point attempts in her single appearance, but that's one-game data. Ella-Grace Wood has lifted to 14.0 points per game over her last three and gets to the line at a 1.9 rate. Maddison Coyne averages 9.8 with modest free throw volume at 1.9 attempts. Overall Mandurah generates less contact and settles for perimeter looks when penetration stalls.\n\nMaddison Coyne number 21 for Mandurah fouls at a high rate\u20143.8 per game across the season\u2014and will need monitoring to stay on the floor. Ella Cumming number 8 for Perry Lakes commits 2.0 per game but has cleaned that up recently to 0.5 in her last two. Scarlett Griffiths number 6 has a 3.0 foul average but that's from one game only so take it cautiously. With Perry Lakes likely building a lead, watch for Mandurah's discipline if they fall behind by 20-plus given their recent blowout losses\u2014Wood and Coyne carry the offensive load for the visitors and any early foul trouble on them will further limit Mandurah's ability to compete."
+}

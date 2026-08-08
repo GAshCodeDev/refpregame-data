@@ -1,0 +1,553 @@
+{
+  "gameId": "3ad3e0fe",
+  "gradeName": "U21 Girls Championship",
+  "roundName": "Round 14",
+  "homeTeam": "Hills Raiders U21 Girls",
+  "awayTeam": "Lakeside Lightning U21 Girls",
+  "homeTeamId": "12b3d448",
+  "awayTeamId": "47cb5621",
+  "venue": "Mundaring Arena",
+  "time": "14:15:00",
+  "date": "2026-08-09",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u21-girls-championship/game-centre/3ad3e0fe",
+  "homeForm": [
+    {
+      "round": "Round 8",
+      "roundNumber": 8,
+      "roundIndex": 7,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 102,
+      "conceded": 96,
+      "won": true,
+      "margin": 6,
+      "gameId": "2f70c5fc"
+    },
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 96,
+      "conceded": 71,
+      "won": true,
+      "margin": 25,
+      "gameId": "763a7083"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Perry Lakes Hawks U21 Girls 1",
+      "scored": 75,
+      "conceded": 88,
+      "won": false,
+      "margin": -13,
+      "gameId": "1f089895"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Mandurah Magic U21 Girls",
+      "scored": 107,
+      "conceded": 70,
+      "won": true,
+      "margin": 37,
+      "gameId": "1f1d7242"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Joondalup Wolves U21 Girls",
+      "scored": 110,
+      "conceded": 49,
+      "won": true,
+      "margin": 61,
+      "gameId": "8aad1673"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 9",
+      "roundNumber": 9,
+      "roundIndex": 8,
+      "opponent": "Cockburn Cougars U21 Girls",
+      "scored": 54,
+      "conceded": 55,
+      "won": false,
+      "margin": -1,
+      "gameId": "078051a0"
+    },
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Warwick Senators U21 Girls",
+      "scored": 55,
+      "conceded": 75,
+      "won": false,
+      "margin": -20,
+      "gameId": "f23abced"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "South West Slammers U21 Girls",
+      "scored": 70,
+      "conceded": 67,
+      "won": true,
+      "margin": 3,
+      "gameId": "122ca45a"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Perth Redbacks U21 Girls",
+      "scored": 66,
+      "conceded": 47,
+      "won": true,
+      "margin": 19,
+      "gameId": "0f857782"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Eastern Suns U21 Girls",
+      "scored": 72,
+      "conceded": 77,
+      "won": false,
+      "margin": -5,
+      "gameId": "0f880920"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Emily Thomas-Loehn",
+      "number": "11",
+      "playerId": "f94ec63b-353c-41c2-9167-82b5e39b320a",
+      "profileUrl": "https://www.playhq.com/public/profile/f94ec63b-353c-41c2-9167-82b5e39b320a/statistics?tenant=basketball-wa",
+      "avgPoints": 23.5,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 2.1,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 1.9/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Yolanda Montgomery",
+      "number": "10",
+      "playerId": "56f11dc5-2560-4d6d-aebf-fc7935a975fd",
+      "profileUrl": "https://www.playhq.com/public/profile/56f11dc5-2560-4d6d-aebf-fc7935a975fd/statistics?tenant=basketball-wa",
+      "avgPoints": 11.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.0/g in last 3 vs 11.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jasmine Williams",
+      "number": "13",
+      "playerId": "86134d46-e236-4461-8775-4ff0c8a8da22",
+      "profileUrl": "https://www.playhq.com/public/profile/86134d46-e236-4461-8775-4ff0c8a8da22/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 3.0,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (15.0/g in last 3 vs 11.5/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ariaan Foeken",
+      "number": "6",
+      "playerId": "ec5016e6-9401-4d9f-a5f2-da2d7605fb1c",
+      "profileUrl": "https://www.playhq.com/public/profile/ec5016e6-9401-4d9f-a5f2-da2d7605fb1c/statistics?tenant=basketball-wa",
+      "avgPoints": 10.1,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Elliana Forman",
+      "number": "7",
+      "playerId": "17cea9fa-7b7b-4388-8ea4-7dab3f62c388",
+      "profileUrl": "https://www.playhq.com/public/profile/17cea9fa-7b7b-4388-8ea4-7dab3f62c388/statistics?tenant=basketball-wa",
+      "avgPoints": 9.7,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Ally Ellerton",
+      "number": "8",
+      "playerId": "ccdae321-ac24-4e91-b9b9-4ea011fa3c2b",
+      "profileUrl": "https://www.playhq.com/public/profile/ccdae321-ac24-4e91-b9b9-4ea011fa3c2b/statistics?tenant=basketball-wa",
+      "avgPoints": 19.0,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 3.5,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 1.5/g season)",
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Sarai Watson",
+      "number": "24",
+      "playerId": "a699d191-f755-4c72-b239-0c3d2edcffdb",
+      "profileUrl": "https://www.playhq.com/public/profile/a699d191-f755-4c72-b239-0c3d2edcffdb/statistics?tenant=basketball-wa",
+      "avgPoints": 17.2,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.8/g season); scoring more lately (24.7/g in last 3 vs 17.2/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ruby Thygesen",
+      "number": "21",
+      "playerId": "fd959c78-1efa-4f10-968c-082d3fd07978",
+      "profileUrl": "https://www.playhq.com/public/profile/fd959c78-1efa-4f10-968c-082d3fd07978/statistics?tenant=basketball-wa",
+      "avgPoints": 6.7,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Charlotte Clark",
+      "number": "22",
+      "playerId": "a8811b72-58a8-4a52-bc9f-f4b8ec364a64",
+      "profileUrl": "https://www.playhq.com/public/profile/a8811b72-58a8-4a52-bc9f-f4b8ec364a64/statistics?tenant=basketball-wa",
+      "avgPoints": 6.4,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.3/g in last 3 vs 0.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Stella Ferguson",
+      "number": "15",
+      "playerId": "4b0c0bfc-b184-47e8-9fb1-585bcc61b3a2",
+      "profileUrl": "https://www.playhq.com/public/profile/4b0c0bfc-b184-47e8-9fb1-585bcc61b3a2/statistics?tenant=basketball-wa",
+      "avgPoints": 6.3,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (3.5/g in last 2 vs 6.3/g season)",
+      "tags": []
+    }
+  ],
+  "headToHead": [],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "12b3d448",
+      "name": "Hills Raiders U21 Girls"
+    },
+    "played": 12,
+    "won": 10,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 1047,
+    "pointsAgainst": 850,
+    "percentage": 123.18,
+    "competitionPoints": 48
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "47cb5621",
+      "name": "Lakeside Lightning U21 Girls"
+    },
+    "played": 12,
+    "won": 6,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 774,
+    "pointsAgainst": 733,
+    "percentage": 105.59,
+    "competitionPoints": 40
+  },
+  "totalTeams": 13,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "a5bc6a35",
+        "name": "Cockburn Cougars U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 916,
+      "pointsAgainst": 694,
+      "percentage": 131.99,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "477542e5",
+        "name": "Warwick Senators U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 940,
+      "pointsAgainst": 637,
+      "percentage": 147.57,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "12b3d448",
+        "name": "Hills Raiders U21 Girls"
+      },
+      "played": 12,
+      "won": 10,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1047,
+      "pointsAgainst": 850,
+      "percentage": 123.18,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6999485d",
+        "name": "Perry Lakes Hawks U21 Girls 1"
+      },
+      "played": 12,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 804,
+      "pointsAgainst": 632,
+      "percentage": 127.22,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "cc0a6359",
+        "name": "Eastern Suns U21 Girls"
+      },
+      "played": 12,
+      "won": 9,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 902,
+      "pointsAgainst": 803,
+      "percentage": 112.33,
+      "competitionPoints": 45
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "47cb5621",
+        "name": "Lakeside Lightning U21 Girls"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 774,
+      "pointsAgainst": 733,
+      "percentage": 105.59,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d52712c3",
+        "name": "South West Slammers U21 Girls"
+      },
+      "played": 12,
+      "won": 6,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 804,
+      "pointsAgainst": 766,
+      "percentage": 104.96,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "d1f62216",
+        "name": "East Perth Eagles U21 Girls"
+      },
+      "played": 12,
+      "won": 5,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 688,
+      "pointsAgainst": 769,
+      "percentage": 89.47,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "c011e1f8",
+        "name": "Perth Redbacks U21 Girls"
+      },
+      "played": 12,
+      "won": 5,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 802,
+      "pointsAgainst": 827,
+      "percentage": 96.98,
+      "competitionPoints": 37
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "6f1067f2",
+        "name": "Binar Maali U21 Girls"
+      },
+      "played": 12,
+      "won": 4,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 681,
+      "pointsAgainst": 864,
+      "percentage": 78.82,
+      "competitionPoints": 35
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": "3afc1362",
+        "name": "Joondalup Wolves U21 Girls"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 619,
+      "pointsAgainst": 860,
+      "percentage": 71.98,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": "4038b44e",
+        "name": "Mandurah Magic U21 Girls"
+      },
+      "played": 12,
+      "won": 2,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 648,
+      "pointsAgainst": 897,
+      "percentage": 72.24,
+      "competitionPoints": 32
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": "ac40a139",
+        "name": "Perry Lakes Hawks U21 Girls 2"
+      },
+      "played": 12,
+      "won": 0,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 614,
+      "pointsAgainst": 907,
+      "percentage": 67.7,
+      "competitionPoints": 28
+    }
+  ],
+  "generatedAt": "2026-08-08T13:09:03.308364",
+  "dataComplete": true,
+  "aiBriefing": "Hills sit third at 10-2 with a strong percentage, Lightning sixth at 6-6 and needing wins to stay in touch with finals spots. Recent form tells the story: Hills have won four of five including blowouts in their last two (110-49, 107-70), averaging 98 points across that stretch, while Lakeside have dropped three of five and are scoring just 63 per game in that window. No prior meeting this season. Hills will push tempo and look to extend; Lakeside need to slow it down and keep it structured to stay competitive.\n\nHills spread their scoring effectively with Emily Thomas-Loehn the primary weapon at 23.5 points per game, supported by Yolanda Montgomery (11.8 ppg, no three-point attempts so she works inside), and Jasmine Williams (11.5 ppg). Williams gets to the line regularly at 3.0 free throws per game, the highest rate among starters. Thomas-Loehn shoots 1.8 threes per game while the rest of the roster shows limited outside volume. For Lakeside, Ally Ellerton (19.0 ppg, 2.3 threes per game, 3.5 free throws per game) and Sarai Watson (17.2 ppg, 2.0 threes, 2.8 free throws) do most of the damage and rely more heavily on perimeter shooting and free throw generation than Hills do. Watson is trending up sharply at 24.7 points over her last three. Charlotte Clark adds 1.6 threes per game in a supporting role. Lakeside depend far more on outside shooting and free throw creation to stay in games.\n\nWatch Elliana Forman (#7) for Hills closely\u2014she fouls at 3.3 per game over three appearances this season, well above everyone else on either roster, and will likely draw tough matchup assignments against Ellerton or Watson. Jasmine Williams (#13) also commits 2.5 fouls per game and gets to the line frequently herself, so contact around the basket when she attacks will need managing. Thomas-Loehn has been fouling more recently (2.7 per game in her last three versus 1.9 season average). For Lakeside, Watson (#24) is trending up in fouls (2.3 in last three versus 1.8 overall) while carrying a much heavier scoring load, so watch her frustration level if Hills extend the lead. No technical or unsportsmanlike foul history flagged for either team, but the combination of Hills' dominant form and Lakeside's playoff pressure could create tension if the margin blows out early."
+}
