@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:09:22.465534",
+  "generatedAt": "2026-08-15T10:10:58.286391",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -391,6 +391,32 @@
       "date": "2026-08-09",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_3ad3e0fe.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "b9cf529e",
+      "gradeName": "U20 Boys Championship",
+      "roundName": "Round 15",
+      "homeTeam": "Lakeside Lightning U20 Boys 1",
+      "awayTeam": "East Perth Eagles U20 Boys 1",
+      "venue": "Lakeside Recreation Centre",
+      "time": "15:30:00",
+      "date": "2026-08-16",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_b9cf529e.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "9f3a5185",
+      "gradeName": "U21 Girls Championship",
+      "roundName": "Round 15",
+      "homeTeam": "Lakeside Lightning U21 Girls",
+      "awayTeam": "Perry Lakes Hawks U21 Girls 1",
+      "venue": "Lakeside Recreation Centre",
+      "time": "17:15:00",
+      "date": "2026-08-16",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_9f3a5185.json",
       "hasAIBriefing": true
     }
   ]

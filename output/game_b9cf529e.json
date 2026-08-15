@@ -1,0 +1,485 @@
+{
+  "gameId": "b9cf529e",
+  "gradeName": "U20 Boys Championship",
+  "roundName": "Round 15",
+  "homeTeam": "Lakeside Lightning U20 Boys 1",
+  "awayTeam": "East Perth Eagles U20 Boys 1",
+  "homeTeamId": "21da544b",
+  "awayTeamId": "bced958a",
+  "venue": "Lakeside Recreation Centre",
+  "time": "15:30:00",
+  "date": "2026-08-16",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u20-boys-championship/game-centre/b9cf529e",
+  "homeForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "East Perth Eagles U20 Boys 1",
+      "scored": 90,
+      "conceded": 115,
+      "won": false,
+      "margin": -25,
+      "gameId": "0a66cbdc"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Mandurah Magic U20 Boys Red",
+      "scored": 112,
+      "conceded": 85,
+      "won": true,
+      "margin": 27,
+      "gameId": "654eed5f"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Willetton Tigers U20 Boys",
+      "scored": 116,
+      "conceded": 100,
+      "won": true,
+      "margin": 16,
+      "gameId": "c47f462a"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Rockingham Flames U20 Boys 1",
+      "scored": 85,
+      "conceded": 90,
+      "won": false,
+      "margin": -5,
+      "gameId": "8a8afd86"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Warwick Senators U20 Boys 1",
+      "scored": 76,
+      "conceded": 100,
+      "won": false,
+      "margin": -24,
+      "gameId": "380a098f"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 10",
+      "roundNumber": 10,
+      "roundIndex": 9,
+      "opponent": "Lakeside Lightning U20 Boys 1",
+      "scored": 115,
+      "conceded": 90,
+      "won": true,
+      "margin": 25,
+      "gameId": "0a66cbdc"
+    },
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Rockingham Flames U20 Boys 1",
+      "scored": 104,
+      "conceded": 97,
+      "won": true,
+      "margin": 7,
+      "gameId": "bf5045da"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Mandurah Magic U20 Boys Red",
+      "scored": 128,
+      "conceded": 67,
+      "won": true,
+      "margin": 61,
+      "gameId": "28fc9616"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Willetton Tigers U20 Boys",
+      "scored": 113,
+      "conceded": 97,
+      "won": true,
+      "margin": 16,
+      "gameId": "cb545868"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Perry Lakes Hawks U20 Boys 1",
+      "scored": 93,
+      "conceded": 69,
+      "won": true,
+      "margin": 24,
+      "gameId": "2c230699"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Bari Bedhadha",
+      "number": "26",
+      "playerId": "3f8a83f2-1965-4f3c-95c2-fbd51b91d546",
+      "profileUrl": "https://www.playhq.com/public/profile/3f8a83f2-1965-4f3c-95c2-fbd51b91d546/statistics?tenant=basketball-wa",
+      "avgPoints": 23.1,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Hugh Kawamura",
+      "number": "22",
+      "playerId": "118d7a16-4778-44a6-bb1f-3d3b6a4d0b20",
+      "profileUrl": "https://www.playhq.com/public/profile/118d7a16-4778-44a6-bb1f-3d3b6a4d0b20/statistics?tenant=basketball-wa",
+      "avgPoints": 18.4,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 1.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Will Harrison",
+      "number": "28",
+      "playerId": "786f2acc-270c-445e-83c5-825b9db6ae64",
+      "profileUrl": "https://www.playhq.com/public/profile/786f2acc-270c-445e-83c5-825b9db6ae64/statistics?tenant=basketball-wa",
+      "avgPoints": 15.2,
+      "avgThrees": 2.9,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 2 vs 1.2/g season); scoring less lately (9.0/g in last 2 vs 15.2/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ethan Carroll",
+      "number": "8",
+      "playerId": "95095659-098d-4e82-b911-cb229bf99560",
+      "profileUrl": "https://www.playhq.com/public/profile/95095659-098d-4e82-b911-cb229bf99560/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 4.2,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 6,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (8.5/g in last 2 vs 12.7/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Jethro Derecourt",
+      "number": "35",
+      "playerId": "7cb25e5a-8ad7-4b1d-8131-be19f0f742fc",
+      "profileUrl": "https://www.playhq.com/public/profile/7cb25e5a-8ad7-4b1d-8131-be19f0f742fc/statistics?tenant=basketball-wa",
+      "avgPoints": 11.4,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.7/g in last 3 vs 2.1/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Kai Kabugua",
+      "number": "15",
+      "playerId": "930ac529-d9d0-4279-90ed-4383fc18450d",
+      "profileUrl": "https://www.playhq.com/public/profile/930ac529-d9d0-4279-90ed-4383fc18450d/statistics?tenant=basketball-wa",
+      "avgPoints": 21.3,
+      "avgThrees": 1.7,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Roman Hube",
+      "number": "13",
+      "playerId": "86fdaa82-fbcc-467b-9137-6fb32d5aee97",
+      "profileUrl": "https://www.playhq.com/public/profile/86fdaa82-fbcc-467b-9137-6fb32d5aee97/statistics?tenant=basketball-wa",
+      "avgPoints": 17.2,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (22.3/g in last 3 vs 17.2/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Prince Awienab",
+      "number": "66",
+      "playerId": "8e972682-7e47-49b5-a50c-3820f21d05ee",
+      "profileUrl": "https://www.playhq.com/public/profile/8e972682-7e47-49b5-a50c-3820f21d05ee/statistics?tenant=basketball-wa",
+      "avgPoints": 14.9,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (20.3/g in last 3 vs 14.9/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Ryder Sage Pokoina",
+      "number": "73",
+      "playerId": "abe35154-6f8b-43c6-861b-fc608c18343f",
+      "profileUrl": "https://www.playhq.com/public/profile/abe35154-6f8b-43c6-861b-fc608c18343f/statistics?tenant=basketball-wa",
+      "avgPoints": 13.9,
+      "avgThrees": 3.0,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Benjamin Queay",
+      "number": "54",
+      "playerId": "639f6e4a-fae6-4af1-8066-38573e47af67",
+      "profileUrl": "https://www.playhq.com/public/profile/639f6e4a-fae6-4af1-8066-38573e47af67/statistics?tenant=basketball-wa",
+      "avgPoints": 11.6,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 1,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (7.0/g in last 2 vs 11.6/g season)",
+      "tags": [
+        "Picked up an unsportsmanlike foul recently"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 10",
+      "homeTeam": "Lakeside Lightning U20 Boys 1",
+      "awayTeam": "East Perth Eagles U20 Boys 1",
+      "homeScore": 90,
+      "awayScore": 115,
+      "homeWon": false,
+      "margin": -25
+    }
+  ],
+  "homeLadder": {
+    "rank": 4,
+    "team": {
+      "id": "21da544b",
+      "name": "Lakeside Lightning U20 Boys 1"
+    },
+    "played": 14,
+    "won": 6,
+    "lost": 8,
+    "drawn": 0,
+    "pointsFor": 1327,
+    "pointsAgainst": 1326,
+    "percentage": 100.08,
+    "competitionPoints": 40
+  },
+  "awayLadder": {
+    "rank": 1,
+    "team": {
+      "id": "bced958a",
+      "name": "East Perth Eagles U20 Boys 1"
+    },
+    "played": 14,
+    "won": 14,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 1499,
+    "pointsAgainst": 1139,
+    "percentage": 131.61,
+    "competitionPoints": 56
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "bced958a",
+        "name": "East Perth Eagles U20 Boys 1"
+      },
+      "played": 14,
+      "won": 14,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1499,
+      "pointsAgainst": 1139,
+      "percentage": 131.61,
+      "competitionPoints": 56
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "f72795fe",
+        "name": "Rockingham Flames U20 Boys 1"
+      },
+      "played": 14,
+      "won": 11,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1395,
+      "pointsAgainst": 1146,
+      "percentage": 121.73,
+      "competitionPoints": 49
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "4d51bb22",
+        "name": "Cockburn Cougars U20 Boys 1"
+      },
+      "played": 14,
+      "won": 7,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1155,
+      "pointsAgainst": 1239,
+      "percentage": 93.22,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "21da544b",
+        "name": "Lakeside Lightning U20 Boys 1"
+      },
+      "played": 14,
+      "won": 6,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1327,
+      "pointsAgainst": 1326,
+      "percentage": 100.08,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "94af77a8",
+        "name": "Perry Lakes Hawks U20 Boys 1"
+      },
+      "played": 14,
+      "won": 6,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1230,
+      "pointsAgainst": 1265,
+      "percentage": 97.23,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "c847bc96",
+        "name": "Warwick Senators U20 Boys 1"
+      },
+      "played": 14,
+      "won": 5,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1217,
+      "pointsAgainst": 1301,
+      "percentage": 93.54,
+      "competitionPoints": 38
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "48d34a0d",
+        "name": "Willetton Tigers U20 Boys"
+      },
+      "played": 14,
+      "won": 5,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1247,
+      "pointsAgainst": 1403,
+      "percentage": 88.88,
+      "competitionPoints": 37
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "c8b53a19",
+        "name": "Mandurah Magic U20 Boys Red"
+      },
+      "played": 14,
+      "won": 2,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1170,
+      "pointsAgainst": 1421,
+      "percentage": 82.34,
+      "competitionPoints": 32
+    }
+  ],
+  "generatedAt": "2026-08-15T10:07:37.010718",
+  "dataComplete": true,
+  "aiBriefing": "This is a major ladder clash between fourth-placed Lakeside at 6-8 and undefeated ladder leaders East Perth at 14-0. The Eagles dominated their first meeting 115-90 in Round 10 and have rolled through their last five games averaging 111 points while Lakeside has struggled to 2-3 form, losing their last two by a combined 29 points. East Perth will look to protect their unbeaten record while Lakeside needs a statement win at home. Expect the Eagles to dictate tempo and press their clear talent advantage, but Lakeside showed they can score in wins over Mandurah (112-85) and Willetton (116-100) when allowed to run.\n\nLakeside's offense centers on Bari Bedhadha's 23.1 points per game largely from inside, with Hugh Kawamura adding 18.4 including 1.4 threes per game and Will Harrison contributing 15.2 with strong perimeter volume at 2.9 threes per game. Ethan Carroll draws 4.2 free throws per game when he plays, showing Lakeside will attack the rim when their scorers are engaged. East Perth counters with deeper firepower led by Kai Kabugua at 21.3 points, but watch Roman Hube and Prince Awienab who are both trending hot at 22.3 and 20.3 points respectively over their last three games. Ryder Sage Pokoina stretches defenses with 3.0 three-point attempts per game, creating driving lanes for the Eagles' interior scorers who draw moderate free throw traffic.\n\nEthan Carroll picks up 2.8 fouls per game in limited appearances so watch his physicality defending East Perth's penetration. Benjamin Queay (#54) has one unsportsmanlike foul recently and will likely match up physically inside. Will Harrison is fouling more lately at 2.0 per game over his last two while his scoring has dipped to 9.0, suggesting frustration defending East Perth's balanced attack. Jethro Derecourt has jumped to 2.7 fouls per game over his last three games, up from his 2.1 season average. With East Perth protecting an unbeaten season and Lakeside desperate for a signature home win after two poor losses, expect competitive intensity throughout but no unusual discipline concerns beyond standard contact management."
+}
