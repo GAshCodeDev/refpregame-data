@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:10:58.286391",
+  "generatedAt": "2026-08-22T09:51:42.841895",
   "organisation": "Western Australian Basketball League (WABL)",
   "season": "2026",
   "games": [
@@ -417,6 +417,32 @@
       "date": "2026-08-16",
       "organisation": "Western Australian Basketball League (WABL)",
       "filename": "game_9f3a5185.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "be33b729",
+      "gradeName": "U16 Boys Championship",
+      "roundName": "Round 16",
+      "homeTeam": "Eastern Suns U16 Boys 1",
+      "awayTeam": "Rockingham Flames U16 Boys 1",
+      "venue": "Ray Owen Sports Centre",
+      "time": "08:00:00",
+      "date": "2026-08-23",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_be33b729.json",
+      "hasAIBriefing": true
+    },
+    {
+      "gameId": "a3ab76ec",
+      "gradeName": "U21 Girls Championship",
+      "roundName": "Round 16",
+      "homeTeam": "Eastern Suns U21 Girls",
+      "awayTeam": "Cockburn Cougars U21 Girls",
+      "venue": "Ray Owen Sports Centre",
+      "time": "09:45:00",
+      "date": "2026-08-23",
+      "organisation": "Western Australian Basketball League (WABL)",
+      "filename": "game_a3ab76ec.json",
       "hasAIBriefing": true
     }
   ]

@@ -1,0 +1,520 @@
+{
+  "gameId": "be33b729",
+  "gradeName": "U16 Boys Championship",
+  "roundName": "Round 16",
+  "homeTeam": "Eastern Suns U16 Boys 1",
+  "awayTeam": "Rockingham Flames U16 Boys 1",
+  "homeTeamId": "2ee9c086",
+  "awayTeamId": "0957898c",
+  "venue": "Ray Owen Sports Centre",
+  "time": "08:00:00",
+  "date": "2026-08-23",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u16-boys-championship/game-centre/be33b729",
+  "homeForm": [
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "Warwick Senators U16 Boys 1",
+      "scored": 95,
+      "conceded": 94,
+      "won": true,
+      "margin": 1,
+      "gameId": "3c4f263b"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Lakeside Lightning U16 Boys 1",
+      "scored": 65,
+      "conceded": 63,
+      "won": true,
+      "margin": 2,
+      "gameId": "9e0e7cb4"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Perth Redbacks U16 Boys 1",
+      "scored": 97,
+      "conceded": 76,
+      "won": true,
+      "margin": 21,
+      "gameId": "bf4869d5"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Willetton Tigers U16 Boys 1",
+      "scored": 71,
+      "conceded": 116,
+      "won": false,
+      "margin": -45,
+      "gameId": "0e04bcc5"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "East Perth Eagles U16 Boys 1",
+      "scored": 77,
+      "conceded": 83,
+      "won": false,
+      "margin": -6,
+      "gameId": "43384f36"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 11",
+      "roundNumber": 11,
+      "roundIndex": 10,
+      "opponent": "East Perth Eagles U16 Boys 1",
+      "scored": 88,
+      "conceded": 90,
+      "won": false,
+      "margin": -2,
+      "gameId": "c54d1624"
+    },
+    {
+      "round": "Round 12",
+      "roundNumber": 12,
+      "roundIndex": 11,
+      "opponent": "Perry Lakes Hawks U16 Boys 1",
+      "scored": 80,
+      "conceded": 96,
+      "won": false,
+      "margin": -16,
+      "gameId": "bc94c4c5"
+    },
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Joondalup Wolves U16 Boys 1",
+      "scored": 105,
+      "conceded": 87,
+      "won": true,
+      "margin": 18,
+      "gameId": "780664bb"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Lakeside Lightning U16 Boys 1",
+      "scored": 101,
+      "conceded": 116,
+      "won": false,
+      "margin": -15,
+      "gameId": "2063dfd4"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Willetton Tigers U16 Boys 1",
+      "scored": 63,
+      "conceded": 118,
+      "won": false,
+      "margin": -55,
+      "gameId": "2a78459c"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Leyton Rooke",
+      "number": "4",
+      "playerId": "f5d4e907-0776-4b9d-8b6e-12afd2f8452c",
+      "profileUrl": "https://www.playhq.com/public/profile/f5d4e907-0776-4b9d-8b6e-12afd2f8452c/statistics?tenant=basketball-wa",
+      "avgPoints": 20.9,
+      "avgThrees": 2.5,
+      "avgFreeThrows": 4.5,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Cal Kwe",
+      "number": "2",
+      "playerId": "d26a5a06-5217-4343-9420-d8d5d5849f75",
+      "profileUrl": "https://www.playhq.com/public/profile/d26a5a06-5217-4343-9420-d8d5d5849f75/statistics?tenant=basketball-wa",
+      "avgPoints": 15.6,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 3.7,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season)",
+      "tags": [
+        "Outside threat",
+        "Frequent free throws",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Noah Smith",
+      "number": "7",
+      "playerId": "ecd2fef2-f87a-40be-80f4-738ed0168e1a",
+      "profileUrl": "https://www.playhq.com/public/profile/ecd2fef2-f87a-40be-80f4-738ed0168e1a/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (17.0/g in last 1 vs 11.5/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Peter Jakob",
+      "number": "24",
+      "playerId": "42ada52d-fa9a-46db-9029-634eff8691cf",
+      "profileUrl": "https://www.playhq.com/public/profile/42ada52d-fa9a-46db-9029-634eff8691cf/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 8,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (8.3/g in last 3 vs 11.5/g season)",
+      "tags": []
+    },
+    {
+      "name": "Harper Kacimaiwai",
+      "number": "11",
+      "playerId": "311d662e-e49e-4e15-b702-1294a107d9fd",
+      "profileUrl": "https://www.playhq.com/public/profile/311d662e-e49e-4e15-b702-1294a107d9fd/statistics?tenant=basketball-wa",
+      "avgPoints": 9.5,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 3.3/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Jordan Manfield",
+      "number": "12",
+      "playerId": "6e0fcbe7-b370-4e32-aa13-e767fec1e091",
+      "profileUrl": "https://www.playhq.com/public/profile/6e0fcbe7-b370-4e32-aa13-e767fec1e091/statistics?tenant=basketball-wa",
+      "avgPoints": 26.0,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 3.2,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat",
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Edward Kerr",
+      "number": "4",
+      "playerId": "c36d7eaa-88bf-451b-9799-2375be33b790",
+      "profileUrl": "https://www.playhq.com/public/profile/c36d7eaa-88bf-451b-9799-2375be33b790/statistics?tenant=basketball-wa",
+      "avgPoints": 17.6,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jordi Jackson",
+      "number": "6",
+      "playerId": "d696a967-8e3e-4990-a3c3-0cbbb20038c5",
+      "profileUrl": "https://www.playhq.com/public/profile/d696a967-8e3e-4990-a3c3-0cbbb20038c5/statistics?tenant=basketball-wa",
+      "avgPoints": 16.4,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Finn Roguszka",
+      "number": "11",
+      "playerId": "da3ab9d9-c8c9-4db5-94a3-7cd3b669927d",
+      "profileUrl": "https://www.playhq.com/public/profile/da3ab9d9-c8c9-4db5-94a3-7cd3b669927d/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 2.2/g season); scoring less lately (9.0/g in last 2 vs 12.7/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Max Murphy",
+      "number": "13",
+      "playerId": "1cce0b8d-256e-4600-ac42-67e21bb323ae",
+      "profileUrl": "https://www.playhq.com/public/profile/1cce0b8d-256e-4600-ac42-67e21bb323ae/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 7",
+      "homeTeam": "Eastern Suns U16 Boys 1",
+      "awayTeam": "Rockingham Flames U16 Boys 1",
+      "homeScore": 77,
+      "awayScore": 95,
+      "homeWon": false,
+      "margin": -18
+    }
+  ],
+  "homeLadder": {
+    "rank": 9,
+    "team": {
+      "id": "2ee9c086",
+      "name": "Eastern Suns U16 Boys 1"
+    },
+    "played": 15,
+    "won": 5,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 1118,
+    "pointsAgainst": 1323,
+    "percentage": 84.5,
+    "competitionPoints": 39
+  },
+  "awayLadder": {
+    "rank": 6,
+    "team": {
+      "id": "0957898c",
+      "name": "Rockingham Flames U16 Boys 1"
+    },
+    "played": 15,
+    "won": 5,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 1320,
+    "pointsAgainst": 1381,
+    "percentage": 95.58,
+    "competitionPoints": 40
+  },
+  "totalTeams": 10,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "3946d754",
+        "name": "Warwick Senators U16 Boys 1"
+      },
+      "played": 15,
+      "won": 14,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1483,
+      "pointsAgainst": 1084,
+      "percentage": 136.81,
+      "competitionPoints": 58
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "f3a16d8f",
+        "name": "Willetton Tigers U16 Boys 1"
+      },
+      "played": 15,
+      "won": 12,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1524,
+      "pointsAgainst": 1049,
+      "percentage": 145.28,
+      "competitionPoints": 54
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "59fa3744",
+        "name": "Perry Lakes Hawks U16 Boys 1"
+      },
+      "played": 15,
+      "won": 11,
+      "lost": 4,
+      "drawn": 0,
+      "pointsFor": 1400,
+      "pointsAgainst": 1226,
+      "percentage": 114.19,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "da2a39f4",
+        "name": "Joondalup Wolves U16 Boys 1"
+      },
+      "played": 15,
+      "won": 8,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1232,
+      "pointsAgainst": 1276,
+      "percentage": 96.55,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "0eea428d",
+        "name": "Perth Redbacks U16 Boys 1"
+      },
+      "played": 15,
+      "won": 7,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1242,
+      "pointsAgainst": 1335,
+      "percentage": 93.03,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "0957898c",
+        "name": "Rockingham Flames U16 Boys 1"
+      },
+      "played": 15,
+      "won": 5,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1320,
+      "pointsAgainst": 1381,
+      "percentage": 95.58,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "e54a541f",
+        "name": "East Perth Eagles U16 Boys 1"
+      },
+      "played": 15,
+      "won": 5,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1215,
+      "pointsAgainst": 1398,
+      "percentage": 86.91,
+      "competitionPoints": 39
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "518cfb7c",
+        "name": "Lakeside Lightning U16 Boys 1"
+      },
+      "played": 15,
+      "won": 5,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1171,
+      "pointsAgainst": 1353,
+      "percentage": 86.55,
+      "competitionPoints": 39
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "2ee9c086",
+        "name": "Eastern Suns U16 Boys 1"
+      },
+      "played": 15,
+      "won": 5,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1118,
+      "pointsAgainst": 1323,
+      "percentage": 84.5,
+      "competitionPoints": 39
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": "3bdfcbc0",
+        "name": "South West Slammers U16 Boys 1"
+      },
+      "played": 15,
+      "won": 3,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1251,
+      "pointsAgainst": 1531,
+      "percentage": 81.71,
+      "competitionPoints": 35
+    }
+  ],
+  "generatedAt": "2026-08-22T09:48:17.662137",
+  "dataComplete": true,
+  "aiBriefing": "This is a matchup between two sides equal on wins but separated by percentage, Eastern Suns ninth at 84.5% hosting sixth-placed Rockingham at 95.6%. The Suns have steadied recently with three wins in five but took heavy losses to Willetton and East Perth in their last two. Rockingham arrives in poor form, one win from five with blowout defeats to Willetton (55 points) and Perry Lakes, and they won the earlier meeting 95-77 in Round 7. Both teams score in volume but Rockingham concedes freely, averaging 101 against in their last five compared to Eastern's 86. Expect an open, high-tempo game with both sides pushing pace and little defensive resistance.\n\nEastern Suns are led by Leyton Rooke at 20.9 points per game with moderate three-point volume (2.5 makes) and a solid free throw rate of 4.5 attempts per game. Cal Kwe adds 15.6 on similar outside shooting (2.1 threes) and 3.7 free throw attempts, while Noah Smith contributes 11.5 including 1.5 threes per game but gets to the line rarely at 1.3 attempts. Rockingham counters with a more potent attack fronted by Jordan Manfield at 26.0 points, shooting 2.1 threes and drawing 3.2 free throws per game. Edward Kerr (17.6 points, 2.1 threes) and Jordi Jackson (16.4 points, 1.1 threes, 2.6 free throws) provide secondary scoring with balanced two-point and perimeter production. Rockingham's top three scorers combine for 60 points per game compared to Eastern's top three at 48, giving the visitors a clear offensive edge if those players execute.\n\nHarper Kacimaiwai (#11) for Eastern has averaged 3.3 fouls per game this season, well above typical rates, though he's improved recently to 1.3 in his last three games. Max Murphy (#13) for Rockingham sits at 3.3 fouls per game across the full season with no recent trend change, indicating persistent foul trouble. Edward Kerr (#4) also runs high at 2.8 fouls per game for Rockingham. Watch Finn Roguszka (#11, Rockingham) who has spiked to 3.0 fouls per game in his last two outings after sitting at 2.2 for the season, coinciding with a dip in scoring output from 12.7 to 9.0 points. The offensive mismatch between Manfield and Eastern's defense will likely draw contact around the basket, so manage the physicality early on drives and finishes."
+}
