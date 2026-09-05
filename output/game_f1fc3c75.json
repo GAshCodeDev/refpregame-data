@@ -1,0 +1,490 @@
+{
+  "gameId": "f1fc3c75",
+  "gradeName": "U16 Boys Division 4",
+  "roundName": "Semi Finals",
+  "homeTeam": "Rockingham Flames U16 Boys 2",
+  "awayTeam": "Joondalup Wolves U16 Boys 3",
+  "homeTeamId": "317dff3b",
+  "awayTeamId": "b1935cc6",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "16:00:00",
+  "date": "2026-09-06",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u16-boys-division-4/game-centre/f1fc3c75",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Warwick Senators U16 Boys 4",
+      "scored": 61,
+      "conceded": 75,
+      "won": false,
+      "margin": -14,
+      "gameId": "d609472f"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Joondalup Wolves U16 Boys 3",
+      "scored": 87,
+      "conceded": 63,
+      "won": true,
+      "margin": 24,
+      "gameId": "66ec9c91"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "South West Slammers U16 Boys 2",
+      "scored": 85,
+      "conceded": 72,
+      "won": true,
+      "margin": 13,
+      "gameId": "f3bf573e"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Eastern Suns U16 Boys 3",
+      "scored": 81,
+      "conceded": 79,
+      "won": true,
+      "margin": 2,
+      "gameId": "0deb3b2a"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Cockburn Cougars U16 Boys 3",
+      "scored": 84,
+      "conceded": 63,
+      "won": true,
+      "margin": 21,
+      "gameId": "0dc3545f"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Cockburn Cougars U16 Boys 3",
+      "scored": 36,
+      "conceded": 47,
+      "won": false,
+      "margin": -11,
+      "gameId": "9d9addde"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Rockingham Flames U16 Boys 2",
+      "scored": 63,
+      "conceded": 87,
+      "won": false,
+      "margin": -24,
+      "gameId": "66ec9c91"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Perry Lakes Hawks U16 Boys 3",
+      "scored": 76,
+      "conceded": 57,
+      "won": true,
+      "margin": 19,
+      "gameId": "b7479ab5"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Warwick Senators U16 Boys 4",
+      "scored": 47,
+      "conceded": 53,
+      "won": false,
+      "margin": -6,
+      "gameId": "9b4e0d12"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Hills Raiders U16 Boys 1",
+      "scored": 65,
+      "conceded": 59,
+      "won": true,
+      "margin": 6,
+      "gameId": "2c030db5"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Sonny Wilson",
+      "number": "14",
+      "playerId": "b81f07dd-b649-42fb-a399-8c5cca366ad3",
+      "profileUrl": "https://www.playhq.com/public/profile/b81f07dd-b649-42fb-a399-8c5cca366ad3/statistics?tenant=basketball-wa",
+      "avgPoints": 18.4,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 1.8/g season)",
+      "tags": []
+    },
+    {
+      "name": "Isaac Oneill",
+      "number": "4",
+      "playerId": "56fafa8e-7d1d-45e0-b88f-f490935cf40a",
+      "profileUrl": "https://www.playhq.com/public/profile/56fafa8e-7d1d-45e0-b88f-f490935cf40a/statistics?tenant=basketball-wa",
+      "avgPoints": 12.9,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Tyson Musiwa",
+      "number": "12",
+      "playerId": "923b4dd1-dc18-482a-ac78-2a791806e992",
+      "profileUrl": "https://www.playhq.com/public/profile/923b4dd1-dc18-482a-ac78-2a791806e992/statistics?tenant=basketball-wa",
+      "avgPoints": 12.2,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 1.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Rylan Clark",
+      "number": "9",
+      "playerId": "a3ee8868-eeea-43f7-9433-7b0fc5e34f66",
+      "profileUrl": "https://www.playhq.com/public/profile/a3ee8868-eeea-43f7-9433-7b0fc5e34f66/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 2.3/g season); scoring less lately (7.5/g in last 2 vs 10.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Kayden Smith",
+      "number": "11",
+      "playerId": "d0f4d364-d163-46e0-b860-aed5915a1f76",
+      "profileUrl": "https://www.playhq.com/public/profile/d0f4d364-d163-46e0-b860-aed5915a1f76/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.1/g season); scoring more lately (14.0/g in last 3 vs 9.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Zaid Al Saidi",
+      "number": "9",
+      "playerId": "83fd59b2-b80a-474c-98b2-84853552c3d1",
+      "profileUrl": "https://www.playhq.com/public/profile/83fd59b2-b80a-474c-98b2-84853552c3d1/statistics?tenant=basketball-wa",
+      "avgPoints": 14.9,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Israel Gooding",
+      "number": "12",
+      "playerId": "870c648b-4165-4515-bbc4-b294f669701c",
+      "profileUrl": "https://www.playhq.com/public/profile/870c648b-4165-4515-bbc4-b294f669701c/statistics?tenant=basketball-wa",
+      "avgPoints": 10.0,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.8,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Tomas Lackovic",
+      "number": "10",
+      "playerId": "bdf05c5e-ee3b-4bff-ae70-e9ca071c3ab5",
+      "profileUrl": "https://www.playhq.com/public/profile/bdf05c5e-ee3b-4bff-ae70-e9ca071c3ab5/statistics?tenant=basketball-wa",
+      "avgPoints": 9.6,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Harvey Hazell",
+      "number": "14",
+      "playerId": "5b9696b0-e9f1-4e88-997b-24557d1cbece",
+      "profileUrl": "https://www.playhq.com/public/profile/5b9696b0-e9f1-4e88-997b-24557d1cbece/statistics?tenant=basketball-wa",
+      "avgPoints": 9.2,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 0.9/g season)",
+      "tags": []
+    },
+    {
+      "name": "Cooper Brian",
+      "number": "4",
+      "playerId": "36fe954c-f689-4880-99d2-d0befee73df1",
+      "profileUrl": "https://www.playhq.com/public/profile/36fe954c-f689-4880-99d2-d0befee73df1/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 3.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 8",
+      "homeTeam": "Rockingham Flames U16 Boys 2",
+      "awayTeam": "Joondalup Wolves U16 Boys 3",
+      "homeScore": 70,
+      "awayScore": 74,
+      "homeWon": false,
+      "margin": -4
+    },
+    {
+      "round": "Round 14",
+      "homeTeam": "Rockingham Flames U16 Boys 2",
+      "awayTeam": "Joondalup Wolves U16 Boys 3",
+      "homeScore": 87,
+      "awayScore": 63,
+      "homeWon": true,
+      "margin": 24
+    }
+  ],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "317dff3b",
+      "name": "Rockingham Flames U16 Boys 2"
+    },
+    "played": 16,
+    "won": 11,
+    "lost": 5,
+    "drawn": 0,
+    "pointsFor": 1342,
+    "pointsAgainst": 1167,
+    "percentage": 115,
+    "competitionPoints": 53
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "b1935cc6",
+      "name": "Joondalup Wolves U16 Boys 3"
+    },
+    "played": 15,
+    "won": 4,
+    "lost": 11,
+    "drawn": 0,
+    "pointsFor": 948,
+    "pointsAgainst": 1020,
+    "percentage": 92.94,
+    "competitionPoints": 41
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "6b187014",
+        "name": "Warwick Senators U16 Boys 4"
+      },
+      "played": 16,
+      "won": 15,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1193,
+      "pointsAgainst": 999,
+      "percentage": 119.42,
+      "competitionPoints": 62
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "bb7fe0f6",
+        "name": "Hills Raiders U16 Boys 1"
+      },
+      "played": 16,
+      "won": 11,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1402,
+      "pointsAgainst": 1216,
+      "percentage": 115.3,
+      "competitionPoints": 54
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "317dff3b",
+        "name": "Rockingham Flames U16 Boys 2"
+      },
+      "played": 16,
+      "won": 11,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1342,
+      "pointsAgainst": 1167,
+      "percentage": 115,
+      "competitionPoints": 53
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "1706d2cb",
+        "name": "Eastern Suns U16 Boys 3"
+      },
+      "played": 16,
+      "won": 8,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1206,
+      "pointsAgainst": 1123,
+      "percentage": 107.39,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "86f0bfb1",
+        "name": "Perry Lakes Hawks U16 Boys 3"
+      },
+      "played": 16,
+      "won": 7,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1160,
+      "pointsAgainst": 1238,
+      "percentage": 93.7,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "5f2f0686",
+        "name": "Cockburn Cougars U16 Boys 3"
+      },
+      "played": 15,
+      "won": 4,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1020,
+      "pointsAgainst": 1133,
+      "percentage": 90.03,
+      "competitionPoints": 41
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b1935cc6",
+        "name": "Joondalup Wolves U16 Boys 3"
+      },
+      "played": 15,
+      "won": 4,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 948,
+      "pointsAgainst": 1020,
+      "percentage": 92.94,
+      "competitionPoints": 41
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "79ea20e3",
+        "name": "South West Slammers U16 Boys 2"
+      },
+      "played": 16,
+      "won": 3,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 942,
+      "pointsAgainst": 1317,
+      "percentage": 71.53,
+      "competitionPoints": 36
+    }
+  ],
+  "generatedAt": "2026-09-05T10:52:49.153900",
+  "dataComplete": true,
+  "aiBriefing": "This is a U16 Division 4 semi-final between third-placed Rockingham (11-5, 115 percent) and seventh-placed Joondalup (4-11, 93 percent). The ladder gap is real but Joondalup won the first meeting 74-70 before Rockingham dominated the rematch 87-63. Rockingham arrives hot with four wins in five including an 84-63 finals victory, averaging 80 points. Joondalup scraped into finals at seventh and upset Hills Raiders 65-59 in round one but has been inconsistent, averaging just 57 points across their last five. Expect Rockingham to control tempo and push pace while Joondalup will need to grind and defend to stay competitive.\n\nRockingham spreads scoring across five players in double figures. Sonny Wilson leads at 18.4 points per game with minimal three-point volume (0.5 makes) and low free throw rate (1.3 attempts). Isaac Oneill adds 12.9 on 1.8 free throws per game, Tyson Musiwa 12.2 on 1.6 attempts, while Kayden Smith (9.8 points, 1.7 free throws) is trending hot at 14 points per game over his last three. Rylan Clark provides outside shooting at 1.2 threes per game. This is predominantly a two-point scoring team with modest free throw involvement. Joondalup relies heavily on Zaid Al Saidi (14.9 points, 1.4 free throws) and Israel Gooding (10 points, 1.8 free throws) inside, with Tomas Lackovic (9.6 points) offering the most perimeter threat at 1.1 threes per game. Harvey Hazell scores 9.2 on 1.9 free throw attempts. Joondalup shoots even less from three and will hunt interior contact to manufacture offense.\n\nThree Joondalup players carry serious foul burden: Al Saidi at 3.0 per game, Gooding at 3.3, and Cooper Brian at 3.4. These are high rates that put all three at risk of foul trouble, especially given the likely physical nature of their defense trying to slow Rockingham's balanced attack. On Rockingham's side, Kayden Smith is trending up to 3.0 fouls over his last three games while also scoring more aggressively (14 points per game), and Rylan Clark has spiked to 3.0 fouls over his last two outings from his 2.3 season average. Watch Smith and Clark as they're both showing recent escalation. The mismatch in form and scoring depth suggests Joondalup will need to play physically to compete, so manage contact around the basket early and watch for frustration if Rockingham pulls away."
+}

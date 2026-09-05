@@ -1,0 +1,487 @@
+{
+  "gameId": "0a982d83",
+  "gradeName": "U16 Boys Division 2",
+  "roundName": "Semi Finals",
+  "homeTeam": "Willetton Tigers U16 Boys 3",
+  "awayTeam": "Cockburn Cougars U16 Boys 1",
+  "homeTeamId": "071d4784",
+  "awayTeamId": "6d4ba836",
+  "venue": "Bendat Basketball Centre",
+  "time": "15:00:00",
+  "date": "2026-09-06",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u16-boys-division-2/game-centre/0a982d83",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Mandurah Magic U16 Boys Red",
+      "scored": 96,
+      "conceded": 68,
+      "won": true,
+      "margin": 28,
+      "gameId": "76cd445a"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Warwick Senators U16 Boys 2",
+      "scored": 76,
+      "conceded": 86,
+      "won": false,
+      "margin": -10,
+      "gameId": "e86dd7b4"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Joondalup Wolves U16 Boys 2",
+      "scored": 71,
+      "conceded": 53,
+      "won": true,
+      "margin": 18,
+      "gameId": "e700e981"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Cockburn Cougars U16 Boys 1",
+      "scored": 69,
+      "conceded": 62,
+      "won": true,
+      "margin": 7,
+      "gameId": "748fad42"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Mandurah Magic U16 Boys Red",
+      "scored": 58,
+      "conceded": 51,
+      "won": true,
+      "margin": 7,
+      "gameId": "8caa2e4a"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Warwick Senators U16 Boys 3",
+      "scored": 71,
+      "conceded": 108,
+      "won": false,
+      "margin": -37,
+      "gameId": "c3ec2af7"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Perry Lakes Hawks U16 Boys 2",
+      "scored": 107,
+      "conceded": 57,
+      "won": true,
+      "margin": 50,
+      "gameId": "d76762e3"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Willetton Tigers U16 Boys 2",
+      "scored": 96,
+      "conceded": 98,
+      "won": false,
+      "margin": -2,
+      "gameId": "2d244905"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Willetton Tigers U16 Boys 3",
+      "scored": 62,
+      "conceded": 69,
+      "won": false,
+      "margin": -7,
+      "gameId": "748fad42"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Joondalup Wolves U16 Boys 2",
+      "scored": 88,
+      "conceded": 62,
+      "won": true,
+      "margin": 26,
+      "gameId": "a1224b99"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Orlando Baumgarten",
+      "number": "7",
+      "playerId": "cf6a23da-a7cf-4668-a2fd-1078d99c70a1",
+      "profileUrl": "https://www.playhq.com/public/profile/cf6a23da-a7cf-4668-a2fd-1078d99c70a1/statistics?tenant=basketball-wa",
+      "avgPoints": 12.4,
+      "avgThrees": 2.0,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Harrison Shierlaw",
+      "number": "15",
+      "playerId": "c190731e-4977-49e6-9a0b-879cd57578d3",
+      "profileUrl": "https://www.playhq.com/public/profile/c190731e-4977-49e6-9a0b-879cd57578d3/statistics?tenant=basketball-wa",
+      "avgPoints": 12.2,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "William Marley",
+      "number": "5",
+      "playerId": "c002ff31-7dc0-4775-bcb3-1ee101a254a8",
+      "profileUrl": "https://www.playhq.com/public/profile/c002ff31-7dc0-4775-bcb3-1ee101a254a8/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.5,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.4/g season); scoring less lately (7.3/g in last 3 vs 11.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Thomas Marley",
+      "number": "9",
+      "playerId": "a8a9d49c-faf1-4f79-a3ac-4e81f3bc39e0",
+      "profileUrl": "https://www.playhq.com/public/profile/a8a9d49c-faf1-4f79-a3ac-4e81f3bc39e0/statistics?tenant=basketball-wa",
+      "avgPoints": 11.2,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (17.0/g in last 3 vs 11.2/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Filippo Ceccarelli",
+      "number": "13",
+      "playerId": "7243b5ce-9cf9-40fd-a0fb-bfa8dc38764c",
+      "profileUrl": "https://www.playhq.com/public/profile/7243b5ce-9cf9-40fd-a0fb-bfa8dc38764c/statistics?tenant=basketball-wa",
+      "avgPoints": 9.6,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (3.7/g in last 3 vs 9.6/g season)",
+      "tags": [
+        "Physical player"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Gabriel Hilario",
+      "number": "11",
+      "playerId": "a93a6fcb-7790-46db-8bd9-6ea30b9d5651",
+      "profileUrl": "https://www.playhq.com/public/profile/a93a6fcb-7790-46db-8bd9-6ea30b9d5651/statistics?tenant=basketball-wa",
+      "avgPoints": 19.0,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.3/g in last 3 vs 2.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Coby Wynne",
+      "number": "6",
+      "playerId": "b054f9f2-8681-4a50-bc43-476a98b83628",
+      "profileUrl": "https://www.playhq.com/public/profile/b054f9f2-8681-4a50-bc43-476a98b83628/statistics?tenant=basketball-wa",
+      "avgPoints": 15.4,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Chayce Roberts",
+      "number": "5",
+      "playerId": "157e425c-3ac1-43b2-88a4-0e62a75db01b",
+      "profileUrl": "https://www.playhq.com/public/profile/157e425c-3ac1-43b2-88a4-0e62a75db01b/statistics?tenant=basketball-wa",
+      "avgPoints": 14.7,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 2.0,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 2 vs 1.5/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Xavier Stray",
+      "number": "12",
+      "playerId": "3d42c7dc-aec8-40d5-a9d5-4bf1893630af",
+      "profileUrl": "https://www.playhq.com/public/profile/3d42c7dc-aec8-40d5-a9d5-4bf1893630af/statistics?tenant=basketball-wa",
+      "avgPoints": 9.3,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.5/g in last 2 vs 2.3/g season); scoring less lately (7.0/g in last 2 vs 9.3/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Harry Farnan",
+      "number": "8",
+      "playerId": "0845c0c6-32f7-41b3-a96b-630d00049f5c",
+      "profileUrl": "https://www.playhq.com/public/profile/0845c0c6-32f7-41b3-a96b-630d00049f5c/statistics?tenant=basketball-wa",
+      "avgPoints": 8.2,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 2 vs 1.6/g season); scoring more lately (14.0/g in last 2 vs 8.2/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 9",
+      "homeTeam": "Willetton Tigers U16 Boys 3",
+      "awayTeam": "Cockburn Cougars U16 Boys 1",
+      "homeScore": 61,
+      "awayScore": 93,
+      "homeWon": false,
+      "margin": -32
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "071d4784",
+      "name": "Willetton Tigers U16 Boys 3"
+    },
+    "played": 16,
+    "won": 14,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 1316,
+    "pointsAgainst": 1141,
+    "percentage": 115.34,
+    "competitionPoints": 60
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "6d4ba836",
+      "name": "Cockburn Cougars U16 Boys 1"
+    },
+    "played": 16,
+    "won": 9,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 1355,
+    "pointsAgainst": 1224,
+    "percentage": 110.7,
+    "competitionPoints": 50
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "071d4784",
+        "name": "Willetton Tigers U16 Boys 3"
+      },
+      "played": 16,
+      "won": 14,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1316,
+      "pointsAgainst": 1141,
+      "percentage": 115.34,
+      "competitionPoints": 60
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "4c9331be",
+        "name": "Warwick Senators U16 Boys 3"
+      },
+      "played": 16,
+      "won": 13,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1462,
+      "pointsAgainst": 1182,
+      "percentage": 123.69,
+      "competitionPoints": 58
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3fc75574",
+        "name": "Willetton Tigers U16 Boys 2"
+      },
+      "played": 16,
+      "won": 10,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1303,
+      "pointsAgainst": 1289,
+      "percentage": 101.09,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6d4ba836",
+        "name": "Cockburn Cougars U16 Boys 1"
+      },
+      "played": 16,
+      "won": 9,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1355,
+      "pointsAgainst": 1224,
+      "percentage": 110.7,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "597d0811",
+        "name": "Joondalup Wolves U16 Boys 2"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1222,
+      "pointsAgainst": 1282,
+      "percentage": 95.32,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "d7e88275",
+        "name": "Warwick Senators U16 Boys 2"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1447,
+      "percentage": 90.6,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "3b60da3f",
+        "name": "Perry Lakes Hawks U16 Boys 2"
+      },
+      "played": 16,
+      "won": 4,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1081,
+      "pointsAgainst": 1246,
+      "percentage": 86.76,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "c68354b5",
+        "name": "Mandurah Magic U16 Boys Red"
+      },
+      "played": 16,
+      "won": 2,
+      "lost": 14,
+      "drawn": 0,
+      "pointsFor": 1136,
+      "pointsAgainst": 1375,
+      "percentage": 82.62,
+      "competitionPoints": 36
+    }
+  ],
+  "generatedAt": "2026-09-05T10:42:41.129185",
+  "dataComplete": true,
+  "aiBriefing": "This is a semi-final between the top-seeded Willetton Tigers (14-2) and fourth-placed Cockburn Cougars (9-7). The Tigers have won two of three meetings this season, including a 69-62 victory in Round 16, but Cockburn dominated 93-61 in Round 9. Recent form splits clearly: Willetton has tightened defensively, averaging 74-64 in their last five with three games decided by single digits, while Cockburn swings wildly, alternating between 107-57 blowouts and narrow losses. Both teams arrive off Finals Round 1 wins but Willetton's grind-it-out style (58-51 over Mandurah) contrasts sharply with Cockburn's more open tempo (88-62 same opponent). Expect a physical, half-court battle with playoff intensity from both sides.\n\nWilletton spreads scoring across five players in double figures: Orlando Baumgarten leads at 12.4 points per game with 2.0 threes per game, Harrison Shierlaw posts 12.2 entirely inside the arc, and Thomas Marley is surging at 17.0 points per game over his last three. William Marley adds 11.5 with moderate free throw volume at 2.5 attempts per game, while Filippo Ceccarelli provides 1.3 threes per game but has cooled to 3.7 points in his last three. Cockburn leans heavily on Gabriel Hilario's 19.0 points per game and Coby Wynne's 15.4, both mixing inside scoring with occasional threes and drawing 2.4 free throws per game each. Chayce Roberts contributes 14.7 points with similar versatility at 0.8 threes per game, while Harry Farnan has exploded to 14.0 points per game over his last two games. Cockburn's top three all average over 2.0 free throw attempts compared to Willetton's more distributed attack.\n\nThree Cockburn players require close attention due to recent foul spikes: Gabriel Hilario has jumped to 4.3 fouls per game over his last three (versus 2.5 season average), Xavier Stray is at 3.5 in his last two (versus 2.3), and Chayce Roberts has risen to 3.0 in his last two (versus 1.5). On Willetton, Filippo Ceccarelli carries a 3.0 fouls per game average all season, and William Marley has climbed to 3.0 in his last three games. Harrison Shierlaw also sits high at 2.7 fouls per game. With Hilario and the Cougars' top scorers all trending into foul trouble recently and Willetton grinding games down, early foul management on both benches will be critical\u2014particularly for Cockburn's big three who carry the offensive load."
+}

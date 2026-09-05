@@ -1,0 +1,502 @@
+{
+  "gameId": "a6a71078",
+  "gradeName": "U16 Boys Division 2",
+  "roundName": "Semi Finals",
+  "homeTeam": "Willetton Tigers U16 Boys 2",
+  "awayTeam": "Perry Lakes Hawks U16 Boys 2",
+  "homeTeamId": "3fc75574",
+  "awayTeamId": "3b60da3f",
+  "venue": "Bendat Basketball Centre",
+  "time": "17:00:00",
+  "date": "2026-09-06",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u16-boys-division-2/game-centre/a6a71078",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Warwick Senators U16 Boys 2",
+      "scored": 83,
+      "conceded": 91,
+      "won": false,
+      "margin": -8,
+      "gameId": "aa372295"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Warwick Senators U16 Boys 3",
+      "scored": 82,
+      "conceded": 98,
+      "won": false,
+      "margin": -16,
+      "gameId": "dc984b8c"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Cockburn Cougars U16 Boys 1",
+      "scored": 98,
+      "conceded": 96,
+      "won": true,
+      "margin": 2,
+      "gameId": "2d244905"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Perry Lakes Hawks U16 Boys 2",
+      "scored": 73,
+      "conceded": 66,
+      "won": true,
+      "margin": 7,
+      "gameId": "d23d7994"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Warwick Senators U16 Boys 2",
+      "scored": 113,
+      "conceded": 91,
+      "won": true,
+      "margin": 22,
+      "gameId": "6eb30831"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Joondalup Wolves U16 Boys 2",
+      "scored": 65,
+      "conceded": 70,
+      "won": false,
+      "margin": -5,
+      "gameId": "6dd61f9a"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Cockburn Cougars U16 Boys 1",
+      "scored": 57,
+      "conceded": 107,
+      "won": false,
+      "margin": -50,
+      "gameId": "d76762e3"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Warwick Senators U16 Boys 2",
+      "scored": 88,
+      "conceded": 75,
+      "won": true,
+      "margin": 13,
+      "gameId": "a553c898"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Willetton Tigers U16 Boys 2",
+      "scored": 66,
+      "conceded": 73,
+      "won": false,
+      "margin": -7,
+      "gameId": "d23d7994"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Warwick Senators U16 Boys 3",
+      "scored": 73,
+      "conceded": 66,
+      "won": true,
+      "margin": 7,
+      "gameId": "6170c3a1"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Oliver Rotondella",
+      "number": "15",
+      "playerId": "5c52fc4a-5eef-4671-aed2-c576d75169fd",
+      "profileUrl": "https://www.playhq.com/public/profile/5c52fc4a-5eef-4671-aed2-c576d75169fd/statistics?tenant=basketball-wa",
+      "avgPoints": 24.9,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 4.3,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Dave Brar",
+      "number": "7",
+      "playerId": "22d66494-62f5-4cf3-ac83-80b28eea7ab2",
+      "profileUrl": "https://www.playhq.com/public/profile/22d66494-62f5-4cf3-ac83-80b28eea7ab2/statistics?tenant=basketball-wa",
+      "avgPoints": 14.1,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 0.9,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.3/g in last 3 vs 0.9/g season); scoring more lately (19.0/g in last 3 vs 14.1/g season)",
+      "tags": [
+        "Picked up a technical foul recently",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Kyan Elliott",
+      "number": "11",
+      "playerId": "7c519d2f-08c7-4064-8cc6-6fee3ecf373c",
+      "profileUrl": "https://www.playhq.com/public/profile/7c519d2f-08c7-4064-8cc6-6fee3ecf373c/statistics?tenant=basketball-wa",
+      "avgPoints": 11.1,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (14.7/g in last 3 vs 11.1/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Luka Petkovic",
+      "number": "13",
+      "playerId": "e88ebbeb-1bd9-4e65-8d0a-08515cbbf459",
+      "profileUrl": "https://www.playhq.com/public/profile/e88ebbeb-1bd9-4e65-8d0a-08515cbbf459/statistics?tenant=basketball-wa",
+      "avgPoints": 9.8,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.5,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (17.0/g in last 3 vs 9.8/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Dylan Brinklow",
+      "number": "6",
+      "playerId": "f0c4ef50-c5ae-4a99-8c3d-02b92fbc912b",
+      "profileUrl": "https://www.playhq.com/public/profile/f0c4ef50-c5ae-4a99-8c3d-02b92fbc912b/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.6/g season); scoring less lately (5.3/g in last 3 vs 8.0/g season)",
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Jay Reyes",
+      "number": "7",
+      "playerId": "6bdc2617-7e35-4bf9-a423-2726958c726a",
+      "profileUrl": "https://www.playhq.com/public/profile/6bdc2617-7e35-4bf9-a423-2726958c726a/statistics?tenant=basketball-wa",
+      "avgPoints": 15.9,
+      "avgThrees": 2.1,
+      "avgFreeThrows": 1.7,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.0/g season); scoring more lately (20.3/g in last 3 vs 15.9/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Cameron Reid",
+      "number": "8",
+      "playerId": "ea1521ed-f5b0-439a-b84c-d50ff071a966",
+      "profileUrl": "https://www.playhq.com/public/profile/ea1521ed-f5b0-439a-b84c-d50ff071a966/statistics?tenant=basketball-wa",
+      "avgPoints": 13.9,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 2.8,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 1.7/g season)",
+      "tags": []
+    },
+    {
+      "name": "Austin Gastevski",
+      "number": "11",
+      "playerId": "e4151f86-c403-4033-a578-522721e32047",
+      "profileUrl": "https://www.playhq.com/public/profile/e4151f86-c403-4033-a578-522721e32047/statistics?tenant=basketball-wa",
+      "avgPoints": 13.8,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 11,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.2/g season); scoring more lately (20.3/g in last 3 vs 13.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Harry Flanagan",
+      "number": "13",
+      "playerId": "d086db15-4a5c-40c2-b52f-ab39bf2319da",
+      "profileUrl": "https://www.playhq.com/public/profile/d086db15-4a5c-40c2-b52f-ab39bf2319da/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.3/g in last 3 vs 2.6/g season); scoring less lately (5.0/g in last 3 vs 8.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Elliot Malesic",
+      "number": "15",
+      "playerId": "0f1ec050-0868-4891-81e1-0ffcf35a85b2",
+      "profileUrl": "https://www.playhq.com/public/profile/0f1ec050-0868-4891-81e1-0ffcf35a85b2/statistics?tenant=basketball-wa",
+      "avgPoints": 7.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 3.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 3.0/g season); scoring less lately (4.0/g in last 2 vs 7.0/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 9",
+      "homeTeam": "Willetton Tigers U16 Boys 2",
+      "awayTeam": "Perry Lakes Hawks U16 Boys 2",
+      "homeScore": 70,
+      "awayScore": 65,
+      "homeWon": true,
+      "margin": 5
+    },
+    {
+      "round": "Round 16",
+      "homeTeam": "Willetton Tigers U16 Boys 2",
+      "awayTeam": "Perry Lakes Hawks U16 Boys 2",
+      "homeScore": 73,
+      "awayScore": 66,
+      "homeWon": true,
+      "margin": 7
+    }
+  ],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "3fc75574",
+      "name": "Willetton Tigers U16 Boys 2"
+    },
+    "played": 16,
+    "won": 10,
+    "lost": 6,
+    "drawn": 0,
+    "pointsFor": 1303,
+    "pointsAgainst": 1289,
+    "percentage": 101.09,
+    "competitionPoints": 52
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "3b60da3f",
+      "name": "Perry Lakes Hawks U16 Boys 2"
+    },
+    "played": 16,
+    "won": 4,
+    "lost": 12,
+    "drawn": 0,
+    "pointsFor": 1081,
+    "pointsAgainst": 1246,
+    "percentage": 86.76,
+    "competitionPoints": 40
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "071d4784",
+        "name": "Willetton Tigers U16 Boys 3"
+      },
+      "played": 16,
+      "won": 14,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1316,
+      "pointsAgainst": 1141,
+      "percentage": 115.34,
+      "competitionPoints": 60
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "4c9331be",
+        "name": "Warwick Senators U16 Boys 3"
+      },
+      "played": 16,
+      "won": 13,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 1462,
+      "pointsAgainst": 1182,
+      "percentage": 123.69,
+      "competitionPoints": 58
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "3fc75574",
+        "name": "Willetton Tigers U16 Boys 2"
+      },
+      "played": 16,
+      "won": 10,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1303,
+      "pointsAgainst": 1289,
+      "percentage": 101.09,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "6d4ba836",
+        "name": "Cockburn Cougars U16 Boys 1"
+      },
+      "played": 16,
+      "won": 9,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1355,
+      "pointsAgainst": 1224,
+      "percentage": 110.7,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "597d0811",
+        "name": "Joondalup Wolves U16 Boys 2"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1222,
+      "pointsAgainst": 1282,
+      "percentage": 95.32,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "d7e88275",
+        "name": "Warwick Senators U16 Boys 2"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1311,
+      "pointsAgainst": 1447,
+      "percentage": 90.6,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "3b60da3f",
+        "name": "Perry Lakes Hawks U16 Boys 2"
+      },
+      "played": 16,
+      "won": 4,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 1081,
+      "pointsAgainst": 1246,
+      "percentage": 86.76,
+      "competitionPoints": 40
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "c68354b5",
+        "name": "Mandurah Magic U16 Boys Red"
+      },
+      "played": 16,
+      "won": 2,
+      "lost": 14,
+      "drawn": 0,
+      "pointsFor": 1136,
+      "pointsAgainst": 1375,
+      "percentage": 82.62,
+      "competitionPoints": 36
+    }
+  ],
+  "generatedAt": "2026-09-05T10:45:53.463573",
+  "dataComplete": true,
+  "aiBriefing": "This is a semi final between third-placed Willetton (10-6) and seventh-placed Perry Lakes (4-12), but recent form narrows the gap considerably. Willetton won both regular season meetings by modest margins (70-65 in Round 9, 73-66 in Round 16) and arrives on a three-game win streak including a dominant 113-91 finals opener. Perry Lakes has won two of their last five and just edged Warwick 73-66 in their elimination final. Willetton averages 90 points in their last five games compared to Perry Lakes' 70, suggesting contrasting offensive firepower. Expect Willetton to push tempo while Perry Lakes looks to control pace and keep the margin tight as they did in both previous encounters.\n\nWilletton's offense runs through Oliver Rotondella at 24.9 points per game with 4.3 free throws per game, a volume driver from inside who doesn't shoot threes. Dave Brar adds 14.1 points with minimal three-point activity (0.4 makes per game) and 2.8 free throws per game. Dylan Brinklow provides the only consistent outside threat at 1.2 threes per game. Three Willetton players are scoring significantly more lately: Brar (19.0 in last three), Kyan Elliott (14.7), and Luka Petkovic (17.0), all elevating from inside. Perry Lakes spreads scoring more evenly with Jay Reyes leading at 15.9 points (2.1 threes per game, their primary perimeter weapon), Cameron Reid at 13.9 (2.8 free throws per game), and Austin Gastevski at 13.8. Gastevski and Reyes are both surging at 20.3 points in their last three games, giving Perry Lakes two hot hands heading into this semi.\n\nWatch Harry Flanagan (#13) closely for Perry Lakes\u2014his foul rate has spiked to 4.3 per game in his last three compared to a 2.6 season average, putting him at serious risk of foul trouble in a knockout game. Elliot Malesic (#15) is trending the same direction at 4.0 per game in his last two games versus 3.0 overall. For Willetton, Rotondella (3.1 fouls per game) and Petkovic (3.2) both carry elevated foul rates all season, though neither shows recent escalation. Dave Brar (#7) has one recent technical foul on his record and is fouling more lately at 1.3 per game. Austin Gastevski's recent surge in both scoring and fouling (2.3 per game lately versus 1.2 overall) suggests he's playing more aggressively on both ends under finals pressure."
+}

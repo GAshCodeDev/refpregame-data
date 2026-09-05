@@ -1,0 +1,481 @@
+{
+  "gameId": "4df02bf6",
+  "gradeName": "U16 Boys Division 4",
+  "roundName": "Semi Finals",
+  "homeTeam": "Warwick Senators U16 Boys 4",
+  "awayTeam": "Perry Lakes Hawks U16 Boys 3",
+  "homeTeamId": "6b187014",
+  "awayTeamId": "86f0bfb1",
+  "venue": "Wally Hagan Basketball Stadium",
+  "time": "14:00:00",
+  "date": "2026-09-06",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u16-boys-division-4/game-centre/4df02bf6",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Rockingham Flames U16 Boys 2",
+      "scored": 75,
+      "conceded": 61,
+      "won": true,
+      "margin": 14,
+      "gameId": "d609472f"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "South West Slammers U16 Boys 2",
+      "scored": 91,
+      "conceded": 58,
+      "won": true,
+      "margin": 33,
+      "gameId": "4b539070"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Hills Raiders U16 Boys 1",
+      "scored": 72,
+      "conceded": 68,
+      "won": true,
+      "margin": 4,
+      "gameId": "36267449"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Joondalup Wolves U16 Boys 3",
+      "scored": 53,
+      "conceded": 47,
+      "won": true,
+      "margin": 6,
+      "gameId": "9b4e0d12"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "South West Slammers U16 Boys 2",
+      "scored": 97,
+      "conceded": 62,
+      "won": true,
+      "margin": 35,
+      "gameId": "f6af62ab"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "South West Slammers U16 Boys 2",
+      "scored": 67,
+      "conceded": 69,
+      "won": false,
+      "margin": -2,
+      "gameId": "55163ff4"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Eastern Suns U16 Boys 3",
+      "scored": 57,
+      "conceded": 49,
+      "won": true,
+      "margin": 8,
+      "gameId": "7e726ba9"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Joondalup Wolves U16 Boys 3",
+      "scored": 57,
+      "conceded": 76,
+      "won": false,
+      "margin": -19,
+      "gameId": "b7479ab5"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Cockburn Cougars U16 Boys 3",
+      "scored": 85,
+      "conceded": 73,
+      "won": true,
+      "margin": 12,
+      "gameId": "84fd4440"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Eastern Suns U16 Boys 3",
+      "scored": 75,
+      "conceded": 65,
+      "won": true,
+      "margin": 10,
+      "gameId": "0e0383e2"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Daniel Osment",
+      "number": "5",
+      "playerId": "11417795-b3c1-47f4-968e-cda60f6718a1",
+      "profileUrl": "https://www.playhq.com/public/profile/11417795-b3c1-47f4-968e-cda60f6718a1/statistics?tenant=basketball-wa",
+      "avgPoints": 16.1,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 1.6,
+      "avgFouls": 2.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Blake Coutinho",
+      "number": "11",
+      "playerId": "fbc19a9e-6cc3-4812-acf7-6b45f2859697",
+      "profileUrl": "https://www.playhq.com/public/profile/fbc19a9e-6cc3-4812-acf7-6b45f2859697/statistics?tenant=basketball-wa",
+      "avgPoints": 12.9,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 2.4/g season)",
+      "tags": []
+    },
+    {
+      "name": "Dwyane Ishaan Dy",
+      "number": "13",
+      "playerId": "f6f3f7db-c7af-40f0-ba16-2f9c0b08ba54",
+      "profileUrl": "https://www.playhq.com/public/profile/f6f3f7db-c7af-40f0-ba16-2f9c0b08ba54/statistics?tenant=basketball-wa",
+      "avgPoints": 9.6,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.3/g in last 3 vs 2.1/g season)",
+      "tags": []
+    },
+    {
+      "name": "Kostas Cristopoulos",
+      "number": "14",
+      "playerId": "2c1c594a-0add-47f9-a518-e541b6a44e97",
+      "profileUrl": "https://www.playhq.com/public/profile/2c1c594a-0add-47f9-a518-e541b6a44e97/statistics?tenant=basketball-wa",
+      "avgPoints": 9.6,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 0.7,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.6/g season); scoring more lately (14.7/g in last 3 vs 9.6/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Michael Kruger",
+      "number": "6",
+      "playerId": "ff480531-fd69-4211-ae12-75eb29de811c",
+      "profileUrl": "https://www.playhq.com/public/profile/ff480531-fd69-4211-ae12-75eb29de811c/statistics?tenant=basketball-wa",
+      "avgPoints": 7.6,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.3/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Bodhi Williams",
+      "number": "9",
+      "playerId": "f74ba706-9763-4ff7-b7d7-1d47793d2e1d",
+      "profileUrl": "https://www.playhq.com/public/profile/f74ba706-9763-4ff7-b7d7-1d47793d2e1d/statistics?tenant=basketball-wa",
+      "avgPoints": 15.9,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Isaac Middleton",
+      "number": "15",
+      "playerId": "a7572fe2-119b-411a-b8ef-0afea369077e",
+      "profileUrl": "https://www.playhq.com/public/profile/a7572fe2-119b-411a-b8ef-0afea369077e/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.4,
+      "avgFouls": 0.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Henry Mann",
+      "number": "10",
+      "playerId": "ca089ddf-c8ba-41bd-b055-3bebc3e93bc1",
+      "profileUrl": "https://www.playhq.com/public/profile/ca089ddf-c8ba-41bd-b055-3bebc3e93bc1/statistics?tenant=basketball-wa",
+      "avgPoints": 11.9,
+      "avgThrees": 1.5,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 2.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 2.0/g season); scoring less lately (7.0/g in last 3 vs 11.9/g season)",
+      "tags": []
+    },
+    {
+      "name": "Harry Whitby",
+      "number": "8",
+      "playerId": "18318d6e-a1bc-4766-bbd1-c39570be9053",
+      "profileUrl": "https://www.playhq.com/public/profile/18318d6e-a1bc-4766-bbd1-c39570be9053/statistics?tenant=basketball-wa",
+      "avgPoints": 9.1,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 0.9,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (11.5/g in last 2 vs 9.1/g season)",
+      "tags": [
+        "Picked up a technical foul recently",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Danil Kazanov",
+      "number": "7",
+      "playerId": "c6d4e2f8-7633-4cbe-92b1-351553453490",
+      "profileUrl": "https://www.playhq.com/public/profile/c6d4e2f8-7633-4cbe-92b1-351553453490/statistics?tenant=basketball-wa",
+      "avgPoints": 8.8,
+      "avgThrees": 0.3,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.8,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.3/g in last 3 vs 1.8/g season); scoring more lately (12.0/g in last 3 vs 8.8/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 11",
+      "homeTeam": "Warwick Senators U16 Boys 4",
+      "awayTeam": "Perry Lakes Hawks U16 Boys 3",
+      "homeScore": 56,
+      "awayScore": 89,
+      "homeWon": false,
+      "margin": -33
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "6b187014",
+      "name": "Warwick Senators U16 Boys 4"
+    },
+    "played": 16,
+    "won": 15,
+    "lost": 1,
+    "drawn": 0,
+    "pointsFor": 1193,
+    "pointsAgainst": 999,
+    "percentage": 119.42,
+    "competitionPoints": 62
+  },
+  "awayLadder": {
+    "rank": 5,
+    "team": {
+      "id": "86f0bfb1",
+      "name": "Perry Lakes Hawks U16 Boys 3"
+    },
+    "played": 16,
+    "won": 7,
+    "lost": 9,
+    "drawn": 0,
+    "pointsFor": 1160,
+    "pointsAgainst": 1238,
+    "percentage": 93.7,
+    "competitionPoints": 46
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "6b187014",
+        "name": "Warwick Senators U16 Boys 4"
+      },
+      "played": 16,
+      "won": 15,
+      "lost": 1,
+      "drawn": 0,
+      "pointsFor": 1193,
+      "pointsAgainst": 999,
+      "percentage": 119.42,
+      "competitionPoints": 62
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "bb7fe0f6",
+        "name": "Hills Raiders U16 Boys 1"
+      },
+      "played": 16,
+      "won": 11,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1402,
+      "pointsAgainst": 1216,
+      "percentage": 115.3,
+      "competitionPoints": 54
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "317dff3b",
+        "name": "Rockingham Flames U16 Boys 2"
+      },
+      "played": 16,
+      "won": 11,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1342,
+      "pointsAgainst": 1167,
+      "percentage": 115,
+      "competitionPoints": 53
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "1706d2cb",
+        "name": "Eastern Suns U16 Boys 3"
+      },
+      "played": 16,
+      "won": 8,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1206,
+      "pointsAgainst": 1123,
+      "percentage": 107.39,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "86f0bfb1",
+        "name": "Perry Lakes Hawks U16 Boys 3"
+      },
+      "played": 16,
+      "won": 7,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1160,
+      "pointsAgainst": 1238,
+      "percentage": 93.7,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "5f2f0686",
+        "name": "Cockburn Cougars U16 Boys 3"
+      },
+      "played": 15,
+      "won": 4,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1020,
+      "pointsAgainst": 1133,
+      "percentage": 90.03,
+      "competitionPoints": 41
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b1935cc6",
+        "name": "Joondalup Wolves U16 Boys 3"
+      },
+      "played": 15,
+      "won": 4,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 948,
+      "pointsAgainst": 1020,
+      "percentage": 92.94,
+      "competitionPoints": 41
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "79ea20e3",
+        "name": "South West Slammers U16 Boys 2"
+      },
+      "played": 16,
+      "won": 3,
+      "lost": 12,
+      "drawn": 0,
+      "pointsFor": 942,
+      "pointsAgainst": 1317,
+      "percentage": 71.53,
+      "competitionPoints": 36
+    }
+  ],
+  "generatedAt": "2026-09-05T10:49:17.760354",
+  "dataComplete": true,
+  "aiBriefing": "This is a semi-final between ladder leader Warwick (15-1, first place) and fifth-placed Perry Lakes (7-9). Warwick has won five straight including a 97-62 finals thrashing of South West, averaging 78 points per game in that stretch. Perry Lakes sits 3-2 in their last five but won their opening finals game 75-65 and significantly beat Warwick 89-56 in their only meeting this season back in Round 11. That 33-point reversal adds edge to what's already a high-stakes knockout game. Expect Warwick to come out physical and assertive trying to avenge that loss, while Perry Lakes has shown they can handle this opponent and won't be intimidated by the ladder gap.\n\nWarwick spreads scoring across four players in double figures: Osment leads at 16.1 points per game with modest free throw volume at 1.6 attempts per game, Coutinho adds 12.9 on 2.6 free throw attempts per game, and both Dy (9.6 points, 1.2 free throws) and Cristopoulos (9.6 points, 0.7 free throws, but surging to 14.7 in his last three) contribute inside. They attempt minimal threes\u2014around 0.3 to 0.9 per player\u2014so most damage comes from two-point range with limited trips to the line. Perry Lakes counters with Williams (15.9 points, 2.4 free throws per game) and Middleton (12.7 points, 2.4 free throws per game) both attacking and drawing contact inside, while Mann provides three-point shooting at 1.5 makes per game though he's cooled recently to 7.0 points in his last three. Whitby (9.1 points, trending up to 11.5 in his last two) and Kazanov (8.8 points, hot at 12.0 in his last three) round out a balanced attack. Perry Lakes gets to the line more consistently than Warwick across their top scorers.\n\nWatch Osment (number 5, 2.8 fouls per game) and Coutinho (number 11, 2.4 fouls per game though down to 0.3 in his last three) for Warwick\u2014both carry foul risk though Coutinho has cleaned up lately. Cristopoulos (number 14) and Kruger (number 6) have both trended up to 2.0 fouls per game in their last three. For Perry Lakes, note Whitby (number 8) has a recent technical foul on his record in a game where emotions could run high given the Round 11 history. Kazanov (number 7) is fouling more lately at 2.3 per game in his last three while also scoring more, suggesting increased aggression on both ends. Mann (number 10) has dropped to 0.7 fouls in his last three so he's playing cleaner. The revenge factor from"
+}

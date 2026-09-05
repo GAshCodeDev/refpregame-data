@@ -1,0 +1,490 @@
+{
+  "gameId": "cc849238",
+  "gradeName": "U20 Boys Championship",
+  "roundName": "Semi Finals",
+  "homeTeam": "Warwick Senators U20 Boys 1",
+  "awayTeam": "Willetton Tigers U20 Boys",
+  "homeTeamId": "c847bc96",
+  "awayTeamId": "48d34a0d",
+  "venue": "Bendat Basketball Centre",
+  "time": "19:00:00",
+  "date": "2026-09-06",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u20-boys-championship/game-centre/cc849238",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "Mandurah Magic U20 Boys Red",
+      "scored": 96,
+      "conceded": 89,
+      "won": true,
+      "margin": 7,
+      "gameId": "108d663b"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Lakeside Lightning U20 Boys 1",
+      "scored": 100,
+      "conceded": 76,
+      "won": true,
+      "margin": 24,
+      "gameId": "380a098f"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Rockingham Flames U20 Boys 1",
+      "scored": 105,
+      "conceded": 86,
+      "won": true,
+      "margin": 19,
+      "gameId": "dd41f43c"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "East Perth Eagles U20 Boys 1",
+      "scored": 92,
+      "conceded": 104,
+      "won": false,
+      "margin": -12,
+      "gameId": "ea692651"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Perry Lakes Hawks U20 Boys 1",
+      "scored": 91,
+      "conceded": 73,
+      "won": true,
+      "margin": 18,
+      "gameId": "859bf69c"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "East Perth Eagles U20 Boys 1",
+      "scored": 97,
+      "conceded": 113,
+      "won": false,
+      "margin": -16,
+      "gameId": "cb545868"
+    },
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Mandurah Magic U20 Boys Red",
+      "scored": 96,
+      "conceded": 103,
+      "won": false,
+      "margin": -7,
+      "gameId": "8f3b905a"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Perry Lakes Hawks U20 Boys 1",
+      "scored": 84,
+      "conceded": 99,
+      "won": false,
+      "margin": -15,
+      "gameId": "00eaed71"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Rockingham Flames U20 Boys 1",
+      "scored": 113,
+      "conceded": 101,
+      "won": true,
+      "margin": 12,
+      "gameId": "d39385d0"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Rockingham Flames U20 Boys 1",
+      "scored": 107,
+      "conceded": 86,
+      "won": true,
+      "margin": 21,
+      "gameId": "e40b038f"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Hector Lonergan",
+      "number": "21",
+      "playerId": "5f0a9c6f-5c99-419b-885d-169ba3a49fca",
+      "profileUrl": "https://www.playhq.com/public/profile/5f0a9c6f-5c99-419b-885d-169ba3a49fca/statistics?tenant=basketball-wa",
+      "avgPoints": 22.6,
+      "avgThrees": 3.1,
+      "avgFreeThrows": 2.6,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.5/g season); scoring more lately (35.0/g in last 3 vs 22.6/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Caylan Matambanadzo",
+      "number": "13",
+      "playerId": "0f0e4b9a-be62-40e6-a11a-aff17c7950b9",
+      "profileUrl": "https://www.playhq.com/public/profile/0f0e4b9a-be62-40e6-a11a-aff17c7950b9/statistics?tenant=basketball-wa",
+      "avgPoints": 16.5,
+      "avgThrees": 0.8,
+      "avgFreeThrows": 2.1,
+      "avgFouls": 2.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Mitchell Stanford",
+      "number": "33",
+      "playerId": "0dcc8aa7-ff1a-4d77-88f2-79c31438a6b6",
+      "profileUrl": "https://www.playhq.com/public/profile/0dcc8aa7-ff1a-4d77-88f2-79c31438a6b6/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 2.9,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 0.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.3/g in last 3 vs 0.6/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jaydon Augustus",
+      "number": "14",
+      "playerId": "53b7306e-a33d-482a-bf4b-b576aa56db0e",
+      "profileUrl": "https://www.playhq.com/public/profile/53b7306e-a33d-482a-bf4b-b576aa56db0e/statistics?tenant=basketball-wa",
+      "avgPoints": 8.7,
+      "avgThrees": 1.2,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.6/g season)",
+      "tags": []
+    },
+    {
+      "name": "Presley Ellis",
+      "number": "6",
+      "playerId": "42370807-19ea-442c-b025-7fcf901946cf",
+      "profileUrl": "https://www.playhq.com/public/profile/42370807-19ea-442c-b025-7fcf901946cf/statistics?tenant=basketball-wa",
+      "avgPoints": 8.5,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (9.0/g in last 1 vs 3.3/g season); scoring less lately (5.0/g in last 1 vs 8.5/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Joshua Harris",
+      "number": "14",
+      "playerId": "af66c265-e65d-4314-8555-45c60cd3bbfb",
+      "profileUrl": "https://www.playhq.com/public/profile/af66c265-e65d-4314-8555-45c60cd3bbfb/statistics?tenant=basketball-wa",
+      "avgPoints": 19.1,
+      "avgThrees": 0.4,
+      "avgFreeThrows": 3.3,
+      "avgFouls": 3.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws",
+        "Physical player"
+      ]
+    },
+    {
+      "name": "Shayden Weerakoon",
+      "number": "10",
+      "playerId": "dbe609a1-d26b-4828-a299-f17b776278af",
+      "profileUrl": "https://www.playhq.com/public/profile/dbe609a1-d26b-4828-a299-f17b776278af/statistics?tenant=basketball-wa",
+      "avgPoints": 15.8,
+      "avgThrees": 1.8,
+      "avgFreeThrows": 2.2,
+      "avgFouls": 0.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (0.7/g in last 3 vs 0.9/g season); scoring more lately (20.0/g in last 3 vs 15.8/g season)",
+      "tags": [
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Luke Martin",
+      "number": "10",
+      "playerId": "5e6daf01-2398-487c-ac73-d6f408382935",
+      "profileUrl": "https://www.playhq.com/public/profile/5e6daf01-2398-487c-ac73-d6f408382935/statistics?tenant=basketball-wa",
+      "avgPoints": 13.0,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 0.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 3,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Declan Walsh",
+      "number": "6",
+      "playerId": "dcbdca27-0686-4268-9002-c8dc33464486",
+      "profileUrl": "https://www.playhq.com/public/profile/dcbdca27-0686-4268-9002-c8dc33464486/statistics?tenant=basketball-wa",
+      "avgPoints": 12.7,
+      "avgThrees": 2.4,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 0.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Jye Foster",
+      "number": "9",
+      "playerId": "578e959f-3b7e-4e43-b7fd-7ec12eebf3a3",
+      "profileUrl": "https://www.playhq.com/public/profile/578e959f-3b7e-4e43-b7fd-7ec12eebf3a3/statistics?tenant=basketball-wa",
+      "avgPoints": 12.0,
+      "avgThrees": 0.6,
+      "avgFreeThrows": 2.1,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.5/g season); scoring more lately (15.3/g in last 3 vs 12.0/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 8",
+      "homeTeam": "Warwick Senators U20 Boys 1",
+      "awayTeam": "Willetton Tigers U20 Boys",
+      "homeScore": 90,
+      "awayScore": 103,
+      "homeWon": false,
+      "margin": -13
+    }
+  ],
+  "homeLadder": {
+    "rank": 6,
+    "team": {
+      "id": "c847bc96",
+      "name": "Warwick Senators U20 Boys 1"
+    },
+    "played": 16,
+    "won": 6,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 1414,
+    "pointsAgainst": 1491,
+    "percentage": 94.84,
+    "competitionPoints": 44
+  },
+  "awayLadder": {
+    "rank": 7,
+    "team": {
+      "id": "48d34a0d",
+      "name": "Willetton Tigers U20 Boys"
+    },
+    "played": 16,
+    "won": 6,
+    "lost": 10,
+    "drawn": 0,
+    "pointsFor": 1444,
+    "pointsAgainst": 1603,
+    "percentage": 90.08,
+    "competitionPoints": 43
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "bced958a",
+        "name": "East Perth Eagles U20 Boys 1"
+      },
+      "played": 16,
+      "won": 16,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 1710,
+      "pointsAgainst": 1330,
+      "percentage": 128.57,
+      "competitionPoints": 63
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "f72795fe",
+        "name": "Rockingham Flames U20 Boys 1"
+      },
+      "played": 16,
+      "won": 11,
+      "lost": 5,
+      "drawn": 0,
+      "pointsFor": 1582,
+      "pointsAgainst": 1364,
+      "percentage": 115.98,
+      "competitionPoints": 53
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "94af77a8",
+        "name": "Perry Lakes Hawks U20 Boys 1"
+      },
+      "played": 16,
+      "won": 8,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1434,
+      "pointsAgainst": 1433,
+      "percentage": 100.07,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "21da544b",
+        "name": "Lakeside Lightning U20 Boys 1"
+      },
+      "played": 16,
+      "won": 7,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1541,
+      "pointsAgainst": 1529,
+      "percentage": 100.78,
+      "competitionPoints": 45
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "4d51bb22",
+        "name": "Cockburn Cougars U20 Boys 1"
+      },
+      "played": 16,
+      "won": 7,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 1334,
+      "pointsAgainst": 1440,
+      "percentage": 92.64,
+      "competitionPoints": 45
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "c847bc96",
+        "name": "Warwick Senators U20 Boys 1"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1414,
+      "pointsAgainst": 1491,
+      "percentage": 94.84,
+      "competitionPoints": 44
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "48d34a0d",
+        "name": "Willetton Tigers U20 Boys"
+      },
+      "played": 16,
+      "won": 6,
+      "lost": 10,
+      "drawn": 0,
+      "pointsFor": 1444,
+      "pointsAgainst": 1603,
+      "percentage": 90.08,
+      "competitionPoints": 43
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "c8b53a19",
+        "name": "Mandurah Magic U20 Boys Red"
+      },
+      "played": 16,
+      "won": 3,
+      "lost": 13,
+      "drawn": 0,
+      "pointsFor": 1340,
+      "pointsAgainst": 1609,
+      "percentage": 83.28,
+      "competitionPoints": 37
+    }
+  ],
+  "generatedAt": "2026-09-05T10:58:57.403740",
+  "dataComplete": true,
+  "aiBriefing": "This is a semi-final between sixth-placed Warwick and seventh-placed Willetton, both 6-10 but arriving in contrasting form. Warwick has won four of five including a dominant 91-73 finals opener, averaging 97 points in that stretch. Willetton limped into finals at 2-3 but bounced back with a 107-86 elimination win over Rockingham. Willetton won their regular season meeting 103-90 in Round 8, so Warwick will be looking to settle that score on home court. Expect an open, high-scoring semi-final with both teams comfortable playing in the mid-to-high 90s.\n\nWarwick relies heavily on perimeter scoring with Hector Lonergan leading at 22.6 points per game on 3.1 threes attempted and Mitchell Stanford adding 13.0 points on 2.9 three-point attempts per game. Caylan Matambanadzo provides 16.5 points with slightly more interior presence at 2.1 free throws per game. Lonergan is scorching lately at 35.0 points per game over his last three. Willetton spreads it more evenly with Joshua Harris at 19.1 points (3.3 free throws per game suggesting he attacks the rim), Shayden Weerakoon at 15.8 (heating up to 20.0 lately), and both Declan Walsh and Luke Martin contributing around 13 points each with heavy three-point volume at 2.4 and 2.3 attempts respectively. Harris draws contact consistently at 3.3 free throws per game while Willetton's perimeter players shoot from distance more than they get to the line.\n\nWatch Presley Ellis closely for Warwick\u2014he fouls at 3.3 per game all season and spiked to 9.0 in his last outing, an outlier that suggests foul trouble risk in a physical semi-final. Jaydon Augustus also carries 2.6 fouls per game though he's trending down to 1.7 lately. For Willetton, Joshua Harris fouls at 3.3 per game while being their primary inside scorer, so early foul trouble on him shifts their entire offensive balance to the perimeter. Lonergan will demand attention as the hot hand and primary weapon\u2014his recent 35-point average makes him the focal point of Warwick's attack and likely to draw defensive physicality around the arc."
+}
