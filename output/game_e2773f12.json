@@ -1,0 +1,502 @@
+{
+  "gameId": "e2773f12",
+  "gradeName": "U18 Girls Division 4",
+  "roundName": "Grand Final",
+  "homeTeam": "Cockburn Cougars U18 Girls 3",
+  "awayTeam": "Eastern Suns U18 Girls 2",
+  "homeTeamId": "d49b078b",
+  "awayTeamId": "a358d506",
+  "venue": "Bendat Basketball Centre",
+  "time": "17:00:00",
+  "date": "2026-09-12",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-girls-division-4/game-centre/e2773f12",
+  "homeForm": [
+    {
+      "round": "Round 13",
+      "roundNumber": 13,
+      "roundIndex": 12,
+      "opponent": "East Perth Eagles U18 Girls 3",
+      "scored": 71,
+      "conceded": 40,
+      "won": true,
+      "margin": 31,
+      "gameId": "85f70f20"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Perth Redbacks U18 Girls 4",
+      "scored": 88,
+      "conceded": 27,
+      "won": true,
+      "margin": 61,
+      "gameId": "7f2f138f"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Perry Lakes Hawks U18 Girls 4",
+      "scored": 98,
+      "conceded": 41,
+      "won": true,
+      "margin": 57,
+      "gameId": "50643827"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Perry Lakes Hawks U18 Girls 4",
+      "scored": 77,
+      "conceded": 33,
+      "won": true,
+      "margin": 44,
+      "gameId": "eed4050e"
+    },
+    {
+      "round": "Semi Finals",
+      "roundNumber": 2,
+      "roundIndex": 17,
+      "opponent": "Rockingham Flames U18 Girls",
+      "scored": 64,
+      "conceded": 59,
+      "won": true,
+      "margin": 5,
+      "gameId": "f8781880"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Perth Redbacks U18 Girls 3",
+      "scored": 81,
+      "conceded": 62,
+      "won": true,
+      "margin": 19,
+      "gameId": "5ad5f64b"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Warwick Senators U18 Girls 4",
+      "scored": 53,
+      "conceded": 49,
+      "won": true,
+      "margin": 4,
+      "gameId": "cd8322af"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "East Perth Eagles U18 Girls 3",
+      "scored": 87,
+      "conceded": 50,
+      "won": true,
+      "margin": 37,
+      "gameId": "2f35013e"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Perth Redbacks U18 Girls 3",
+      "scored": 70,
+      "conceded": 62,
+      "won": true,
+      "margin": 8,
+      "gameId": "042a927d"
+    },
+    {
+      "round": "Semi Finals",
+      "roundNumber": 2,
+      "roundIndex": 17,
+      "opponent": "Warwick Senators U18 Girls 4",
+      "scored": 76,
+      "conceded": 74,
+      "won": true,
+      "margin": 2,
+      "gameId": "e3f2a50c"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Sophia Gavranich",
+      "number": "12",
+      "playerId": "41f5e5ac-6f6b-4f3c-84d6-41eb0b5baf5d",
+      "profileUrl": "https://www.playhq.com/public/profile/41f5e5ac-6f6b-4f3c-84d6-41eb0b5baf5d/statistics?tenant=basketball-wa",
+      "avgPoints": 16.2,
+      "avgThrees": 0.1,
+      "avgFreeThrows": 3.5,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Blessing Kwerengwe",
+      "number": "5",
+      "playerId": "2e30c519-7610-4f95-b49b-e93b9dbb969d",
+      "profileUrl": "https://www.playhq.com/public/profile/2e30c519-7610-4f95-b49b-e93b9dbb969d/statistics?tenant=basketball-wa",
+      "avgPoints": 14.2,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 1.3,
+      "avgFouls": 0.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 9,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.0/g in last 3 vs 0.6/g season); scoring more lately (20.0/g in last 3 vs 14.2/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jemima Wharton",
+      "number": "9",
+      "playerId": "60734874-7021-4359-aa1c-18f8b2760a27",
+      "profileUrl": "https://www.playhq.com/public/profile/60734874-7021-4359-aa1c-18f8b2760a27/statistics?tenant=basketball-wa",
+      "avgPoints": 8.4,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.9,
+      "avgFouls": 1.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "scoring less lately (3.3/g in last 3 vs 8.4/g season)",
+      "tags": []
+    },
+    {
+      "name": "Kate Berry",
+      "number": "8",
+      "playerId": "bb036a3e-33bc-4a51-9ad9-7abc4d1d8c23",
+      "profileUrl": "https://www.playhq.com/public/profile/bb036a3e-33bc-4a51-9ad9-7abc4d1d8c23/statistics?tenant=basketball-wa",
+      "avgPoints": 8.1,
+      "avgThrees": 0.5,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.9,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 3 vs 2.9/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Malia Southcott",
+      "number": "22",
+      "playerId": "8017edbe-f096-4286-8269-bccd7fac72bd",
+      "profileUrl": "https://www.playhq.com/public/profile/8017edbe-f096-4286-8269-bccd7fac72bd/statistics?tenant=basketball-wa",
+      "avgPoints": 8.0,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 0.9,
+      "avgFouls": 2.4,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Holly Marsh",
+      "number": "6",
+      "playerId": "e920b2bc-a7aa-4c40-b0da-dfae5aea1aa4",
+      "profileUrl": "https://www.playhq.com/public/profile/e920b2bc-a7aa-4c40-b0da-dfae5aea1aa4/statistics?tenant=basketball-wa",
+      "avgPoints": 29.7,
+      "avgThrees": 1.1,
+      "avgFreeThrows": 4.4,
+      "avgFouls": 1.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.0/g in last 3 vs 1.6/g season)",
+      "tags": [
+        "Frequent free throws"
+      ]
+    },
+    {
+      "name": "Jessica Prior",
+      "number": "20",
+      "playerId": "4990b2a7-c59a-4844-8be2-198bb2a9c926",
+      "profileUrl": "https://www.playhq.com/public/profile/4990b2a7-c59a-4844-8be2-198bb2a9c926/statistics?tenant=basketball-wa",
+      "avgPoints": 11.5,
+      "avgThrees": 2.3,
+      "avgFreeThrows": 0.5,
+      "avgFouls": 1.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 15,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 1.1/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ashlyn Shields",
+      "number": "12",
+      "playerId": "864bb88a-cd54-49eb-b0da-5b43adcf0863",
+      "profileUrl": "https://www.playhq.com/public/profile/864bb88a-cd54-49eb-b0da-5b43adcf0863/statistics?tenant=basketball-wa",
+      "avgPoints": 9.9,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 0.6,
+      "avgFouls": 3.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (14.7/g in last 3 vs 9.9/g season)",
+      "tags": [
+        "Physical player",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Jenniquah Shadforth-Cox",
+      "number": "11",
+      "playerId": "5ddc90f2-a6f5-43cd-9cf2-fa384f3d8f43",
+      "profileUrl": "https://www.playhq.com/public/profile/5ddc90f2-a6f5-43cd-9cf2-fa384f3d8f43/statistics?tenant=basketball-wa",
+      "avgPoints": 7.4,
+      "avgThrees": 0.0,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 1.0,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 5,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Vattalanie D'Sylva",
+      "number": "7",
+      "playerId": "3c44150e-7de9-4ce6-993a-0c7439795627",
+      "profileUrl": "https://www.playhq.com/public/profile/3c44150e-7de9-4ce6-993a-0c7439795627/statistics?tenant=basketball-wa",
+      "avgPoints": 6.3,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 0.4,
+      "avgFouls": 2.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 10,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 2 vs 2.7/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 9",
+      "homeTeam": "Cockburn Cougars U18 Girls 3",
+      "awayTeam": "Eastern Suns U18 Girls 2",
+      "homeScore": 59,
+      "awayScore": 55,
+      "homeWon": true,
+      "margin": 4
+    }
+  ],
+  "homeLadder": {
+    "rank": 1,
+    "team": {
+      "id": "d49b078b",
+      "name": "Cockburn Cougars U18 Girls 3"
+    },
+    "played": 13,
+    "won": 13,
+    "lost": 0,
+    "drawn": 0,
+    "pointsFor": 899,
+    "pointsAgainst": 623,
+    "percentage": 144.3,
+    "competitionPoints": 63
+  },
+  "awayLadder": {
+    "rank": 2,
+    "team": {
+      "id": "a358d506",
+      "name": "Eastern Suns U18 Girls 2"
+    },
+    "played": 13,
+    "won": 11,
+    "lost": 2,
+    "drawn": 0,
+    "pointsFor": 951,
+    "pointsAgainst": 686,
+    "percentage": 138.63,
+    "competitionPoints": 59
+  },
+  "totalTeams": 9,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "d49b078b",
+        "name": "Cockburn Cougars U18 Girls 3"
+      },
+      "played": 13,
+      "won": 13,
+      "lost": 0,
+      "drawn": 0,
+      "pointsFor": 899,
+      "pointsAgainst": 623,
+      "percentage": 144.3,
+      "competitionPoints": 63
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "a358d506",
+        "name": "Eastern Suns U18 Girls 2"
+      },
+      "played": 13,
+      "won": 11,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 951,
+      "pointsAgainst": 686,
+      "percentage": 138.63,
+      "competitionPoints": 59
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "b927597f",
+        "name": "Warwick Senators U18 Girls 4"
+      },
+      "played": 13,
+      "won": 10,
+      "lost": 3,
+      "drawn": 0,
+      "pointsFor": 935,
+      "pointsAgainst": 677,
+      "percentage": 138.11,
+      "competitionPoints": 57
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "841ace7a",
+        "name": "Rockingham Flames U18 Girls"
+      },
+      "played": 14,
+      "won": 8,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 982,
+      "pointsAgainst": 827,
+      "percentage": 118.74,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "e1e163d5",
+        "name": "Mandurah Magic U18 Girls Gold"
+      },
+      "played": 14,
+      "won": 7,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 911,
+      "pointsAgainst": 901,
+      "percentage": 101.11,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "8d5122b7",
+        "name": "East Perth Eagles U18 Girls 3"
+      },
+      "played": 14,
+      "won": 6,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 755,
+      "pointsAgainst": 855,
+      "percentage": 88.3,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "d4d5a8d2",
+        "name": "Perth Redbacks U18 Girls 3"
+      },
+      "played": 15,
+      "won": 6,
+      "lost": 9,
+      "drawn": 0,
+      "pointsFor": 858,
+      "pointsAgainst": 884,
+      "percentage": 97.06,
+      "competitionPoints": 46
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "1cbfd84a",
+        "name": "Perry Lakes Hawks U18 Girls 4"
+      },
+      "played": 15,
+      "won": 1,
+      "lost": 14,
+      "drawn": 0,
+      "pointsFor": 705,
+      "pointsAgainst": 1065,
+      "percentage": 66.2,
+      "competitionPoints": 36
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": "c283649b",
+        "name": "Perth Redbacks U18 Girls 4"
+      },
+      "played": 13,
+      "won": 0,
+      "lost": 13,
+      "drawn": 0,
+      "pointsFor": 556,
+      "pointsAgainst": 1034,
+      "percentage": 53.77,
+      "competitionPoints": 36
+    }
+  ],
+  "generatedAt": "2026-09-08T11:26:29.236091",
+  "dataComplete": true,
+  "aiBriefing": "This is the Grand Final between an undefeated Cockburn side sitting first at 13-0 and Eastern Suns in second at 11-2. Cockburn has dominated most of the season averaging 80-40 in their last five, but their semi-final against Rockingham was tight at 64-59, suggesting they can be pressured. Eastern has come through three consecutive close games including a two-point semi-final win over Warwick, and they pushed Cockburn to four points in their Round 9 meeting at 59-55. Expect a physical, high-stakes contest with both teams battle-tested from recent tight finishes.\n\nCockburn spreads scoring across multiple players with Sophia Gavranich leading at 16.2 points per game on 3.5 free throws per game and Blessing Kwerengwe at 14.2 points including 1.1 threes per game, though Kwerengwe has surged to 20 points per game in her last three. They attack inside through Gavranich and mix in occasional perimeter scoring. Eastern runs almost entirely through Holly Marsh at 29.7 points per game on 4.4 free throws per game with limited three-point volume at 1.1 per game. Jessica Prior provides the secondary option at 11.5 points with genuine outside range at 2.3 threes per game, and Ashlyn Shields has elevated to 14.7 points per game lately. Eastern's offense is far more concentrated on Marsh penetration and getting to the line.\n\nKate Berry fouls at 2.9 per game for Cockburn but has jumped to 4.0 in her last three games, putting her at significant foul trouble risk in a Grand Final where she'll likely defend Marsh or handle pressure. For Eastern, Ashlyn Shields sits at 3.1 fouls per game and Vattalanie D'Sylva has spiked to 4.0 per game in her last two appearances, both vulnerable to early exits. Monitor the Marsh matchup closely as she draws 4.4 free throws per game and will attack Cockburn's interior defenders including Gavranich. The scoring disparity between Marsh and the rest of Eastern means any defensive attention on her will create physical play and contact situations throughout."
+}

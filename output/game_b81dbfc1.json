@@ -1,0 +1,492 @@
+{
+  "gameId": "b81dbfc1",
+  "gradeName": "U18 Boys Division 2",
+  "roundName": "Grand Final",
+  "homeTeam": "Warwick Senators U18 Boys 2",
+  "awayTeam": "Mandurah Magic U18 Boys Red",
+  "homeTeamId": "36a01471",
+  "awayTeamId": "1689673f",
+  "venue": "Bendat Basketball Centre",
+  "time": "14:15:00",
+  "date": "2026-09-13",
+  "organisation": "Western Australian Basketball League (WABL)",
+  "tenant": "basketball-wa",
+  "gameCentreUrl": "https://www.playhq.com/basketball-wa/org/western-australian-basketball-league-wabl/2026/u18-boys-division-2/game-centre/b81dbfc1",
+  "homeForm": [
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Mandurah Magic U18 Boys Red",
+      "scored": 85,
+      "conceded": 72,
+      "won": true,
+      "margin": 13,
+      "gameId": "b0a3097c"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "Eastern Suns U18 Boys 1",
+      "scored": 94,
+      "conceded": 112,
+      "won": false,
+      "margin": -18,
+      "gameId": "cd9358dc"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "East Perth Eagles U18 Boys 2",
+      "scored": 127,
+      "conceded": 128,
+      "won": false,
+      "margin": -1,
+      "gameId": "9f702216"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Hills Raiders U18 Boys 1",
+      "scored": 128,
+      "conceded": 90,
+      "won": true,
+      "margin": 38,
+      "gameId": "76fe1cd7"
+    },
+    {
+      "round": "Semi Finals",
+      "roundNumber": 2,
+      "roundIndex": 17,
+      "opponent": "Binar Maali U18 Boys 1",
+      "scored": 109,
+      "conceded": 107,
+      "won": true,
+      "margin": 2,
+      "gameId": "32c95730"
+    }
+  ],
+  "awayForm": [
+    {
+      "round": "Round 14",
+      "roundNumber": 14,
+      "roundIndex": 13,
+      "opponent": "Warwick Senators U18 Boys 2",
+      "scored": 72,
+      "conceded": 85,
+      "won": false,
+      "margin": -13,
+      "gameId": "b0a3097c"
+    },
+    {
+      "round": "Round 15",
+      "roundNumber": 15,
+      "roundIndex": 14,
+      "opponent": "East Perth Eagles U18 Boys 3",
+      "scored": 74,
+      "conceded": 82,
+      "won": false,
+      "margin": -8,
+      "gameId": "361e8159"
+    },
+    {
+      "round": "Round 16",
+      "roundNumber": 16,
+      "roundIndex": 15,
+      "opponent": "Cockburn Cougars U18 Boys 2",
+      "scored": 59,
+      "conceded": 65,
+      "won": false,
+      "margin": -6,
+      "gameId": "435e2150"
+    },
+    {
+      "round": "Finals Round 1",
+      "roundNumber": 1,
+      "roundIndex": 16,
+      "opponent": "Cockburn Cougars U18 Boys 2",
+      "scored": 108,
+      "conceded": 105,
+      "won": true,
+      "margin": 3,
+      "gameId": "966794ce"
+    },
+    {
+      "round": "Semi Finals",
+      "roundNumber": 2,
+      "roundIndex": 17,
+      "opponent": "East Perth Eagles U18 Boys 3",
+      "scored": 97,
+      "conceded": 86,
+      "won": true,
+      "margin": 11,
+      "gameId": "138e7d3c"
+    }
+  ],
+  "homeKeyPlayers": [
+    {
+      "name": "Klay Dennis",
+      "number": "17",
+      "playerId": "e77eeb4d-7f80-4262-9031-2756d8585217",
+      "profileUrl": "https://www.playhq.com/public/profile/e77eeb4d-7f80-4262-9031-2756d8585217/statistics?tenant=basketball-wa",
+      "avgPoints": 22.8,
+      "avgThrees": 0.7,
+      "avgFreeThrows": 4.1,
+      "avgFouls": 1.5,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 12,
+      "lowSampleSize": false,
+      "recentTrend": "scoring more lately (31.3/g in last 3 vs 22.8/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "James Appleby",
+      "number": "9",
+      "playerId": "41ae4b84-e8b6-4ce7-b0fe-885528b41168",
+      "profileUrl": "https://www.playhq.com/public/profile/41ae4b84-e8b6-4ce7-b0fe-885528b41168/statistics?tenant=basketball-wa",
+      "avgPoints": 19.2,
+      "avgThrees": 1.4,
+      "avgFreeThrows": 2.9,
+      "avgFouls": 2.1,
+      "technicalFouls": 1,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.1/g season)",
+      "tags": [
+        "Picked up a technical foul recently",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Benjamin Izic",
+      "number": "14",
+      "playerId": "dac1dff1-3789-4ea7-837b-b5829a4c1a5d",
+      "profileUrl": "https://www.playhq.com/public/profile/dac1dff1-3789-4ea7-837b-b5829a4c1a5d/statistics?tenant=basketball-wa",
+      "avgPoints": 14.4,
+      "avgThrees": 1.6,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 1.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 18,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.0/g in last 3 vs 1.1/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Rhys Weir",
+      "number": "16",
+      "playerId": "3ea17338-ecef-4eb1-a927-1516f0249c92",
+      "profileUrl": "https://www.playhq.com/public/profile/3ea17338-ecef-4eb1-a927-1516f0249c92/statistics?tenant=basketball-wa",
+      "avgPoints": 14.4,
+      "avgThrees": 2.2,
+      "avgFreeThrows": 1.1,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling less lately (1.7/g in last 3 vs 2.6/g season)",
+      "tags": [
+        "Outside threat"
+      ]
+    },
+    {
+      "name": "Josh Lamerton",
+      "number": "32",
+      "playerId": "a52547d9-0133-47d2-9527-17cc17e5f1f6",
+      "profileUrl": "https://www.playhq.com/public/profile/a52547d9-0133-47d2-9527-17cc17e5f1f6/statistics?tenant=basketball-wa",
+      "avgPoints": 12.8,
+      "avgThrees": 0.9,
+      "avgFreeThrows": 2.7,
+      "avgFouls": 2.6,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 17,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    }
+  ],
+  "awayKeyPlayers": [
+    {
+      "name": "Junior Eaton",
+      "number": "7",
+      "playerId": "0024509c-e3e2-4d2d-b44c-bc20fbdb8d4e",
+      "profileUrl": "https://www.playhq.com/public/profile/0024509c-e3e2-4d2d-b44c-bc20fbdb8d4e/statistics?tenant=basketball-wa",
+      "avgPoints": 23.1,
+      "avgThrees": 1.9,
+      "avgFreeThrows": 3.7,
+      "avgFouls": 3.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 18,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (4.0/g in last 3 vs 3.2/g season)",
+      "tags": [
+        "Frequent free throws",
+        "Physical player",
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Ryan Oosthuizen",
+      "number": "8",
+      "playerId": "3a1ddf72-73f4-4310-a867-58baeeed6e2d",
+      "profileUrl": "https://www.playhq.com/public/profile/3a1ddf72-73f4-4310-a867-58baeeed6e2d/statistics?tenant=basketball-wa",
+      "avgPoints": 16.6,
+      "avgThrees": 1.3,
+      "avgFreeThrows": 2.1,
+      "avgFouls": 2.1,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 14,
+      "lowSampleSize": false,
+      "recentTrend": null,
+      "tags": []
+    },
+    {
+      "name": "Max Marsden",
+      "number": "24",
+      "playerId": "530bbe1d-b139-4cd3-ae4d-a3814239825d",
+      "profileUrl": "https://www.playhq.com/public/profile/530bbe1d-b139-4cd3-ae4d-a3814239825d/statistics?tenant=basketball-wa",
+      "avgPoints": 11.4,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.2,
+      "avgFouls": 1.7,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 13,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (2.5/g in last 2 vs 1.7/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    },
+    {
+      "name": "Xavier Adams",
+      "number": "33",
+      "playerId": "80abf647-bff5-4cdd-b6cd-aae8b2071fde",
+      "profileUrl": "https://www.playhq.com/public/profile/80abf647-bff5-4cdd-b6cd-aae8b2071fde/statistics?tenant=basketball-wa",
+      "avgPoints": 11.2,
+      "avgThrees": 2.7,
+      "avgFreeThrows": 0.8,
+      "avgFouls": 1.3,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 16,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (1.7/g in last 3 vs 1.3/g season); scoring more lately (14.3/g in last 3 vs 11.2/g season)",
+      "tags": [
+        "Outside threat",
+        "Trending \u2014 fouling more than season average",
+        "Trending \u2014 scoring more than season average"
+      ]
+    },
+    {
+      "name": "Uzoma Donald Ike",
+      "number": "3",
+      "playerId": "bd9acd4f-94fc-4fc0-a032-4567de741640",
+      "profileUrl": "https://www.playhq.com/public/profile/bd9acd4f-94fc-4fc0-a032-4567de741640/statistics?tenant=basketball-wa",
+      "avgPoints": 9.2,
+      "avgThrees": 0.2,
+      "avgFreeThrows": 1.4,
+      "avgFouls": 2.2,
+      "technicalFouls": 0,
+      "unsportsmanlikeFouls": 0,
+      "disqualifyingFouls": 0,
+      "gamesAnalysed": 18,
+      "lowSampleSize": false,
+      "recentTrend": "fouling more lately (3.0/g in last 3 vs 2.2/g season)",
+      "tags": [
+        "Trending \u2014 fouling more than season average"
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "round": "Round 14",
+      "homeTeam": "Warwick Senators U18 Boys 2",
+      "awayTeam": "Mandurah Magic U18 Boys Red",
+      "homeScore": 85,
+      "awayScore": 72,
+      "homeWon": true,
+      "margin": 13
+    }
+  ],
+  "homeLadder": {
+    "rank": 3,
+    "team": {
+      "id": "36a01471",
+      "name": "Warwick Senators U18 Boys 2"
+    },
+    "played": 16,
+    "won": 9,
+    "lost": 7,
+    "drawn": 0,
+    "pointsFor": 1604,
+    "pointsAgainst": 1549,
+    "percentage": 103.55,
+    "competitionPoints": 50
+  },
+  "awayLadder": {
+    "rank": 4,
+    "team": {
+      "id": "1689673f",
+      "name": "Mandurah Magic U18 Boys Red"
+    },
+    "played": 16,
+    "won": 8,
+    "lost": 8,
+    "drawn": 0,
+    "pointsFor": 1243,
+    "pointsAgainst": 1244,
+    "percentage": 99.92,
+    "competitionPoints": 48
+  },
+  "totalTeams": 8,
+  "fullLadder": [
+    {
+      "rank": 1,
+      "team": {
+        "id": "4f927867",
+        "name": "Eastern Suns U18 Boys 1"
+      },
+      "played": 16,
+      "won": 14,
+      "lost": 2,
+      "drawn": 0,
+      "pointsFor": 1555,
+      "pointsAgainst": 1354,
+      "percentage": 114.84,
+      "competitionPoints": 59
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": "01ff383b",
+        "name": "East Perth Eagles U18 Boys 2"
+      },
+      "played": 16,
+      "won": 10,
+      "lost": 6,
+      "drawn": 0,
+      "pointsFor": 1516,
+      "pointsAgainst": 1435,
+      "percentage": 105.64,
+      "competitionPoints": 52
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": "36a01471",
+        "name": "Warwick Senators U18 Boys 2"
+      },
+      "played": 16,
+      "won": 9,
+      "lost": 7,
+      "drawn": 0,
+      "pointsFor": 1604,
+      "pointsAgainst": 1549,
+      "percentage": 103.55,
+      "competitionPoints": 50
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": "1689673f",
+        "name": "Mandurah Magic U18 Boys Red"
+      },
+      "played": 16,
+      "won": 8,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1243,
+      "pointsAgainst": 1244,
+      "percentage": 99.92,
+      "competitionPoints": 48
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": "99c5c289",
+        "name": "Cockburn Cougars U18 Boys 2"
+      },
+      "played": 15,
+      "won": 7,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1207,
+      "pointsAgainst": 1230,
+      "percentage": 98.13,
+      "competitionPoints": 47
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": "b500185f",
+        "name": "Hills Raiders U18 Boys 1"
+      },
+      "played": 15,
+      "won": 7,
+      "lost": 8,
+      "drawn": 0,
+      "pointsFor": 1366,
+      "pointsAgainst": 1387,
+      "percentage": 98.49,
+      "competitionPoints": 47
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": "b0e8b5a8",
+        "name": "Binar Maali U18 Boys 1"
+      },
+      "played": 16,
+      "won": 5,
+      "lost": 11,
+      "drawn": 0,
+      "pointsFor": 1393,
+      "pointsAgainst": 1488,
+      "percentage": 93.62,
+      "competitionPoints": 42
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": "3f300b7f",
+        "name": "East Perth Eagles U18 Boys 3"
+      },
+      "played": 16,
+      "won": 3,
+      "lost": 13,
+      "drawn": 0,
+      "pointsFor": 1198,
+      "pointsAgainst": 1395,
+      "percentage": 85.88,
+      "competitionPoints": 38
+    }
+  ],
+  "generatedAt": "2026-09-08T11:23:22.219613",
+  "dataComplete": true,
+  "aiBriefing": "This is a U18 Division 2 Grand Final between third-placed Warwick (9-7, 103.5%) and fourth-placed Mandurah (8-8, 99.9%). Warwick enters in strong form, averaging 109 points across their last five with three wins including a dominant 38-point finals victory and a tight two-point semi-final. They beat Mandurah 85-72 in their only meeting this season back in Round 14. Mandurah has been inconsistent, losing three straight before turning it on in finals with back-to-back wins including a three-point escape against Cockburn. Warwick's recent scoring surge suggests an up-tempo final, while Mandurah has averaged just 82 points in their last five and will need to lift offensively.\n\nWarwick spreads the scoring across five players in double figures. Klay Dennis (17) leads at 22.8 points per game and has been exceptionally hot lately at 31.3 in his last three games, drawing 4.1 free throws per contest. James Appleby (9) adds 19.2 points with moderate three-point volume at 1.4 makes per game and 2.9 free throws. Benjamin Izic (14) and Rhys Weir (16) both average 14.4 points, with Weir the more perimeter-oriented threat at 2.2 threes per game compared to Izic's 1.6. Josh Lamerton (32) rounds out the attack at 12.8 points with 2.7 free throws per game. Mandurah leans heavily on Junior Eaton (7) at 23.1 points per game with 1.9 threes and a team-high 3.7 free throws, then Ryan Oosthuizen (8) at 16.6 points. Xavier Adams (33) provides outside shooting at 2.7 threes per game and has lifted to 14.3 points in his last three. Max Marsden (24) at 11.4 points is a paint presence with just 0.2 threes per game, while Uzoma Donald Ike (3) adds 9.2 points.\n\nWatch Mandurah's Junior Eaton (7) closely as he carries a high 3.2 fouls per game season average and has escalated to 4.0 in his last three outings while shouldering the primary scoring load. Warwick's James Appleby (9) has one recent technical foul and has jumped from 2.1 to 3.0 fouls per game in his last three. Benjamin Izic (14) and Rhys Weir (16) have both seen recent foul increases, though Weir has actually improved lately to 1.7 from his 2.6 season mark. Josh Lamerton (32) sits at 2.6 fouls per game all season. For Mandurah, Max Marsden (24) has spiked to "
+}
